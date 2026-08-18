@@ -8,6 +8,7 @@ import org.json.JSONObject
 import java.io.ByteArrayInputStream
 import java.io.File
 import java.io.FileInputStream
+import java.security.MessageDigest
 import java.time.LocalDate
 
 /**
@@ -30,6 +31,28 @@ class LocalRouter(private val context: Context) {
         )
         private val RE_MESE = Regex("^/mese/(\\d{4})/(\\d{1,2})$")
         private val RE_ISLAND = Regex("\"availableDays\":\\s*\\[[^\\]]*\\]")
+
+        // Le pagine del sito incorporano l'immagine del santo del giorno
+        // ospitata su chiesacattolica.it. Viene scaricata durante la
+        // sincronizzazione e servita da qui: aprire una giornata non deve
+        // mai uscire in rete. Il filtro è ristretto ai tag <img> perché
+        // gli <script src> dei CDN hanno già la loro intercettazione.
+        val RE_REMOTE_IMG = Regex(
+            "(<img\\b[^>]*?\\bsrc=\")(https?://[^\"]+)\"",
+            RegexOption.IGNORE_CASE,
+        )
+        private const val IMG_DIR = "santi"
+
+        /** Percorso locale che sostituisce un'immagine remota. */
+        fun localImagePath(url: String): String {
+            val digest = MessageDigest.getInstance("SHA-1")
+                .digest(url.toByteArray(Charsets.UTF_8))
+                .joinToString("") { "%02x".format(it.toInt() and 0xff) }
+            val name = url.substringBefore('?').substringAfterLast('/')
+            val extension = name.substringAfterLast('.', "")
+                .lowercase().filter { it.isLetterOrDigit() }.take(4)
+            return "/static/$IMG_DIR/$digest.${extension.ifEmpty { "jpg" }}"
+        }
         // Senza questo header la WebView blocca i font cross-origin
         // (icone FontAwesome e PT Sans Narrow): CORS vale anche per
         // le risposte intercettate.
@@ -126,7 +149,8 @@ class LocalRouter(private val context: Context) {
     /**
      * Pagina HTML scaricata; l'elenco availableDays incorporato nella
      * pagina viene sostituito con quello locale aggiornato, così il
-     * selettore della data conosce anche le giornate sincronizzate dopo.
+     * selettore della data conosce anche le giornate sincronizzate dopo,
+     * e le immagini remote vengono puntate alla copia locale.
      */
     private fun html(file: File): WebResourceResponse {
         var text = file.readText(Charsets.UTF_8)
@@ -134,6 +158,12 @@ class LocalRouter(private val context: Context) {
         if (days.isNotEmpty()) {
             val island = "\"availableDays\": " + JSONArray(days)
             text = RE_ISLAND.replace(text) { island }
+        }
+        // Sempre, anche per le pagine sincronizzate prima che l'app
+        // salvasse le immagini: se la copia locale manca la richiesta
+        // resta interna e risponde vuota, senza toccare la rete.
+        text = RE_REMOTE_IMG.replace(text) { match ->
+            match.groupValues[1] + localImagePath(match.groupValues[2]) + "\""
         }
         return bytes("text/html", text.toByteArray(Charsets.UTF_8))
     }

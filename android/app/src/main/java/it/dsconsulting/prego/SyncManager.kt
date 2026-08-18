@@ -6,6 +6,7 @@ import java.io.File
 import java.net.HttpURLConnection
 import java.net.URL
 import java.time.LocalDate
+import java.util.concurrent.ConcurrentHashMap
 import java.util.concurrent.ConcurrentLinkedQueue
 import java.util.concurrent.CountDownLatch
 import java.util.concurrent.Executors
@@ -13,7 +14,11 @@ import java.util.concurrent.atomic.AtomicInteger
 
 /**
  * Sincronizzazione: scarica dal sito tutte le pagine (giornate, mesi,
- * about) e gli asset in filesDir, così l'app funziona senza rete.
+ * about), gli asset e le immagini del santo del giorno in filesDir,
+ * così l'app funziona senza rete.
+ *
+ * Parte solo su richiesta esplicita dell'utente: è l'unico momento in
+ * cui l'app accede alla rete per i dati.
  *
  * Scarica solo le giornate mancanti; con force = true riscarica tutto
  * (utile quando cambiano Proprio/Biennale su giornate già scaricate).
@@ -37,6 +42,10 @@ class SyncManager(private val context: Context) {
     var running = false
         private set
 
+    private val imagesSeen = ConcurrentHashMap.newKeySet<String>()
+    private val savedImages = AtomicInteger(0)
+    private val imageErrors = AtomicInteger(0)
+
     fun start(force: Boolean, listener: Listener) {
         if (running) return
         running = true
@@ -54,6 +63,9 @@ class SyncManager(private val context: Context) {
     private fun run(force: Boolean, listener: Listener) {
         val pagesDir = File(context.filesDir, "pages")
         val staticDir = File(context.filesDir, "static")
+        imagesSeen.clear()
+        savedImages.set(0)
+        imageErrors.set(0)
 
         val giorniText = fetch("$REMOTE/api/giorni").toString(Charsets.UTF_8)
         val giorniArray = JSONObject(giorniText).getJSONArray("giorni")
@@ -64,35 +76,48 @@ class SyncManager(private val context: Context) {
         }
 
         val recentFrom = LocalDate.now().minusDays(RECENT_DAYS).toString()
-        val tasks = mutableListOf<Pair<String, File>>()
-        tasks += "/static/css/prego.css" to File(staticDir, "css/prego.css")
-        tasks += "/static/js/prego.js" to File(staticDir, "js/prego.js")
-        tasks += "/static/icon-192.png" to File(staticDir, "icon-192.png")
-        tasks += "/about" to File(pagesDir, "about.html")
+        val jobs = mutableListOf<Pair<String, () -> Unit>>()
+        fun page(path: String, dest: File) {
+            jobs += path to { save(path, dest) }
+        }
+        page("/static/css/prego.css", File(staticDir, "css/prego.css"))
+        page("/static/js/prego.js", File(staticDir, "js/prego.js"))
+        page("/static/icon-192.png", File(staticDir, "icon-192.png"))
+        page("/about", File(pagesDir, "about.html"))
         giorni.map { it.substring(0, 7) }.distinct().forEach { yearMonth ->
             val (year, month) = yearMonth.split("-")
-            tasks += "/mese/$year/${month.toInt()}" to
-                File(pagesDir, "mese/$yearMonth.html")
+            page(
+                "/mese/$year/${month.toInt()}",
+                File(pagesDir, "mese/$yearMonth.html"),
+            )
         }
         giorni.forEach { iso ->
             val dest = File(pagesDir, "giorno/$iso.html")
             if (force || !dest.isFile || iso >= recentFrom) {
-                tasks += "/giorno/$iso" to dest
+                jobs += "/giorno/$iso" to {
+                    save("/giorno/$iso", dest)
+                    saveImages(dest, force)
+                }
+            } else {
+                // Giornata già sul telefono: la pagina non viene
+                // riscaricata, si recuperano solo le immagini mancanti
+                // (nessuna richiesta se ci sono già tutte).
+                jobs += "immagini $iso" to { saveImages(dest, false) }
             }
         }
 
-        val total = tasks.size
+        val total = jobs.size
         val done = AtomicInteger(0)
         val errors = ConcurrentLinkedQueue<String>()
         val executor = Executors.newFixedThreadPool(THREADS)
         val latch = CountDownLatch(total)
         listener.onProgress(0, total)
-        tasks.forEach { (path, dest) ->
+        jobs.forEach { (label, job) ->
             executor.execute {
                 try {
-                    save(path, dest)
+                    job()
                 } catch (exc: Exception) {
-                    errors += "$path: ${exc.message}"
+                    errors += "$label: ${exc.message}"
                 } finally {
                     listener.onProgress(done.incrementAndGet(), total)
                     latch.countDown()
@@ -112,12 +137,43 @@ class SyncManager(private val context: Context) {
         // il router considera disponibili le nuove pagine.
         File(pagesDir, "giorni.json").apply { parentFile?.mkdirs() }
             .writeText(giorniText, Charsets.UTF_8)
-        val message = if (errors.isEmpty()) {
-            "Scaricate $total risorse."
-        } else {
-            "Completata con ${errors.size} errori su $total."
+        val message = StringBuilder("Scaricate $total risorse")
+        if (savedImages.get() > 0) {
+            message.append(" e ${savedImages.get()} immagini")
         }
-        listener.onDone(true, message)
+        if (errors.isNotEmpty()) message.append(", ${errors.size} errori")
+        if (imageErrors.get() > 0) {
+            message.append(", ${imageErrors.get()} immagini non scaricate")
+        }
+        listener.onDone(true, message.append(".").toString())
+    }
+
+    /**
+     * Salva le immagini remote citate nella pagina: il santo del giorno
+     * è ospitato su chiesacattolica.it e senza questa copia la WebView
+     * lo scaricherebbe da internet a ogni apertura della giornata.
+     *
+     * Sono accessorie, quindi un errore qui non fa fallire la
+     * sincronizzazione: al massimo l'immagine resta vuota.
+     */
+    private fun saveImages(page: File, force: Boolean) {
+        if (!page.isFile) return
+        val html = page.readText(Charsets.UTF_8)
+        LocalRouter.RE_REMOTE_IMG.findAll(html).forEach { match ->
+            val url = match.groupValues[2]
+            val dest = File(
+                context.filesDir,
+                LocalRouter.localImagePath(url).removePrefix("/"),
+            )
+            if (dest.isFile && !force) return@forEach
+            if (!imagesSeen.add(url)) return@forEach
+            try {
+                save(url, dest, absolute = true)
+                savedImages.incrementAndGet()
+            } catch (exc: Exception) {
+                imageErrors.incrementAndGet()
+            }
+        }
     }
 
     private fun fetch(url: String): ByteArray {
@@ -137,9 +193,10 @@ class SyncManager(private val context: Context) {
         }
     }
 
-    private fun save(path: String, dest: File) {
+    /** Salva una risorsa; con absolute = true il path è un URL intero. */
+    private fun save(path: String, dest: File, absolute: Boolean = false) {
         dest.parentFile?.mkdirs()
-        val data = fetch(REMOTE + path)
+        val data = fetch(if (absolute) path else REMOTE + path)
         val tmp = File(dest.parentFile, dest.name + ".tmp")
         tmp.writeBytes(data)
         if (!tmp.renameTo(dest)) {

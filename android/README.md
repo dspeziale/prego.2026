@@ -14,14 +14,18 @@ smartphone: una volta sincronizzata, **funziona completamente senza rete**.
   - la pagina completa di ogni giornata (`/giorno/<data>`), con dentro
     Messa, Ufficio, Lodi, Ora media, Vespri, Compieta, scheda Giorno,
     Proprio e Biennale già composti dal server;
-  - i calendari mensili, la pagina About e gli asset css/js del sito.
+  - i calendari mensili, la pagina About e gli asset css/js del sito;
+  - le immagini del santo del giorno, che il sito ospita su
+    chiesacattolica.it: vengono salvate sul telefono e servite da lì,
+    così aprire una giornata non contatta mai un server esterno.
 - Le **librerie esterne** (AdminLTE, Bootstrap, jQuery, FontAwesome,
   Awesome Notifications, font PT Sans Narrow) sono incorporate nell'APK
   in `app/src/main/assets/cdn/` e servite al posto dei CDN
   (`LocalRouter`), quindi la grafica è identica al sito anche offline.
 - All'avvio l'app apre la giornata di oggi (o la più vicina
-  disponibile). Se i dati sono più vecchi di 12 ore e c'è rete, aggiorna
-  da sola le novità in sottofondo.
+  disponibile) e **non scarica nulla**: nessuna sincronizzazione
+  automatica, nessuna richiesta in sottofondo. Si accede alla rete solo
+  quando lo chiede l'utente.
 - Il pulsante ⟳ in basso a sinistra permette di scaricare le novità o di
   riscaricare tutto (utile se sul sito sono stati modificati Proprio o
   Biennale di giornate già scaricate). Le giornate degli ultimi 7 giorni
@@ -29,8 +33,9 @@ smartphone: una volta sincronizzata, **funziona completamente senza rete**.
 - Tema chiaro/scuro e dimensione del carattere funzionano come sul sito
   e vengono ricordati (localStorage della WebView).
 
-Solo la pagina **Omelia** (ricerca su YouTube) richiede la rete: offline
-il collegamento avvisa che è disponibile solo online. Le funzioni di
+Solo la pagina **Omelia** (ricerca su YouTube) richiede la rete, e vi si
+arriva toccando il collegamento: offline avvisa che è disponibile solo
+online. Le funzioni di
 modifica (login, Proprio, Biennale, Raccolta) restano sul sito.
 
 ## Requisiti e build

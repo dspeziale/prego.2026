@@ -28,8 +28,13 @@ import androidx.appcompat.app.AppCompatActivity
  *
  * La WebView naviga sull'host locale [LocalRouter.LOCAL_HOST]; le pagine
  * arrivano dalla memoria dell'app (sincronizzate da prego.vercel.app) e
- * le librerie CSS/JS dagli asset dell'APK. Solo la pagina Omelia
- * (ricerca YouTube) richiede la rete.
+ * le librerie CSS/JS dagli asset dell'APK.
+ *
+ * Nulla viene scaricato di propria iniziativa: la sincronizzazione parte
+ * solo quando la chiede l'utente (pulsante di sincronizzazione o
+ * pulsante delle pagine start/manca). Le uniche altre uscite in rete
+ * sono la pagina Omelia (ricerca YouTube) e i link esterni, entrambe
+ * conseguenza di un tocco dell'utente.
  */
 class MainActivity : AppCompatActivity() {
 
@@ -124,7 +129,6 @@ class MainActivity : AppCompatActivity() {
             webView.restoreState(savedInstanceState)
         } else {
             webView.loadUrl(LocalRouter.BASE + "/")
-            maybeAutoSync()
         }
     }
 
@@ -139,16 +143,7 @@ class MainActivity : AppCompatActivity() {
         return manager.activeNetwork != null
     }
 
-    /** All'avvio: prima installazione o dati più vecchi di 12 ore. */
-    private fun maybeAutoSync() {
-        val last = getSharedPreferences("prego", MODE_PRIVATE)
-            .getLong("ultima_sincronizzazione", 0L)
-        val stale = last < System.currentTimeMillis() - 12 * 3_600_000L
-        if (isOnline() && (router.availableDays().isEmpty() || stale)) {
-            startSync(force = false)
-        }
-    }
-
+    /** Unico ingresso alla rete per i dati: sempre su richiesta esplicita. */
     private fun askSync() {
         if (syncManager.running) return
         AlertDialog.Builder(this)
