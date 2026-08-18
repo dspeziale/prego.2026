@@ -3,6 +3,10 @@
         {
             "username": "admin",
             "password_hash": "scrypt:32768:8:1$mGOvVJOGtkegl6wP$cbecede9a9b39fa88ef52d3509c82d38fd468d8714e335b262a0b15281c49ce661ab9183a63d4a302380dddcfc58a2cc7712e807551d57a150e0144843a06c70"
+        },
+        {
+            "username": "dspeziale@gmail.com",
+            "password_hash": "scrypt:32768:8:1$c7YHfoAdFtTsX61R$0c6f3456dd731f1592bdf57c42282ca7041f1fa1dcf16ad9f28fde1320c2af50a2db1961173d679d739441972733387f7d7b2eee052f915a61a52708e819e4a7"
         }
     ]
 }

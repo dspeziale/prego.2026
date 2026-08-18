@@ -13,3 +13,5 @@ Due note utili:
 gli ultimi 7 giorni vengono comunque sempre riscaricati a ogni sincronizzazione, così se correggi qualcosa sulle giornate recenti (es. un Proprio o un Biennale appena inserito) l'app le riprende;
 se invece modifichi giornate più vecchie di una settimana già presenti sul telefono, usa "Riscarica tutto" dallo stesso pulsante ⟳ (più lento: riprende tutte le 334+ giornate).
 Quindi il tuo flusso tipico a fine mese sarà: Raccolta → deploy → apri l'app → ⟳ → novità.
+
+dspeziale@gmail.com password pilloPallo26
