@@ -1,0 +1,82 @@
+{
+    "data": "2026-10-22",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXIX",
+    "celebrazione": "GIOVEDÌ DELLA XXIX SETTIMANA DEL TEMPO ORDINARIO",
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "San Giovanni Paolo II, papa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/d6b98fdb-4b1e-4dc9-b22d-c80606c6c9c9.jpeg",
+    "santo": {
+        "nome": "San Giovanni Paolo II, papa",
+        "martirologio": "Dalla Congregazione per il culto divino e la disciplina dei sacramenti\n\nCarlo Giuseppe Wojtyla nacque nel 1920 a Wadowice in Polonia.\nOrdinato sacerdote e compiuti gli studi di teologia a Roma, al ritorno in patria ricoprì vari incarichi pastorali e universitari. Nominato Vescovo ausiliare di Cracovia, di cui nel 1964 divenne Arcivescovo, prese parte al Concilio Ecumenico Vaticano II.\nDivenuto papa il 16 ottobre 1978 con il nome di Giovanni Paolo II, si contraddistinse per la straordinaria sollecitudine apostolica, in particolare per le famiglie, i giovani e i malati, che lo spinse a compiere innumerevoli visite pastorali in tutto il mondo; i frutti più significativi lasciati in eredità alla Chiesa, tra molti altri, sono il suo ricchissimo Magistero e la promulgazione del Catechismo della Chiesa Cattolica e dei Codici di Diritto Canonico per la Chiesa latina e le Chiese Orientali.\nMorì piamente a Roma il 2 aprile 2005, alla vigilia della II domenica di Pasqua o della divina misericordia.",
+        "altri_santi": [
+            {
+                "nome": "San Marco, vescovo di Gerusalemme",
+                "martirologio": "Commemorazione di san Marco, vescovo di Gerusalemme, che primo tra i gentili ebbe la guida della Chiesa della Città Santa, che, disgregatasi per paura delle persecuzioni, egli ricominciò a radunare con la sua fede e la sua operosità."
+            },
+            {
+                "nome": "Sant’Abercio, vescovo",
+                "martirologio": "A Gerapoli in Frigia, nell’odierna Turchia, sant’Abercio, vescovo, che, discepolo di Cristo buon pastore, a quanto si narra, fu condotto dalla fede pellegrino per molte regioni, nutrendosi di mistico cibo."
+            },
+            {
+                "nome": "Santi martiri Filippo, vescovo ed Ermete, diacono",
+                "martirologio": "A Edirne in Tracia, sempre in Turchia, santi martiri Filippo, vescovo di Marmara Ereglisi, ed Ermete, diacono: il primo, agli inizi della persecuzione dell’imperatore Diocleziano, aveva ricevuto l’ordine di chiudere la chiesa e mostrare tutti i vasi sacri e i libri in essa contenuti; e avendo egli risposto al governatore Giustino che non era lecito né da parte sua consegnare quanto gli si chiedeva né a lui appropriarsene, dopo aver subito il carcere e la flagellazione, fu bruciato insieme al diacono sul rogo."
+            },
+            {
+                "nome": "San Mallone, vescovo",
+                "martirologio": "A Rouen nella Gallia lugdunense, ora in Francia, san Mallone, vescovo, che si ritiene abbia annunciato in questa città la fede cristiana e costituito la sede episcopale."
+            },
+            {
+                "nome": "San Valerio, diacono",
+                "martirologio": "Nel territorio di Besançon, ora in Francia, san Valerio, diacono della Chiesa di Langres, ucciso dai pagani."
+            },
+            {
+                "nome": "San Lupenzio, abate",
+                "martirologio": "Nel territorio di Châlons in Neustria, sempre in Francia, san Lupenzio, abate della basilica di Saint-Privat-de-Javols, che, dopo avere ingiustamente patito molte vessazioni da parte di Innocenzo, conte della città, morì decapitato."
+            },
+            {
+                "nome": "San Leotaldo, vescovo",
+                "martirologio": "A Auch in Aquitania, ora in Francia, san Leotaldo, vescovo."
+            },
+            {
+                "nome": "San Moderano, abate",
+                "martirologio": "Nel monastero di Berceto in Lombardia, san Moderano, abate e un tempo vescovo di Rennes in Francia, insigne per amore di solitudine e pietà verso i luoghi dei santi."
+            },
+            {
+                "nome": "San Benedetto, eremita",
+                "martirologio": "Nel territorio di Nantes nella Bretagna in Francia, san Benedetto, che condusse a Mézières vita eremitica."
+            },
+            {
+                "nome": "Sante Nunilone e Alódia, vergini e martiri",
+                "martirologio": "A Huesca nell’Aragona in Spagna, sante Nunilone e Alódia, vergini e martiri, che, nate da padre musulmano, ma istruite dalla madre nella dottrina cristiana, si rifiutarono di abbandonare la fede in Cristo e per questo, dopo lunga carcerazione, morirono trafitte con la spada per ordine del re di Córdova ‘Abd ar-Rahman II."
+            },
+            {
+                "nome": "San Donato Scoto, vescovo",
+                "martirologio": "A Fiesole in Toscana, san Donato Scoto, vescovo, che, celebre per cultura e pietà, giunse pellegrino a Roma dall’Irlanda e fu dato al popolo di questa città come illustre pastore mandato da Dio."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Io t’invoco, o Dio, poiché tu mi rispondi;\ntendi a me l’orecchio, ascolta le mie parole.\nCustodiscimi come pupilla degli occhi,\nall’ombra delle tue ali nascondimi. (Sal 16,6.8)",
+        "colletta": "Dio onnipotente ed eterno,\ndonaci di orientare sempre a te la nostra volontà\ne di servirti con cuore sincero.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Radicati e fondati nella carità, siate ricolmi di tutta la pienezza di Dio.\nDalla lettera di san Paolo apostolo agli Efesìni\nEf 3,14-21\n\nFratelli, io piego le ginocchia davanti al Padre, dal quale ha origine ogni discendenza in cielo e sulla terra, perché vi conceda, secondo la ricchezza della sua gloria, di essere potentemente rafforzati nell’uomo interiore mediante il suo Spirito.\nChe il Cristo abiti per mezzo della fede nei vostri cuori, e così, radicati e fondati nella carità, siate in grado di comprendere con tutti i santi quale sia l’ampiezza, la lunghezza, l’altezza e la profondità, e di conoscere l’amore di Cristo che supera ogni conoscenza, perché siate ricolmi di tutta la pienezza di Dio.\nA colui che in tutto ha potere di fare\nmolto più di quanto possiamo domandare o pensare,\nsecondo la potenza che opera in noi,\na lui la gloria nella Chiesa e in Cristo Gesù\nper tutte le generazioni, nei secoli dei secoli! Amen.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 32 (33)\nR. Dell’amore del Signore è piena la terra.\n\nEsultate, o giusti, nel Signore;\nper gli uomini retti è bella la lode.\nLodate il Signore con la cetra,\ncon l’arpa a dieci corde a lui cantate. R.\n\nRetta è la parola del Signore\ne fedele ogni sua opera.\nEgli ama la giustizia e il diritto;\ndell’amore del Signore è piena la terra. R.\n\nIl disegno del Signore sussiste per sempre,\ni progetti del suo cuore per tutte le generazioni.\nBeata la nazione che ha il Signore come Dio,\nil popolo che egli ha scelto come sua eredità. R.\n\nEcco, l’occhio del Signore è su chi lo teme,\nsu chi spera nel suo amore,\nper liberarlo dalla morte\ne nutrirlo in tempo di fame. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nTutto ho lasciato perdere e considero spazzatura,\nper guadagnare Cristo ed essere trovato in lui. (cf. Fil 3,8-9)\n\nAlleluia.",
+        "vangelo": "Non sono venuto a portare pace sulla terra, ma divisione.\nDal Vangelo secondo Luca\nLc 12,49-53\n\nIn quel tempo, Gesù disse ai suoi discepoli:\n«Sono venuto a gettare fuoco sulla terra, e quanto vorrei che fosse già acceso! Ho un battesimo nel quale sarò battezzato, e come sono angosciato finché non sia compiuto!\nPensate che io sia venuto a portare pace sulla terra? No, io vi dico, ma divisione. D’ora innanzi, se in una famiglia vi sono cinque persone, saranno divisi tre contro due e due contro tre; si divideranno padre contro figlio e figlio contro padre, madre contro figlia e figlia contro madre, suocera contro nuora e nuora contro suocera».\n\nParola del Signore.",
+        "sulle_offerte": "Per questi tuoi doni concedi a noi, o Signore,\ndi servirti con cuore libero,\nperché, purificati dalla tua grazia,\nsiamo rinnovati dai misteri che celebriamo.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Ecco, l’occhio del Signore è su chi lo teme,\nsu chi spera nel suo amore,\nper liberarlo dalla morte e nutrirlo in tempo di fame. (Sal 32,18-19)",
+        "dopo_la_comunione": "La partecipazione ai doni del cielo, o Signore,\nci ottenga gli aiuti necessari alla vita presente\nnella speranza dei beni eterni.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

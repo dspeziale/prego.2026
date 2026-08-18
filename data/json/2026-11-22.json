@@ -1,0 +1,60 @@
+{
+    "data": "2026-11-22",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXIV",
+    "celebrazione": "Nostro Signore Gesù Cristo Re dell'Universo",
+    "grado": "Solennità",
+    "colore": "Bianco",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "Santa Cecilia, vergine e martire",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/9c41c74c-0fbb-441c-bd11-f8c1ac9974b8.jpeg",
+    "santo": {
+        "nome": "Santa Cecilia, vergine e martire",
+        "martirologio": "Memoria di santa Cecilia, vergine e martire, che si tramanda abbia conseguito la sua duplice palma per amore di Cristo nel cimitero di Callisto sulla via Appia. Il suo nome è fin dall’antichità nel titolo di una chiesa di Roma a Trastevere.",
+        "altri_santi": [
+            {
+                "nome": "San Filemone di Colossi e Santa Affia",
+                "martirologio": "Commemorazione di san Filemone di Colossi, della cui carità per Cristo Gesù si rallegrò san Paolo Apostolo; è venerato insieme a sua moglie santa Affia."
+            },
+            {
+                "nome": "Sant’Anania, martire",
+                "martirologio": "Ad Arbéla in Persia, sant’Anania, martire: fu arrestato durante la persecuzione del re Sabor II, per ordine dell’arcimago Ardisag, e per tre volte fustigato con tale crudeltà, che i carnefici, pensando fosse già morto, lo lasciarono a giacere sulla piazza, ma la notte seguente fu riportato dai fedeli in casa sua, dove rese lo spirito a Dio."
+            },
+            {
+                "nome": "San Benigno, vescovo",
+                "martirologio": "A Milano, san Benigno, vescovo, che nel grande scompiglio delle invasioni amministrò la Chiesa a lui affidata con somma fermezza e pietà."
+            },
+            {
+                "nome": "San Pragmazio, vescovo",
+                "martirologio": "A Autun nella Gallia lugdunense, ora in Francia, san Pragmazio, vescovo."
+            },
+            {
+                "nome": "Beati Salvatore Lilli, Giovanni figlio di Balzi e compagni, martiri",
+                "martirologio": "Presso il fiume Zihun nei pressi della città di Maras in Cilicia, nel territorio dell’odierna Turchia, beati Salvatore Lilli, sacerdote dell’Ordine dei Frati Minori, Giovanni figlio di Balzi e altri sei compagni di origine armena, martiri, che, dopo avere ricevuto dai soldati ottomani l’ordine di rinnegare Cristo ed essersi rifiutati di tradire la loro fede, raggiunsero il regno eterno trapassati dalle lance.\n\nI loro nomi sono: beati K’adir figlio di Xodianin, Cerun figlio di K’urazi, Vardavar figlio di Dimbalac, Paolo figlio di Geremia, Davide e Teodoro figli di Davide, fratelli."
+            },
+            {
+                "nome": "Beato Tommaso Reggio, vescovo",
+                "martirologio": "Nel villaggio di Triora in Liguria, beato Tommaso Reggio, vescovo di Genova, che, unendo all’austerità di vita una mirabile benignità di modi, favorì la concordia tra i cittadini e prestò con ogni mezzo assistenza ai bisognosi, dimostrandosi sempre partecipe dei problemi dell’umanità."
+            },
+            {
+                "nome": "San Pietro Esqueda Ramírez, sacerdote e martire",
+                "martirologio": "Nella città di Teocaltitlán in Messico, san Pietro Esqueda Ramírez, sacerdote e martire, che, durante la persecuzione messicana, fu gettato in carcere per il suo sacerdozio e, infine, fucilato."
+            },
+            {
+                "nome": "Beati Elia (Giuliano) Torrijo Sánchez e Bertrando (Francesco) Lahoz Moliner, religiosi",
+                "martirologio": "Nella città di Paterna nel territorio di Valencia in Spagna, beati Elia (Giuliano) Torrijo Sánchez e Bertrando (Francesco) Lahoz Moliner, religiosi dell’Istituto dei Frati delle Scuole Cristiane e martiri, che, avendo Cristo come modello, meritarono di conseguire durante la persecuzione religiosa il premio eterno promesso a chi ha perseverato nella fede."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

@@ -1,0 +1,62 @@
+{
+    "data": "2026-10-08",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXVII",
+    "celebrazione": "GIOVEDÌ DELLA XXVII SETTIMANA DEL TEMPO ORDINARIO",
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "Santa Reparata, vergine e martire",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/5f460a5b-15f7-48fa-9230-4ec047dc7b0c.jpeg",
+    "santo": {
+        "nome": "Santa Reparata, vergine e martire",
+        "martirologio": "Commemorazione di santa Reparata, venerata in diversi luoghi come vergine e martire.",
+        "altri_santi": [
+            {
+                "nome": "Santa Pelagia, vergine e martire",
+                "martirologio": "Ad Antiochia in Siria, santa Pelagia, vergine e martire, che san Giovanni Crisostomo esaltò con grandi lodi."
+            },
+            {
+                "nome": "San Felice, vescovo",
+                "martirologio": "A Como, san Felice, vescovo, che, ordinato da sant’Ambrogio da Milano, resse per primo la Chiesa di questa città."
+            },
+            {
+                "nome": "Sant’Evodio, vescovo",
+                "martirologio": "A Rouen nella Gallia lugdunense, ora in Francia, sant’Evodio, vescovo."
+            },
+            {
+                "nome": "Santa Ragenfrida, badessa",
+                "martirologio": "A Denain nell’Hainault, nell’odierna Francia, santa Ragenfrida, badessa, che costruì con i suoi beni in questo luogo un monasterio, di cui fu degna guida."
+            },
+            {
+                "nome": "Sant’Ugo, religioso",
+                "martirologio": "A Genova, sant'Ugo, religioso, che, dopo aver prestato a lungo servizio come soldato in Terra Santa, rifulse per bontà e carità verso gli indigenti come maestro della Commenda dell'Ordine di San Giovanni di Gerusalemme in questa città."
+            },
+            {
+                "nome": "Beati Giovanni Adams, Roberto Dibdale e Giovanni Lowe, sacerdoti e martiri",
+                "martirologio": "A Londra in Inghilterra, beati Giovanni Adams, Roberto Dibdale e Giovanni Lowe, sacerdoti e martiri, che, condannati a morte a Tyburn per avere esercitato in luoghi diversi il loro ministero per il popolo cattolico, sotto il regno di Elisabetta I, pervennero tra atroci supplizi al regno celeste."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Tutte le cose sono in tuo potere\ne nessuno può opporsi alla tua volontà.\nTu hai fatto il cielo e la terra\ne tutte le meraviglie che si trovano sotto il firmamento:\ntu sei il Signore di tutte le cose. (Cf. Est 4,17b-c)",
+        "colletta": "Dio onnipotente ed eterno,\nche esaudisci le preghiere del tuo popolo\noltre ogni desiderio e ogni merito,\neffondi su di noi la tua misericordia:\nperdona ciò che la coscienza teme\ne aggiungi ciò che la preghiera non osa sperare.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "È per le opere della Legge che avete ricevuto lo Spirito o per aver ascoltato la parola della fede?\nDalla lettera di san Paolo apostolo ai Gàlati\nGal 3,1-5\n\nO stolti Gàlati, chi vi ha incantati? Proprio voi, agli occhi dei quali fu rappresentato al vivo Gesù Cristo crocifisso!\nQuesto solo vorrei sapere da voi: è per le opere della Legge che avete ricevuto lo Spirito o per aver ascoltato la parola della fede? Siete così privi d’intelligenza che, dopo aver cominciato nel segno dello Spirito, ora volete finire nel segno della carne? Avete tanto sofferto invano? Se almeno fosse invano!\nColui dunque che vi concede lo Spirito e opera portenti in mezzo a voi, lo fa grazie alle opere della Legge o perché avete ascoltato la parola della fede?\n\nParola di Dio.",
+        "salmo_responsoriale": "Lc 1,68-75\nR. Benedetto il Signore, Dio d’Israele,\nperché ha visitato il suo popolo.\n\nHa suscitato per noi un Salvatore potente\nnella casa di Davide, suo servo,\ncome aveva detto\nper bocca dei suoi santi profeti d’un tempo. R.\n\nSalvezza dai nostri nemici,\ne dalle mani di quanti ci odiano.\nCosì egli ha concesso misericordia ai nostri padri\ne si è ricordato della sua santa alleanza. R.\n\nDel giuramento fatto ad Abramo, nostro padre,\ndi concederci, liberati dalle mani dei nemici,\ndi servirlo senza timore, in santità e giustizia\nal suo cospetto, per tutti i nostri giorni. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nApri, Signore, il nostro cuore\ne accoglieremo le parole del Figlio tuo. (Cf. At 16,14b)\n\nAlleluia.",
+        "vangelo": "Chiedete e vi sarà dato.\nDal Vangelo secondo Luca\nLc 11,5-13\n\nIn quel tempo, Gesù disse ai discepoli:\n«Se uno di voi ha un amico e a mezzanotte va da lui a dirgli: “Amico, prestami tre pani, perché è giunto da me un amico da un viaggio e non ho nulla da offrirgli”; e se quello dall’interno gli risponde: “Non m’importunare, la porta è già chiusa, io e i miei bambini siamo a letto, non posso alzarmi per darti i pani”, vi dico che, anche se non si alzerà a darglieli perché è suo amico, almeno per la sua invadenza si alzerà a dargliene quanti gliene occorrono.\nEbbene, io vi dico: chiedete e vi sarà dato, cercate e troverete, bussate e vi sarà aperto. Perché chiunque chiede riceve e chi cerca trova e a chi bussa sarà aperto.\nQuale padre tra voi, se il figlio gli chiede un pesce, gli darà una serpe al posto del pesce? O se gli chiede un uovo, gli darà uno scorpione? Se voi dunque, che siete cattivi, sapete dare cose buone ai vostri figli, quanto più il Padre vostro del cielo darà lo Spirito Santo a quelli che glielo chiedono!».\n\nParola del Signore.",
+        "sulle_offerte": "Accogli, o Signore, il sacrificio\nche tu stesso ci hai comandato di offrirti\ne per questi misteri che celebriamo con il nostro servizio sacerdotale\nporta a compimento la tua opera di santificazione.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Buono è il Signore con chi spera in lui,\ncon colui che lo cerca. (Lam 3,25)\n\nOppure:\n\nUno solo è il pane,\ne noi, pur essendo molti, siamo un corpo solo:\ntutti partecipiamo all’unico pane e all’unico calice. (Cf. 1Cor 10,17)",
+        "dopo_la_comunione": "Concedi a noi, Padre onnipotente,\nche, inebriati e nutriti da questi sacramenti,\nveniamo trasformati in Cristo\nche abbiamo ricevuto come cibo e bevanda di vita.\nEgli vive e regna nei secoli dei secoli."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

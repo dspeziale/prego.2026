@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% block title %}{{ months_it[month - 1] }} {{ year }} — LiturgiaCollector{% endblock %}
+{% block header_class %}compact-header{% endblock %}
+{% block page_title %}{{ months_it[month - 1] }} {{ year }}{% endblock %}
+
+{% block header_actions %}
+<div class="btn-group">
+    <a class="btn btn-sm btn-outline-primary" href="{{ url_for('month_view', year=prev_month[0], month=prev_month[1]) }}">
+        <i class="fas fa-chevron-left"></i> {{ months_it[prev_month[1] - 1] }}
+    </a>
+    <a class="btn btn-sm btn-outline-primary" href="{{ url_for('current_month') }}">Oggi</a>
+    <a class="btn btn-sm btn-outline-primary" href="{{ url_for('month_view', year=next_month[0], month=next_month[1]) }}">
+        {{ months_it[next_month[1] - 1] }} <i class="fas fa-chevron-right"></i>
+    </a>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="card">
+    {# Vista a griglia: da tablet in su #}
+    <div class="card-body table-responsive p-0 d-none d-md-block">
+        <table class="table table-bordered mb-0 calendar-table">
+            <thead class="thead-light">
+                <tr>
+                    {% for name in weekdays_short %}<th class="text-center">{{ name }}</th>{% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+            {% for week in weeks %}
+                <tr>
+                {% for cell in week %}
+                    {% if cell is none %}
+                        <td class="calendar-cell not-collected"></td>
+                    {% elif cell.collected %}
+                        <td class="calendar-cell {% if cell.day == today %}bg-light{% endif %}">
+                            <a href="{{ url_for('day_view', iso=cell.iso) }}" class="day-number">{{ cell.day.day }}</a>
+                            <span class="badge badge-{{ cell.color_badge }} float-right">{{ cell.color or "" }}</span>
+                            <a href="{{ url_for('day_view', iso=cell.iso) }}" class="celebration-excerpt text-body mt-1">
+                                {{ cell.celebration | truncate(70) }}
+                            </a>
+                            <small class="text-muted celebration-excerpt mt-1">
+                                {{ cell.summary_values | join(" · ") }}
+                            </small>
+                        </td>
+                    {% else %}
+                        <td class="calendar-cell not-collected">
+                            <span class="day-number">{{ cell.day.day }}</span>
+                            <small class="celebration-excerpt">non raccolto</small>
+                        </td>
+                    {% endif %}
+                {% endfor %}
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    {# Vista a elenco: smartphone #}
+    <div class="list-group list-group-flush d-md-none">
+        {% for week in weeks %}{% for cell in week %}
+            {% if cell is not none and cell.collected %}
+            <a href="{{ url_for('day_view', iso=cell.iso) }}"
+               class="list-group-item list-group-item-action {% if cell.day == today %}bg-light{% endif %}">
+                <div class="d-flex justify-content-between align-items-center">
+                    <strong>{{ weekdays_short[cell.day.weekday()] }} {{ cell.day.day }}</strong>
+                    <span class="badge badge-{{ cell.color_badge }}">{{ cell.color or "" }}</span>
+                </div>
+                <span class="celebration-excerpt text-body">{{ cell.celebration | truncate(90) }}</span>
+                <small class="text-muted celebration-excerpt">{{ cell.summary_values | join(" · ") }}</small>
+            </a>
+            {% elif cell is not none %}
+            <div class="list-group-item py-1 text-muted">
+                <small>{{ weekdays_short[cell.day.weekday()] }} {{ cell.day.day }} — non raccolto</small>
+            </div>
+            {% endif %}
+        {% endfor %}{% endfor %}
+    </div>
+</div>
+<p class="text-muted">
+    <i class="fas fa-info-circle"></i>
+    I giorni in grigio non sono ancora stati raccolti: <code>python main.py {{ year }}-{{ "%02d" | format(month) }}-01..{{ year }}-{{ "%02d" | format(month) }}-28</code>
+</p>
+{% endblock %}

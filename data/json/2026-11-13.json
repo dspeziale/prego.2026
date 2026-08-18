@@ -1,0 +1,100 @@
+{
+    "data": "2026-11-13",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXII",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "IV",
+    "santo_del_giorno": "Santi Fiorenzo, vescovo e Amanzio, suo sacerdote",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/22f18517-30a3-488e-9bb2-63e7619cbc5a.jpeg",
+    "santo": {
+        "nome": "Santi Fiorenzo, vescovo e Amanzio, suo sacerdote",
+        "martirologio": "A Città di Castello in Umbria, commemorazione dei santi Fiorenzo, vescovo, del quale il papa san Gregorio Magno attesta la retta dottrina e santità di vita, e Amanzio, suo sacerdote, pieno di carità per gli ammalati e di ogni virtù.",
+        "altri_santi": [
+            {
+                "nome": "Santi martiri Antonino, Niceforo, Zebina, Germano e Mánatas",
+                "martirologio": "A Cesarea in Palestina, passione dei santi martiri Antonino, Niceforo, Zebina, Germano e Mánatas, vergine. Costei, dopo aver patito la fustigazione, fu poi messa al rogo sotto l’imperatore Galerio Massimino; gli altri, invece, furono decapitati per avere accusato di empietà con coraggio e schiettezza il governatore Firmiliano, perché immolava agli dèi."
+            },
+            {
+                "nome": "San Mitria",
+                "martirologio": "Ad Aix-en-Provence nella Gallia narbonense, ora in Francia, san Mitria, che, sebbene di condizione servile, libero tuttavia in Cristo, migrò vincitore da questo mondo."
+            },
+            {
+                "nome": "San Brizio, vescovo",
+                "martirologio": "A Tours nella Gallia lugdunense, ora in Francia, san Brizio, vescovo, che, discepolo di san Martino, succedette al maestro e per quarantasette anni fece più volte fronte a varie avversità."
+            },
+            {
+                "nome": "Santi martiri spagnoli Arcadio, Pascasio, Probo ed Eutichiano",
+                "martirologio": "In Africa, commemorazione dei santi martiri spagnoli Arcadio, Pascasio, Probo ed Eutichiano, che, non tollerando in nessun modo di asservirsi all’eresia ariana, furono dapprima defraudati dei loro beni dal re dei Vandali Genserico, poi mandati in esilio e sottoposti ad atroci torture e, infine, trucidati con diversi generi di martirio. Rifulse nella circostanza anche la fermezza del piccolo Paolillo, fratello di Pascasio ed Eutichiano, che per la sua tenace determinazione nel mantenersi nella fede cattolica fu a lungo percosso a colpi di bastone e poi condannato alla più vile schiavitù."
+            },
+            {
+                "nome": "San Leoniano, abate",
+                "martirologio": "A Vienne nella Gallia lugdunense, ora in Francia, san Leoniano, abate, che, condotto dai nemici della fede prigioniero in questa regione dalla Pannonia, fu per più di quarant’anni dapprima ad Autun e poi a Vienne santa guida di monaci e monache."
+            },
+            {
+                "nome": "San Quinziano, vescovo",
+                "martirologio": "A Clermont-Ferrand in Aquitania, ora in Francia, san Quinziano, vescovo, che dapprima tenne la sede di Rodez e poi, mandato poi in esilio dai Goti, divenne vescovo di questa città."
+            },
+            {
+                "nome": "San Dalmazio, vescovo",
+                "martirologio": "A Rodez in Aquitania, san Dalmazio, vescovo, la cui generosità verso i poveri è lodata da san Gregorio di Tours."
+            },
+            {
+                "nome": "Sant’Imerio, eremita",
+                "martirologio": "Nella valle della Suze nell’odierna Svizzera, sant’Imerio, eremita, che predicò il Vangelo in questa regione."
+            },
+            {
+                "nome": "Sant’Eugenio, vescovo",
+                "martirologio": "A Toledo in Spagna, sant’Eugenio, vescovo, che si adoperò per rinnovare la sacra liturgia."
+            },
+            {
+                "nome": "Santa Massellenda, vergine e martire",
+                "martirologio": "Nel territorio di Cambrai in Francia, santa Massellenda, vergine e martire, che, come si tramanda, avendo scelto Cristo come sposo, si rifiutò di seguire l’uomo a cui era stata promessa dai suoi genitori e morì, così, da lui trafitta con la spada."
+            },
+            {
+                "nome": "San Nicola I, papa",
+                "martirologio": "A Roma presso san Pietro, san Nicola I, papa, che si impegnò con vigore apostolico a rafforzare l’autorità del Romano Pontefice in tutta la Chiesa di Dio."
+            },
+            {
+                "nome": "Sant’Abbone, abate",
+                "martirologio": "Nel monastero di La Réole nella Guascogna in Francia, transito di sant’Abbone, abate di Fleury, uomo mirabilmente versato nella Sacra Scrittura e nelle lettere, che, difensore della disciplina monastica e coraggioso promotore di pace, morì trafitto da una lancia."
+            },
+            {
+                "nome": "Beato Varmondo, vescovo",
+                "martirologio": "A Ivrea in Piemonte, commemorazione del beato Varmondo, vescovo, che fu insigne per la sua viva fede, la pietà e l’umiltà, rivendicò la libertà della Chiesa dalle insidie dei potenti, costruì la cattedrale e promosse la vita monastica e istituì una scuola episcopale."
+            },
+            {
+                "nome": "Sant’Omobono",
+                "martirologio": "A Cremona, sant’Omobono, che, negoziante, mosso da carità per i poveri, rifulse nel raccogliere ed educare i ragazzi abbandonati e nel riportare la pace nelle famiglie."
+            },
+            {
+                "nome": "Santa Agostina (Livia) Pietrantoni, vergine",
+                "martirologio": "A Roma, santa Agostina (Livia) Pietrantoni, vergine della Congregazione delle Suore della Carità, che si dedicò nell’ospedale di Santo Spirito con cristiana misericordia alla cura degli infermi e morì accoltellata da un malato preso da furore omicida."
+            },
+            {
+                "nome": "Beato Giovanni Gonga Martínez, martire",
+                "martirologio": "Nel villaggio di Simat de Valldigna nel territorio di Valencia in Spagna, beato Giovanni Gonga Martínez, martire, che versò il sangue per Cristo durante la persecuzione contro la fede."
+            },
+            {
+                "nome": "Beata Maria Patrocinio di San Giovanni Giner Gomis, vergine",
+                "martirologio": "Nel villaggio di Portichol de Tavernes vicino a Carcaixent nello stesso territorio della Spagna, beata Maria Patrocinio di San Giovanni Giner Gomis, vergine dell’Istituto delle Suore Missionarie Claretiane di Maria Immacolata e martire, che nella stessa persecuzione, combattendo per la fede, ottenne la vita eterna."
+            },
+            {
+                "nome": "Beati Pietro Vicev, Paolo (Giuseppe) Dzidzov e Giosafat (Roberto Matteo) Siskov, sacerdoti",
+                "martirologio": "A Sofia in Bulgaria, beati Pietro Vicev, Paolo (Giuseppe) Dzidzov e Giosafat (Roberto Matteo) Siskov, sacerdoti della Congregazione degli Agostiniani dell’Assunzione, che, ingiustamente accusati di tradimento sotto un regime ateo e gettati in carcere in quanto cristiani, nel loro combattimento mortale meritarono di ricevere la ricompensa di eternità dei fedeli discepoli di Cristo."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

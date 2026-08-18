@@ -1,0 +1,689 @@
+/* Prego - stili dell'applicazione (estratti da base.html) */
+        /* Tema rosso liturgico al posto del blu AdminLTE */
+        :root {
+            --lit-red: #d00000;
+            --lit-red-dark: #9d0208;
+        }
+
+        a {
+            color: var(--lit-red);
+        }
+
+        a:hover {
+            color: var(--lit-red-dark);
+        }
+
+        .text-primary {
+            color: var(--lit-red) !important;
+        }
+
+        .btn-outline-primary {
+            color: var(--lit-red);
+            border-color: var(--lit-red);
+        }
+
+        .btn-outline-primary:hover,
+        .btn-outline-primary:not(:disabled):active {
+            background-color: var(--lit-red);
+            border-color: var(--lit-red);
+            color: #fff;
+        }
+
+        .card-primary.card-outline,
+        .card-primary.card-outline-tabs {
+            border-top-color: var(--lit-red);
+        }
+
+        .card-primary.card-outline-tabs .card-header a.active {
+            border-top-color: var(--lit-red);
+        }
+
+        .card-warning.card-outline {
+            border-top-color: var(--lit-red);
+        }
+
+        .nav-tabs .nav-link.active {
+            color: var(--lit-red);
+            border-bottom: 3px solid var(--lit-red) !important;
+        }
+
+        .nav-pills .nav-link.active,
+        .nav-pills .show>.nav-link {
+            background-color: var(--lit-red);
+        }
+
+        .sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active,
+        .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+            background-color: var(--lit-red);
+            color: #fff;
+        }
+
+        .callout.callout-info {
+            border-left-color: var(--lit-red);
+        }
+
+        .bg-lit-red {
+            background-color: var(--lit-red) !important;
+            color: #fff !important;
+        }
+
+        .badge-viola {
+            background-color: #6f42c1;
+            color: #fff;
+        }
+
+        .badge-rosa {
+            background-color: #e83e8c;
+            color: #fff;
+        }
+
+        .badge-secondary {
+            background-color: #f8f9fa;
+            color: #495057;
+            border: 1px solid #ced4da;
+        }
+
+        body,
+        .navbar,
+        .card,
+        .btn,
+        .table,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-family: 'PT Sans Narrow', Arial, sans-serif;
+        }
+
+        .liturgical-text {
+            white-space: pre-wrap;
+            font-family: 'PT Sans Narrow', Arial, sans-serif;
+            font-size: 1.05rem;
+            line-height: 1.3;
+        }
+
+        .calendar-cell {
+            min-height: 96px;
+            vertical-align: top;
+            width: 14.28%;
+        }
+
+        .calendar-cell .day-number {
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+
+        .calendar-cell.not-collected {
+            background: #f8f9fa;
+            color: #adb5bd;
+        }
+
+        .celebration-excerpt {
+            font-size: .78rem;
+            line-height: 1.2;
+            display: block;
+        }
+
+        /* --- Responsive / smartphone --- */
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .calendar-table {
+            min-width: 860px;
+        }
+
+        /* scroll orizzontale se serve */
+        .nav-tabs {
+            flex-wrap: nowrap;
+            overflow-x: auto;
+            overflow-y: hidden;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        /* px: le label della toolbar NON seguono i FAB del carattere */
+        .nav-tabs .nav-link {
+            white-space: nowrap;
+            font-size: 14px;
+        }
+
+        /* navbar e sidebar in px fissi: non seguono i FAB */
+        .main-header .nav-link {
+            font-size: 16px;
+            height: auto;
+        }
+
+        .navbar-app-icon {
+            width: 28px;
+            height: 28px;
+            border-radius: 6px;
+        }
+
+        .navbar-app-name {
+            font-weight: 700;
+            font-size: 16px;
+            margin-left: 4px;
+        }
+
+        /* hamburger, icona e nome molto ravvicinati */
+        .main-header .nav-link[data-widget="pushmenu"] {
+            padding-left: .5rem;
+            padding-right: .35rem;
+        }
+
+        .main-sidebar,
+        .main-sidebar .nav-link,
+        .main-sidebar .nav-link p,
+        .brand-text {
+            font-size: 16px;
+        }
+
+        .main-sidebar .nav-header {
+            font-size: 13px;
+            padding-bottom: .25rem;
+        }
+
+        .main-sidebar .nav-icon {
+            font-size: 18px !important;
+        }
+
+        .brand-link {
+            font-size: 20px;
+        }
+
+        /* menu più compatti: interlinea e padding ridotti */
+        .nav-sidebar .nav-link {
+            line-height: 1.2;
+            padding-top: .35rem;
+            padding-bottom: .35rem;
+        }
+
+        .main-header .nav-link {
+            line-height: 1.2;
+        }
+
+        .content-header h1 {
+            font-size: 1.8em;
+        }
+
+        .table-responsive {
+            -webkit-overflow-scrolling: touch;
+        }
+
+        /* tablet: form e tabelle respirano ma senza sprechi */
+        @media (min-width: 768px) and (max-width: 991.98px) {
+            .content {
+                padding: 0 .4rem;
+            }
+
+            .card-body {
+                padding: 1rem .75rem;
+            }
+        }
+
+        @media (max-width: 767.98px) {
+            .content-header h1 {
+                font-size: 1.35em;
+            }
+
+            .liturgical-text {
+                font-size: 1em;
+            }
+
+            .table th,
+            .table td {
+                padding: .45rem .35rem;
+            }
+
+            .card-footer .btn-lg,
+            form .btn-lg {
+                font-size: 16px;
+                padding: .5rem .9rem;
+            }
+
+            .btn-group {
+                display: flex;
+                flex-wrap: wrap;
+            }
+
+            .btn-group .btn {
+                padding: .25rem .5rem;
+                font-size: .85rem;
+            }
+
+            .content-header .text-right {
+                text-align: left !important;
+            }
+
+            /* pannelli dei testi agganciati ai bordi dello schermo */
+            .content {
+                padding: 0;
+            }
+
+            .content .container-fluid {
+                padding-left: 0;
+                padding-right: 0;
+            }
+
+            .content .row {
+                margin-left: 0;
+                margin-right: 0;
+            }
+
+            .content .row>[class*="col-"] {
+                padding-left: 0;
+                padding-right: 0;
+            }
+
+            .card {
+                margin-left: 0;
+                margin-right: 0;
+                border-left: 0;
+                border-right: 0;
+                border-radius: 0;
+            }
+
+            .card-body {
+                padding: .75rem .6rem;
+            }
+
+            .card-primary.card-outline-tabs>.card-body {
+                padding-left: .6rem;
+                padding-right: .6rem;
+            }
+
+            .callout {
+                padding-left: .55rem;
+                padding-right: .45rem;
+                margin-left: 0;
+                margin-right: 0;
+            }
+
+            .tab-content>.tab-pane {
+                padding: 0;
+            }
+
+            /* toolbar delle schede: maiuscolo, grassetto, compatta.
+               Dimensione fissa in px: indipendente dai FAB. */
+            .nav-tabs .nav-link {
+                text-transform: uppercase;
+                font-size: 12px;
+                font-weight: 700;
+                padding: 8px 2px;
+                letter-spacing: 0;
+            }
+
+            .nav-tabs .nav-item+.nav-item {
+                margin-left: .15rem;
+            }
+
+            /* toolbar centrata (senza rompere lo scroll se trabocca) */
+            .nav-tabs .nav-item:first-child {
+                margin-left: auto;
+            }
+
+            .nav-tabs .nav-item:last-child {
+                margin-right: auto;
+            }
+
+            /* niente contorni sulle tab: solo sottolineatura rossa */
+            .card-primary.card-outline-tabs {
+                border-top: 0;
+            }
+
+            .nav-tabs .nav-link,
+            .card-primary.card-outline-tabs .card-header a,
+            .card-primary.card-outline-tabs .card-header a.active {
+                border: 0 !important;
+                background: transparent;
+                outline: none;
+                box-shadow: none;
+                -webkit-tap-highlight-color: transparent;
+            }
+
+            /* stessa specificità del reset qui sopra, ma dopo: vince */
+            .card-primary.card-outline-tabs .card-header a.active,
+            .nav-tabs .nav-link.active {
+                border-bottom: 3px solid var(--lit-red) !important;
+            }
+
+            /* navbar e badge sempre visibili durante lo scroll */
+            .main-header {
+                position: sticky;
+                top: 0;
+                z-index: 1030;
+                padding-top: 0;
+                padding-bottom: 0;
+            }
+
+            /* barra più bassa su smartphone */
+            .main-header .nav-link {
+                font-size: 14px;
+                padding-top: .3rem;
+                padding-bottom: .3rem;
+            }
+
+            .navbar-app-icon {
+                width: 24px;
+                height: 24px;
+            }
+
+            .day-badges {
+                position: sticky;
+                top: 50px;
+                z-index: 1029;
+                background: #f4f6f9;
+                padding: 6px 4px;
+                margin: 0 0 .5rem;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, .08);
+            }
+
+            body.dark-mode .day-badges {
+                background: #454d55;
+            }
+
+            /* anche la toolbar delle schede resta fissa */
+            .card-primary.card-outline-tabs>.card-header {
+                position: sticky;
+                top: 88px;
+                /* affinato via JS */
+                z-index: 1028;
+                background: #fff;
+            }
+
+            body.dark-mode .card-primary.card-outline-tabs>.card-header {
+                background: #343a40;
+            }
+        }
+
+        /* titoli di sezione: maiuscolo e grassetto */
+        .section-title {
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+
+        /* footer compatto, copyright in evidenza */
+        .main-footer {
+            padding: .3rem 1rem;
+            font-size: 13px;
+        }
+
+        .main-footer .footer-copy {
+            font-size: 15px;
+            font-weight: 700;
+        }
+
+        /* --- Awesome Notifications: tema del sito --- */
+        .awn-toast,
+        .awn-popup-body {
+            font-family: 'PT Sans Narrow', Arial, sans-serif;
+        }
+
+        .awn-popup-body .awn-buttons .awn-btn-success {
+            background: var(--lit-red);
+        }
+
+        body.dark-mode .awn-popup-body {
+            background: #343a40;
+            color: #e9ecef;
+        }
+
+        body.dark-mode .awn-popup-title {
+            color: #e9ecef;
+        }
+
+        /* --- Salmodia strutturata --- */
+        .psalm-body {
+            line-height: 1.15;
+        }
+
+        .psalm-antiphon {
+            color: var(--lit-red);
+        }
+
+        .psalm-subtitle {
+            font-style: italic;
+            font-size: .82em;
+        }
+
+        body.dark-mode .psalm-antiphon {
+            color: #ff9d85;
+        }
+
+        /* segni salmodici † e * in rosso */
+        .rubric-mark {
+            color: var(--lit-red);
+            font-weight: 700;
+        }
+
+        body.dark-mode .rubric-mark {
+            color: #ff9d85;
+        }
+
+        /* --- Badge riepilogo giornata (mobile) --- */
+        .day-badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+        }
+
+        .badge-day {
+            background: #e9ecef;
+            color: #495057;
+            font-size: 12px;
+            /* fisso: non segue i FAB */
+            font-weight: 400;
+            border-radius: 10rem;
+            padding: 3px 8px;
+            line-height: 1.2;
+            white-space: normal;
+        }
+
+        .badge-day-color {
+            color: #fff;
+        }
+
+        /* anno liturgico: un colore per A/B/C */
+        .badge-anno-a {
+            background: #1565c0;
+        }
+
+        .badge-anno-b {
+            background: #00695c;
+        }
+
+        .badge-anno-c {
+            background: #e65100;
+        }
+
+        /* ciclo biennale: un colore per I/II */
+        .badge-ciclo-i {
+            background: #6d4c41;
+        }
+
+        .badge-ciclo-ii {
+            background: #455a64;
+        }
+
+        body.dark-mode .badge-day:not(.badge-day-color) {
+            background: #454d55;
+            color: #e9ecef;
+        }
+
+        /* --- FAB trasparenti per la dimensione del carattere --- */
+        .font-fabs {
+            position: fixed;
+            right: 1rem;
+            bottom: 1rem;
+            display: flex;
+            flex-direction: column;
+            gap: .5rem;
+            z-index: 1050;
+        }
+
+        .fab-btn {
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            border: 1px solid rgba(208, 0, 0, .15);
+            background: rgba(255, 255, 255, .06);
+            color: rgba(208, 0, 0, .35);
+            font-weight: 700;
+            font-size: 16px;
+            cursor: pointer;
+            outline: none;
+        }
+
+        /* badge di navigazione sezioni (pagina Giorno), in alto a destra */
+        .jump-fabs {
+            position: fixed;
+            right: .6rem;
+            top: 7.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: .35rem;
+            align-items: flex-end;
+            z-index: 1027;
+        }
+
+        .jump-badge {
+            border: 0;
+            border-radius: 10rem;
+            padding: 4px 12px;
+            font-size: 13px;
+            font-weight: 700;
+            color: #fff;
+            cursor: pointer;
+            outline: none;
+        }
+
+        .jump-salmi {
+            background: #1565c0;
+        }
+
+        .jump-letture {
+            background: #00695c;
+        }
+
+        .jump-vangelo {
+            background: var(--lit-red);
+        }
+
+        .jump-omelia {
+            background: #e65100;
+        }
+
+        a.jump-badge {
+            text-decoration: none;
+            text-align: center;
+        }
+
+        a.jump-badge:hover {
+            color: #fff;
+        }
+
+        /* pagina Omelia: schede video */
+        .video-card {
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .video-card:hover {
+            text-decoration: none;
+            box-shadow: 0 0 6px rgba(0, 0, 0, .25);
+        }
+
+        .video-title {
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 1.25;
+        }
+
+        .fab-btn:hover,
+        .fab-btn:active {
+            background: rgba(255, 255, 255, .75);
+            color: var(--lit-red);
+            border-color: rgba(208, 0, 0, .5);
+        }
+
+        /* --- Tema scuro: ritocchi ai componenti custom --- */
+        body.dark-mode .fab-btn {
+            background: rgba(0, 0, 0, .06);
+            color: rgba(255, 157, 133, .35);
+            border-color: rgba(255, 157, 133, .15);
+        }
+
+        body.dark-mode .fab-btn:hover,
+        body.dark-mode .fab-btn:active {
+            background: rgba(0, 0, 0, .7);
+            color: #ff9d85;
+            border-color: rgba(255, 157, 133, .5);
+        }
+
+        body.dark-mode a {
+            color: #ff9d85;
+        }
+
+        body.dark-mode .text-primary {
+            color: #ff9d85 !important;
+        }
+
+        body.dark-mode .calendar-cell.not-collected {
+            background: #2c3136;
+            color: #6c757d;
+        }
+
+        body.dark-mode .badge-secondary {
+            background: #343a40;
+            color: #e9ecef;
+            border-color: #6c757d;
+        }
+
+        body.dark-mode .list-group-item {
+            background-color: #343a40;
+            color: #e9ecef;
+        }
+
+        body.dark-mode .table {
+            color: #e9ecef;
+        }
+
+        body.dark-mode .thead-light th {
+            background-color: #454d55;
+            color: #e9ecef;
+            border-color: #6c757d;
+        }
+
+        body.dark-mode .bg-light {
+            background-color: #3f474e !important;
+        }
+
+        body.dark-mode .callout {
+            background-color: #343a40;
+        }
+
+        body.dark-mode .nav-tabs .nav-link.active {
+            color: #ff9d85;
+            background-color: #343a40;
+            border-color: #6c757d;
+        }
+
+        body.dark-mode .img-thumbnail {
+            background-color: #343a40;
+            border-color: #6c757d;
+        }
+
+/* intestazione compatta (vista mensile) */
+.compact-header {
+    padding-top: .4rem;
+    padding-bottom: 0;
+}
+
+.compact-header h1 {
+    font-size: 1.05em;
+    font-weight: 700;
+    margin-bottom: 0;
+}

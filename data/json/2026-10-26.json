@@ -1,0 +1,82 @@
+{
+    "data": "2026-10-26",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXX",
+    "celebrazione": "LUNEDÌ DELLA XXX SETTIMANA DEL TEMPO ORDINARIO",
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "San Folco Scotti, vescovo",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/e938cc16-40c4-4456-8af2-df949b986b3f.jpeg",
+    "santo": {
+        "nome": "San Folco Scotti, vescovo",
+        "martirologio": "A Pavia, san Folco Scotti, vescovo, uomo di pace, colmo di zelo e di carità.",
+        "altri_santi": [
+            {
+                "nome": "Santi Luciano e Marciano, martiri",
+                "martirologio": "A Nicomedia in Bitinia, nell’odierna Turchia, santi Luciano e Marciano, martiri, che si tramanda siano stati messi al rogo sotto l’imperatore Decio, per ordine del proconsole Sabino."
+            },
+            {
+                "nome": "San Rogaziano, sacerdote",
+                "martirologio": "A Cartagine, nell’odierna Tunisia, commemorazione di san Rogaziano, sacerdote, al quale san Cipriano affidò l’amministrazione della Chiesa di Cartagine durante la persecuzione dell’imperatore Decio e che insieme a san Felicissimo patì tribolazioni e carcere per il nome di Cristo."
+            },
+            {
+                "nome": "Sant’Amando, vescovo",
+                "martirologio": "A Strasburgo in Alsazia, nell’odierna Francia, sant’Amando, che si ritiene sia stato il primo vescovo di questa città."
+            },
+            {
+                "nome": "Sant’Aptonio, vescovo",
+                "martirologio": "Ad Angoulême in Aquitania, sempre in Francia, commemorazione di sant’Aptonio, vescovo."
+            },
+            {
+                "nome": "San Cedda",
+                "martirologio": "A Lastingham nella Northumbria in Inghilterra, san Cedda, che, fratello di san Ceadda, fu ordinato da san Finnano vescovo dei Sassoni orientali e si adoperò per gettare tra costoro le fondamenta della Chiesa."
+            },
+            {
+                "nome": "Sant’Eata, vescovo",
+                "martirologio": "A Hexham sempre in Northumbria, sant’Eata, vescovo, che, uomo di grande mansuetudine e semplicità, resse molti monasteri e Chiese e, tornato ad Hexham, pur essendo al contempo abate e vescovo, non declinò mai da uno stile di vita ascetico."
+            },
+            {
+                "nome": "San Sigebaldo, vescovo",
+                "martirologio": "A Metz in Austrasia, ora in Francia, san Sigebaldo, vescovo, fondatore di molti monasteri."
+            },
+            {
+                "nome": "San Vitta o Albino, vescovo",
+                "martirologio": "Nel monastero di Heresfeld in Germania, deposizione di san Vitta o Albino, primo vescovo di Buraburg, che, inglese di origine, fu chiamato insieme ad altri da san Bonifacio e mandato in Assia per spargere in questa terra il seme della parola di Dio."
+            },
+            {
+                "nome": "San Beano, vescovo",
+                "martirologio": "In Scozia, san Beano, vescovo di Mortlach."
+            },
+            {
+                "nome": "Beato Damiano Furcheri, sacerdote",
+                "martirologio": "A Reggio Emilia, beato Damiano Furcheri, sacerdote dell’Ordine dei Predicatori, insigne araldo del Vangelo."
+            },
+            {
+                "nome": "Beato Bonaventura da Potenza, sacerdote",
+                "martirologio": "A Ravello presso Amalfi in Campania, beato Bonaventura da Potenza, sacerdote dell’Ordine dei Frati Minori Conventuali, che rifulse per obbedienza e carità verso tutti."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Gioisca il cuore di chi cerca il Signore.\nCercate il Signore e la sua potenza,\ncercate sempre il suo volto. (Sal 104,3-4)",
+        "colletta": "Dio onnipotente ed eterno,\naccresci in noi la fede, la speranza e la carità,\ne perché possiamo ottenere ciò che prometti,\nfa’ che amiamo ciò che comandi.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Camminate nella carità, nel modo in cui anche Cristo ci ha amato.\nDalla lettera di san Paolo apostolo agli Efesìni\nEf 4,32-5,8\n\nFratelli, siate benevoli gli uni verso gli altri, misericordiosi, perdonandovi a vicenda come Dio ha perdonato a voi in Cristo.\nFatevi dunque imitatori di Dio, quali figli carissimi, e camminate nella carità, nel modo in cui anche Cristo ci ha amato e ha dato se stesso per noi, offrendosi a Dio in sacrificio di soave odore.\nDi fornicazione e di ogni specie di impurità o di cupidigia neppure si parli fra voi – come deve essere tra santi – né di volgarità, insulsaggini, trivialità, che sono cose sconvenienti. Piuttosto rendete grazie! Perché, sappiatelo bene, nessun fornicatore, o impuro, o avaro – cioè nessun idolatra – ha in eredità il regno di Cristo e di Dio.\nNessuno vi inganni con parole vuote: per queste cose infatti l’ira di Dio viene sopra coloro che gli disobbediscono. Non abbiate quindi niente in comune con loro. Un tempo infatti eravate tenebra, ora siete luce nel Signore. Comportatevi perciò come figli della luce.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 1\nBeato l’uomo che non entra nel consiglio dei malvagi,\nnon resta nella via dei peccatori\ne non siede in compagnia degli arroganti,\nma nella legge del Signore trova la sua gioia,\nla sua legge medita giorno e notte. R.\n\nÈ come albero piantato lungo corsi d’acqua,\nche dà frutto a suo tempo:\nle sue foglie non appassiscono\ne tutto quello che fa, riesce bene. R.\n\nNon così, non così i malvagi,\nma come pula che il vento disperde.\nIl Signore veglia sul cammino dei giusti,\nmentre la via dei malvagi va in rovina. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nLa tua parola, Signore, è verità;\nconsacraci nella verità. (Cf. Gv 17,17b.a)\n\nAlleluia.",
+        "vangelo": "Questa figlia di Abramo non doveva essere liberata da questo legame nel giorno di sabato?\nDal Vangelo secondo Luca\nLc 13,10-17\n\nIn quel tempo, Gesù stava insegnando in una sinagoga in giorno di sabato. C’era là una donna che uno spirito teneva inferma da diciotto anni; era curva e non riusciva in alcun modo a stare diritta.\nGesù la vide, la chiamò a sé e le disse: «Donna, sei liberata dalla tua malattia». Impose le mani su di lei e subito quella si raddrizzò e glorificava Dio.\nMa il capo della sinagoga, sdegnato perché Gesù aveva operato quella guarigione di sabato, prese la parola e disse alla folla: «Ci sono sei giorni in cui si deve lavorare; in quelli dunque venite a farvi guarire e non in giorno di sabato».\nIl Signore gli replicò: «Ipocriti, non è forse vero che, di sabato, ciascuno di voi slega il suo bue o l’asino dalla mangiatoia, per condurlo ad abbeverarsi? E questa figlia di Abramo, che Satana ha tenuto prigioniera per ben diciotto anni, non doveva essere liberata da questo legame nel giorno di sabato?».\nQuando egli diceva queste cose, tutti i suoi avversari si vergognavano, mentre la folla intera esultava per tutte le meraviglie da lui compiute.\n\nParola del Signore.",
+        "sulle_offerte": "Guarda, o Signore, i doni che ti presentiamo,\nperché il nostro servizio sacerdotale\nrenda gloria al tuo nome.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Esulteremo per la tua vittoria\ne nel nome del nostro Dio alzeremo i vessilli. (Sal 19,6)\n\nOppure:\n\nCristo ci ha amato e ha dato se stesso per noi,\noffrendosi a Dio in sacrificio di soave odore. (Ef 5,2)",
+        "dopo_la_comunione": "Si compia in noi, o Signore,\nla realtà significata dai tuoi sacramenti,\nperché otteniamo in pienezza\nciò che ora celebriamo nel mistero.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

@@ -1,0 +1,103 @@
+{
+    "data": "2026-11-01",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXI",
+    "celebrazione": "TUTTI I SANTI – SOLENNITÀ",
+    "grado": "Solennità",
+    "colore": "Bianco",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "Solennità di tutti i Santi",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/10d17f15-48fb-41ee-adcd-efa8d35a51ca.jpeg",
+    "santo": {
+        "nome": "Solennità di tutti i Santi",
+        "martirologio": "Solennità di tutti i Santi uniti con Cristo nella gloria: oggi, in un unico giubilo di festa la Chiesa ancora pellegrina sulla terra venera la memoria di coloro della cui compagnia esulta il cielo, per essere incitata dal loro esempio, allietata dalla loro protezione e coronata dalla loro vittoria davanti alla maestà divina nei secoli eterni.",
+        "altri_santi": [
+            {
+                "nome": "San Cesario, martire",
+                "martirologio": "A Terracina sulla costa del Lazio, san Cesario, martire."
+            },
+            {
+                "nome": "San Benigno, sacerdote e martire",
+                "martirologio": "A Digione nella Gallia lugdunense, ora in Francia, san Benigno, venerato come sacerdote e martire."
+            },
+            {
+                "nome": "Sant’Austremonio, vescovo",
+                "martirologio": "A Clermont-Ferrand in Aquitania, nell’odierna Francia, sant’Austremonio, vescovo, che si dice abbia predicato in questa città la parola di salvezza."
+            },
+            {
+                "nome": "San Marcello, vescovo",
+                "martirologio": "A Parigi sempre in Francia, san Marcello, vescovo."
+            },
+            {
+                "nome": "San Romolo, sacerdote e abate",
+                "martirologio": "Nel territorio di Bourges in Aquitania, san Romolo, sacerdote e abate."
+            },
+            {
+                "nome": "San Severino, monaco",
+                "martirologio": "A Tivoli nel Lazio, san Severino, monaco."
+            },
+            {
+                "nome": "San Magno, vescovo",
+                "martirologio": "A Milano, san Magno, vescovo."
+            },
+            {
+                "nome": "San Licinio, vescovo",
+                "martirologio": "Ad Angers in Neustria, sempre in Francia, san Licinio, vescovo, al quale il papa san Gregorio Magno raccomandò alcuni monaci diretti in Inghilterra."
+            },
+            {
+                "nome": "San Maturino, sacerdote",
+                "martirologio": "A Larchant nella regione del Gâtinais in Francia, san Maturino, sacerdote."
+            },
+            {
+                "nome": "Sant’Audomaro, vescovo",
+                "martirologio": "Nel territorio di Thérouanne nell’odierna Francia, sant’Audomaro, che fu discepolo di sant’Eustasio abate di Luxeuil e, nominato vescovo di Thérouanne, rinnovò la fede cristiana di questa regione."
+            },
+            {
+                "nome": "Beato Raniero d’Arezzo, religioso",
+                "martirologio": "A Borgo Sansepolcro in Umbria, beato Raniero d’Arezzo, religioso dell’Ordine dei Minori, che rifulse per umiltà, povertà e pazienza."
+            },
+            {
+                "nome": "Beato Nonio Álvarez Pereira",
+                "martirologio": "A Lisbona in Portogallo, beato Nonio Álvarez Pereira, che fu dapprima comandante generale delle forze armate del regno e poi, accolto come oblato nell’Ordine dei Carmelitani, condusse vita povera e nascosta in Cristo."
+            },
+            {
+                "nome": "Beati Pietro Paolo Navarro, sacerdote",
+                "martirologio": "A Shimabara in Giappone, beati Pietro Paolo Navarro, sacerdote, Dionigi Fujishima e Pietro Onizuka Sandayu, religiosi, della Compagnia di Gesù, e Clemente Kyuemon, martiri, messi al rogo in odio alla fede cristiana."
+            },
+            {
+                "nome": "Santi martiri Girolamo Hermosilla e Valentino Berrio Ochoa, vescovi",
+                "martirologio": "Nella città di Hai Duong nel Tonchino, ora Viet Nam, santi martiri Girolamo Hermosilla e Valentino Berrio Ochoa, vescovi, e Pietro Almató Ribeira, sacerdote, dell’Ordine dei Predicatori, decapitati per ordine dell’imperatore Tu Duc."
+            },
+            {
+                "nome": "Beato Ruperto Mayer, sacerdote",
+                "martirologio": "A Monaco di Baviera in Germania, beato Ruperto Mayer, sacerdote della Compagnia di Gesù, che, solerte nella direzione dei fedeli, nell’assistenza ai poveri e agli operai e nella predicazione della parola di Dio, subì le persecuzioni dell’empio regime nazista, dapprima deportato in un campo di prigiona e poi in un monastero senza più alcun contatto con i fedeli."
+            },
+            {
+                "nome": "Beato Teodoro Giorgio Romzsa, vescovo e martire",
+                "martirologio": "Nella cittadina di Mukacevo in Ucraina, beato Teodoro Giorgio Romzsa, vescovo e martire, che, in tempo di proibizione della fede, meritò di conseguire la palma della gloria per aver conservato la fedeltà alla Chiesa."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Rallegriamoci tutti nel Signore, in questa solennità di tutti i Santi:\ncon noi si allietano gli angeli e lodano il Figlio di Dio.\n\nSi dice il Gloria.",
+        "colletta": "Dio onnipotente ed eterno,\nche ci doni la gioia di celebrare in un’unica festa\ni meriti e la gloria di tutti i Santi, concedi al tuo popolo,\nper la comune intercessione di tanti nostri fratelli,\nl’abbondanza della tua misericordia.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Dopo queste cose vidi: ecco, una moltitudine immensa, che nessuno poteva contare, di ogni nazione, tribù, popolo e lingua.\nDal libro dell’Apocalisse di san Giovanni apostolo\nAp 7,2-4.9-14\n\nIo, Giovanni, vidi salire dall’oriente un altro angelo, con il sigillo del Dio vivente. E gridò a gran voce ai quattro angeli, ai quali era stato concesso di devastare la terra e il mare: «Non devastate la terra né il mare né le piante, finché non avremo impresso il sigillo sulla fronte dei servi del nostro Dio».\nE udii il numero di coloro che furono segnati con il sigillo: centoquarantaquattromila segnati, provenienti da ogni tribù dei figli d’Israele.\nDopo queste cose vidi: ecco, una moltitudine immensa, che nessuno poteva contare, di ogni nazione, tribù, popolo e lingua. Tutti stavano in piedi davanti al trono e davanti all’Agnello, avvolti in vesti candide, e tenevano rami di palma nelle loro mani. E gridavano a gran voce: «La salvezza appartiene al nostro Dio, seduto sul trono, e all’Agnello».\nE tutti gli angeli stavano attorno al trono e agli anziani e ai quattro esseri viventi, e si inchinarono con la faccia a terra davanti al trono e adorarono Dio dicendo: «Amen! Lode, gloria, sapienza, azione di grazie, onore, potenza e forza al nostro Dio nei secoli dei secoli. Amen».\nUno degli anziani allora si rivolse a me e disse: «Questi, che sono vestiti di bianco, chi sono e da dove vengono?». Gli risposi: «Signore mio, tu lo sai». E lui: «Sono quelli che vengono dalla grande tribolazione e che hanno lavato le loro vesti, rendendole candide nel sangue dell’Agnello».\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 23 (24)\nR. Ecco la generazione che cerca il tuo volto, Signore.\n\nDel Signore è la terra e quanto contiene:\nil mondo, con i suoi abitanti.\nÈ lui che l’ha fondato sui mari\ne sui fiumi l’ha stabilito. R.\n\nChi potrà salire il monte del Signore?\nChi potrà stare nel suo luogo santo?\nChi ha mani innocenti e cuore puro,\nchi non si rivolge agli idoli. R.\n\nEgli otterrà benedizione dal Signore,\ngiustizia da Dio sua salvezza.\nEcco la generazione che lo cerca,\nche cerca il tuo volto, Dio di Giacobbe. R.",
+        "seconda_lettura": "Vedremo Dio così come egli è.\nDalla prima lettera di san Giovanni apostolo\n1Gv 3,1-3\n\nCarissimi, vedete quale grande amore ci ha dato il Padre per essere chiamati figli di Dio, e lo siamo realmente! Per questo il mondo non ci conosce: perché non ha conosciuto lui.\nCarissimi, noi fin d’ora siamo figli di Dio, ma ciò che saremo non è stato ancora rivelato. Sappiamo però che quando egli si sarà manifestato, noi saremo simili a lui, perché lo vedremo così come egli è.\nChiunque ha questa speranza in lui, purifica se stesso, come egli è puro.\n\nParola di Dio.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nVenite a me,\nvoi tutti che siete stanchi e oppressi,\ne io vi darò ristoro. (Mt 11,28)\n\nAlleluia.",
+        "vangelo": "Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli.\nDal Vangelo secondo Matteo\nMt 5,1-12a\n\nIn quel tempo, vedendo le folle, Gesù salì sul monte: si pose a sedere e si avvicinarono a lui i suoi discepoli. Si mise a parlare e insegnava loro dicendo:\n«Beati i poveri in spirito,\nperché di essi è il regno dei cieli.\nBeati quelli che sono nel pianto,\nperché saranno consolati.\nBeati i miti,\nperché avranno in eredità la terra.\nBeati quelli che hanno fame e sete della giustizia,\nperché saranno saziati.\nBeati i misericordiosi,\nperché troveranno misericordia.\nBeati i puri di cuore,\nperché vedranno Dio.\nBeati gli operatori di pace,\nperché saranno chiamati figli di Dio.\nBeati i perseguitati per la giustizia,\nperché di essi è il regno dei cieli.\nBeati voi quando vi insulteranno, vi perseguiteranno e, mentendo, diranno ogni sorta di male contro di voi per causa mia. Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli».\n\nParola del Signore.\n\nSi dice il Credo.",
+        "sulle_offerte": "Ti siano graditi, o Signore,\ni doni che ti offriamo in onore di tutti i Santi:\nessi, che già godono della tua vita immortale,\nci proteggano nel cammino verso di te.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Beati i puri di cuore: vedranno Dio.\nBeati gli operatori di pace: saranno chiamati figli di Dio.\nBeati i perseguitati per la giustizia: di essi è il regno dei cieli. (Mt 5,8-10)",
+        "dopo_la_comunione": "O Dio, unica fonte di ogni santità,\nmirabile in tutti i tuoi Santi,\nfa’ che raggiungiamo anche noi la pienezza del tuo amore,\nper passare da questa mensa,\nche ci sostiene nel pellegrinaggio terreno,\nal festoso banchetto del cielo.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

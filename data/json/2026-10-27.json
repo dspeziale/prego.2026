@@ -1,0 +1,62 @@
+{
+    "data": "2026-10-27",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXX",
+    "celebrazione": "MARTEDÌ DELLA XXX SETTIMANA DEL TEMPO ORDINARIO",
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "Sant'Evaristo, papa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/1f818fe7-7102-458e-8142-855747afd663.jpeg",
+    "santo": {
+        "nome": "Sant'Evaristo, papa",
+        "martirologio": "A Roma, sant'Evaristo, papa, che resse la Chiesa di Roma per quarto dopo il beato Pietro, sotto l’imperatore Traiano.",
+        "altri_santi": [
+            {
+                "nome": "San Traséa, vescovo e martire",
+                "martirologio": "Presso Smirne, nell’odierna Turchia, san Traséa, vescovo di Icekli in Frigia e martire."
+            },
+            {
+                "nome": "San Namazio, vescovo",
+                "martirologio": "A Clermont-Ferrand in Aquitania, ora in Francia, san Namazio, vescovo, che eresse la cattedrale."
+            },
+            {
+                "nome": "San Gaudioso, vescovo",
+                "martirologio": "A Napoli, deposizione di san Gaudioso, vescovo, che si dice sia partito da Abitine in Tunisia a causa della persecuzione dei Vandali e per rifugiarsi in Campania e sia morto santamente in monastero."
+            },
+            {
+                "nome": "Sant’Otterano, monaco",
+                "martirologio": "Nell’isola di Iona in Scozia, sant’Otterano, monaco, che fu tra i primi discepoli di san Colomba."
+            },
+            {
+                "nome": "Beato Bartolomeo di Breganze, vescovo",
+                "martirologio": "A Vicenza, commemorazione del beato Bartolomeo di Breganze, vescovo, dell’Ordine dei Predicatori, che in questa città istituì la Milizia di Gesù Cristo a difesa della fede cattolica e della libertà della Chiesa."
+            },
+            {
+                "nome": "Beato Salvatore Mollar Ventura, religioso e martire",
+                "martirologio": "Nella cittadina di Paterna nel territorio di Valencia in Spagna, beato Salvatore Mollar Ventura, religioso dell’Ordine dei Frati Minori e martire, che, durante la persecuzione contro la fede, come fedele discepolo, nel sangue di Cristo meritò di ottenere la salvezza."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Gioisca il cuore di chi cerca il Signore.\nCercate il Signore e la sua potenza,\ncercate sempre il suo volto. (Sal 104,3-4)",
+        "colletta": "Dio onnipotente ed eterno,\naccresci in noi la fede, la speranza e la carità,\ne perché possiamo ottenere ciò che prometti,\nfa’ che amiamo ciò che comandi.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Questo mistero è grande: io lo dico in riferimento a Cristo e alla Chiesa!\nDalla lettera di san Paolo apostolo agli Efesìni\nEf 5,21-33\n\nFratelli, nel timore di Cristo, siate sottomessi gli uni agli altri: le mogli lo siano ai loro mariti, come al Signore; il marito infatti è capo della moglie, così come Cristo è capo della Chiesa, lui che è salvatore del corpo. E come la Chiesa è sottomessa a Cristo, così anche le mogli lo siano ai loro mariti in tutto.\nE voi, mariti, amate le vostre mogli, come anche Cristo ha amato la Chiesa e ha dato se stesso per lei, per renderla santa, purificandola con il lavacro dell’acqua mediante la parola, e per presentare a se stesso la Chiesa tutta gloriosa, senza macchia né ruga o alcunché di simile, ma santa e immacolata. Così anche i mariti hanno il dovere di amare le mogli come il proprio corpo: chi ama la propria moglie, ama se stesso. Nessuno infatti ha mai odiato la propria carne, anzi la nutre e la cura, come anche Cristo fa con la Chiesa, poiché siamo membra del suo corpo.\nPer questo l’uomo lascerà il padre e la madre e si unirà a sua moglie e i due diventeranno una sola carne. Questo mistero è grande: io lo dico in riferimento a Cristo e alla Chiesa! Così anche voi: ciascuno da parte sua ami la propria moglie come se stesso, e la moglie sia rispettosa verso il marito.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 127 (128)\nR. Beato chi teme il Signore.\n\nBeato chi teme il Signore\ne cammina nelle sue vie.\nDella fatica delle tue mani ti nutrirai,\nsarai felice e avrai ogni bene. R.\n\nLa tua sposa come vite feconda\nnell'intimità della tua casa;\ni tuoi figli come virgulti d'ulivo\nintorno alla tua mensa. R.\n\nEcco com'è benedetto\nl'uomo che teme il Signore.\nTi benedica il Signore da Sion.\nPossa tu vedere il bene di Gerusalemme\ntutti i giorni della tua vita! R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nTi rendo lode, Padre,\nSignore del cielo e della terra,\nperché ai piccoli hai rivelato i misteri del Regno. (Cf. Mt 11,25)\n\nAlleluia.",
+        "vangelo": "Il granello crebbe e divenne un albero.\nDal Vangelo secondo Luca\nLc 13,18-21\n\nIn quel tempo, diceva Gesù: «A che cosa è simile il regno di Dio, e a che cosa lo posso paragonare? È simile a un granello di senape, che un uomo prese e gettò nel suo giardino; crebbe, divenne un albero e gli uccelli del cielo vennero a fare il nido fra i suoi rami».\nE disse ancora: «A che cosa posso paragonare il regno di Dio? È simile al lievito, che una donna prese e mescolò in tre misure di farina, finché non fu tutta lievitata».\n\nParola del Signore.",
+        "sulle_offerte": "Guarda, o Signore, i doni che ti presentiamo,\nperché il nostro servizio sacerdotale\nrenda gloria al tuo nome.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Esulteremo per la tua vittoria\ne nel nome del nostro Dio alzeremo i vessilli. (Sal 19,6)\n\nOppure:\n\nCristo ci ha amato e ha dato se stesso per noi,\noffrendosi a Dio in sacrificio di soave odore. (Ef 5,2)",
+        "dopo_la_comunione": "Si compia in noi, o Signore,\nla realtà significata dai tuoi sacramenti,\nperché otteniamo in pienezza\nciò che ora celebriamo nel mistero.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

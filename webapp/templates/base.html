@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BJWH9WF3JD"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-BJWH9WF3JD');
+    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}LiturgiaCollector{% endblock %}</title>
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='icon-192.png') }}">
+    <link rel="apple-touch-icon" href="{{ url_for('static', filename='icon-192.png') }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.2.0/dist/css/adminlte.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/awesome-notifications@3.1.3/dist/style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/prego.css') }}">
+</head>
+
+{# niente sidebar-mini: su desktop il menu chiuso sparisce del tutto #}
+
+<body class="hold-transition layout-fixed">
+    <script>
+        /* applica subito le preferenze salvate per evitare il flash */
+        if (localStorage.getItem("lc-theme") === "dark") {
+            document.body.classList.add("dark-mode");
+        }
+        (function () {
+            var px = parseInt(localStorage.getItem("lc-font-size"), 10);
+            if (px) {
+                document.documentElement.style.fontSize = px + "px";
+                document.body.style.fontSize = px + "px";
+            }
+        })();
+    </script>
+    <div class="wrapper">
+
+        <nav class="main-header navbar navbar-expand navbar-white navbar-light">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+                </li>
+                <li class="nav-item d-flex align-items-center pl-0">
+                    <img src="{{ url_for('static', filename='icon-192.png') }}" alt="LiturgiaCollector"
+                        class="navbar-app-icon">
+                    <span class="navbar-app-name">Prego</span>
+                </li>
+            </ul>
+            <ul class="navbar-nav ml-auto">
+                {% block navbar_extra %}{% endblock %}
+                <li class="nav-item d-none d-md-block">
+                    <a class="nav-link text-muted js-date-jump" href="#" title="Vai a una data">{{
+                        today.strftime('%d/%m/%Y') }}</a>
+                </li>
+                <li class="nav-item" style="position:relative">
+                    <input type="date" id="dateJumpInput" tabindex="-1"
+                        value="{% block date_jump_value %}{{ today.isoformat() }}{% endblock %}" {% if
+                        available_days_iso %}min="{{ available_days_iso[0] }}" max="{{ available_days_iso[-1] }}" {%
+                        endif %} style="position:absolute; right:0; top:100%; opacity:0;
+                              width:1px; height:1px; border:0; padding:0">
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" id="themeToggle" role="button" title="Tema chiaro/scuro">
+                        <i class="fas fa-moon"></i>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+        <aside class="main-sidebar sidebar-light-primary elevation-4">
+            <a href="{{ url_for('index') }}" class="brand-link">
+                <img src="{{ url_for('static', filename='icon-192.png') }}" alt="Prego"
+                    class="brand-image ml-3" style="border-radius: 6px; opacity: 1">
+                <span class="brand-text font-weight-light">&nbsp;Prego</span>
+            </a>
+            <div class="sidebar">
+                <nav class="mt-2">
+                    <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu">
+                        <li class="nav-item">
+                            <a href="{{ url_for('index') }}" class="nav-link">
+                                <i class="nav-icon fas fa-sun"></i>
+                                <p>Oggi</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="{{ url_for('current_month') }}" class="nav-link">
+                                <i class="nav-icon fas fa-calendar-day"></i>
+                                <p>Mese corrente</p>
+                            </a>
+                        </li>
+                        {% if current_user %}
+                        <li class="nav-item">
+                            <a href="{{ url_for('proprio_list') }}"
+                                class="nav-link {% if request.endpoint and request.endpoint.startswith('proprio') %}active{% endif %}">
+                                <i class="nav-icon fas fa-book-open"></i>
+                                <p>Proprio biennale</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="{{ url_for('biennale_list') }}"
+                                class="nav-link {% if request.endpoint and request.endpoint.startswith('biennale') %}active{% endif %}">
+                                <i class="nav-icon fas fa-book"></i>
+                                <p>Biennale</p>
+                            </a>
+                        </li>
+                        {% endif %}
+                        {% if not read_only and current_user %}
+                        <li class="nav-item">
+                            <a href="{{ url_for('raccolta') }}"
+                                class="nav-link {% if request.endpoint and request.endpoint.startswith('raccolta') %}active{% endif %}">
+                                <i class="nav-icon fas fa-cloud-download-alt"></i>
+                                <p>Raccolta</p>
+                            </a>
+                        </li>
+                        {% endif %}
+                        <li class="nav-item">
+                            {% if current_user %}
+                            <a href="{{ url_for('logout') }}" class="nav-link">
+                                <i class="nav-icon fas fa-sign-out-alt"></i>
+                                <p>Esci ({{ current_user }})</p>
+                            </a>
+                            {% else %}
+                            <a href="{{ url_for('login') }}"
+                                class="nav-link {% if request.endpoint == 'login' %}active{% endif %}">
+                                <i class="nav-icon fas fa-sign-in-alt"></i>
+                                <p>Accedi</p>
+                            </a>
+                            {% endif %}
+                        </li>
+                        {% if current_user %}
+                        <li class="nav-header">MESI RACCOLTI</li>
+                        {% for y, m in sidebar_months %}
+                        <li class="nav-item">
+                            <a href="{{ url_for('month_view', year=y, month=m) }}"
+                                class="nav-link {% if request.view_args and request.view_args.get('year') == y and request.view_args.get('month') == m %}active{% endif %}">
+                                <i class="nav-icon far fa-calendar-alt"></i>
+                                <p>{{ months_it[m - 1] }} {{ y }}</p>
+                            </a>
+                        </li>
+                        {% endfor %}
+                        {% endif %}
+                        {# About: sempre ultima voce #}
+                        <li class="nav-item">
+                            <a href="{{ url_for('about') }}"
+                                class="nav-link {% if request.endpoint == 'about' %}active{% endif %}">
+                                <i class="nav-icon fas fa-circle-info"></i>
+                                <p>About</p>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </aside>
+        <script>
+            /* sidebar scura subito, senza flash, se il tema salvato è dark */
+            if (localStorage.getItem("lc-theme") === "dark") {
+                var lcSidebar = document.querySelector(".main-sidebar");
+                lcSidebar.classList.remove("sidebar-light-primary");
+                lcSidebar.classList.add("sidebar-dark-primary");
+            }
+        </script>
+
+        <div class="content-wrapper">
+            <section class="content-header {% block header_class %}{% endblock %}">
+                <div class="container-fluid">
+                    <div class="row mb-2">
+                        <div class="col-sm-8">
+                            <h1>{% block page_title %}{% endblock %}</h1>
+                        </div>
+                        <div class="col-sm-4 text-right">{% block header_actions %}{% endblock %}</div>
+                    </div>
+                </div>
+            </section>
+            <section class="content">
+                <div class="container-fluid">
+                    {% block content %}{% endblock %}
+                </div>
+            </section>
+        </div>
+
+        <footer class="main-footer">
+            <div class="float-right text-muted">v{{ app_version }}</div>
+            <span class="footer-copy">&copy; 2026 DS Consulting</span>
+        </footer>
+    </div>
+
+    <div class="font-fabs">
+        <button type="button" class="fab-btn" id="fontPlus" title="Aumenta carattere">A+</button>
+        <button type="button" class="fab-btn" id="fontMinus" title="Diminuisci carattere">A−</button>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/admin-lte@3.2.0/dist/js/adminlte.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/awesome-notifications@3.1.3/dist/index.var.js"></script>
+    {# dati per prego.js - non riformattare #}
+    <script id="prego-data" type="application/json">
+        {{ {"availableDays": available_days_iso,
+            "flash": get_flashed_messages(with_categories=true) | list}
+           | tojson }}
+    </script>
+    <script src="{{ url_for('static', filename='js/prego.js') }}"></script>
+</body>
+
+</html>

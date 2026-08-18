@@ -1,0 +1,52 @@
+{
+    "data": "2026-11-21",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXIII",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "Presentazione della beata Vergine Maria",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/3f9cb909-de5b-4410-b6ca-2cae4454cf99.jpeg",
+    "santo": {
+        "nome": "Presentazione della beata Vergine Maria",
+        "martirologio": "Il giorno dopo la dedicazione della basilica di Santa Maria Nuova costruita presso il muro del tempio di Gerusalemme, si celebra la dedicazione che fece di se stessa a Dio fin dall’infanzia colei che, sotto l’azione dello Spirito Santo, della cui grazia era stata riempita già nella sua immacolata concezione, sarebbe poi divenuta la Madre di Dio.",
+        "altri_santi": [
+            {
+                "nome": "San Rufo",
+                "martirologio": "Commemorazione di san Rufo, che san Paolo Apostolo scrivendo ai Romani chiama prescelto nel Signore."
+            },
+            {
+                "nome": "San Mauro, vescovo e martire",
+                "martirologio": "A Parenzo in Istria, san Mauro, vescovo e martire."
+            },
+            {
+                "nome": "Sant’Agapio, martire",
+                "martirologio": "A Cesarea in Palestina, sant’Agapio, martire: già più volte sottoposto ai supplizi, ma sempre rinviato a più grandi combattimenti, secondo la tradizione durante i giochi dell’anfiteatro fu dato in pasto ad un orso in presenza dello stesso Massimino e, poiché respirava ancora, il giorno dopo fu affogato in mare con delle pietre legate ai suoi piedi."
+            },
+            {
+                "nome": "San Gelasio I, papa",
+                "martirologio": "A Roma presso san Pietro, san Gelasio I, papa, che, insigne per dottrina e santità, onde evitare che l’autorità imperiale nuocesse all’unità della Chiesa, illustrò con vera profondità di analisi le prerogative dei due poteri, temporale e spirituale, sostenendo l’esigenza di una mutua libertà; spinto dalla sua grande carità e dai bisogni degli indigenti, per soccorrere i poveri morì egli stesso poverissimo."
+            },
+            {
+                "nome": "San Mauro, vescovo",
+                "martirologio": "A Cesena, san Mauro, vescovo."
+            },
+            {
+                "nome": "Beata Maria di Gesù Buon Pastore (Francesca) de Siedliska, vergine",
+                "martirologio": "A Roma, beata Maria di Gesù Buon Pastore (Francesca) de Siedliska, vergine, che, partita dalla Polonia per motivi politici, fondò l’Istituto delle Suore della Santa Famiglia di Nazareth per provvedere agli emigrati dalla sua patria."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

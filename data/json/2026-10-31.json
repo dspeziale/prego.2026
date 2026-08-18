@@ -1,0 +1,74 @@
+{
+    "data": "2026-10-31",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXX",
+    "celebrazione": "SABATO DELLA XXX SETTIMANA DEL TEMPO ORDINARIO",
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "San Quintino, martire",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/a609f03d-bf15-4d5f-9c7a-eab5584ef962.jpeg",
+    "santo": {
+        "nome": "San Quintino, martire",
+        "martirologio": "Nella cittadina in seguito insignita del suo nome nel territorio dell'odierna Francia, san Quintino, martire, che, senatore, subì la passione per Cristo sotto l'imperatore Massimiano.",
+        "altri_santi": [
+            {
+                "nome": "Sant’Epimachio di Pelusio, martire",
+                "martirologio": "Ad Alessandria d’Egitto, sant’Epimachio di Pelusio, martire, che, come si tramanda, durante la persecuzione dell’imperatore Decio, vedendo che il prefetto costringeva i cristiani a sacrificare agli idoli, tentò di rovesciare l’altare e fu per questo arrestato, torturato e, infine, decapitato con la spada."
+            },
+            {
+                "nome": "San Foillano, sacerdote e abate",
+                "martirologio": "A Fosses nel Brabante, nel territorio dell’odierno Belgio, san Foillano, sacerdote e abate, che, di origine irlandese, fu fratello e compagno di san Furséo e, sempre fedele alle norme monastiche della sua patria, fondò a Fosses e a Nivelles due monasteri, l’uno maschile e l’altro femminile, e fu ucciso da alcuni briganti mentre si recava in visita dall’uno all’altro."
+            },
+            {
+                "nome": "Sant’Antonino, vescovo",
+                "martirologio": "A Milano, sant’Antonino, vescovo, che si adoperò molto per estinguere tra i Longobardi l’eresia ariana."
+            },
+            {
+                "nome": "San Volfango, vescovo",
+                "martirologio": "A Ratisbona nella Baviera, in Germania, san Volfango, vescovo, che, dopo aver svolto l’ufficio di maestro di scuola e aver fatto professione di vita monastica, elevato alla sede episcopale, ristabilì la disciplina del clero e morì umilmente mentre era in visita nel territorio di Pupping."
+            },
+            {
+                "nome": "Beato Cristoforo di Romagna, sacerdote",
+                "martirologio": "A Cahors in Aquitania, ora in Francia, beato Cristoforo di Romagna, sacerdote dell’Ordine dei Minori, che, mandato da san Francesco, morì centenario dopo molte fatiche intraprese per la salvezza delle anime."
+            },
+            {
+                "nome": "Beato Tommaso da Firenze Bellaci, religioso",
+                "martirologio": "A Rieti, beato Tommaso da Firenze Bellaci, religioso dell’Ordine dei Minori, che, partito per la Terra Santa e l’Etiopia, patì il carcere e le torture per Cristo da parte degli infedeli e, tornato infine in patria, riposò in pace quasi centenario."
+            },
+            {
+                "nome": "Beato Domenico Collins, religioso",
+                "martirologio": "A Youghall in Irlanda, beato Domenico Collins, religioso della Compagnia di Gesù e martire, che, a lungo detenuto e ripetutamente interrogato e sottoposto a tortura, professò con fermezza la sua fede cattolica e portò per questo a termine il suo martirio con l’impiccagione."
+            },
+            {
+                "nome": "Sant’Alfonso Rodríguez, religioso",
+                "martirologio": "Nell’isola di Palma di Maiorca, sant’Alfonso Rodríguez, che, perduti la moglie, i figli e tutti i suoi beni, fu accolto come religioso nella Compagnia di Gesù, dove svolse per molti anni la mansione di portinaio nel Collegio, divenendo un esempio di umiltà, obbedienza e costanza nel sacrificio."
+            },
+            {
+                "nome": "Beato Leone Nowakowski, sacerdote e martire",
+                "martirologio": "Nella cittadina di Piotrków Kujawski in Polonia, beato Leone Nowakowski, sacerdote e martire, che, durante l’occupazione militare della Polonia, fu fucilato per aver difeso strenuamente la fede davanti al regime nemico di Dio."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Gioisca il cuore di chi cerca il Signore.\nCercate il Signore e la sua potenza,\ncercate sempre il suo volto. (Sal 104,3-4)",
+        "colletta": "Dio onnipotente ed eterno,\naccresci in noi la fede, la speranza e la carità,\ne perché possiamo ottenere ciò che prometti,\nfa’ che amiamo ciò che comandi.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Per me il vivere è Cristo e il morire un guadagno.\nDalla lettera di san Paolo apostolo ai Filippési\nFil 1,18b-26\n\nFratelli, purché in ogni maniera, per convenienza o per sincerità, Cristo venga annunciato, io me ne rallegro e continuerò a rallegrarmene. So infatti che questo servirà alla mia salvezza, grazie alla vostra preghiera e all’aiuto dello Spirito di Gesù Cristo, secondo la mia ardente attesa e la speranza che in nulla rimarrò deluso; anzi nella piena fiducia che, come sempre, anche ora Cristo sarà glorificato nel mio corpo, sia che io viva sia che io muoia.\nPer me infatti il vivere è Cristo e il morire un guadagno. Ma se il vivere nel corpo significa lavorare con frutto, non so davvero che cosa scegliere. Sono stretto infatti fra queste due cose: ho il desiderio di lasciare questa vita per essere con Cristo, il che sarebbe assai meglio; ma per voi è più necessario che io rimanga nel corpo.\nPersuaso di questo, so che rimarrò e continuerò a rimanere in mezzo a tutti voi per il progresso e la gioia della vostra fede, affinché il vostro vanto nei miei riguardi cresca sempre più in Cristo Gesù, con il mio ritorno fra voi.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dai Sal 41-42 (42-43)\nR. L'anima mia ha sete di Dio, del Dio vivente.\n\nCome la cerva anèla\nai corsi d'acqua,\ncosì l'anima mia anèla\na te, o Dio. R.\n\nL'anima mia ha sete di Dio,\ndel Dio vivente:\nquando verrò e vedrò\nil volto di Dio? R.\n\nManda la tua luce e la tua verità:\nsiano esse a guidarmi,\nmi conducano alla tua santa montagna,\nalla tua dimora. R.\n\nVerrò all'altare di Dio,\na Dio, mia gioiosa esultanza.\nA te canterò sulla cetra,\nDio, Dio mio. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nPrendete il mio giogo sopra di voi, dice il Signore,\ne imparate da me, che sono mite e umile di cuore. (Mt 11,29ab)\n\nAlleluia.",
+        "vangelo": "Chiunque si esalta sarà umiliato, e chi si umilia sarà esaltato.\nDal Vangelo secondo Luca\nLc 14,1.7-14\n\nAvvenne che un sabato Gesù si recò a casa di uno dei capi dei farisei per pranzare ed essi stavano a osservarlo.\nDiceva agli invitati una parabola, notando come sceglievano i primi posti: «Quando sei invitato a nozze da qualcuno, non metterti al primo posto, perché non ci sia un altro invitato più degno di te, e colui che ha invitato te e lui venga a dirti: “Cédigli il posto!”. Allora dovrai con vergogna occupare l’ultimo posto. Invece, quando sei invitato, va’ a metterti all’ultimo posto, perché quando viene colui che ti ha invitato ti dica: “Amico, vieni più avanti!”. Allora ne avrai onore davanti a tutti i commensali. Perché chiunque si esalta sarà umiliato, e chi si umilia sarà esaltato».\n\nParola del Signore.",
+        "sulle_offerte": "Guarda, o Signore, i doni che ti presentiamo,\nperché il nostro servizio sacerdotale\nrenda gloria al tuo nome.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Esulteremo per la tua vittoria\ne nel nome del nostro Dio alzeremo i vessilli. (Sal 19,6)\n\nOppure:\n\nCristo ci ha amato e ha dato se stesso per noi,\noffrendosi a Dio in sacrificio di soave odore. (Ef 5,2)",
+        "dopo_la_comunione": "Si compia in noi, o Signore,\nla realtà significata dai tuoi sacramenti,\nperché otteniamo in pienezza\nciò che ora celebriamo nel mistero.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

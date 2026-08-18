@@ -1,0 +1,18 @@
+{
+    "tempo_liturgico": "Tempo di Pasqua",
+    "settimana_del_tempo": "V",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": "C",
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "",
+            "sottotitolo": "Vocazione di Isaia",
+            "fonte": "Dal Libro del profeta Isaia.",
+            "testo": "sdfDsSDa",
+            "responsorio": "aDAADASDSA"
+        }
+    ],
+    "codice": "pasqua-v-lunedi-c-i"
+}

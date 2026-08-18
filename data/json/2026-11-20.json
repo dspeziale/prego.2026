@@ -1,0 +1,88 @@
+{
+    "data": "2026-11-20",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXIII",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "Santi Ottavio, Solutore e Avventore, martiri",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/724e75ad-f577-42af-a64a-6a50332bc0e6.jpeg",
+    "santo": {
+        "nome": "Santi Ottavio, Solutore e Avventore, martiri",
+        "martirologio": "A Torino, santi Ottavio, Solutore e Avventore, martiri.",
+        "altri_santi": [
+            {
+                "nome": "San Basilio, martire",
+                "martirologio": "Ad Antiochia in Siria, san Basilio, martire."
+            },
+            {
+                "nome": "San Crispino, vescovo e martire",
+                "martirologio": "Nella città di Écija nell’Andalusia in Spagna, san Crispino, vescovo e martire."
+            },
+            {
+                "nome": "San Dasio, martire",
+                "martirologio": "A Silistra in Mesia, nell’odierna Bulgaria, san Dasio, martire."
+            },
+            {
+                "nome": "San Teonesto, martire",
+                "martirologio": "A Vercelli, san Teonesto, martire, in cui onore il vescovo sant’Eusebio costruì una basilica."
+            },
+            {
+                "nome": "San Doro, vescovo",
+                "martirologio": "A Benevento, san Doro, vescovo."
+            },
+            {
+                "nome": "San Silvestro, vescovo",
+                "martirologio": "A Châlon-sur-Saône in Burgundia, ora in Francia, san Silvestro, vescovo, che, nel quarantaduesimo anno del suo sacerdozio, pieno di giorni e di virtù passò al Signore."
+            },
+            {
+                "nome": "Sant’Ippolito, abate e vescovo",
+                "martirologio": "Sul massiccio del Jura nella regione di Lione in Francia, sant’Ippolito, abate e vescovo."
+            },
+            {
+                "nome": "San Gregorio Decapolitano, monaco",
+                "martirologio": "A Costantinopoli, san Gregorio Decapolitano, monaco, che condusse dapprima vita monastica e poi anacoretica; fattosi quindi pellegrino, risiedette molto a lungo a Salonicco e, infine, a Costantinopoli, dove rese l’anima a Dio combattendo strenuamente in difesa del culto delle sacre immagini."
+            },
+            {
+                "nome": "Sant’Edmondo, martire",
+                "martirologio": "In Inghilterra, sant’Edmondo, martire, che, re degli Angli orientali, catturato nella guerra contro i pagani invasori, fu coronato dal martirio per la fede in Cristo."
+            },
+            {
+                "nome": "San Bernvardo, vescovo",
+                "martirologio": "A Hildesheim nella Sassonia in Germania, san Bernvardo, vescovo, che difese il gregge dagli attacchi, rinnovò con numerosi sinodi la disciplina del clero e promosse la vita monastica."
+            },
+            {
+                "nome": "San Cipriano, abate di Calamizzi",
+                "martirologio": "In Calabria, san Cipriano, abate di Calamizzi, che, custodendo fedelmente gli insegnamenti e gli esempi dei Padri orientali, fu severo con se stesso, generoso con i poveri e per tutti buon consigliere."
+            },
+            {
+                "nome": "San Francesco Saverio Can, martire",
+                "martirologio": "Ad Hanoi nel Tonchino, ora Viet Nam, san Francesco Saverio Can, martire, che, catechista, fu strangolato e decapitato per la sua fede sotto l’imperatore Minh Mang."
+            },
+            {
+                "nome": "Beata Maria Fortunata Viti",
+                "martirologio": "Veroli nel Lazio, beata Maria Fortunata (Anna Felice) Viti, dell'Ordine di San Benedetto, che per quasi tutto il corso della sua vita svolse l’incarico di guardarobiera, intenta solo ad osservare con tutto il cuore i precetti della regola."
+            },
+            {
+                "nome": "Beate Angela di San Giuseppe (Francesca) Lloret Martí e quattordici compagne, vergini e martiri",
+                "martirologio": "Vicino a Valencia in Spagna, beate Angela di San Giuseppe (Francesca) Lloret Martí e quattordici compagne, vergini e martiri: superiora generale la prima, religiose della Congregazione della Dottrina Cristiana le altre, subirono il martirio per la fede in Cristo nella persecuzione contro la Chiesa scoppiata durante la guerra civile.\n\nI loro nomi sono: beate Maria del Suffragio (Antonia Maria) Orts Baldó, Maria Addolorata (Maria di Montserrat) Llimona Planas, Teresa di San Giuseppe (Ascensa) Duart y Roig, Elisabetta Ferrer Sabriá, Maria Assunta (Giuseppa) Mongoche Homs, Maria Concetta (Emilia) Martí Lacal, Maria Grazia (Paola) di Sant’Antonio, Cuore di Gesù (Maria della Purificazione) Gómez Vives, Maria del Soccorso (Teresa) Jimenez Baldoví, Maria Addolorata (Geltrude) Surís Brusola, Ignazia del Santissimo Sacramento (Giuseppa) Pascual Pallardó, Maria del Rosario (Caterina) Calpe Ibáñez, Maria della Pace (Maria Isabella) López García, Marcella di San Tommaso (Aurea) Navarro."
+            },
+            {
+                "nome": "Beata Maria dei Miracoli Ortells Gimeno, vergine",
+                "martirologio": "Nel villaggio di Picadero de Paterna sempre nel territorio di Valencia in Spagna, beata Maria dei Miracoli Ortells Gimeno, vergine dell’Ordine delle Clarisse Cappuccine e martire, che nella medesima persecuzione fu coronata dal martirio per la testimonianza di fede resa a Cristo."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

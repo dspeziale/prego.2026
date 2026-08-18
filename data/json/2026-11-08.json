@@ -1,0 +1,56 @@
+{
+    "data": "2026-11-08",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXII",
+    "celebrazione": null,
+    "grado": "Domenica",
+    "colore": "Verde",
+    "settimana_del_salterio": "IV",
+    "santo_del_giorno": "Santi Simproniano, Claudio, Nicostrato, Castorio e Simplicio, martiri",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/bf15b872-5cfc-4373-872b-a7942ef3f403.jpeg",
+    "santo": {
+        "nome": "Santi Simproniano, Claudio, Nicostrato, Castorio e Simplicio, martiri",
+        "martirologio": "Commemorazione dei santi Simproniano, Claudio, Nicostrato, Castorio e Simplicio, martiri, che, come si tramanda, erano scalpellini a Srijem in Pannonia, nell’odierna Croazia; essendosi rifiutati, in nome di Gesù Cristo, di scolpire una statua del dio Esculapio, furono precipitati nel fiume per ordine dell’imperatore Diocleziano e coronati da Dio con la grazia del martirio. Il loro culto fiorì a Roma fin dall’antichità ella basilica sul monte Celio chiamata con il titolo dei Quattro Coronati.",
+        "altri_santi": [
+            {
+                "nome": "San Chiaro, sacerdote",
+                "martirologio": "Presso Tours nella Gallia lugdunense, ora in Francia, san Chiaro, sacerdote, che, discepolo di san Martino, si costruì una dimora accanto al monastero del vescovo, dove radunò molti fratelli."
+            },
+            {
+                "nome": "San Deusdédit I, papa",
+                "martirologio": "A Roma presso san Pietro, san Deusdédit I, papa, che amò il suo clero e il suo popolo e fu insigne per semplicità e saggezza."
+            },
+            {
+                "nome": "San Villeado, vescovo",
+                "martirologio": "A Brema in Sassonia, in Germania, san Villeado, vescovo, che, nato nella Northumbria in Inghilterra e amico di Alcuino, propagò dopo san Bonifacio il Vangelo in Frisia e Sassonia e, ordinato vescovo, istituì la sede di Brema e la governò con saggezza."
+            },
+            {
+                "nome": "San Goffredo, vescovo di Amiens",
+                "martirologio": "A Soissons in Francia, deposizione di san Goffredo, vescovo di Amiens, che, formatosi per un quinquennio alla vita monastica, patì molto nel ricomporre i dissidi tra i signori e gli abitanti della città e riformare i costumi del clero e del popolo."
+            },
+            {
+                "nome": "Beato Giovanni Duns Scoto, sacerdote",
+                "martirologio": "A Colonia in Lotaringia, ora in Germania, beato Giovanni Duns Scoto, sacerdote dell’Ordine dei Minori, che, di origine scozzese, maestro insigne per sottigliezza di ingegno e mirabile pietà, insegnò filosofia e teologia nelle scuole di Canterbury, Oxford, Parigi e Colonia."
+            },
+            {
+                "nome": "Beata Maria Crocifissa (Elisabetta Maria) Satellico, badessa",
+                "martirologio": "A Ostra Vetere nelle Marche, beata Maria Crocifissa (Elisabetta Maria) Satellico, badessa dell’Ordine delle Clarisse, insigne nella contemplazione del mistero della Croce e piena di mistici carismi."
+            },
+            {
+                "nome": "Santi martiri Giuseppe Nguyen Dinh Nghi, Paolo Nguyen Ngân, Martino Ta Duc Thinh, sacerdoti",
+                "martirologio": "Nella città di Nam Dinh nel Tonchino, ora Viet Nam, santi martiri Giuseppe Nguyen Dinh Nghi, Paolo Nguyen Ngân, Martino Ta Duc Thinh, sacerdoti, Martino Tho e Giovanni Battista Con, contadini, decapitati per la loro fede cristiana sotto l’imperatore Thieu Tri."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

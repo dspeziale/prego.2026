@@ -1,0 +1,84 @@
+{
+    "data": "2026-11-07",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXI",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "San Prosdocimo, vescovo",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/95900105-4469-4293-9afb-52fed1bb1faf.jpeg",
+    "santo": {
+        "nome": "San Prosdocimo, vescovo",
+        "martirologio": "A Padova, san Prosdocimo, che si ritiene sia stato il primo vescovo di questa città.",
+        "altri_santi": [
+            {
+                "nome": "Sant’Atenodóro, vescovo",
+                "martirologio": "A Neocesaréa nel Ponto, nell’odierna Turchia, sant’Atenodóro, vescovo, fratello di san Gregorio Taumaturgo, che tanto progredì nella predicazione delle Sacre Scritture da essere ritenuto degno di svolgere il ministero episcopale, nonostante la giovane età."
+            },
+            {
+                "nome": "Sant’Amaranto, martire",
+                "martirologio": "Presso Albi in Aquitania, ora in Francia, commemorazione di sant’Amaranto, martire."
+            },
+            {
+                "nome": "Santi Gerone e compagni, martiri",
+                "martirologio": "A Melitene nell’antica Armenia, santi Gerone e moltissimi suoi compagni, martiri."
+            },
+            {
+                "nome": "Sant’Ercolano",
+                "martirologio": "A Perugia, sant'Ercolano, vescovo e martire, decapitato per ordine di Totila, re dei Goti."
+            },
+            {
+                "nome": "San Baldo, vescovo",
+                "martirologio": "A Tours in Neustria, ora in Francia, san Baldo, vescovo, che distribuì in elemosina ai poveri l’oro lasciato dal suo predecessore."
+            },
+            {
+                "nome": "San Cungáro, abate",
+                "martirologio": "In località poi chiamata Congresbury in Inghilterra, san Cungáro, abate, di origine bretone, del cui nome si gloriano molti luoghi e chiese."
+            },
+            {
+                "nome": "San Fiorenzo, vescovo",
+                "martirologio": "A Strasburgo in Borgogna, nell’odierna Francia, commemorazione di san Fiorenzo, vescovo, succeduto a sant’Arbogasto."
+            },
+            {
+                "nome": "San Villibrordo, vescovo",
+                "martirologio": "A Echternach in Austrasia, nel territorio dell’odierno Lussemburgo, deposizione di san Villibrordo, che, di origine inglese, ordinato vescovo di Utrecht dal papa san Sergio I, predicò il Vangelo tra le popolazioni dell’Olanda e della Danimarca e fondò sedi episcopali e monasteri, finché, gravato dalle fatiche e logorato dall’età, si addormentò nel Signore in un cenobio da lui fondato."
+            },
+            {
+                "nome": "San Lazzaro, stilita",
+                "martirologio": "Sul monte Galesio vicino a Efeso, nell’odierna Turchia, san Lazzaro, stilita, che per molti anni visse in diverse località su di una colonna, appesantito dal carico di pesanti ferrami e catene e contentandosi solo di pane e acqua, e seguendo questo severo tenore di vita attrasse a sé moltissimi fedeli."
+            },
+            {
+                "nome": "Sant’Engelberto, vescovo",
+                "martirologio": "A Colonia in Lotaringia, in Germania, sant’Engelberto, vescovo, che, sorpreso per strada da alcuni sicari e crudelmente percosso, morì per aver difeso la giustizia e la libertà della Chiesa."
+            },
+            {
+                "nome": "Beato Antonio Baldinucci, sacerdote",
+                "martirologio": "Nel villaggio di Pofì nel Lazio, beato Antonio Baldinucci, sacerdote della Compagnia di Gesù, che si dedicò interamente alla predicazione delle missioni al popolo."
+            },
+            {
+                "nome": "Santi Giacinto Castañeda e Vincenzo Lê Quang Liêm, sacerdoti",
+                "martirologio": "Nella città di Ket Cho nel Tonchino, ora Viet Nam, santi Giacinto Castañeda e Vincenzo Lê Quang Liêm, sacerdoti dell’Ordine dei Predicatori e martiri, che coronarono con l’effusione del sangue le loro fatiche per il Vangelo sotto il regime di Trin Sâm."
+            },
+            {
+                "nome": "San Pietro Wu Guosheng, catechista e martire",
+                "martirologio": "In località Zunyi nella provincia del Guizhou in Cina, san Pietro Wu Guosheng, catechista e martire, strangolato per Cristo."
+            },
+            {
+                "nome": "Beato Vincenzo Grossi, sacerdote",
+                "martirologio": "Presso Cremona, beato Vincenzo Grossi, sacerdote, che, mentre attendeva al suo ufficio di parroco, fondò l’Istituto delle Figlie dell’Oratorio."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

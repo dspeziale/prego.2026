@@ -1,0 +1,72 @@
+{
+    "data": "2026-11-18",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXIII",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "Dedicazione delle basiliche dei santi Pietro e Paolo, Apostoli",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/47408dd4-ef68-4992-8fef-039043934730.jpeg",
+    "santo": {
+        "nome": "Dedicazione delle basiliche dei santi Pietro e Paolo, Apostoli",
+        "martirologio": "Dedicazione delle basiliche dei santi Pietro e Paolo, Apostoli, delle quali la prima, edificata dall’imperatore Costantino sul colle Vaticano al di sopra del sepolcro di san Pietro, consunta dal tempo e ricostruita in forma più ampia, in questo giorno fu nuovamente consacrata; l’altra, sulla via Ostiense, costruita dagli imperatori Teodosio e Valentiniano e poi distrutta da un terribile incendio e completamente ricostruita, fu dedicata il 10 dicembre.\nNella loro comune commemorazione viene simbolicamente espressa la fraternità degli Apostoli e l’unità della Chiesa.",
+        "altri_santi": [
+            {
+                "nome": "San Romano, martire",
+                "martirologio": "Ad Antiochia in Siria, san Romano, martire, che, diacono della Chiesa di Cesarea, avendo visto durante la persecuzione dell’imperatore Diocleziano i cristiani obbedire alle disposizioni dei suoi decreti e affrettarsi verso i santuari degli idoli, li incitò ad alta voce a rimanere saldi nella fede e, dopo aver subito crudeli torture e il taglio della lingua, strangolato in carcere con un laccio fu coronato da un glorioso martirio."
+            },
+            {
+                "nome": "San Patroclo, sacerdote",
+                "martirologio": "A Colombier nel territorio di Bourges, in Francia, san Patroclo, sacerdote, che fu eremita e missionario."
+            },
+            {
+                "nome": "San Maudeto, abate",
+                "martirologio": "Nella Bretagna sempre in Francia, san Maudeto, abate, che condusse vita monastica su un’isola deserta e, maestro di vita spirituale, annoverò tra i suoi discepoli molti santi."
+            },
+            {
+                "nome": "San Romacario, vescovo",
+                "martirologio": "A Coutances in Neustria, ancora in Francia, san Romacario, vescovo."
+            },
+            {
+                "nome": "San Teofredo, abate e martire",
+                "martirologio": "Nella regione del Vélay in Aquitania, ora in Francia, san Teofredo, abate e martire."
+            },
+            {
+                "nome": "Sant’Oddone, abate",
+                "martirologio": "A Tours in Neustria, sempre in Francia, transito di sant’Oddone, abate di Cluny, che rinnovò l’osservanza monastica secondo i dettami della regola di san Benedetto e la disciplina di san Benedetto di Aniane."
+            },
+            {
+                "nome": "Beati martiri Leonardo Kimura, religioso",
+                "martirologio": "A Nagasaki in Giappone, beati martiri Leonardo Kimura, religioso della Compagnia di Gesù, Andrea Murayama Tokuan, Cosma Takeya, Giovanni Yoshida Shoun, Domenico Jorge, arsi nel fuoco in quanto cristiani."
+            },
+            {
+                "nome": "Santa Filippina Duchesne, vergine",
+                "martirologio": "Nella città di Saint-Charles in Missouri negli Stati Uniti d’America, santa Filippina Duchesne, vergine delle Suore del Sacro Cuore di Gesù, che, nata in Francia, al tempo della rivoluzione in patria aggregò una comunità religiosa e, recatasi poi in America, vi istituì numerose scuole."
+            },
+            {
+                "nome": "Beato Grimoaldo della Purificazione (Ferdinando) Santamaria, religioso",
+                "martirologio": "A Ceccano presso Frosinone, beato Grimoaldo della Purificazione (Ferdinando) Santamaria, religioso della Congregazione della Passione, che, mentre si preparava con fervore e gioia al sacerdozio, morì piamente colpito da una malattia."
+            },
+            {
+                "nome": "Beata Carolina Kózka, vergine e martire",
+                "martirologio": "Nel villaggio di Wal-Ruda in Polonia, beata Carolina Kózka, vergine e martire, che, durante la guerra, morì per Cristo ancora adolescente trafitta con la spada per aver voluto difendere da un soldato la sua castità."
+            },
+            {
+                "nome": "Beate Maria del Rifugio (Maria Gabriella) Hinojosa y Naveros e cinque compagne, vergini",
+                "martirologio": "Presso Madrid in Spagna, beate Maria del Rifugio (Maria Gabriella) Hinojosa y Naveros e cinque compagne, vergini dell’Ordine della Visitazione di Santa Maria e martiri, che, durante la persecuzione, benché chiuse in monastero, furono arrestate con l’inganno dai miliziani e andarono incontro a Cristo Sposo uccise a fucilate.\n\nI loro nomi sono: beate Teresa Maria (Laura) Cavestány y Anduaga, Giuseppa Maria (Carmen) Barrera y Izaguirre, Maria Agnese (Agnese) Zudaire y Galdeano, Mariangela (Martina) Olaizola y Garagarza, Maria Engrazia (Giuseppa Gioacchina) Lecuona y Aramburú."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

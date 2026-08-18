@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Non trovato — LiturgiaCollector{% endblock %}
+{% block page_title %}404{% endblock %}
+
+{% block content %}
+<div class="error-page">
+    <h2 class="headline text-warning">404</h2>
+    <div class="error-content pt-2">
+        <h3><i class="fas fa-exclamation-triangle text-warning"></i> Giornata non trovata.</h3>
+        <p>
+            La data richiesta non è stata ancora raccolta.
+            Eseguire <code>python main.py YYYY-MM-DD</code> e ricaricare,
+            oppure tornare a <a href="{{ url_for('index') }}">oggi</a>.
+        </p>
+    </div>
+</div>
+{% endblock %}

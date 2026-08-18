@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+{% block title %}Raccolta — LiturgiaCollector{% endblock %}
+{% block page_title %}Raccolta dal sito CEI{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-lg-4">
+        <div class="card card-primary card-outline">
+            <div class="card-header"><h3 class="card-title">Avvia una raccolta</h3></div>
+            <form method="post" action="{{ url_for('raccolta_avvia') }}">
+                <div class="card-body">
+                    <div class="form-group">
+                        <div class="custom-control custom-radio">
+                            <input class="custom-control-input" type="radio"
+                                   id="modoOggi" name="modo" value="oggi" checked>
+                            <label class="custom-control-label" for="modoOggi">
+                                Oggi ({{ today.strftime('%d/%m/%Y') }})
+                            </label>
+                        </div>
+                        <div class="custom-control custom-radio mt-2">
+                            <input class="custom-control-input" type="radio"
+                                   id="modoData" name="modo" value="data">
+                            <label class="custom-control-label" for="modoData">Data singola</label>
+                        </div>
+                        <input type="date" name="data" class="form-control mt-1"
+                               onfocus="document.getElementById('modoData').checked = true">
+                        <div class="custom-control custom-radio mt-3">
+                            <input class="custom-control-input" type="radio"
+                                   id="modoIntervallo" name="modo" value="intervallo">
+                            <label class="custom-control-label" for="modoIntervallo">Intervallo di date</label>
+                        </div>
+                        <div class="row mt-1">
+                            <div class="col-6">
+                                <label class="small text-muted mb-0">Dal</label>
+                                <input type="date" name="dal" class="form-control"
+                                       onfocus="document.getElementById('modoIntervallo').checked = true">
+                            </div>
+                            <div class="col-6">
+                                <label class="small text-muted mb-0">Al</label>
+                                <input type="date" name="al" class="form-control"
+                                       onfocus="document.getElementById('modoIntervallo').checked = true">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <button type="submit" class="btn"
+                            style="background: var(--lit-red); color: #fff"
+                            {% if status.running %}disabled{% endif %}>
+                        <i class="fas fa-cloud-download-alt"></i> Avvia raccolta
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="col-lg-8">
+        <div class="card card-outline card-primary">
+            <div class="card-header">
+                <h3 class="card-title">
+                    Stato:
+                    <span id="statoBadge"
+                          class="badge badge-{{ 'warning' if status.running else 'secondary' }}">
+                        {{ "in corso" if status.running else "inattivo" }}
+                    </span>
+                </h3>
+            </div>
+            <div class="card-body p-0">
+                <pre id="logBox" class="p-2 mb-0"
+                     style="max-height: 480px; overflow:auto; font-size: 12px;
+                            white-space: pre-wrap;">{{ status.log or "Nessuna raccolta eseguita in questa sessione." }}</pre>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+(function () {
+    var badge = document.getElementById("statoBadge");
+    var logBox = document.getElementById("logBox");
+    var running = {{ "true" if status.running else "false" }};
+
+    function poll() {
+        fetch("{{ url_for('raccolta_stato') }}")
+            .then(function (r) { return r.json(); })
+            .then(function (s) {
+                logBox.textContent = s.log ||
+                    "Nessuna raccolta eseguita in questa sessione.";
+                logBox.scrollTop = logBox.scrollHeight;
+                badge.textContent = s.running ? "in corso" :
+                    (s.returncode === 0 ? "completata" :
+                     (s.returncode === null ? "inattivo" : "errore"));
+                badge.className = "badge badge-" + (s.running ? "warning" :
+                    (s.returncode === 0 ? "success" :
+                     (s.returncode === null ? "secondary" : "danger")));
+                if (s.running) { setTimeout(poll, 2000); }
+                else if (running) { running = false; location.reload(); }
+            });
+    }
+    if (running) { poll(); }
+})();
+</script>
+{% endblock %}

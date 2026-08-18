@@ -1,0 +1,80 @@
+{
+    "data": "2026-11-05",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXI",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "San Donnino, martire",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/d7b80b3d-b106-4514-80a0-536b8e06cbde.jpeg",
+    "santo": {
+        "nome": "San Donnino, martire",
+        "martirologio": "A Cesarea in Palestina, san Donnino, martire, che, giovane medico, agli inizi della persecuzione dell’imperatore Diocleziano, condannato alle miniere, fu relegato a Mismiya, dove patì atroci sofferenze, e, al quinto anno di persecuzione, fu dato al rogo su ordine del prefetto Urbano per aver conservato fermamente la sua fede.",
+        "altri_santi": [
+            {
+                "nome": "santi Teotimo, Filóteo e Timoteo, martiri",
+                "martirologio": "Nello stesso luogo, commemorazione dei santi Teotimo, Filóteo e Timoteo, martiri, i quali, giovani, furono destinati ai giochi circensi per il divertimento del popolo, e di sant’Aussenzio, anziano, dato in pasto alle fiere."
+            },
+            {
+                "nome": "San Marco, vescovo",
+                "martirologio": "In Puglia, san Marco, vescovo di Troia."
+            },
+            {
+                "nome": "San Fibicio, vescovo",
+                "martirologio": "A Treviri in Germania, san Fibicio, vescovo."
+            },
+            {
+                "nome": "San Guetnoco",
+                "martirologio": "Nella Bretagna, in Francia, san Guetnoco, venerato come fratello dei santi Vinvaleo e Giacuto."
+            },
+            {
+                "nome": "Santa Bertilla, badessa",
+                "martirologio": "Nel monastero di Calais presso Meaux nella Gallia lugdunense, sempre in Francia, santa Bertilla, prima badessa di questo cenobio."
+            },
+            {
+                "nome": "San Geraldo, vescovo",
+                "martirologio": "A Béziers nella Gallia narbonense, ora in Francia, san Geraldo, vescovo, uomo di mirabile onestà e semplicità, che da canonico regolare fu elevato suo malgrado all’episcopato e in quella dignità ricercò ancor più lo spirito di umiltà."
+            },
+            {
+                "nome": "Beato Gomidas Keumurdjan (Cosma da Carboniano), sacerdote e martire",
+                "martirologio": "A Costantinopoli, beato Gomidas Keumurdjan (Cosma da Carboniano), sacerdote e martire, che, padre di famiglia, nato e ordinato nella Chiesa armena, patì molto per aver mantenuto e propagato con fermezza la fede cattolica professata dal Concilio di Calcedonia e morì, infine, decapitato\nmentre recitava il Credo niceno."
+            },
+            {
+                "nome": "San Domenico Mau, sacerdote",
+                "martirologio": "Vicino al fiume Hung Yên nel Tonchino, ora Viet Nam, san Domenico Mau, sacerdote dell’Ordine dei Predicatori e martire, che, al tempo della persecuzione perpetrata dall’imperatore Tu Duc, fu condotto a mani giunte, come se si stesse recando all’altare, al martirio della decapitazione per Cristo, con l’accusa di aver portato in pubblico la corona del Rosario ed esortato i cristiani a testimoniare la fede."
+            },
+            {
+                "nome": "San Guido Maria Conforti, vescovo",
+                "martirologio": "A Parma, beato Guido Maria Conforti, vescovo, che, da buon pastore, sempre vegliò in difesa della Chiesa e della fede del suo popolo e, spinto dalla sollecitudine per l’evangelizzazione dei popoli, fondò la Pia Società di San Francesco Saverio."
+            },
+            {
+                "nome": "Beato Giovanni Antonio Burró Más, religioso",
+                "martirologio": "A Madrid in Spagna, beato Giovanni Antonio Burró Más, religioso dell’Ordine di San Giovanni di Dio e martire, ucciso durante la persecuzione contro la Chiesa per aver testimoniato il Vangelo."
+            },
+            {
+                "nome": "Beata Maria Carmela Viel Ferrando, vergine e martire",
+                "martirologio": "In località detta El Saler vicino a Valencia sempre in Spagna, beata Maria Carmela Viel Ferrando, vergine e martire, che nella stessa persecuzione portò a termine la gloriosa prova per Cristo."
+            },
+            {
+                "nome": "Beato Bernardo Lichtenberg, sacerdote e martire",
+                "martirologio": "Nella cittadina di Hof in Germania, beato Bernardo Lichtenberg, sacerdote e martire, che, dopo aver preso coscienza dei gravi atti che venivano compiuti contro la dignità di Dio e degli uomini, fu arrestato per avere pubblicamente pregato per gli Ebrei vessati in modo disumano e incarcerati e, destinato al campo di prigionia di Dachau, morì durante il viaggio, provato dai maltrattamenti, ma impavido in Cristo."
+            },
+            {
+                "nome": "Beato Gregorio Lakota, vescovo di Przemysl e martire",
+                "martirologio": "Nel campo di prigionia della città di Abez nella Siberia in Russia, beato Gregorio Lakota, vescovo di Przemysl e martire, che, durante l’oppressione della patria da parte dei persecutori della fede, vinse le sofferenze del corpo con una intrepida morte in nome di Cristo."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

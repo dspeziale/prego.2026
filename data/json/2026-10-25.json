@@ -1,0 +1,87 @@
+{
+    "data": "2026-10-25",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXX",
+    "celebrazione": "XXX DOMENICA DEL TEMPO ORDINARIO - ANNO A",
+    "grado": "Domenica",
+    "colore": "Verde",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "Santi Crisanto e Daria, martiri",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/86db576a-2084-4a13-aeb4-9c54ac198783.jpeg",
+    "santo": {
+        "nome": "Santi Crisanto e Daria, martiri",
+        "martirologio": "A Roma nel cimitero di Trasóne sulla via Salaria nuova, santi Crisanto e Daria, martiri, lodati dal papa san Damaso.",
+        "altri_santi": [
+            {
+                "nome": "Santi Crispino e Crispiniano, martiri",
+                "martirologio": "A Soissons nella Gallia belgica, ora in Francia, santi Crispino e Crispiniano, martiri."
+            },
+            {
+                "nome": "San Miniato, martire",
+                "martirologio": "A Firenze, san Miniato, martire."
+            },
+            {
+                "nome": "San Frontone",
+                "martirologio": "A Périgueux in Aquitania, ora in Francia, san Frontone, che si ritiene abbia per primo predicato il Vangelo in questa città."
+            },
+            {
+                "nome": "Santi Martirio e Marciano",
+                "martirologio": "A Costantinopoli, santi Martirio, suddiacono, e Marciano, cantore, uccisi dagli ariani sotto l’imperatore Costanzo."
+            },
+            {
+                "nome": "San Gaudenzio, vescovo",
+                "martirologio": "A Brescia, san Gaudenzio, vescovo, che, ordinato da sant’Ambrogio, rifulse tra i presuli del suo tempo per dottrina e virtù, istruì il suo popolo con la parola e con gli scritti e fondò una basilica che chiamò Concilio dei Santi."
+            },
+            {
+                "nome": "Sant’Ilario, vescovo",
+                "martirologio": "Nel territorio di Javols in Francia, sant’Ilario, vescovo di Mende."
+            },
+            {
+                "nome": "San Frutto, eremita",
+                "martirologio": "Nel territorio di Segovia in Spagna, san Frutto, che condusse vita eremitica su una rupe scoscesa."
+            },
+            {
+                "nome": "San Mauro, vescovo",
+                "martirologio": "A Pécs in Ungheria, san Mauro, vescovo, che fu maestro di eloquenza per quasi tutta la vita e visse, infine, come monaco e poi abate nel monastero di San Martino."
+            },
+            {
+                "nome": "San Bernardo Calbó, vescovo",
+                "martirologio": "A Vic nella Catalogna in Spagna, san Bernardo Calbó, vescovo, che, lasciato il suo ufficio di giudice, divenne dapprima abate tra i Cistercensi e, eletto poi alla sede di Vic, promosse con impegno la retta dottrina."
+            },
+            {
+                "nome": "Beato Taddeo Machar, vescovo",
+                "martirologio": "A Borgo Sant’Antonio, presso Ivrea, in Piemonte, transito del beato Taddeo Machar, vescovo di Cork e Cloyne in Irlanda, che lasciò la sua sede per i problemi causati dall’ostilità dei potenti e, mentre era in viaggio per Roma, passò al cielo."
+            },
+            {
+                "nome": "Beato Riccardo Centelles Abad, sacerdote",
+                "martirologio": "Nella cittadina di Nules vicino a Tortosa in Spagna, beato Riccardo Centelles Abad, sacerdote della Società dei Preti Operai Diocesani e martire, che fu ucciso in odio al sacerdozio durante la persecuzione contro la Chiesa alle porte del cimitero."
+            },
+            {
+                "nome": "beate Maria Teresa Ferragud Roig e le sue figlie Maria di Gesù, vergini e martiri",
+                "martirologio": "Ad Alzira nel territorio di Valencia sempre in Spagna, beate Maria Teresa Ferragud Roig e le sue figlie Maria di Gesù (Vincenza), Maria Veronica (Gioacchina), Maria Felicita Masiá Ferragud, vergine dell’Ordine delle Carisse Cappuccine, e Giuseppa della Purificazione (Raimonda) Masiá Ferragud, vergini dell’Ordine delle Agostiniane Scalze, martiri, che sempre nella stessa persecuzione furono incoronate per avere coraggiosamente reso testimonianza a Cristo."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Gioisca il cuore di chi cerca il Signore.\nCercate il Signore e la sua potenza,\ncercate sempre il suo volto. (Sal 104,3-4)\n\nSi dice il Gloria.",
+        "colletta": "Dio onnipotente ed eterno,\naccresci in noi la fede, la speranza e la carità,\ne perché possiamo ottenere ciò che prometti,\nfa’ che amiamo ciò che comandi.\nPer il nostro Signore Gesù Cristo.\n\nOppure:\n\nO Padre, che per amore\ncontinuamente crei e rinnovi il mondo,\ndonaci la gioia di un cuore libero e pacificato,\ncapace di amare te sopra ogni cosa\ne il prossimo come noi stessi.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Se maltratterete la vedova e l’orfano, la mia ira si accenderà contro di voi.\nDal libro dell’Èsodo\nEs 22,20-26\n\nCosì dice il Signore:\n«Non molesterai il forestiero né lo opprimerai, perché voi siete stati forestieri in terra d’Egitto.\nNon maltratterai la vedova o l’orfano. Se tu lo maltratti, quando invocherà da me l’aiuto, io darò ascolto al suo grido, la mia ira si accenderà e vi farò morire di spada: le vostre mogli saranno vedove e i vostri figli orfani.\nSe tu presti denaro a qualcuno del mio popolo, all’indigente che sta con te, non ti comporterai con lui da usuraio: voi non dovete imporgli alcun interesse.\nSe prendi in pegno il mantello del tuo prossimo, glielo renderai prima del tramonto del sole, perché è la sua sola coperta, è il mantello per la sua pelle; come potrebbe coprirsi dormendo? Altrimenti, quando griderà verso di me, io l’ascolterò, perché io sono pietoso».\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 17 (18)\nR. Ti amo, Signore, mia forza.\n\nTi amo, Signore, mia forza,\nSignore, mia roccia,\nmia fortezza, mio liberatore. R.\n\nMio Dio, mia rupe, in cui mi rifugio;\nmio scudo, mia potente salvezza e mio baluardo.\nInvoco il Signore, degno di lode,\ne sarò salvato dai miei nemici. R.\n\nViva il Signore e benedetta la mia roccia,\nsia esaltato il Dio della mia salvezza.\nEgli concede al suo re grandi vittorie,\nsi mostra fedele al suo consacrato. R.",
+        "seconda_lettura": "Vi siete convertiti dagli idoli, per servire Dio e attendere il suo Figlio.\nDalla prima lettera di san Paolo apostolo ai Tessalonicési\n1Ts 1,5c-10\n\nFratelli, ben sapete come ci siamo comportati in mezzo a voi per il vostro bene.\nE voi avete seguito il nostro esempio e quello del Signore, avendo accolto la Parola in mezzo a grandi prove, con la gioia dello Spirito Santo, così da diventare modello per tutti i credenti della Macedònia e dell’Acàia. Infatti per mezzo vostro la parola del Signore risuona non soltanto in Macedonia e in Acaia, ma la vostra fede in Dio si è diffusa dappertutto, tanto che non abbiamo bisogno di parlarne.\nSono essi infatti a raccontare come noi siamo venuti in mezzo a voi e come vi siete convertiti dagli idoli a Dio, per servire il Dio vivo e vero e attendere dai cieli il suo Figlio, che egli ha risuscitato dai morti, Gesù, il quale ci libera dall’ira che viene.\n\nParola di Dio.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nSe uno mi ama, osserverà la mia parola, dice il Signore,\ne il Padre mio lo amerà e noi verremo a lui. (Gv 14,23)\n\nAlleluia.",
+        "vangelo": "Amerai il Signore tuo Dio, e il tuo prossimo come te stesso.\nDal Vangelo secondo Matteo\nMt 22,34-40\n\nIn quel tempo, i farisei, avendo udito che Gesù aveva chiuso la bocca ai sadducèi, si riunirono insieme e uno di loro, un dottore della Legge, lo interrogò per metterlo alla prova: «Maestro, nella Legge, qual è il grande comandamento?».\nGli rispose: «\"Amerai il Signore tuo Dio con tutto il tuo cuore, con tutta la tua anima e con tutta la tua mente\". Questo è il grande e primo comandamento. Il secondo poi è simile a quello: \"Amerai il tuo prossimo come te stesso\". Da questi due comandamenti dipendono tutta la Legge e i Profeti».\n\nParola del Signore.\n\nSi dice il Credo.",
+        "sulle_offerte": "Guarda, o Signore, i doni che ti presentiamo,\nperché il nostro servizio sacerdotale\nrenda gloria al tuo nome.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Esulteremo per la tua vittoria\ne nel nome del nostro Dio alzeremo i vessilli. (Sal 19,6)\n\nOppure:\n\nCristo ci ha amato e ha dato se stesso per noi,\noffrendosi a Dio in sacrificio di soave odore. (Ef 5,2)\n\n*A\nAmerai il Signore tuo Dio\ncon tutto il tuo cuore, con tutta la tua anima\ne con tutta la tua mente. (Mt 22,37)",
+        "dopo_la_comunione": "Si compia in noi, o Signore,\nla realtà significata dai tuoi sacramenti,\nperché otteniamo in pienezza\nciò che ora celebriamo nel mistero.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

@@ -1,0 +1,67 @@
+{
+    "data": "2026-10-18",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXIX",
+    "celebrazione": "XXIX DOMENICA DEL TEMPO ORDINARIO - ANNO A",
+    "grado": "Festa",
+    "colore": "Verde",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "San Luca, Evangelista",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/b8b1bc78-8448-484f-8f30-5ffe53227fae.jpeg",
+    "santo": {
+        "nome": "San Luca, Evangelista",
+        "martirologio": "Festa di san Luca, Evangelista, che, secondo la tradizione, nato ad Antiochia da famiglia pagana e medico di professione, si convertì alla fede in Cristo.\nDivenuto compagno carissimo di san Paolo Apostolo, sistemò con cura nel Vangelo tutte le opere e gli insegnamenti di Gesù, divenendo scriba della mansuetudine di Cristo, e narrò negli Atti degli Apostoli gli inizi della vita della Chiesa fino al primo soggiorno di Paolo a Roma.",
+        "altri_santi": [
+            {
+                "nome": "Sant’Asclepiade, vescovo",
+                "martirologio": "Ad Antiochia in Siria, sant’Asclepiade, vescovo, che fu del novero degli insigni confessori della fede al tempo della persecuzione."
+            },
+            {
+                "nome": "Santi martiri Proculo, Euticio e Acuzio",
+                "martirologio": "A Pozzuoli in Campania, santi martiri Proculo, diacono, Euticio e Acuzio."
+            },
+            {
+                "nome": "Sant’Amabile, sacerdote",
+                "martirologio": "A Riom in Aquitania, ora in Francia, sant’Amabile, sacerdote."
+            },
+            {
+                "nome": "San Monóne, eremita e martire",
+                "martirologio": "A Nassogne nel Brabante, nel territorio dell’odierno Belgio, san Monóne, che si ritiene sia stato eremita nella foresta delle Ardenne e martire."
+            },
+            {
+                "nome": "San Pietro di Alcántara, sacerdote",
+                "martirologio": "Ad Arenas nella Castiglia in Spagna, san Pietro di Alcántara, sacerdote dell’Ordine dei Frati Minori, che, insigne per il dono del consiglio e per la sua vita di penitenza e di austerità, rinnovò la disciplina dell’osservanza nei conventi dell’Ordine in Spagna e fu consigliere di santa Teresa di Gesù nella riforma dell’Ordine Carmelitano."
+            },
+            {
+                "nome": "Sant’Isacco Jogues, sacerdote",
+                "martirologio": "Nel villaggio di Ossernenon in territorio canadese, passione di sant’Isacco Jogues, sacerdote della Compagnia di Gesù e martire, che, ridotto in schiavitù da alcuni pagani e mutilato delle dita, morì poi con il capo fracassato da un colpo di scure. La sua memoria si celebra domani insieme a quella dei suoi compagni."
+            },
+            {
+                "nome": "San Paolo della Croce, sacerdote",
+                "martirologio": "A Roma, anniversario della morte di san Paolo della Croce, sacerdote, la cui memoria si celebra domani."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Io t’invoco, o Dio, poiché tu mi rispondi;\ntendi a me l’orecchio, ascolta le mie parole.\nCustodiscimi come pupilla degli occhi,\nall’ombra delle tue ali nascondimi. (Sal 16,6.8)\n\nSi dice il Gloria.",
+        "colletta": "Dio onnipotente ed eterno,\ndonaci di orientare sempre a te la nostra volontà\ne di servirti con cuore sincero.\nPer il nostro Signore Gesù Cristo.\n\nOppure:\n\nO Padre, sul palmo della tua mano\nsta scritto il nome di ogni tuo figlio:\nfa’ che nel misterioso intrecciarsi\ndelle libere volontà degli uomini\nnessuna autorità abusi della propria forza\ne ogni potere si ponga sempre\na servizio del bene di tutti.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Ho preso Ciro per la destra per abbattere davanti a lui le nazioni.\nDal libro del profeta Isaìa\nIs 45,1.4-6\n\nDice il Signore del suo eletto, di Ciro:\n«Io l’ho preso per la destra,\nper abbattere davanti a lui le nazioni,\nper sciogliere le cinture ai fianchi dei re,\nper aprire davanti a lui i battenti delle porte\ne nessun portone rimarrà chiuso.\nPer amore di Giacobbe, mio servo,\ne d’Israele, mio eletto,\nio ti ho chiamato per nome,\nti ho dato un titolo, sebbene tu non mi conosca.\nIo sono il Signore e non c’è alcun altro,\nfuori di me non c’è dio;\nti renderò pronto all’azione, anche se tu non mi conosci,\nperché sappiano dall’oriente e dall’occidente\nche non c’è nulla fuori di me.\nIo sono il Signore, non ce n’è altri».\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 95 (96)\nR. Grande è il Signore e degno di ogni lode.\n\nCantate al Signore un canto nuovo,\ncantate al Signore, uomini di tutta la terra.\nIn mezzo alle genti narrate la sua gloria,\na tutti i popoli dite le sue meraviglie. R.\n\nGrande è il Signore e degno di ogni lode,\nterribile sopra tutti gli dèi.\nTutti gli dèi dei popoli sono un nulla,\nil Signore invece ha fatto i cieli. R.\n\nDate al Signore, o famiglie dei popoli,\ndate al Signore gloria e potenza,\ndate al Signore la gloria del suo nome.\nPortate offerte ed entrate nei suoi atri. R.\n\nProstratevi al Signore nel suo atrio santo.\nTremi davanti a lui tutta la terra.\nDite tra le genti: «Il Signore regna!».\nEgli giudica i popoli con rettitudine. R.",
+        "seconda_lettura": "Mémori della vostra fede, della carità e della speranza.\nDalla prima lettera di san Paolo apostolo ai Tessalonicési\n1Ts 1,1-5b\n\nPaolo e Silvano e Timòteo alla Chiesa dei Tessalonicési che è in Dio Padre e nel Signore Gesù Cristo: a voi,\ngrazia e pace.\nRendiamo sempre grazie a Dio per tutti voi, ricordandovi nelle nostre preghiere e tenendo continuamente presenti l’operosità della vostra fede, la fatica della vostra carità e la fermezza della vostra speranza nel Signore nostro Gesù Cristo, davanti a Dio e Padre nostro.\nSappiamo bene, fratelli amati da Dio, che siete stati scelti da lui. Il nostro Vangelo, infatti, non si diffuse fra voi soltanto per mezzo della parola, ma anche con la potenza dello Spirito Santo e con profonda convinzione.\n\nParola di Dio.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nRisplendete come astri nel mondo,\ntenendo salda la parola di vita. (Fil 2,15d.16a)\n\nAlleluia.",
+        "vangelo": "Rendete a Cesare quello che è di Cesare e a Dio quello che è di Dio.\nDal Vangelo secondo Matteo\nMt 22,15-21\n\nIn quel tempo, i farisei se ne andarono e tennero consiglio per vedere come cogliere in fallo Gesù nei suoi discorsi.\nMandarono dunque da lui i propri discepoli, con gli erodiani, a dirgli: «Maestro, sappiamo\nche sei veritiero e insegni la via di Dio secondo verità. Tu non hai soggezione di alcuno, perché non guardi in faccia a nessuno. Dunque, di’ a noi il tuo parere: è lecito, o no, pagare il tributo a Cesare?».\nMa Gesù, conoscendo la loro malizia, rispose: «Ipocriti, perché volete mettermi alla prova? Mostratemi la moneta del tributo». Ed essi gli presentarono un denaro. Egli domandò loro: «Questa immagine e l’iscrizione, di chi sono?». Gli risposero: «Di Cesare».\nAllora disse loro: «Rendete dunque a Cesare quello che è di Cesare e a Dio quello che è di Dio».\n\nParola del Signore.\n\nSi dice il Credo.",
+        "sulle_offerte": "Per questi tuoi doni concedi a noi, o Signore,\ndi servirti con cuore libero,\nperché, purificati dalla tua grazia,\nsiamo rinnovati dai misteri che celebriamo.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Ecco, l’occhio del Signore è su chi lo teme,\nsu chi spera nel suo amore,\nper liberarlo dalla morte e nutrirlo in tempo di fame. (Sai 32,8-9)\n\n*A\nRendete a Cesare quel che è di Cesare\ne a Dio quel che è di Dio. (Mt 22,21)",
+        "dopo_la_comunione": "La partecipazione ai doni del cielo, o Signore,\nci ottenga gli aiuti necessari alla vita presente\nnella speranza dei beni eterni.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

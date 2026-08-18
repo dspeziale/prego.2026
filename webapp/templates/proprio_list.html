@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block title %}Proprio biennale — LiturgiaCollector{% endblock %}
+{% block page_title %}Proprio biennale{% endblock %}
+
+{% block header_actions %}
+{% if current_user %}
+<a class="btn btn-outline-primary" href="{{ url_for('proprio_new') }}">
+    <i class="fas fa-plus"></i> Nuova ricorrenza
+</a>
+{% endif %}
+{% endblock %}
+
+{% block content %}
+<div class="card">
+    <div class="card-body table-responsive p-0">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Data</th>
+                    <th>Santo</th>
+                    <th class="d-none d-md-table-cell">Tipo</th>
+                    <th class="text-center d-none d-md-table-cell">Letture</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for entry in entries %}
+                <tr>
+                    <td>{{ entry.data_estesa }}</td>
+                    <td>{{ entry.santo }}</td>
+                    <td class="d-none d-md-table-cell">{{ entry.tipo or "—" }}</td>
+                    <td class="text-center d-none d-md-table-cell">{{ entry.letture | length }}</td>
+                    <td class="text-right text-nowrap">
+                        {% if current_user %}
+                        <a href="{{ url_for('proprio_edit', code=entry.data) }}"
+                           class="btn btn-sm btn-outline-primary">
+                            <i class="fas fa-pen"></i><span class="d-none d-sm-inline"> Modifica</span>
+                        </a>
+                        <form method="post" class="d-inline js-confirm"
+                              action="{{ url_for('proprio_delete', code=entry.data) }}"
+                              data-message="Eliminare {{ entry.data_estesa }} — {{ entry.santo }}?">
+                            <button type="submit" class="btn btn-sm btn-outline-danger">
+                                <i class="fas fa-trash"></i>
+                            </button>
+                        </form>
+                        {% endif %}
+                    </td>
+                </tr>
+            {% else %}
+                <tr><td colspan="5" class="text-center text-muted p-4">
+                    Nessuna ricorrenza inserita:
+                    <a href="{{ url_for('proprio_new') }}">crea la prima</a>.
+                </td></tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}

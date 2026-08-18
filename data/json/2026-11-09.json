@@ -1,0 +1,80 @@
+{
+    "data": "2026-11-09",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXII",
+    "celebrazione": "Dedicazione della Basilica Lateranense",
+    "grado": "Festa",
+    "colore": "Bianco",
+    "settimana_del_salterio": "IV",
+    "santo_del_giorno": "Dedicazione della basilica Lateranense",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/957d9337-1f9b-49a9-aa9b-e462171cc662.jpeg",
+    "santo": {
+        "nome": "Dedicazione della basilica Lateranense",
+        "martirologio": "Festa della dedicazione della basilica Lateranense, costruita dall’imperatore Costantino in onore di Cristo Salvatore come sede dei vescovi di Roma, la cui annuale celebrazione in tutta la Chiesa latina è segno dell’amore e dell’unità con il Romano Pontefice.",
+        "altri_santi": [
+            {
+                "nome": "Sant’Orsino, vescovo",
+                "martirologio": "Presso Bourges in Francia, sant’Orsino, primo vescovo, che annunciò al popolo Cristo Signore e per i credenti, per la massima parte poveri, trasformò in chiesa la casa di Leucadio, senatore delle Gallie ancora pagano."
+            },
+            {
+                "nome": "Sant’Agrippino, vescovo",
+                "martirologio": "A Napoli, sant'Agrippino, vescovo, che fu tra i primi che antichi documenti dichiarano difensore della città."
+            },
+            {
+                "nome": "San Vito, vescovo",
+                "martirologio": "A Verdun nella Gallia belgica, ora in Francia, san Vito, vescovo."
+            },
+            {
+                "nome": "Sante Eustolia e Sópatra, vergini e monache",
+                "martirologio": "A Costantinopoli, sante Eustolia e Sópatra, vergini e monache."
+            },
+            {
+                "nome": "San Giorgio, vescovo",
+                "martirologio": "A Lodève nella Gallia narbonense, ora in Francia, san Giorgio, vescovo."
+            },
+            {
+                "nome": "Beata Giovanna, vergine",
+                "martirologio": "A Signa presso Firenze, beata Giovanna, vergine, che condusse vita solitaria per Cristo."
+            },
+            {
+                "nome": "beato Gabriele Ferretti, sacerdote",
+                "martirologio": "Ad Ancona, beato Gabriele Ferretti, sacerdote dell’Ordine dei Minori, che rifulse nell’assistenza ai bambini e ai malati, nell’obbedienza e nell’osservanza della regola."
+            },
+            {
+                "nome": "Beato Ludovico Morbioli",
+                "martirologio": "A Bologna, beato Ludovico Morbioli, che, convertitosi a Dio da una vita immersa nel vizio, scelse un severo tenore di vita da penitente e richiamò con la parola e con l’esempio i cittadini alla pietà."
+            },
+            {
+                "nome": "Beato Grazia da Cáttaro, religioso",
+                "martirologio": "A Murano in Veneto, beato Grazia da Cáttaro, religioso dell’Ordine di Sant’Agostino, che, dopo essere vissuto in grande povertà alla guida di una piccola imbarcazione per procurarsi il cibo, spinto dai sermoni del beato Simone da Camerino, chiese di poter indossare l’abito religioso e condusse\nuna vita pia."
+            },
+            {
+                "nome": "Beato Giorgio Napper, sacerdote e martire",
+                "martirologio": "A Oxford in Inghilterra, beato Giorgio Napper, sacerdote e martire, che tanto nell’esercizio clandestino del suo ministero quanto in carcere operò mirabilmente per guadagnare anime a Cristo nella Chiesa e per il suo sacerdozio meritò di ricevere, sotto il re Giacomo I, la corona del martirio."
+            },
+            {
+                "nome": "Beata Elisabetta della Santissima Trinità Catez, vergine",
+                "martirologio": "A Digione in Francia, beata Elisabetta della Santissima Trinità Catez, vergine dell’Ordine delle Carmelitane Scalze, che sin dalla fanciullezza cercò e contemplò nel profondo del cuore il mistero della Trinità e, ancora giovane, tra molte tribolazioni, giunse, come aveva desiderato, all’amore, alla\nluce, alla vita."
+            },
+            {
+                "nome": "Beato Enrico Hlebowicz, sacerdote e martire",
+                "martirologio": "Nella cittadina di Borysów in Polonia, beato Enrico Hlebowicz, sacerdote e martire, fucilato durante la guerra in odio alla fede."
+            },
+            {
+                "nome": "Beato Luigi Beltrame Quattrocchi",
+                "martirologio": "A Roma, beato Luigi Beltrame Quattrocchi, che, padre di famiglia, nelle faccende pubbliche come in quelle private osservò i comandamenti di Cristo e li proclamò con diligenza e probità di vita."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

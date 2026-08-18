@@ -1,0 +1,74 @@
+{
+    "data": "2026-10-07",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXVII",
+    "celebrazione": "BEATA VERGINE MARIA DEL ROSARIO – MEMORIA",
+    "grado": "Memoria",
+    "colore": "Bianco",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "Beata Maria Vergine del Rosario",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/a7c5ac69-66c1-4393-8b1a-fc89ba6bae7f.jpeg",
+    "santo": {
+        "nome": "Beata Maria Vergine del Rosario",
+        "martirologio": "Memoria della beata Maria Vergine del Rosario: in questo giorno con la preghiera del Rosario o corona mariana si invoca la protezione della santa Madre di Dio per meditare sui misteri di Cristo, sotto la guida di lei, che fu associata in modo tutto speciale all’incarnazione, passione e risurrezione del Figlio di Dio.",
+        "altri_santi": [
+            {
+                "nome": "San Marcello, martire",
+                "martirologio": "A Capua in Campania, san Marcello, martire."
+            },
+            {
+                "nome": "Santa Giustina, vergine e martire",
+                "martirologio": "A Padova, santa Giustina, vergine e martire."
+            },
+            {
+                "nome": "Santi Sergio e Bacco, martiri",
+                "martirologio": "Nella regione di Rusafah in Siria presso il fiume Eufrate, santi Sergio e Bacco, martiri."
+            },
+            {
+                "nome": "San Marco, papa",
+                "martirologio": "A Roma, san Marco, papa, che costruì la chiesa del titolo in Pallacinis e una basilica nel cimitero di Balbina sulla via Ardeatina, dove egli stesso fu inumato."
+            },
+            {
+                "nome": "Sant’Augusto, sacerdote e abate",
+                "martirologio": "Presso Bourges in Aquitania, in Francia, sant’Augusto, sacerdote e abate, che aveva le mani e i piedi così contratti da non potersi sostenere se non con le ginocchia e i gomiti; sanato per intercessione di san Martino, radunò intorno a sé dei monaci e attese initerrottamente alla preghiera."
+            },
+            {
+                "nome": "San Palladio, vescovo",
+                "martirologio": "A Saintes sempre in Aquitania, san Palladio, vescovo, che innalzò una basilica sulla tomba di sant’Eutropio e accrebbe nella sua città il culto dei santi."
+            },
+            {
+                "nome": "Beato Martino, detto Cid, abate",
+                "martirologio": "Nel monastero di Bellofonte nel regno di León, beato Martino, detto Cid, abate, che fondò questo cenobio e lo aggregò all’Ordine Cistercense."
+            },
+            {
+                "nome": "Beato Giovanni Hunot, sacerdote e martire",
+                "martirologio": "Nel mare di Rochefort prospicente la costa francese, beato Giovanni Hunot, sacerdote e martire, che, gettato in una galera durante la rivoluzione francese a causa del suo sacerdozio, terminò il corso della sua prigionia nella piena fedeltà a Dio."
+            },
+            {
+                "nome": "Beato Giuseppe Llosá Balaguer, religioso",
+                "martirologio": "Nel villaggio di Benaguacil nel territorio di Valencia in Spagna, beato Giuseppe Llosá Balaguer, religioso del Terz’Ordine Cappuccino della beata Vergine Addolorata e martire, che subì il martirio durante la persecuzione contro la fede."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Rallegrati, Maria, piena di grazia, il Signore è con te:\nbenedetta tu fra le donne e benedetto il frutto del tuo grembo. (Lc 1,28.42)",
+        "colletta": "Infondi nel nostro spirito la tua grazia, o Padre;\ntu, che all’annuncio dell’angelo\nci hai rivelato l’incarnazione di Cristo tuo Figlio,\nper la sua passione e la sua croce,\ncon l’intercessione della beata Vergine Maria,\nguidaci alla gloria della risurrezione.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Erano perseveranti e concordi nella preghiera, insieme a Maria, la madre di Gesù.\nDagli Atti degli Apostoli\nAt 1,12-14\n\n[Dopo che Gesù fu assunto in cielo, gli apostoli] ritornarono a Gerusalemme dal monte detto degli Ulivi, che è vicino a Gerusalemme quanto il cammino permesso in giorno di sabato.\nEntrati in città, salirono nella stanza al piano superiore, dove erano soliti riunirsi: vi erano Pietro e Giovanni, Giacomo e Andrea, Filippo e Tommaso, Bartolomeo e Matteo, Giacomo figlio di Alfeo, Simone lo Zelota e Giuda figlio di Giacomo.\nTutti questi erano perseveranti e concordi nella preghiera, insieme ad alcune donne e a Maria, la madre di Gesù, e ai fratelli di lui.\n\nParola di Dio.",
+        "salmo_responsoriale": "Da Lc 1,46-55\nR. Il Signore si è ricordato della sua misericordia.\n\nOppure:\n\nR. Grandi cose ha fatto per me l'Onnipotente.\n\nL’anima mia magnifica il Signore\ne il mio spirito esulta in Dio, mio salvatore. R.\n\nPerché ha guardato l’umiltà della sua serva.\nD’ora in poi tutte le generazioni mi chiameranno beata.\nGrandi cose ha fatto per me l’Onnipotente\ne Santo è il suo nome. R.\n\nDi generazione in generazione la sua misericordia\nper quelli che lo temono.\nHa spiegato la potenza del suo braccio,\nha disperso i superbi nei pensieri del loro cuore. R.\n\nHa rovesciato i potenti dai troni,\nha innalzato gli umili;\nha ricolmato di beni gli affamati,\nha rimandato i ricchi a mani vuote. R.\n\nHa soccorso Israele, suo servo,\nricordandosi della sua misericordia,\ncome aveva detto ai nostri padri,\nper Abramo e la sua discendenza, per sempre. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nRallégrati, piena di grazia: il Signore è con te,\nbenedetta tu fra le donne. (Cf. Lc 1,28.42)\n\nAlleluia.",
+        "vangelo": "Ecco concepirai un figlio e lo darai alla luce.\nDal Vangelo secondo Luca\nLc 1,26-38\n\nIn quel tempo, l'angelo Gabriele fu mandato da Dio in una città della Galilea, chiamata Nàzaret, a una vergine, promessa sposa di un uomo della casa di Davide, di nome Giuseppe. La vergine si chiamava Maria. Entrando da lei, disse: «Rallégrati, piena di grazia: il Signore è con te».\nA queste parole ella fu molto turbata e si domandava che senso avesse un saluto come questo. L'angelo le disse: «Non temere, Maria, perché hai trovato grazia presso Dio. Ed ecco, concepirai un figlio, lo darai alla luce e lo chiamerai Gesù. Sarà grande e verrà chiamato Figlio dell'Altissimo; il Signore Dio gli darà il trono di Davide suo padre e regnerà per sempre sulla casa di Giacobbe e il suo regno non avrà fine».\nAllora Maria disse all'angelo: «Come avverrà questo, poiché non conosco uomo?». Le rispose l'angelo: «Lo Spirito Santo scenderà su di te e la potenza dell'Altissimo ti coprirà con la sua ombra. Perciò colui che nascerà sarà santo e sarà chiamato Figlio di Dio. Ed ecco, Elisabetta, tua parente, nella sua vecchiaia ha concepito anch'essa un figlio e questo è il sesto mese per lei, che era detta sterile: nulla è impossibile a Dio».\nAllora Maria disse: «Ecco la serva del Signore: avvenga per me secondo la tua parola». E l'angelo si allontanò da lei.\n\nParola del Signore.",
+        "sulle_offerte": "O Signore, concedi che la nostra vita sia conforme\nall’offerta che ti presentiamo\ne donaci di contemplare i misteri del tuo Figlio unigenito,\ncosì da essere resi degni delle sue promesse.\nEgli vive e regna nei secoli dei secoli.",
+        "antifona_alla_comunione": "Ecco, concepirai un figlio, lo darai alla luce e lo chiamerai Gesù. (Lc 1,31)",
+        "dopo_la_comunione": "Signore, Dio nostro,\nconcedi a noi, che in questo sacramento annunciamo\nla morte e la risurrezione del tuo Figlio,\ndi essere associati alla sua passione,\nper godere della sua consolazione e partecipare alla sua gloria.\nEgli vive e regna nei secoli dei secoli."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

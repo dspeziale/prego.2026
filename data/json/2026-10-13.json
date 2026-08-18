@@ -1,0 +1,86 @@
+{
+    "data": "2026-10-13",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXVIII",
+    "celebrazione": "MARTEDÌ DELLA XXVIII SETTIMANA DEL TEMPO ORDINARIO",
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "IV",
+    "santo_del_giorno": "San Teófilo, vescovo",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/54349a39-0687-4ba8-a211-51f3862ca903.jpeg",
+    "santo": {
+        "nome": "San Teófilo, vescovo",
+        "martirologio": "Commemorazione di san Teófilo, vescovo di Antiochia, uomo di grandissima cultura, che tenne, sesto dopo il beato Apostolo Pietro, il pontificato di questa Chiesa e scrisse un’opera contro Marcione per difendere la retta fede.",
+        "altri_santi": [
+            {
+                "nome": "San Fiorenzo, martire",
+                "martirologio": "A Salonicco in Macedonia, ora in Grecia, san Fiorenzo, martire, che dopo vari supplizi si tramanda sia stato ucciso nel fuoco."
+            },
+            {
+                "nome": "Santi Fausto, Gennaro e Marziale, martiri",
+                "martirologio": "A Córdova nell’Andalusia in Spagna, santi Fausto, Gennaro e Marziale, martiri, che adornano la città come tre corone."
+            },
+            {
+                "nome": "San Lubenzio, sacerdote",
+                "martirologio": "A Kobern sulla Mosella presso Treviri, in Germania, san Lubenzio, sacerdote."
+            },
+            {
+                "nome": "San Romolo, vescovo",
+                "martirologio": "A Sanremo sulla costa ligure, deposizione di san Romolo, vescovo di Genova, che, pieno di ardore apostolico, morì mentre si recava in visita presso le popolazioni rurali."
+            },
+            {
+                "nome": "San Venanzio, abate",
+                "martirologio": "A Tours nella Gallia lugdunense, ora in Francia, san Venanzio, abate, che, sposatosi in giovane età, si recò alla basilica di San Martino e, rimasto colpito dalla vita dei monaci, con il consenso della moglie scelse di vivere tra loro in Cristo."
+            },
+            {
+                "nome": "San Leobono, eremita",
+                "martirologio": "A Salagnac presso Limoges in Aquitania, ancora in Francia, san Leobono, eremita."
+            },
+            {
+                "nome": "San Comgano, abate",
+                "martirologio": "Nell’isola di Iona in Scozia, desposizione di san Comgano, abate, che, venne dall’Irlanda in questa regione insieme alla sorella santa Chentigerna, ai figli di lei e ad alcuni missionari."
+            },
+            {
+                "nome": "San Simberto, vescovo e abate",
+                "martirologio": "Ad Augsburg nella Baviera in Germania, san Simberto, che fu vescovo e abate di Murbach."
+            },
+            {
+                "nome": "San Gerardo, monaco",
+                "martirologio": "A Saint-Ciergues nella regione dell’Auvergne in Francia, san Gerardo, che, conte di Aurillac, con grande profitto per i suoi possedimenti condusse segretamente vita monastica sotto l’abito secolare, divenendo modello di riferimento per i potenti."
+            },
+            {
+                "nome": "Santa Chelidona, vergine",
+                "martirologio": "Presso Subiaco nel Lazio, santa Chelidona, vergine: si tramanda che per cinquantadue anni abbia condotto vita solitaria e di estrema austerità servendo Dio solo."
+            },
+            {
+                "nome": "Beata Maddalena Panatieri, vergine",
+                "martirologio": "A Trino nel Monferrato in Piemonte, beata Maddalena Panatieri, vergine, suora della Penitenza di San Domenico."
+            },
+            {
+                "nome": "Beata Alessandrina Maria da Costa",
+                "martirologio": "Nel villaggio di Balasar vicino a Braga in Portogallo, beata Alessandrina Maria da Costa: rimasta paralizzata in tutto il corpo per sfuggire alle cattive intenzioni di un tale contro di lei, offrì tutti i suoi dolori al Signore per amore di Dio e dei fratelli bisognosi nella contemplazione dell’Eucaristia."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "colletta": "Ci preceda e ci accompagni sempre la tua grazia, o Signore,\nperché, sorretti dal tuo paterno aiuto,\nnon ci stanchiamo mai di operare il bene.\nPer il nostro Signore Gesù Cristo.",
+        "antifona_d_ingresso": "Se consideri le colpe, o Signore,\nSignore, chi ti può resistere?\nCon te è il perdono, Dio d’Israele. (Cf. Sal 129,3-4)",
+        "prima_lettura": "Non è la circoncisione che vale, ma la fede che si rende operosa per mezzo della carità.\nDalla lettera di san Paolo apostolo ai Gàlati\nGal 5,1-6\n\nFratelli, Cristo ci ha liberati per la libertà! State dunque saldi e non lasciatevi imporre di nuovo il giogo della schiavitù.\nEcco, io, Paolo, vi dico: se vi fate circoncidere, Cristo non vi gioverà a nulla. E dichiaro ancora una volta a chiunque si fa circoncidere che egli è obbligato ad osservare tutta quanta la Legge. Non avete più nulla a che fare con Cristo voi che cercate la giustificazione nella Legge; siete decaduti dalla grazia.\nQuanto a noi, per lo Spirito, in forza della fede, attendiamo fermamente la giustizia sperata. Perché in Cristo Gesù non è la circoncisione che vale o la non circoncisione, ma la fede che si rende operosa per mezzo della carità.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 118 (119)\nR. Venga a me, Signore, il tuo amore.\n\nVenga a me, Signore, il tuo amore,\nla tua salvezza secondo la tua promessa.\nNon togliere dalla mia bocca la parola vera,\nperché spero nei tuoi giudizi. R.\n\nOsserverò continuamente la tua legge,\nin eterno, per sempre.\nCamminerò in un luogo spazioso,\nperché ho ricercato i tuoi precetti. R.\n\nLa mia delizia sarà nei tuoi comandi,\nche io amo.\nAlzerò le mani verso i tuoi comandi che amo,\nmediterò i tuoi decreti. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nLa parola di Dio è viva, efficace;\ndiscerne i sentimenti e i pensieri del cuore. (Eb 4,12)\n\nAlleluia.",
+        "vangelo": "Date in elemosina, ed ecco, per voi tutto sarà puro.\nDal Vangelo secondo Luca\nLc 11,37-41\n\nIn quel tempo, mentre Gesù stava parlando, un fariseo lo invitò a pranzo. Egli andò e si mise a tavola. Il fariseo vide e si meravigliò che non avesse fatto le abluzioni prima del pranzo.\nAllora il Signore gli disse: «Voi farisei pulite l’esterno del bicchiere e del piatto, ma il vostro interno è pieno di avidità e di cattiveria. Stolti! Colui che ha fatto l’esterno non ha forse fatto anche l’interno? Date piuttosto in elemosina quello che c’è dentro, ed ecco, per voi tutto sarà puro».\n\nParola del Signore.",
+        "sulle_offerte": "Accogli, o Signore, le preghiere dei tuoi fedeli\ninsieme all’offerta di questo sacrificio,\nperché mediante il nostro servizio sacerdotale\npossiamo giungere alla gloria del cielo.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "I leoni sono miseri e affamati;\na chi cerca il Signore non manca alcun bene. (Sal 33,11)\n\nOppure:\n\nQuando il Signore si sarà manifestato,\nnoi saremo simili a lui, perché lo vedremo così come egli è. (1Gv 3,2)",
+        "dopo_la_comunione": "Ti supplichiamo, o Padre d’infinita grandezza:\ncome ci nutri del Corpo e Sangue del tuo Figlio,\ncosì rendici partecipi della natura divina.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

@@ -1,0 +1,98 @@
+{
+    "data": "2026-10-19",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXIX",
+    "celebrazione": "LUNEDÌ DELLA XXIX SETTIMANA DEL TEMPO ORDINARIO",
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "San Paolo della Croce, sacerdote",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/71405d14-7da3-41b1-aeb5-5cf557e2a08b.jpeg",
+    "santo": {
+        "nome": "San Paolo della Croce, sacerdote",
+        "martirologio": "San Paolo della Croce, sacerdote, che fin dalla giovinezza rifulse per spirito di penitenza e zelo e, mosso da singolare carità verso Cristo crocifisso contemplato nel volto dei poveri e dei malati, istituì la Congregazione dei Chierici regolari della Croce e della Passione di Nostro Signore Gesù Cristo. Il suo anniversario di morte, avvenuta a Roma, ricorre il giorno precedente a questo.",
+        "altri_santi": [
+            {
+                "nome": "Santi Giovanni de Brébeuf, Isacco Jogues e compagni, martiri",
+                "martirologio": "Santi Giovanni de Brébeuf, Isacco Jogues, sacerdoti, e compagni, martiri, della Compagnia di Gesù: in questo giorno san Giovanni de la Lande, religioso, fu ucciso da alcuni pagani del luogo nel villaggio di Ossernenon, oggi in Canada, dove, pochi anni prima, anche san Renato Goupil aveva conseguito la palma del martirio. In un’unica commemorazione si celebrano in questo giorno anche i loro confratelli, i santi Gabriele Lalemant, Antonio Daniel, Carlo Garnier e Natale Chabanel, che in territorio canadese, in giorni diversi morirono martiri, dopo molte fatiche compiute nella missione presso gli Uroni per annunciare il Vangelo di Cristo alle popolazioni di questa regione."
+            },
+            {
+                "nome": "San Gioele, profeta",
+                "martirologio": "Commemorazione di san Gioele, profeta, che annunciò il grande giorno del Signore e il mistero dell’effusione del suo Spirito su ogni uomo, che la maestà divina si degnò di compiere mirabilmente in Cristo nel giorno di Pentecoste."
+            },
+            {
+                "nome": "Santi Tolomeo, Lucio e un altro compagno",
+                "martirologio": "A Roma, commemorazione dei santi Tolomeo, Lucio e un altro compagno, che, come riferisce san Giustino, riconosciuti come cristiani per aver biasimato la licenziosità dei costumi e l’ingiustizia delle sentenze, furono condannati sotto l’imperatore Antonino Pio dal prefetto Lollo Urbico."
+            },
+            {
+                "nome": "Sant’Asterio, martire",
+                "martirologio": "A Ostia nel Lazio, sant’Asterio, martire."
+            },
+            {
+                "nome": "Santi Sabiniano e Potenziano, martiri",
+                "martirologio": "Presso Sens nella Gallia lugdunense, ora in Francia, commemorazione dei santi Sabiniano e Potenziano, che, ritenuti i primi pastori di questa città, coronarono in essa con il martirio la propria professione di fede."
+            },
+            {
+                "nome": "San Varo, soldato e martire",
+                "martirologio": "In Egitto, san Varo, soldato, che, sotto l’imperatore Massimiano, mentre visitava e confortava sei santi eremiti tenuti in carcere, volle prendere il posto di un settimo che era morto nell’eremo e, così, patiti insieme a loro crudeli supplizi, conseguì la palma del martirio."
+            },
+            {
+                "nome": "San Grato, vescovo",
+                "martirologio": "A Oléron sul versante francese dei Pirenei in Aquitania, ora in Francia, commemorazione di san Grato, vescovo, che, al tempo di Alarico, re ariano dei Goti, partecipò al Concilio di Agde per riformare la Chiesa in questa regione della Francia."
+            },
+            {
+                "nome": "Sant’Etbino, monaco",
+                "martirologio": "In Bretagna, sant’Etbino, monaco, che fece vita solitaria."
+            },
+            {
+                "nome": "San Verano, vescovo",
+                "martirologio": "A Cavaillon nella Provenza in Francia, san Verano, vescovo, colmo di grandi virtù, soprattutto nell’assistenza ai malati."
+            },
+            {
+                "nome": "Sant’Aquilino, vescovo",
+                "martirologio": "A Évreux sempre in Francia, sant’Aquilino, vescovo, che, come si tramanda, era un soldato dedito a opere di bene e, fatto con il consenso della moglie voto di continenza, venne, infine, eletto vescovo di questa sede."
+            },
+            {
+                "nome": "Santa Fridesvida, vergine",
+                "martirologio": "A Oxford in Inghilterra, santa Fridesvida, vergine, che, nata da stirpe regale e divenuta badessa, resse due cenobi, l’uno di monaci, l’altro di vergini consacrate."
+            },
+            {
+                "nome": "Beato Tommaso Hélye, sacerdote",
+                "martirologio": "A Biville vicino a Cherbourg in Normandia, beato Tommaso Hélye, sacerdote, che impegnava i giorni nell’esercizio del sacro ministero, le notti nella preghiera e nella penitenza."
+            },
+            {
+                "nome": "San Filippo Howard, martire",
+                "martirologio": "A Londra in Inghilterra, san Filippo Howard, martire, che, conte di Arundel e padre di famiglia, caduto in disgrazia presso la regina Elisabetta per avere abbracciato la fede cattolica, fu gettato in carcere, dove, mirabilmente dedito alla preghiera e alla penitenza, meritò di ricevere la corona del martirio consunto dagli stenti e dalle torture."
+            },
+            {
+                "nome": "Santi martiri Luca Alfonso Gorda e Matteo Kohioye, religioso",
+                "martirologio": "A Nagasaki in Giappone, santi martiri Luca Alfonso Gorda, sacerdote, e Matteo Kohioye, religioso, entrambi dell’Ordine dei Predicatori, dei quali il primo fu coraggioso ministro del Vangelo prima nelle isole Filippine e poi per dieci anni in Giappone, mentre l’altro, di diciotto anni, fu suo compagno nell’annunciare e testimoniare la fede."
+            },
+            {
+                "nome": "Beata Agnese di Gesù Galand, vergine",
+                "martirologio": "A Langeac lungo il fiume Allier in Francia, beata Agnese di Gesù Galand, vergine dell’Ordine dei Predicatori, che, priora del convento, rifulse nell’ardente amore per Gesù Cristo e nella dedizione alla Chiesa, offrendo continue preghiere e penitenze per i suoi pastori."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Io t’invoco, o Dio, poiché tu mi rispondi;\ntendi a me l’orecchio, ascolta le mie parole.\nCustodiscimi come pupilla degli occhi,\nall’ombra delle tue ali nascondimi. (Sal 16,6.8)",
+        "colletta": "Dio onnipotente ed eterno,\ndonaci di orientare sempre a te la nostra volontà\ne di servirti con cuore sincero.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Con Cristo ci ha risuscitato e con lui ci ha fatto sedere nei cieli.\nDalla lettera di san Paolo apostolo agli Efesìni\nEf 2,1-10\n\nFratelli, voi eravate morti per le vostre colpe e i vostri peccati, nei quali un tempo viveste, alla maniera di questo mondo, seguendo il principe delle Potenze dell’aria, quello spirito che ora opera negli uomini ribelli. Anche tutti noi, come loro, un tempo siamo vissuti nelle nostre passioni carnali seguendo le voglie della carne e dei pensieri cattivi: eravamo per natura meritevoli d’ira, come gli altri.\nMa Dio, ricco di misericordia, per il grande amore con il quale ci ha amato, da morti che eravamo per le colpe, ci ha fatto rivivere con Cristo: per grazia siete salvati. Con lui ci ha anche risuscitato e ci ha fatto sedere nei cieli, in Cristo Gesù, per mostrare nei secoli futuri la straordinaria ricchezza della sua grazia mediante la sua bontà verso di noi in Cristo Gesù.\nPer grazia infatti siete salvati mediante la fede; e ciò non viene da voi, ma è dono di Dio; né viene dalle opere, perché nessuno possa vantarsene. Siamo infatti opera sua, creati in Cristo Gesù per le opere buone, che Dio ha preparato perché in esse camminassimo.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 99 (100)\nR. Il Signore ci ha fatti e noi siamo suoi.\nOppure:\nR. Salvati dall’amore, cantiamo un canto nuovo.\n\nAcclamate il Signore, voi tutti della terra,\nservite il Signore nella gioia,\npresentatevi a lui con esultanza. R.\n\nRiconoscete che solo il Signore è Dio:\negli ci ha fatti e noi siamo suoi,\nsuo popolo e gregge del suo pascolo. R.\n\nVarcate le sue porte con inni di grazie,\ni suoi atri con canti di lode,\nlodatelo, benedite il suo nome. R.\n\nPerché buono è il Signore,\nil suo amore è per sempre,\nla sua fedeltà di generazione in generazione. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nBeati i poveri in spirito,\nperché di essi è il regno dei cieli. (Mt 5,3)\n\nAlleluia.",
+        "vangelo": "Quello che hai preparato, di chi sarà?\nDal Vangelo secondo Luca\nLc 12,13-21\n\nIn quel tempo, uno della folla disse a Gesù: «Maestro, di’ a mio fratello che divida con me l’eredità». Ma egli rispose: «O uomo, chi mi ha costituito giudice o mediatore sopra di voi?».\nE disse loro: «Fate attenzione e tenetevi lontani da ogni cupidigia perché, anche se uno è nell’abbondanza, la sua vita non dipende da ciò che egli possiede».\nPoi disse loro una parabola: «La campagna di un uomo ricco aveva dato un raccolto abbondante. Egli ragionava tra sé: “Che farò, poiché non ho dove mettere i miei raccolti? Farò così – disse –: demolirò i miei magazzini e ne costruirò altri più grandi e vi raccoglierò tutto il grano e i miei beni. Poi dirò a me stesso: Anima mia, hai a disposizione molti beni, per molti anni; ripòsati, mangia, bevi e divèrtiti!”. Ma Dio gli disse: “Stolto, questa notte stessa ti sarà richiesta la tua vita. E quello che hai preparato, di chi sarà?”. Così è di chi accumula tesori per sé e non si arricchisce presso Dio».\n\nParola del Signore.",
+        "sulle_offerte": "Per questi tuoi doni concedi a noi, o Signore,\ndi servirti con cuore libero,\nperché, purificati dalla tua grazia,\nsiamo rinnovati dai misteri che celebriamo.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Ecco, l’occhio del Signore è su chi lo teme,\nsu chi spera nel suo amore,\nper liberarlo dalla morte e nutrirlo in tempo di fame. (Sal 32,18-19)",
+        "dopo_la_comunione": "La partecipazione ai doni del cielo, o Signore,\nci ottenga gli aiuti necessari alla vita presente\nnella speranza dei beni eterni.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

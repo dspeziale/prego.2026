@@ -1,0 +1,66 @@
+{
+    "data": "2026-10-15",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXVIII",
+    "celebrazione": "SANTA TERESA DI GESÙ, VERGINE E DOTTORE DELLA CHIESA – MEMORIA",
+    "grado": "Memoria",
+    "colore": "Bianco",
+    "settimana_del_salterio": "IV",
+    "santo_del_giorno": "Santa Teresa d'Avila, vergine e dottore della Chiesa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/b9de878c-7822-407a-8216-c20661baa28f.jpeg",
+    "santo": {
+        "nome": "Santa Teresa d'Avila, vergine e dottore della Chiesa",
+        "martirologio": "Memoria di santa Teresa di Gesù, vergine e dottore della Chiesa: entrata ad Ávila in Spagna nell'Ordine Carmelitano e divenuta madre e maestra di una assai stretta osservanza, dispose nel suo cuore un percorso di perfezionamento spirituale sotto l’aspetto di una ascesa per gradi dell’anima a Dio; per la riforma del suo Ordine sostenne molte tribolazioni, che superò sempre con invitto animo; scrisse anche libri pervasi di alta dottrina e carichi della sua profonda esperienza.",
+        "altri_santi": [
+            {
+                "nome": "San Barsen, vescovo",
+                "martirologio": "A Edessa nell’antica Siria, commemorazione di san Barsen, vescovo, che, relegato dall’imperatore ariano Valente in regioni lontane per la sua retta fede e condannato all’esilio in tre luoghi diversi, terminò la sua vita in un giorno rimasto ignoto del mese di marzo."
+            },
+            {
+                "nome": "San Severo, vescovo",
+                "martirologio": "A Treviri nella Gallia belgica, nell’odierna Germania, san Severo, vescovo, che, discepolo di san Lupo di Troyes, fu compagno di san Germano di Auxerre nella lotta contro l’eresia pelagiana in Bretagna e predicò tra i Germani il Vangelo di Cristo."
+            },
+            {
+                "nome": "Santa Tecla, badessa",
+                "martirologio": "A Kitzingen in Germania, santa Tecla, badessa, che, mandata dall’Inghilterra in aiuto a san Bonifacio, resse prima il monastero di Ochsenfurt e poi quello di Kitzingen."
+            },
+            {
+                "nome": "Santa Edvige, religiosa",
+                "martirologio": "Nel monastero di Trebnitz nella Slesia, in Polonia, anniversario della morte di santa Edvige, religiosa, la cui memoria si celebra domani."
+            },
+            {
+                "nome": "Beato Gonsalvo da Lagos, sacerdote",
+                "martirologio": "A Torresvedras in Portogallo, beato Gonsalvo da Lagos, sacerdote dell’Ordine degli Eremiti di Sant’Agostino, che si dedicò con zelo all’insegnamento dei precetti cristiani ai fanciulli e agli incolti."
+            },
+            {
+                "nome": "Santa Maddalena, vergine e martire",
+                "martirologio": "A Nagasaki in Giappone, santa Maddalena, vergine e martire, forte d’animo tanto nel promuovere la fede quanto nel sopportare per tredici giorni il supplizio della forca sotto l’imperatore Yemitsu."
+            },
+            {
+                "nome": "Beato Narciso Basté Basté, sacerdote",
+                "martirologio": "A Valencia in Spagna, beato Narciso Basté Basté, sacerdote della Compagnia di Gesù e martire, che, accogliendo fedelmente le parole di Cristo, in tempo di persecuzione contro la fede passò dalla morte alla vita eterna."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Come la cerva anela ai corsi d’acqua,\ncosì l’anima mia anela a te, o Dio.\nL’anima mia ha sete di Dio, del Dio vivente. (Sal 41,2-3)",
+        "colletta": "O Dio, che per mezzo del tuo Spirito hai suscitato\nsanta Teresa[ di Gesù] per mostrare alla Chiesa\nuna via nuova nella ricerca della perfezione,\nconcedi a noi di nutrirci sempre della sua dottrina\ne di essere infiammati da un vivo desiderio di santità.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "In lui ci ha scelti prima della creazione del mondo.\nDalla lettera di san Paolo apostolo agli Efesìni\nEf 1,1-10\n\nPaolo, apostolo di Cristo Gesù per volontà di Dio, ai santi che sono a Èfeso credenti in Cristo Gesù: grazia a voi e pace da Dio, Padre nostro, e dal Signore Gesù Cristo.\nBenedetto Dio, Padre del Signore nostro Gesù Cristo,\nche ci ha benedetti con ogni benedizione spirituale nei cieli in Cristo.\nIn lui ci ha scelti prima della creazione del mondo\nper essere santi e immacolati di fronte a lui nella carità,\npredestinandoci a essere per lui figli adottivi\nmediante Gesù Cristo,\nsecondo il disegno d'amore della sua volontà,\na lode dello splendore della sua grazia,\ndi cui ci ha gratificati nel Figlio amato.\nIn lui, mediante il suo sangue,\nabbiamo la redenzione, il perdono delle colpe,\nsecondo la ricchezza della sua grazia.\nEgli l'ha riversata in abbondanza su di noi\ncon ogni sapienza e intelligenza,\nfacendoci conoscere il mistero della sua volontà,\nsecondo la benevolenza che in lui si era proposto\nper il governo della pienezza dei tempi:\nricondurre al Cristo, unico capo, tutte le cose,\nquelle nei cieli e quelle sulla terra.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 97 (98)\nR. Il Signore ha rivelato la sua giustizia.\n\nCantate al Signore un canto nuovo,\nperché ha compiuto meraviglie.\nGli ha dato vittoria la sua destra\ne il suo braccio santo. R.\n\nIl Signore ha fatto conoscere la sua salvezza,\nagli occhi delle genti ha rivelato la sua giustizia.\nEgli si è ricordato del suo amore,\ndella sua fedeltà alla casa d’Israele. R.\n\nTutti i confini della terra hanno veduto\nla vittoria del nostro Dio.\nAcclami il Signore tutta la terra,\ngridate, esultate, cantate inni! R.\n\nCantate inni al Signore con la cetra,\ncon la cetra e al suono di strumenti a corde;\ncon le trombe e al suono del corno\nacclamate davanti al re, il Signore. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nIo sono la via, la verità e la vita, dice il Signore.\nNessuno viene al Padre se non per mezzo di me. (Gv 14,6)\n\nAlleluia.",
+        "vangelo": "Sarà chiesto conto del sangue di tutti i profeti: dal sangue di Abele fino al sangue di Zaccarìa.\nDal Vangelo secondo Luca\nLc 11,47-54\n\nIn quel tempo, il Signore disse: «Guai a voi, che costruite i sepolcri dei profeti, e i vostri padri li hanno uccisi. Così voi testimoniate e approvate le opere dei vostri padri: essi li uccisero e voi costruite.\nPer questo la sapienza di Dio ha detto: \"Manderò loro profeti e apostoli ed essi li uccideranno e perseguiteranno\", perché a questa generazione sia chiesto conto del sangue di tutti i profeti, versato fin dall'inizio del mondo: dal sangue di Abele fino al sangue di Zaccarìa, che fu ucciso tra l'altare e il santuario. Sì, io vi dico, ne sarà chiesto conto a questa generazione.\nGuai a voi, dottori della Legge, che avete portato via la chiave della conoscenza; voi non siete entrati, e a quelli che volevano entrare voi l'avete impedito».\nQuando fu uscito di là, gli scribi e i farisei cominciarono a trattarlo in modo ostile e a farlo parlare su molti argomenti, tendendogli insidie, per sorprenderlo in qualche parola uscita dalla sua stessa bocca.\n\nParola del Signore.",
+        "sulle_offerte": "Siano graditi,\nalla tua maestà, o Signore, i nostri doni,\ncome ti piacque la consacrazione verginale\ndi santa Teresa [ di Gesù] .\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Canterò in eterno l’amore del Signore,\ndi generazione in generazione\nfarò conoscere con la mia bocca la tua fedeltà. (Sal 88,2)",
+        "dopo_la_comunione": "Signore, Dio nostro,\nfa’ che sull’esempio di santa Teresa [ di Gesù]\nquesta famiglia a te consacrata, nutrita con il pane del cielo,\ncanti in eterno il tuo amore misericordioso.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

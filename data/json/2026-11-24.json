@@ -1,0 +1,76 @@
+{
+    "data": "2026-11-24",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXIV",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "Santi Andrea Dung Lac, sacerdote, e compagni, martiri",
+    "immagine_santo": null,
+    "santo": {
+        "nome": "Santi Andrea Dung Lac, sacerdote, e compagni, martiri",
+        "martirologio": "Memoria dei santi Andrea Dung Lac, sacerdote, e compagni, martiri. Con un'unica celebrazione si onorano centodiciassette martiri di varie regioni del Viet Nam, tra i quali otto vescovi, moltissimi sacerdoti e un gran numero di fedeli laici di entrambi i sessi e di ogni condizione ed età, che preferirono tutti patire l’esilio, il carcere, le torture e l’estremo supplizio piuttosto che recare oltraggio alla croce e rinnegare la fede cristiana.\n\nI loro nomi sono: santi Clemente Ignazio Delgado Cebrián, Domenico Henares, Girolamo Hermosilla, Giuseppe Maria Díaz Sanjurjo, Melchiorre García Sanpedro, Pietro Dumoulim-Borie, Valentino Berrio Ochoa, vescovi; Agostino Schoeffler, Bernardo Vu Van Du_, Domenico Cam, Domenico Mau, Domenico Nguy n Van (Doàn) Xuyên, Domenico Nguy n Van Hanh (Diêu), Domenico Trach, Domenico Tuoc, Emanuele Nguy n Van Trieu, Filippo Phan Van Minh, Francesco Gil de Federich, Francesco Jaccard, Giacinto Castañeda, Giacomo Do Mai Nam, Giovanni Carlo Cornay, Giovanni Dat, Giovanni Doàn Trinh Hoan, Giovanni Ludovico Bonnard, Giovanni Teofane Vénard, Giuseppe Dang Dình (Niên Viên, Giuseppe Do Quang Hien, Giuseppe Fernández, Giuseppe Marchand, Giuseppe Nguy n Dình Nghi, Giuseppe Tuan, Isidoro Gagelin, Lorenzo Nguy n Van Huong, Luca Vu Bá Loan, Martino Ta Duc Thinh, Matteo Alonso de Leziniana, Paolo Lê Bao Tinh, Paolo Lê-Van-Loc, Paolo Nguy n Ngân, Paolo Pham Khac Khoan, Pietro Almato Ribeira, Pietro Doàn Công Quy, Pietro Francesco Néron, Pietro Khanh, Pietro Lê Tùy, Pietro Nguy n Bá Tuân, Pietro Nguy n Van Luu, Pietro Nguy n Van Tu, Pietro Truong Van Thi, Tommaso Dinh Viet Du, Tommaso Khuông, Vincenzo Do Yen, Vincenzo Lê Quang Liêm, Vincenzo Nguy n The Diem, sacerdoti; Andrea Nguy n Kim, Thông Nam (Nam Thuông), Antonio Nguy n Huu (Nam) Quynh, Domenico Bùi Van Úy, Francesco Saverio Can, Francesco Saverio Hà Trong Mau, Giovanni Battista Dinh Van Thành, Giuseppe Nguy n Dinh Uyen, Giuseppe Nguy n Duy Khang, Giuseppe Nguy n Van Luu, Matteo Nguy n Van Phuong, Paolo Nguy n Van My, Pietro Doàn Van Vân, Pietro Nguy n Khac Tu, Pietro Nguy n Van Hieu, Pietro Truong Van Duong, Pietro Vu Van Truat, Tommaso Toán, catechisti; Agnese Lê Thi Thành (Dê), Andrea Tuong, Andrea Tran Van Trông, Antonio Nguy n Dích, Agostino Nguy n Van Moi, Agostino Phan Viet Huy, Domenico Huyên, Domenico Mao, Domenico Ngôn, Domenico Nguy n, Domenico Nhi, Domenico Nicola Dinh Dat, Domenico Ninh, Domenico Pham Trong (Án) Kham, Domenico Toai, Emanuele Lê Van Phung, Emanuele Lê Van Phung, Francesco Do Minh Chieu, Francesco Tran Van Trung, Giovanni Battista Con, Giuseppe Hoàng Luong Canh, Giuseppe Lê Dang Thi, Giuseppe Pham Trong (Cai) Ta, Giuseppe Tuân, Giuseppe Túc, Luca (Cai) Thìn, Martino Tho, Matteo Lê Van G m, Michele Ho Dình Hy, Michele Nguy n Huy My, Nicola Bùi Viet The, Paolo Hanh, Paolo Tong Viet Buong, Pietro Da, Pietro Dông, Pietro Dung, Pietro Thuan, Pietro Võ Dang Khoa, Simone Phan Dac Hòa, Stefano Nguyen Van Vinh, Tommaso Nguy n Van De, Tommaso Tran Van Thien, Vincenzo Duong, Vincenzo Tuong.",
+        "altri_santi": [
+            {
+                "nome": "San Crisógono, martire",
+                "martirologio": "Ad Aquileia in Friuli, commemorazione di san Crisógono, martire, che si venera a Roma nella chiesa titolare che porta il suo nome nell’anniversario della sua dedicazione."
+            },
+            {
+                "nome": "Santa Firmina, martire",
+                "martirologio": "Ad Amelia in Umbria, santa Firmina, martire."
+            },
+            {
+                "nome": "San Protasio, vescovo",
+                "martirologio": "A Milano, san Protasio, vescovo, che difese presso l’imperatore Costante la causa di sant’Atanasio e partecipò al Concilio di Sardica."
+            },
+            {
+                "nome": "San Romano, sacerdote",
+                "martirologio": "Nella fortezza di Blaye presso Bordeaux in Aquitania, ora in Francia, san Romano, sacerdote."
+            },
+            {
+                "nome": "San Colmano, vescovo",
+                "martirologio": "A Cloyne in Irlanda, san Colmano, vescovo."
+            },
+            {
+                "nome": "San Porziano, abate",
+                "martirologio": "Nel territorio di Clermont-Ferrand in Aquitania, san Porziano, abate, che, schiavo in gioventù, cercò rifugio e libertàpresso il monastero, dove, divenuto monaco e poi abate, morì in tarda età stremato dai digiuni."
+            },
+            {
+                "nome": "Sante Flora e Maria, vergini e martiri",
+                "martirologio": "A Córdova nell’Andalusia in Spagna, sante Flora e Maria, vergini e martiri, che durante la persecuzione dei Mori furono gettate in carcere assieme a sant’Eulogio e trafitte con la spada."
+            },
+            {
+                "nome": "Sant’Alberto di Louvain, vescovo di Liegi e martire",
+                "martirologio": "A Reims in Francia, passione di sant’Alberto di Louvain, vescovo di Liegi e martire, che fu costretto all’esilio per aver difeso la libertà della Chiesa e fu ucciso nello stesso anno in cui era stato ordinato."
+            },
+            {
+                "nome": "Beato Balsamo, abate",
+                "martirologio": "Nel monastero di Cava de’ Tirreni in Campania, beato Balsamo, abate, che tra i torbidi e i conflitti del suo tempo svolse il suo ministero con saggezza e prudenza."
+            },
+            {
+                "nome": "Santi martiri Pietro Dumoulin-Borie, Pietro Võ Dang Khoa e Vincenzo Nguyen The Diem",
+                "martirologio": "Nella città di Dong Hoi in Viet Nam, santi martiri Pietro Dumoulin-Borie, vescovo della Società per le Missioni Estere di Parigi, Pietro Võ Dang Khoa e Vincenzo Nguyen The Diem, sacerdoti, dei quali il primo fu decapitato, gli altri strangolati, per ordine dell’imperatore Minh Mang."
+            },
+            {
+                "nome": "Beata Maria Anna Sala, vergine",
+                "martirologio": "A Milano, beata Maria Anna Sala, vergine della Congregazione delle Suore di Santa Marcellina, che, maestra di una scienza fondata sulla fede e sulla pietà, si dedicò con tutte le sue forze all’istruzione della gioventù femminile."
+            },
+            {
+                "nome": "Beate Niceta di Santa Prudenza Plaja Xifra e compagne, vergini",
+                "martirologio": "Nel villaggio di Picadero de Paterna nel territorio di Valencia in Spagna, beate Niceta di Santa Prudenza Plaja Xifra e compagne, vergini dell’Istituto delle Suore Carmelita"
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

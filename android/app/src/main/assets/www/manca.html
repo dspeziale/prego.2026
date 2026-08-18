@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prego — pagina non scaricata</title>
+<style>
+  body { margin: 0; font-family: sans-serif; background: #f4f6f9;
+         display: flex; min-height: 100vh; align-items: center;
+         justify-content: center; }
+  .card { background: #fff; border-top: 4px solid #d00000;
+          border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,.15);
+          padding: 28px 24px; margin: 16px; max-width: 380px;
+          text-align: center; }
+  h1 { color: #d00000; margin: 0 0 8px; font-size: 1.4em; }
+  p { color: #555; line-height: 1.4; }
+  button, a.btn { display: inline-block; background: #d00000;
+           color: #fff; border: 0; border-radius: 6px;
+           padding: 12px 22px; font-size: 16px; font-weight: bold;
+           margin: 8px 4px 0; text-decoration: none; }
+  a.btn.secondaria { background: #6c757d; }
+  @media (prefers-color-scheme: dark) {
+    body { background: #343a40; }
+    .card { background: #454d55; }
+    p { color: #ccc; }
+    h1 { color: #ff6b6b; }
+  }
+</style>
+</head>
+<body>
+  <div class="card">
+    <h1>Pagina non ancora scaricata</h1>
+    <p>Questa giornata non è tra i dati salvati sul telefono.
+       Sincronizza per scaricare le novità dal sito.</p>
+    <button onclick="scarica()">Sincronizza</button>
+    <a class="btn secondaria" href="/">Vai a oggi</a>
+  </div>
+  <script>
+    function scarica() {
+      if (typeof PregoApp !== "undefined") { PregoApp.sync(); }
+    }
+  </script>
+</body>
+</html>

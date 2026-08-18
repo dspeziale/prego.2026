@@ -1,0 +1,90 @@
+{
+    "data": "2026-10-09",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXVII",
+    "celebrazione": "VENERDÌ DELLA XXVII SETTIMANA DEL TEMPO ORDINARIO",
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "Santi Dionigi e compagni martiri",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2024/04/c2ed02ae-d964-4ff1-b6e8-4efc2c3b25ca.jpeg",
+    "santo": {
+        "nome": "Santi Dionigi e compagni martiri",
+        "martirologio": "Santi Dionigi, vescovo, e compagni, martiri: si tramanda che san Dionigi sia giunto in Francia inviato dal Romano Pontefice e, divenuto primo vescovo di Parigi, morì martire nelle vicinanze di questa città insieme al sacerdote Rustico e al diacono Eleuterio.",
+        "altri_santi": [
+            {
+                "nome": "San Giovanni Leonardi, sacerdote",
+                "martirologio": "San Giovanni Leonardi, sacerdote, che a Lucca abbandonò la professione di farmacista da lui esercitata, per diventare sacerdote.\n\nFondò, quindi, l'Ordine dei Chierici regolari, poi detto della Madre di Dio, per l’insegnamento della dottrina cristiana ai fanciulli, il rinnovamento della vita apostolica del clero e la diffusione della fede cristiana in tutto il mondo, e per esso dovette affrontare molte tribolazioni.\n\nPose a Roma le fondamenta del Collegio di Propaganda Fide e morì in pace in questa città, sfinito dal peso delle sue fatiche."
+            },
+            {
+                "nome": "Sant’Abramo, patriarca e padre di tutti i credenti",
+                "martirologio": "Commemorazione di sant’Abramo, patriarca e padre di tutti i credenti, che, chiamato da Dio, uscì dalla sua terra, Ur dei Caldei, e si mise in cammino per la terra promessa da Dio a lui e alla sua discendenza. Manifestò, poi, tutta la sua fede in Dio, quando, sperando contro ogni speranza, non si rifiutò di offrire in sacrificio il suo figlio unigenito Isacco, che il Signore aveva donato a lui già vecchio e da una moglie sterile."
+            },
+            {
+                "nome": "Santi Diodoro, Diomede e Didimo",
+                "martirologio": "A Laodicea in Siria, passione dei santi Diodoro, Diomede e Didimo."
+            },
+            {
+                "nome": "San Donnino, martire",
+                "martirologio": "A Fidenza in provincia di Parma sulla via Claudia, san Donnino, martire."
+            },
+            {
+                "nome": "Santa Publia",
+                "martirologio": "Ad Antiochia in Siria, commemorazione di santa Publia, che, rimasta vedova, entrò in monastero e, al passaggio dell’imperatore Giuliano l’Apostata, cantando insieme alle sue vergini i versetti del salmo «Gli idoli delle genti sono argento e oro» e «Diventi come loro chi li fabbrica», fu per ordine dell’imperatore stesso schiaffeggiata e pesantemente umiliata."
+            },
+            {
+                "nome": "San Sabino, eremita",
+                "martirologio": "Nel territorio di Bigorre alle falde dei Pirenei in Francia, san Sabino, eremita, che diede lustro alla vita monastica nella regione dell’Aquitania."
+            },
+            {
+                "nome": "San Donnino, eremita",
+                "martirologio": "A Città di Castello in Umbria, san Donnino, eremita."
+            },
+            {
+                "nome": "San Gisleno",
+                "martirologio": "Nella regione dell’Hainault in Austrasia, nell’odierno Belgio, san Gisleno, che condusse vita monastica in una cella da lui stesso costruita."
+            },
+            {
+                "nome": "San Deusdédit, abate",
+                "martirologio": "A Montecassino nel Lazio, san Deusdédit, abate, che, gettato in carcere dal tiranno Sicardo, rese qui lo spirito a Dio sfinito dalla fame e dalle tribolazioni."
+            },
+            {
+                "nome": "San Guntero, eremita",
+                "martirologio": "A Bevnov in Boemia, deposizione di san Guntero, eremita, che, rigettati i piaceri mondani, si ritirò dapprima nel rifugio della vita monastica e in seguito anche nel profondo isolamento delle foreste tra la Baviera e la Boemia, dove visse e morì tanto unito a Dio quanto lontano dagli uomini."
+            },
+            {
+                "nome": "San Bernardo da Rodez, abate",
+                "martirologio": "Nel monastero di Montsalvy in Francia, san Bernardo da Rodez, abate dei Canonici regolari."
+            },
+            {
+                "nome": "San Luigi Bertrán, sacerdote",
+                "martirologio": "A Valencia in Spagna, san Luigi Bertrán, sacerdote dell’Ordine dei Predicatori, che insegnò il Vangelo di Cristo a varie popolazioni indigene dell’America Meridionale e le difese dagli oppressori."
+            },
+            {
+                "nome": "Santi martiri Innocenzo dell’Immacolata (Emanuele) Canoura Arnau e otto compagni",
+                "martirologio": "In località Turón nelle Asturie in Spagna, santi martiri Innocenzo dell’Immacolata (Emanuele) Canoura Arnau, sacerdote della Congregazione della Passione, e otto compagni, dei Fratelli delle Scuole Cristiane, che, nelle avverse circostanze dei loro tempi, conseguirono la suprema vittoria sterminati in odio alla fede senza processo.\n\nI loro nomi sono: santi Cirillo Bertrando (Giuseppe) Sánz Tejedor, Marciano Giuseppe (Filomeno) López López, Vittoriano Pio (Claudio) Bernabé Cano, Giuliano Alfredo (Vilfrido) Fernández Zapico, Beniamino Giuliano (Vincenzo Alfonso) Andrés, Augusto Andrea (Romano) Martín Fernández, Benedetto di Gesù (Ettore) Valdivielso Sáez e Aniceto Adolfo (Emanuele) Seco Gutiérrez."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Tutte le cose sono in tuo potere\ne nessuno può opporsi alla tua volontà.\nTu hai fatto il cielo e la terra\ne tutte le meraviglie che si trovano sotto il firmamento:\ntu sei il Signore di tutte le cose. (Cf. Est 4,17b-c)",
+        "colletta": "Dio onnipotente ed eterno,\nche esaudisci le preghiere del tuo popolo\noltre ogni desiderio e ogni merito,\neffondi su di noi la tua misericordia:\nperdona ciò che la coscienza teme\ne aggiungi ciò che la preghiera non osa sperare.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Quelli che vengono dalla fede sono benedetti insieme ad Abramo.\nDalla lettera di san Paolo apostolo ai Gàlati\nGal 3,7-14\n\nFratelli, riconoscete che figli di Abramo sono quelli che vengono dalla fede. E la Scrittura, prevedendo che Dio avrebbe giustificato i pagani per la fede, preannunciò ad Abramo: «In te saranno benedette tutte le nazioni». Di conseguenza, quelli che vengono dalla fede sono benedetti insieme ad Abramo, che credette.\nQuelli invece che si richiamano alle opere della Legge stanno sotto la maledizione, poiché sta scritto: «Maledetto chiunque non rimane fedele a tutte le cose scritte nel libro della Legge per metterle in pratica». E che nessuno sia giustificato davanti a Dio per la Legge risulta dal fatto che il giusto per fede vivrà. Ma la Legge non si basa sulla fede; al contrario dice: «Chi metterà in pratica queste cose, vivrà grazie ad esse».\nCristo ci ha riscattati dalla maledizione della Legge, diventando lui stesso maledizione per noi, poiché sta scritto: «Maledetto chi è appeso al legno», perché in Cristo Gesù la benedizione di Abramo passasse ai pagani e noi, mediante la fede, ricevessimo la promessa dello Spirito.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 110 (111)\nR. Il Signore si ricorda sempre della sua alleanza.\nOppure:\nR. Il Signore è fedele per sempre.\n\nRenderò grazie al Signore con tutto il cuore,\ntra gli uomini retti riuniti in assemblea.\nGrandi sono le opere del Signore:\nle ricerchino coloro che le amano. R.\n\nIl suo agire è splendido e maestoso,\nla sua giustizia rimane per sempre.\nHa lasciato un ricordo delle sue meraviglie:\nmisericordioso e pietoso è il Signore. R.\n\nEgli dà il cibo a chi lo teme,\nsi ricorda sempre della sua alleanza.\nMostrò al suo popolo la potenza delle sue opere,\ngli diede l’eredità delle genti. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nOra il principe di questo mondo sarà gettato fuori.\nE io, quando sarò innalzato da terra, attirerò tutti a me. (Gv 12,31b.32)\n\nAlleluia.",
+        "vangelo": "Se io scaccio i demòni con il dito di Dio, allora è giunto a voi il regno di Dio.\nDal Vangelo secondo Luca\nLc 11,15-26\n\nIn quel tempo, [dopo che Gesù ebbe scacciato un demonio,] alcuni dissero: «È per mezzo di Beelzebùl, capo dei demòni, che egli scaccia i demòni». Altri poi, per metterlo alla prova, gli domandavano un segno dal cielo.\nEgli, conoscendo le loro intenzioni, disse: «Ogni regno diviso in se stesso va in rovina e una casa cade sull’altra. Ora, se anche Satana è diviso in se stesso, come potrà stare in piedi il suo regno? Voi dite che io scaccio i demòni per mezzo di Beelzebùl. Ma se io scaccio i demòni per mezzo di Beelzebùl, i vostri figli per mezzo di chi li scacciano? Per questo saranno loro i vostri giudici. Se invece io scaccio i demòni con il dito di Dio, allora è giunto a voi il regno di Dio.\nQuando un uomo forte, bene armato, fa la guardia al suo palazzo, ciò che possiede è al sicuro. Ma se arriva uno più forte di lui e lo vince, gli strappa via le armi nelle quali confidava e ne spartisce il bottino.\nChi non è con me, è contro di me, e chi non raccoglie con me, disperde.\nQuando lo spirito impuro esce dall’uomo, si aggira per luoghi deserti cercando sollievo e, non trovandone, dice: “Ritornerò nella mia casa, da cui sono uscito”. Venuto, la trova spazzata e adorna. Allora va, prende altri sette spiriti peggiori di lui, vi entrano e vi prendono dimora. E l’ultima condizione di quell’uomo diventa peggiore della prima».\n\nParola del Signore.",
+        "sulle_offerte": "Accogli, o Signore, il sacrificio\nche tu stesso ci hai comandato di offrirti\ne per questi misteri che celebriamo con il nostro servizio sacerdotale\nporta a compimento la tua opera di santificazione.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Buono è il Signore con chi spera in lui,\ncon colui che lo cerca. (Lam 3,25)\n\nOppure:\n\nUno solo è il pane,\ne noi, pur essendo molti, siamo un corpo solo:\ntutti partecipiamo all’unico pane e all’unico calice. (Cf. 1Cor 10,17)",
+        "dopo_la_comunione": "Concedi a noi, Padre onnipotente,\nche, inebriati e nutriti da questi sacramenti,\nveniamo trasformati in Cristo\nche abbiamo ricevuto come cibo e bevanda di vita.\nEgli vive e regna nei secoli dei secoli."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

@@ -1,0 +1,96 @@
+{
+    "data": "2026-11-17",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXIII",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "Santa Elisabetta d'Ungheria, religiosa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/a580115a-6640-40bd-bf21-cb33c54478bc.jpeg",
+    "santo": {
+        "nome": "Santa Elisabetta d'Ungheria, religiosa",
+        "martirologio": "Memoria di santa Elisabetta di Ungheria, che, ancora fanciulla, fu data in sposa a Ludovico, conte di Turingia, al quale diede tre figli; rimasta vedova, dopo aver sostenuto con fortezza d’animo gravi tribolazioni, dedita già da tempo alla meditazione delle realtà celesti, si ritirò a Marburg in Germania in un ospedale da lei fondato, abbracciando la povertà e adoperandosi nella cura degli infermi e dei poveri fino all’ultimo respiro esalato all’età di venticinque anni.",
+        "altri_santi": [
+            {
+                "nome": "San Gregorio, vescovo",
+                "martirologio": "A Neocesarea nel Ponto, nell’odierna Turchia, san Gregorio, vescovo, che, abbracciata fin dall’adolescenza la fede cristiana, fu grande cultore delle scienze sia umane sia divine; ordinato vescovo si mostrò insigne per dottrina, virtù e zelo apostolico e per i numerosi miracoli da lui operati ricevette il nome di Taumaturgo."
+            },
+            {
+                "nome": "Santi Alfeo e Zaccheo, martiri",
+                "martirologio": "A Cesarea in Palestina, santi Alfeo e Zaccheo, martiri, che, nel primo anno della persecuzione dell’imperatore Diocleziano, per avere confessato con fermezza l’esistenza di un solo Dio e la regalità di Cristo Gesù, dopo molti supplizi subirono la condanna a morte."
+            },
+            {
+                "nome": "Sant’Acisclo, martire",
+                "martirologio": "A Córdova nell’Andalusia in Spagna, sant’Acisclo, martire."
+            },
+            {
+                "nome": "Sant’Aniano, vescovo",
+                "martirologio": "A Orléans nella Gallia lugdunense, ora in Francia, sant’Aniano, vescovo, che, confidando in Dio solo, il cui aiuto spesso ottenne con le preghiere e le lacrime, liberò la sua città assediata dagli Unni."
+            },
+            {
+                "nome": "San Namazio, vescovo",
+                "martirologio": "A Vienne in Burgundia, ora in Francia, san Namazio, vescovo, che gestì con rettitudine gli impegni civili e, al contempo, resse e onorò la sede episcopale."
+            },
+            {
+                "nome": "San Gregorio, vescovo",
+                "martirologio": "A Tours in Neustria sempre in Francia, san Gregorio, vescovo, che succedette in questa sede a sant’Eufronio e compose una storia dei Franchi con stile chiaro e semplice."
+            },
+            {
+                "nome": "Santa Ilda, badessa",
+                "martirologio": "A Whitby nella Northumbria in Inghilterra, santa Ilda, badessa, che accolta la fede e i sacramenti di Cristo, posta alla guida del monastero, si adoperò per il rinnovamento della disciplina monastica maschile e femminile, per la difesa della pace e dello spirito di carità e per la promozione del lavoro e della lettura della Sacra Scrittura, al punto che si riteneva avesse compiuto in terra opere celesti."
+            },
+            {
+                "nome": "San Florino, sacerdote",
+                "martirologio": "A Ramosch in Rezia, nel territorio dell’odierna Svizzera, san Florino, sacerdote, che attese con fedeltà alla cura parrocchiale."
+            },
+            {
+                "nome": "San Lazzaro, monaco",
+                "martirologio": "A Costantinopoli, san Lazzaro, monaco, che, nato in Armenia, fu insigne pittore di sacre icone; essendosi rifiutato di distruggere le sue opere, per ordine dell’imperatore iconoclasta Teofilo fu sottoposto ad atroci torture e, ricomposta poi la controversia sul retto culto delle imagini, fu mandato a Roma dall’imperatore Michele III per consolidare la concordia e l’unità di tutta la Chiesa."
+            },
+            {
+                "nome": "Sant’Ugo, abate",
+                "martirologio": "A Novara di Sicilia, sant'Ugo, abate, che, mandato da san Bernardo di Chiaravalle, diede inizio in questa terra e in Calabria all’Ordine Cistercense."
+            },
+            {
+                "nome": "Sant’Ugo, vescovo",
+                "martirologio": "A Lincoln in Inghilterra, sant’Ugo, vescovo, che, dopo essere stato monaco certosino, fu eletto vescovo di questa sede e si adoperò egregiamente sia in difesa della libertà della Chiesa sia per liberare gli Ebrei dalle mani dei nemici."
+            },
+            {
+                "nome": "Beata Saloméa",
+                "martirologio": "Presso Cracovia in Polonia, beata Saloméa, che, regina di Halicz, dopo la morte del marito, il re Colomanno, professò la regola delle Clarisse e svolse santamente l’ufficio di badessa nel monastero da lei fondato."
+            },
+            {
+                "nome": "Anniversario della morte di santa Geltrude, vergine",
+                "martirologio": "A Helfta vicino a Eisleben nella Sassonia in Germania, anniversario della morte di santa Geltrude, vergine, la cui memoria si celebra il giorno precedente a questo."
+            },
+            {
+                "nome": "San Giovanni del Castillo, sacerdote",
+                "martirologio": "Ad Asunción in Paraguay, san Giovanni del Castillo, sacerdote della Compagnia di Gesù e martire, che in una delle reducciones, fondata in quello stesso anno da san Rocco González e affidata alle sue cure, fu sottoposto a crudeli supplizi per ordine di uno stregone e morì lapidato per Cristo."
+            },
+            {
+                "nome": "Santi Giordano (Giacinto) Ansalone e Tommaso Hioji Rokuzayemon Nishi, sacerdoti",
+                "martirologio": "A Nagasaki in Giappone, santi Giordano (Giacinto) Ansalone e Tommaso Hioji Rokuzayemon Nishi, sacerdoti dell’Ordine dei Predicatori e martiri: il primo si adoperò a fondo per il Vangelo dapprima nelle isole Filippine e poi in Giappone, l’altro fu operoso propagatore della fede nell’isola di Taiwan e, negli ultimi anni, nella regione di Nagasaki nella sua patria.\nEntrambi morirono per ordine del comandante supremo Tokugawa Yemitsu dopo esser stati sottoposti per sette giorni con animo invitto a crudeli supplizi sulla forca e in una fossa."
+            },
+            {
+                "nome": "Beato Lupo Sebastiano Hunot, sacerdote",
+                "martirologio": "Nel braccio di mare antistante Rochefort in Francia, beato Lupo Sebastiano Hunot, sacerdote di Sens e martire, che, gettato in quanto sacerdote in una sordida galera all’ancora nel mare durante la rivoluzione francese, patì tutte le durezze della prigionia e, divorato infine dalla febbre, portò\na termine il suo martirio."
+            },
+            {
+                "nome": "Beato Giosafat Kocylovskyj, vescovo",
+                "martirologio": "Nella città di Capaivca nel territorio di Kiev in Ucraina, beato Giosafat Kocylovskyj, vescovo di Przemysl e martire, che, durante l’oppressione della patria sotto un regime ateo, rese la sua anima a Dio da fedele discepolo di Cristo."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

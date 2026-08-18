@@ -1,0 +1,116 @@
+{% extends "base.html" %}
+{% block title %}{{ "Modifica" if entry else "Nuova" }} ricorrenza — LiturgiaCollector{% endblock %}
+{% block page_title %}{{ entry.data_estesa ~ " — " ~ entry.santo if entry else "Nuova ricorrenza del Proprio" }}{% endblock %}
+
+{% block header_actions %}
+<a class="btn btn-outline-primary" href="{{ url_for('proprio_list') }}">
+    <i class="fas fa-list"></i> Elenco
+</a>
+{% endblock %}
+
+{% block content %}
+<form method="post" action="{{ url_for('proprio_save') }}">
+    <div class="card card-primary card-outline">
+        <div class="card-header"><h3 class="card-title">Ricorrenza</h3></div>
+        <div class="card-body">
+            <div class="row">
+                <div class="form-group col-4 col-md-2">
+                    <label>Giorno</label>
+                    <select name="giorno" class="form-control" required>
+                        {% for d in range(1, 32) %}
+                        <option value="{{ d }}"
+                            {% if entry and entry.giorno == d %}selected{% endif %}>{{ d }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group col-8 col-md-3">
+                    <label>Mese</label>
+                    <select name="mese" class="form-control" required>
+                        {% for name in months_it %}
+                        <option value="{{ loop.index }}"
+                            {% if entry and entry.mese_numero == loop.index %}selected{% endif %}>{{ name }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group col-md-4">
+                    <label>Nome del Santo</label>
+                    <input type="text" name="santo" class="form-control" required
+                           placeholder="Sant'Agnese, vergine e martire"
+                           value="{{ entry.santo if entry else '' }}">
+                </div>
+                <div class="form-group col-md-3">
+                    <label>Tipo</label>
+                    <select name="tipo" class="form-control">
+                        <option value="" {% if not entry or not entry.tipo %}selected{% endif %}>—</option>
+                        {% for rank in ranks %}
+                        <option value="{{ rank }}"
+                            {% if entry and entry.tipo == rank %}selected{% endif %}>{{ rank }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% for label in reading_labels %}
+    {% set i = loop.index %}
+    {% set reading = (entry.letture | selectattr("titolo", "equalto", label) | list | first) if entry else None %}
+    {# aperta solo se ha dati; su 'nuova' resta aperta la prima #}
+    {% set opened = reading or (not entry and i == 1) %}
+    <div class="card card-outline {% if opened %}card-primary{% else %}collapsed-card card-secondary{% endif %}">
+        <div class="card-header">
+            <h3 class="card-title">{{ label }}{% if not reading %} <small class="text-muted">(facoltativa)</small>{% endif %}</h3>
+            <div class="card-tools">
+                <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                    <i class="fas fa-{% if opened %}minus{% else %}plus{% endif %}"></i>
+                </button>
+            </div>
+        </div>
+        <div class="card-body" {% if not opened %}style="display:none"{% endif %}>
+            <div class="row">
+                <div class="form-group col-md-4">
+                    <label>Riferimento</label>
+                    <input type="text" name="lettura_{{ i }}_riferimento" class="form-control"
+                           placeholder="Lib 1, c 2"
+                           value="{{ reading.riferimento if reading else '' }}">
+                </div>
+                <div class="form-group col-md-8">
+                    <label>Sottotitolo</label>
+                    <input type="text" name="lettura_{{ i }}_sottotitolo" class="form-control"
+                           value="{{ reading.sottotitolo if reading else '' }}">
+                </div>
+            </div>
+            <div class="form-group">
+                <label>Dal ...</label>
+                <input type="text" name="lettura_{{ i }}_fonte" class="form-control"
+                       placeholder="Dal «Trattato sulla verginità» di sant'Ambrogio, vescovo"
+                       value="{{ reading.fonte if reading else '' }}">
+            </div>
+            <div class="form-group">
+                <label>Testo completo</label>
+                <textarea name="lettura_{{ i }}_testo" class="form-control" rows="8">{{ reading.testo if reading else '' }}</textarea>
+            </div>
+            <div class="form-group">
+                <label>Responsorio</label>
+                <textarea name="lettura_{{ i }}_responsorio" class="form-control" rows="3">{{ reading.responsorio if reading else '' }}</textarea>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+
+    <div class="card card-primary card-outline">
+        <div class="card-header"><h3 class="card-title">Orazione</h3></div>
+        <div class="card-body">
+            <textarea name="orazione" class="form-control" rows="4">{{ entry.orazione if entry else '' }}</textarea>
+        </div>
+    </div>
+
+    <div class="mb-4">
+        <button type="submit" class="btn btn-lg"
+                style="background: var(--lit-red); color: #fff">
+            <i class="fas fa-save"></i> Salva
+        </button>
+        <a href="{{ url_for('proprio_list') }}" class="btn btn-lg btn-outline-secondary">Annulla</a>
+    </div>
+</form>
+{% endblock %}

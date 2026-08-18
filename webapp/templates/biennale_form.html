@@ -1,0 +1,124 @@
+{% extends "base.html" %}
+{% block title %}{{ "Modifica" if entry else "Nuovo" }} giorno Biennale — LiturgiaCollector{% endblock %}
+{% block page_title %}{{ entry.codice if entry else "Nuovo giorno del Biennale" }}{% endblock %}
+
+{% block header_actions %}
+<a class="btn btn-outline-primary" href="{{ url_for('biennale_list') }}">
+    <i class="fas fa-list"></i> Elenco
+</a>
+{% endblock %}
+
+{% block content %}
+<form method="post" action="{{ url_for('biennale_save') }}">
+    <div class="card card-primary card-outline">
+        <div class="card-header"><h3 class="card-title">Giorno liturgico</h3></div>
+        <div class="card-body">
+            <div class="row">
+                <div class="form-group col-md-4">
+                    <label>Tempo liturgico</label>
+                    <select name="tempo_liturgico" class="form-control" required>
+                        {% for season in seasons %}
+                        <option value="{{ season }}"
+                            {% if entry and entry.tempo_liturgico == season %}selected{% endif %}>{{ season }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group col-6 col-md-3">
+                    <label>Settimana del tempo</label>
+                    <select name="settimana_del_tempo" class="form-control">
+                        <option value="" {% if not entry or not entry.settimana_del_tempo %}selected{% endif %}>—</option>
+                        {% for week in weeks %}
+                        <option value="{{ week }}"
+                            {% if entry and entry.settimana_del_tempo == week %}selected{% endif %}>{{ week }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group col-6 col-md-3">
+                    <label>Giorno della settimana</label>
+                    <select name="giorno_settimana" class="form-control" required>
+                        {% for day in weekdays %}
+                        <option value="{{ day }}"
+                            {% if entry and entry.giorno_settimana == day %}selected{% endif %}>{{ day }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group col-6 col-md-1">
+                    <label>Anno</label>
+                    <select name="anno_liturgico" class="form-control">
+                        <option value="" {% if entry and not entry.anno_liturgico %}selected{% endif %}>—</option>
+                        {% for year in years %}
+                        <option value="{{ year }}"
+                            {% if entry and entry.anno_liturgico == year %}selected
+                            {% elif not entry and year == "A/B/C" %}selected{% endif %}>{{ year }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group col-6 col-md-1">
+                    <label>Ciclo</label>
+                    <select name="ciclo_biennale" class="form-control">
+                        <option value="" {% if not entry or not entry.ciclo_biennale %}selected{% endif %}>—</option>
+                        {% for cycle in cycles %}
+                        <option value="{{ cycle }}"
+                            {% if entry and entry.ciclo_biennale == cycle %}selected{% endif %}>{{ cycle }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% for label in reading_labels %}
+    {% set i = loop.index %}
+    {% set reading = (entry.letture | selectattr("titolo", "equalto", label) | list | first) if entry else None %}
+    {# aperta solo se ha dati; su 'nuovo' resta aperta la prima #}
+    {% set opened = reading or (not entry and i == 1) %}
+    <div class="card card-outline {% if opened %}card-primary{% else %}collapsed-card card-secondary{% endif %}">
+        <div class="card-header">
+            <h3 class="card-title">{{ label }}{% if not reading %} <small class="text-muted">(facoltativa)</small>{% endif %}</h3>
+            <div class="card-tools">
+                <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                    <i class="fas fa-{% if opened %}minus{% else %}plus{% endif %}"></i>
+                </button>
+            </div>
+        </div>
+        <div class="card-body" {% if not opened %}style="display:none"{% endif %}>
+            <div class="row">
+                <div class="form-group col-md-4">
+                    <label>Riferimento</label>
+                    <input type="text" name="lettura_{{ i }}_riferimento" class="form-control"
+                           placeholder="Lib 1, c 2"
+                           value="{{ reading.riferimento if reading else '' }}">
+                </div>
+                <div class="form-group col-md-8">
+                    <label>Sottotitolo</label>
+                    <input type="text" name="lettura_{{ i }}_sottotitolo" class="form-control"
+                           value="{{ reading.sottotitolo if reading else '' }}">
+                </div>
+            </div>
+            <div class="form-group">
+                <label>Dal ...</label>
+                <input type="text" name="lettura_{{ i }}_fonte" class="form-control"
+                       placeholder="Dal libro del profeta Osea"
+                       value="{{ reading.fonte if reading else '' }}">
+            </div>
+            <div class="form-group">
+                <label>Testo completo</label>
+                <textarea name="lettura_{{ i }}_testo" class="form-control" rows="8">{{ reading.testo if reading else '' }}</textarea>
+            </div>
+            <div class="form-group">
+                <label>Responsorio</label>
+                <textarea name="lettura_{{ i }}_responsorio" class="form-control" rows="3">{{ reading.responsorio if reading else '' }}</textarea>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+
+    <div class="mb-4">
+        <button type="submit" class="btn btn-lg"
+                style="background: var(--lit-red); color: #fff">
+            <i class="fas fa-save"></i> Salva
+        </button>
+        <a href="{{ url_for('biennale_list') }}" class="btn btn-lg btn-outline-secondary">Annulla</a>
+    </div>
+</form>
+{% endblock %}

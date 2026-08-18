@@ -1,0 +1,91 @@
+{
+    "data": "2026-11-02",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXI",
+    "celebrazione": "COMMEMORAZIONE DI TUTTI I FEDELI DEFUNTI (MESSA 1)",
+    "grado": "Commemorazione",
+    "colore": "Viola",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "Commemorazione di tutti i fedeli defunti",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/61244f03-67a3-49dc-b391-192846df16e4.jpeg",
+    "santo": {
+        "nome": "Commemorazione di tutti i fedeli defunti",
+        "martirologio": "Commemorazione di tutti i fedeli defunti, nella quale la santa Madre Chiesa, già sollecita nel celebrare con le dovute lodi tutti i suoi figli che si allietano in cielo, si dà cura di intercedere presso Dio per le anime di tutti coloro che ci hanno preceduti nel segno della fede e si sono addormentati nella speranza della resurrezione e per tutti coloro di cui, dall’inizio del mondo, solo Dio ha conosciuto la fede, perché purificati da ogni macchia di peccato, entrati nella comunione della vita celeste, godano della visione della beatitudine eterna.",
+        "altri_santi": [
+            {
+                "nome": "San Vittorino, vescovo di Ptuj",
+                "martirologio": "Commemorazione di san Vittorino, vescovo di Ptuj in Pannonia, nell’odierna Slovenia, che pubblicò molti scritti di esegesi della Sacra Bibbia e fu coronato dal martirio durante la persecuzione dell’imperatore Diocleziano."
+            },
+            {
+                "nome": "San Giusto, martire",
+                "martirologio": "A Trieste, san Giusto, martire."
+            },
+            {
+                "nome": "Santi Carterio, Stiriaco, Tobia, Eudossio, Agapio e compagni, martiri",
+                "martirologio": "A Sivas nell’antica Armenia, santi Carterio, Stiriaco, Tobia, Eudossio, Agapio e compagni, martiri, che, soldati, si racconta siano stati gettati tra le fiamme, sotto l’imperatore Licinio, per aver perseverato nella fede in Cristo."
+            },
+            {
+                "nome": "Santi Acíndino, Pegasio, Aftonio, Elpidíforo, Anempodisto e molti compagni, martiri",
+                "martirologio": "In Persia, santi Acíndino, Pegasio, Aftonio, Elpidíforo, Anempodisto e molti compagni, martiri, che si tramanda abbiano subito la passione sotto il re Sabor II."
+            },
+            {
+                "nome": "San Donnino, vescovo",
+                "martirologio": "A Vienne nella Gallia lugdunense, ora in Francia, san Donnino, vescovo, che si adoperò per la liberazione dei prigionieri."
+            },
+            {
+                "nome": "San Marciano, eremita",
+                "martirologio": "Commemorazione di san Marciano, eremita, che, nato a Cirro nel territorio dell’odierna Turchia, si ritirò in monastero a Calcedonia, dove, vivendo in una angusta dimora, non si nutriva che la sera di poco pane e acqua, anteponendo tuttavia al digiuno l’amore fraterno."
+            },
+            {
+                "nome": "Sant’Ambrogio, abate",
+                "martirologio": "Nel monastero di Saint-Maurice-en-Valais nell’odierna Svizzera, sant’Ambrogio, abate, che fu dapprima superiore del monastero della Île-Barbe vicino a Lione e, trasferito poi in questa sede per l’insigne fama della sua condotta di vita religiosa, vi istituì l’usanza della lode perenne."
+            },
+            {
+                "nome": "Santa Vinfreda, vergine",
+                "martirologio": "Presso la fonte in località Holywell in Galles, santa Vinfreda, vergine, venerata come illustre monaca."
+            },
+            {
+                "nome": "San Giorgio, vescovo",
+                "martirologio": "A Vienne, san Giorgio, vescovo."
+            },
+            {
+                "nome": "San Malachia, vescovo",
+                "martirologio": "Nel monastero di Chiaravalle in Borgogna, ora in Francia, deposizione di san Malachia, vescovo di Down e Connor in Irlanda, che rinnovò la vita della sua Chiesa e, giunto a Chiaravalle mentre era in cammino per Roma, rese lo spirito al Signore alla presenza dell’abate san Bernardo."
+            },
+            {
+                "nome": "Beata Margherita di Lorena",
+                "martirologio": "A Mortagne nella Normandia, beata Margherita di Lorena, che, un tempo duchessa di Alençon, rimasta vedova, professò l’obbedienza alla vita regolare nel monastero di Clarisse da lei stessa fatto costruire."
+            },
+            {
+                "nome": "Beato Giovanni Bodey, martire",
+                "martirologio": "Ad Andover nella contea di Hampshire in Inghilterra, beato Giovanni Bodey, martire, che, maestro di scuola, morì impiccato e sventrato per aver rifiutato di riconoscere l’autorità della regina Elisabetta I nelle questioni spirituali."
+            },
+            {
+                "nome": "Beato Pio di San Luigi (Luigi) Campidelli, religioso",
+                "martirologio": "A Casale in Romagna, beato Pio di San Luigi (Luigi) Campidelli, religioso della Congregazione della Passione, che, ancora giovane, colpito da una violenta malattia, si abbandonò totalmente alla volontà di Dio."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Come Gesù è morto e risorto,\ncosì anche Dio, per mezzo di Gesù,\nradunerà con lui coloro che sono morti.\nE come in Adamo tutti muoiono,\ncosì in Cristo tutti riceveranno la vita. (Cf. 1Ts 4,14; 1Cor 15,22)",
+        "colletta": "Nella tua bontà, o Padre,\nascolta le preghiere che ti rivolgiamo,\nperché cresca la nostra fede nel Figlio tuo risorto dai morti\ne si rafforzi la speranza che i tuoi fedeli\nrisorgeranno a vita nuova.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Io lo so che il mio redentore è vivo.\nDal libro di Giobbe\nGb 19,1.23-27a\n\nRispondendo Giobbe prese a dire:\n«Oh, se le mie parole si scrivessero,\nse si fissassero in un libro,\nfossero impresse con stilo di ferro e con piombo,\nper sempre s'incidessero sulla roccia!\nIo so che il mio redentore è vivo\ne che, ultimo, si ergerà sulla polvere!\nDopo che questa mia pelle sarà strappata via,\nsenza la mia carne, vedrò Dio.\nIo lo vedrò, io stesso,\ni miei occhi lo contempleranno e non un altro».\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 26 (27)\nR. Sono certo di contemplare la bontà del Signore nella terra dei viventi.\nOppure:\nR. Il Signore è mia luce e mia salvezza.\n\nIl Signore è mia luce e mia salvezza:\ndi chi avrò timore?\nIl Signore è difesa della mia vita:\ndi chi avrò paura? R.\n\nUna cosa ho chiesto al Signore,\nquesta sola io cerco:\nabitare nella casa del Signore\ntutti i giorni della mia vita,\nper contemplare la bellezza del Signore\ne ammirare il suo santuario. R.\n\nAscolta, Signore, la mia voce.\nIo grido: abbi pietà di me, rispondimi!\nIl tuo volto, Signore, io cerco.\nNon nascondermi il tuo volto. R.\n\nSono certo di contemplare la bontà del Signore\nnella terra dei viventi.\nSpera nel Signore, sii forte,\nsi rinsaldi il tuo cuore e spera nel Signore. R.",
+        "seconda_lettura": "Giustificàti nel suo sangue, saremo salvati dall'ira per mezzo di lui.\nDalla lettera di san Paolo apostolo ai Romani\nRm 5,5-11\n\nFratelli, la speranza non delude, perché l'amore di Dio è stato riversato nei nostri cuori per mezzo dello Spirito Santo che ci è stato dato.\nInfatti, quando eravamo ancora deboli, nel tempo stabilito Cristo morì per gli empi. Ora, a stento qualcuno è disposto a morire per un giusto; forse qualcuno oserebbe morire per una persona buona. Ma Dio dimostra il suo amore verso di noi nel fatto che, mentre eravamo ancora peccatori, Cristo è morto per noi.\nA maggior ragione ora, giustificàti nel suo sangue, saremo salvati dall'ira per mezzo di lui. Se infatti, quand'eravamo nemici, siamo stati riconciliati con Dio per mezzo della morte del Figlio suo, molto più, ora che siamo riconciliati, saremo salvati mediante la sua vita. Non solo, ma ci gloriamo pure in Dio, per mezzo del Signore nostro Gesù Cristo, grazie al quale ora abbiamo ricevuto la riconciliazione.\n\nParola di Dio.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nQuesta è la volontà del Padre mio:\nche chiunque vede il Figlio e crede in lui abbia la vita eterna;\ne io lo risusciterò nell’ultimo giorno, dice il Signore. (Gv 6,40)\n\nAlleluia.",
+        "vangelo": "Chi crede nel Figlio ha la vita eterna; e io lo risusciterò nell'ultimo giorno.\nDal Vangelo secondo Giovanni\nGv 6,37-40\n\nIn quel tempo, Gesù disse alla folla:\n«Tutto ciò che il Padre mi dà, verrà a me: colui che viene a me, io non lo caccerò fuori, perché sono disceso dal cielo non per fare la mia volontà, ma la volontà di colui che mi ha mandato.\nE questa è la volontà di colui che mi ha mandato: che io non perda nulla di quanto egli mi ha dato, ma che lo risusciti nell'ultimo giorno. Questa infatti è la volontà del Padre mio: che chiunque vede il Figlio e crede in lui abbia la vita eterna; e io lo risusciterò nell'ultimo giorno».\n\nParola del Signore.\n\nSi dice il Credo.",
+        "sulle_offerte": "Guarda con benevolenza, o Padre, i nostri doni,\nperché i tuoi fedeli defunti siano associati\nalla gloria del tuo Figlio,\nche tutti ci unisce nel grande sacramento del suo amore.\nEgli vive e regna nei secoli dei secoli.",
+        "antifona_alla_comunione": "«Io sono la risurrezione e la vita», dice il Signore.\n«Chi crede in me, anche se muore, vivrà;\nchiunque vive e crede in me,\nnon morirà in eterno». (Gv 11,25-26)",
+        "dopo_la_comunione": "Fa’, o Signore, che i tuoi fedeli defunti,\nper i quali abbiamo celebrato il sacramento pasquale,\nentrino nella tua dimora di luce e di pace.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

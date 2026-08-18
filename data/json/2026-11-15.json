@@ -1,0 +1,96 @@
+{
+    "data": "2026-11-15",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXIII",
+    "celebrazione": null,
+    "grado": "Domenica",
+    "colore": "Verde",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "Sant'Alberto Magno, vescovo e dottore della Chiesa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2025/12/9b4a173a-3ef3-486c-954c-cc0cb94adff1.jpeg",
+    "santo": {
+        "nome": "Sant'Alberto Magno, vescovo e dottore della Chiesa",
+        "martirologio": "Sant’Alberto, detto Magno, vescovo e dottore della Chiesa, che, entrato nell’Ordine dei Predicatori, insegnò a Parigi con la parola e con gli scritti filosofia e teologia.\nMaestro di san Tommaso d’Aquino, riuscì ad unire in mirabile sintesi la sapienza dei santi con il sapere umano e la scienza della natura. Ricevette suo malgrado la sede di Ratisbona, dove si adoperò assiduamente per rafforzare la pace tra i popoli, ma dopo un anno preferì la povertà dell’Ordine a ogni onore e a Colonia in Germania si addormentò piamente nel Signore.",
+        "altri_santi": [
+            {
+                "nome": "San Fidenziano, vescovo, Valeriana e Vittoria",
+                "martirologio": "A Ippona in Numidia, nell’odierna Algeria, santi venti martiri, dei quali sant’Agostino celebrò la fede e la vittoria; di loro si ricordano soltanto i nomi di Fidenziano, vescovo, Valeriana e Vittoria."
+            },
+            {
+                "nome": "Santi martiri Guria e Samona",
+                "martirologio": "A Edessa nell’antica Siria, santi martiri Guria, asceta, e Samona, che, sotto l’imperatore Diocleziano, dopo lunghi e crudeli supplizi, furono condannati a morte dal prefetto Misiano e decapitati con la spada."
+            },
+            {
+                "nome": "San Felice",
+                "martirologio": "A Nola in Campania, san Felice, della cui cura pastorale e del cui culto questa città si onora."
+            },
+            {
+                "nome": "San Maclovio o Macúto, vescovo",
+                "martirologio": "In Bretagna, san Maclovio o Macúto, vescovo di Aleth, che si tramanda sia nato in Galles e morto nel territorio di Saintes."
+            },
+            {
+                "nome": "San Desiderio, vescovo",
+                "martirologio": "A Cahors in Aquitania, ora in Francia, san Desiderio, vescovo, che costruì molte chiese, monasteri ed edifici di pubblica utilità e mai trascurò di preparare le anime all’incontro con lo Sposo celeste, facendone un vero tempio di Cristo."
+            },
+            {
+                "nome": "Santi Marino, vescovo, e Aniano, martiri",
+                "martirologio": "Sul monte Irschenberg nella Baviera, in Germania, santi Marino, vescovo, e Aniano, martiri."
+            },
+            {
+                "nome": "San Sidonio, abate",
+                "martirologio": "Presso Rouen in Neustria, ora in Francia, san Sidonio, abate, che, originario dell’Irlanda, condusse vita monastica dapprima a Jumièges, poi nell’isola di Noirmoutier sotto la guida di san Filiberto e, infine, nel monastero da lui stesso fondato."
+            },
+            {
+                "nome": "San Fintano",
+                "martirologio": "A Rheinau nell’odierna Svizzera, san Fintano, che, originario anch’egli dell’Irlanda, visse a lungo per amore di Dio in un monastero e, ancor più a lungo, come recluso in una piccola cella accanto alla chiesa."
+            },
+            {
+                "nome": "San Leopoldo",
+                "martirologio": "Nel cenobio di Klosterneuburg in Austria, deposizione di san Leopoldo, che, margravio di questo territorio, chiamato Pio già da vivo, fu promotore di pace e amico dei poveri e del clero."
+            },
+            {
+                "nome": "Beati martiri Ugo Faringdon o Cook, Giovanni Eynon e Giovanni Rugg, sacerdoti",
+                "martirologio": "A Reading in Inghilterra, beati martiri Ugo Faringdon o Cook, abate dell’Ordine di San Benedetto, Giovanni Eynon e Giovanni Rugg, sacerdoti, che, accusati di tradimento per essersi tenacemente opposti alle rivendicazioni di primato nella Chiesa del re Enrico VIII, morirono impiccati e sventrati con la spada davanti al monastero."
+            },
+            {
+                "nome": "Beata Lucia Broccadelli, religiosa",
+                "martirologio": "A Ferrara, beata Lucia Broccadelli, religiosa, che tanto nella vita matrimoniale quanto nel monastero del Terz’Ordine di San Domenico sopportò con pazienza molte sofferenze e umiliazioni."
+            },
+            {
+                "nome": "Beato Caio Coreano, martire",
+                "martirologio": "A Nagasaki in Giappone, beato Caio Coreano, martire, che, catechista fu dato al rogo per aver confessato Cristo."
+            },
+            {
+                "nome": "Santi Rocco González e Alfonso Rodríguez, sacerdoti",
+                "martirologio": "In località Caaró in Paraguay, santi Rocco González e Alfonso Rodríguez, sacerdoti della Compagnia di Gesù e martiri, che avvicinarono a Cristo le diseredate popolazioni indigene fondando i villaggi chiamati reducciones, nei quali il lavoro e la vita sociale si coniugavano liberamente con i valori del cristianesimo, e furono per questo uccisi in un agguato dal sicario di uno stregone."
+            },
+            {
+                "nome": "San Giuseppe Pignatelli, sacerdote",
+                "martirologio": "A Roma, san Giuseppe Pignatelli, sacerdote della Compagnia di Gesù, che si adoperò a fondo per ridare vita a questa famiglia religiosa ormai ridotta quasi all’estinzione e si dimostrò insigne per carità, umiltà e integrità morale, sempre rivolto alla maggior gloria di Dio."
+            },
+            {
+                "nome": "San Giuseppe Mkasa Balikuddembé, martire",
+                "martirologio": "In località Mengo in Uganda, san Giuseppe Mkasa Balikuddembé, martire, che, capo della corte regia, dopo aver ricevuto il battesimo, conquistò molti giovani a Cristo e difese i ragazzi di corte dai vizi del re Mwenga; per questo, all’età di soli venticinque anni, fu decapitato per ordine del re adirato, divenendo prima vittima della sua persecuzione."
+            },
+            {
+                "nome": "Beata Maria della Passione (Elena) di Chappotin de Neuville, vergine",
+                "martirologio": "A Sanremo in Liguria, beata Maria della Passione (Elena) di Chappotin de Neuville, vergine, che, rapita nell’intimo dalla semplicità di san Francesco, istituì le Suore Francescane Missionarie di Maria e prestò sempre grande cura alla difesa della condizione della donna nelle terre di missione."
+            },
+            {
+                "nome": "San Raffaele di San Giuseppe (Giuseppe) Kalinowski, sacerdote",
+                "martirologio": "Presso Wadowice in Polonia, san Raffaele di San Giuseppe (Giuseppe) Kalinowski, sacerdote, che, durante un’insurrezione popolare contro gli oppressori, fu catturato nel corso della guerra dai nemici e deportato in Siberia, dove patì molte tribolazioni, e, dopo essere stato liberato, entrò nell’Ordine dei Carmelitani Scalzi, a cui diede grande impulso."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

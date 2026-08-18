@@ -1,0 +1,72 @@
+{
+    "data": "2026-11-12",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXII",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "IV",
+    "santo_del_giorno": "San Giosafat (Giovanni) Kuncewicz, vescovo",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/c1abe400-2f02-4454-905a-3f07ae1fa988.jpeg",
+    "santo": {
+        "nome": "San Giosafat (Giovanni) Kuncewicz, vescovo",
+        "martirologio": "Memoria della passione di san Giosafat (Giovanni) Kuncewicz, vescovo di Polotzk e martire, che spinse con costante zelo il suo gregge all’unità cattolica, coltivò con amorevole devozione il rito bizantino-slavo e, a Vitebsk in Bielorussia, a quel tempo sotto la giurisdizione polacca, crudelmente assalito in un tumulto dalla folla a lui avversa, morì per l’unità della Chiesa e per la verità cattolica.",
+        "altri_santi": [
+            {
+                "nome": "San Nilo, abate",
+                "martirologio": "Presso Ankara in Galazia, nell’odierna Turchia, san Nilo, abate, che, ritenuto discepolo di san Giovanni Crisostomo, resse a lungo un monastero e diffuse con i suoi scritti la dottrina ascetica."
+            },
+            {
+                "nome": "San Macario, vescovo",
+                "martirologio": "Nell’isola di Mull in Scozia, san Macario, vescovo, che, di origine irlandese, è ritenuto discepolo di san Colomba e fondatore della Chiesa di questo luogo."
+            },
+            {
+                "nome": "Sant’Esichio, vescovo",
+                "martirologio": "A Vienne in Burgundia, ora in Francia, sant’Esichio, vescovo, che fu elevato dalla dignità senatoria a quella episcopale; i suoi figli, che aveva generato in precedenza, furono i santi Apollinare, vescovo di Valence, e Avíto, che gli succedette nella sede di Vienne."
+            },
+            {
+                "nome": "Sant’Emiliano, sacerdote",
+                "martirologio": "Sulle alture della regione di Cogolla vicino a Berceo in Spagna, sant’Emiliano, sacerdote, che, dopo aver condotto vita eremitica e di chierico, professò infine quella monastica, rifulgendo per la generosità verso i poveri e lo spirito di profezia."
+            },
+            {
+                "nome": "San Cuniberto, vescovo",
+                "martirologio": "A Colonia nell’Austrasia, ora in Germania, san Cuniberto, vescovo, che dopo le invasioni barbariche rinnovò nella città e in tutto il territorio la vita ecclesiastica e la pietà dei fedeli."
+            },
+            {
+                "nome": "San Lebuino, sacerdote",
+                "martirologio": "A Deventer in Frisia, nell’odierna Olanda, san Lebuino, sacerdote, che, monaco venuto dall’Inghilterra, si adoperò per annunciare agli abitanti di questa regione la pace e la salvezza di Cristo."
+            },
+            {
+                "nome": "Santi Benedetto, Giovanni, Matteo e Isacco, martiri",
+                "martirologio": "Presso Kazimierz sul fiume Warta in Polonia, santi Benedetto, Giovanni, Matteo e Isacco, martiri, che, mandati ad annunciare la fede cristiana in Polonia, furono sgozzati di notte da alcuni briganti. Insieme con loro si commemora anche Cristiano, loro servo, impiccato nel recinto della chiesa."
+            },
+            {
+                "nome": "Beato Giovanni Cini",
+                "martirologio": "A Pisa, beato Giovanni Cini, detto della Pace, che dal servizio militare passò a quello di Dio nel Terz’Ordine di San Francesco."
+            },
+            {
+                "nome": "San Diego, religioso",
+                "martirologio": "Ad Alcalá de Henares in Spagna, san Diego, religioso dell’Ordine dei Minori, che sia nelle isole Canarie sia a Roma nel monastero di Santa Maria in Ara Coeli rifulse per umiltà e carità nella cura degli infermi."
+            },
+            {
+                "nome": "San Margherito Flores, sacerdote e martire",
+                "martirologio": "Nella città di Tulimán in Messico, san Margherito Flores, sacerdote e martire, che, durante la grande persecuzione contro la Chiesa, fu arrestato per il suo sacerdozio e coronato da glorioso martirio con la fucilazione."
+            },
+            {
+                "nome": "Beato Giuseppe Medes Ferrís, martire",
+                "martirologio": "Nel villaggio di Alcudia de Carlet nel territorio di Valencia in Spagna, beato Giuseppe Medes Ferrís, martire, al quale il Signore diede il premio eterno, nel corso della persecuzione religiosa, per la sua impavida fedeltà."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

@@ -1,0 +1,202 @@
+{% extends "base.html" %}
+
+{% macro render_sections(sections, prefix) %}
+    {% for section in sections %}
+    <div class="mb-4" data-key="{{ section.key }}">
+        <h5 class="section-title text-primary border-bottom pb-1">{{ section.label }}</h5>
+        {% if section.groups is not none %}
+            {% for group in section.groups %}
+            <div class="callout callout-info py-2 mb-2">
+                <small class="text-muted">Salmodia — {{ loop.index }}</small>
+                {% if group is mapping %}
+                    {% if group.antifona %}
+                    <div class="liturgical-text psalm-antiphon">{{ group.antifona }}</div>
+                    {% endif %}
+                    {% if group.sottotitolo %}
+                    <div class="liturgical-text psalm-subtitle text-muted">{{ group.sottotitolo }}</div>
+                    {% endif %}
+                    {% if group.salmo %}
+                    <div class="liturgical-text psalm-body mt-2">{{ group.salmo }}</div>
+                    {% endif %}
+                {% else %}
+                    <div class="liturgical-text">{{ group }}</div>
+                {% endif %}
+            </div>
+            {% endfor %}
+        {% else %}
+            <div class="liturgical-text">{{ section.text }}</div>
+        {% endif %}
+    </div>
+    {% endfor %}
+{% endmacro %}
+
+{% block title %}{{ record.iso }} — LiturgiaCollector{% endblock %}
+{% block header_class %}d-none d-md-block{% endblock %}
+
+{% block date_jump_value %}{{ record.iso }}{% endblock %}
+
+{% block navbar_extra %}
+<li class="nav-item d-md-none">
+    <a class="nav-link text-muted js-date-jump" href="#" title="Vai a una data">
+        {{ record.metadata.get("giorno_settimana", "") }}
+        {{ record.day.day }} {{ months_it[record.day.month - 1] }} {{ record.day.year }}
+    </a>
+</li>
+{% endblock %}
+{% block page_title %}
+    <span class="d-none d-md-inline">
+        {{ record.metadata.get("giorno_settimana", "") }} {{ record.iso }}
+        <span class="badge badge-{{ record.color_badge }}">{{ record.color or "" }}</span>
+    </span>
+{% endblock %}
+
+{% block header_actions %}
+<a class="btn btn-outline-primary d-none d-md-inline-block"
+   href="{{ url_for('month_view', year=record.day.year, month=record.day.month) }}">
+    <i class="fas fa-calendar-alt"></i> {{ months_it[record.day.month - 1] }} {{ record.day.year }}
+</a>
+{% endblock %}
+
+{% block content %}
+{# Mini-FAB: salta a salmi / letture / vangelo nella scheda Giorno #}
+<div class="jump-fabs">
+    <button type="button" class="jump-badge jump-salmi" data-jump="salmi"
+            title="Vai ai Salmi">Salmi</button>
+    <button type="button" class="jump-badge jump-letture" data-jump="letture"
+            title="Vai alle Letture">Letture</button>
+    <button type="button" class="jump-badge jump-vangelo" data-jump="vangelo"
+            title="Vai al Vangelo">Vangelo</button>
+    <a class="jump-badge jump-omelia" href="{{ url_for('omelia', iso=record.iso) }}"
+       title="Omelia del giorno (video)">Omelia</a>
+</div>
+
+{# Riepilogo compatto, solo smartphone #}
+{# Badge riepilogo: dimensione fissa, niente grassetto #}
+<div class="day-badges mb-2">
+    {% if record.metadata.get("anno_liturgico") %}
+    <span class="badge-day badge-day-color badge-anno-{{ record.metadata['anno_liturgico'] | lower }}"
+          title="Anno liturgico">{{ record.metadata["anno_liturgico"] }}</span>
+    {% endif %}
+    {% if record.metadata.get("ciclo_biennale") %}
+    <span class="badge-day badge-day-color badge-ciclo-{{ record.metadata['ciclo_biennale'] | lower }}"
+          title="Ciclo biennale">{{ record.metadata["ciclo_biennale"] }}</span>
+    {% endif %}
+    {% for part in record.header_parts %}
+    <span class="badge-day">{{ part }}</span>
+    {% endfor %}
+    {% if record.metadata.get("grado") %}
+    <span class="badge-day">{{ record.metadata["grado"] }}</span>
+    {% endif %}
+    {% if record.color %}
+    <span class="badge-day badge-day-color"
+          style="background:{{ record.color_hex }}">{{ record.color }}</span>
+    {% endif %}
+    {% if record.metadata.get("santo_del_giorno") %}
+    <a class="badge-day" href="#"
+       onclick="var t = document.getElementById('santoTabLink'); if (t) { t.click(); } return false;">
+        {{ record.metadata["santo_del_giorno"] }}</a>
+    {% endif %}
+</div>
+
+<div class="row">
+
+    <div class="col-12">
+        {# tab predefinita: Giorno #}
+        {% set active_slug = "" %}
+        <div class="card card-primary card-outline card-outline-tabs">
+            <div class="card-header p-0 border-bottom-0">
+                <ul class="nav nav-tabs" role="tablist">
+                    {% for tab in record.tabs %}
+                    {% if tab.slug == "compieta" %}
+                    <li class="nav-item">
+                        <a class="nav-link active" data-toggle="pill"
+                           href="#doc-giorno" role="tab">Giorno</a>
+                    </li>
+                    {% endif %}
+                    {# la scheda Santo non ha label: si apre dal badge #}
+                    <li class="nav-item {% if tab.slug == 'santo-del-giorno' %}d-none{% endif %}">
+                        <a class="nav-link {% if tab.slug == active_slug %}active{% endif %}"
+                           {% if tab.slug == 'santo-del-giorno' %}id="santoTabLink"{% endif %}
+                           data-toggle="pill" href="#doc-{{ tab.slug }}" role="tab">
+                            <span class="d-none d-md-inline">{{ tab.title }}</span>
+                            <span class="d-md-none">{{ tab.short_title }}</span>
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="card-body">
+                <div class="tab-content">
+                    {# Giorno: Lodi + testi del Proprio biennale #}
+                    <div class="tab-pane fade show active" id="doc-giorno" role="tabpanel">
+                        {% if record.giorno_sections %}
+                            {{ render_sections(record.giorno_sections, "giorno") }}
+                        {% else %}
+                            <p class="text-muted">Contenuto non disponibile.</p>
+                        {% endif %}
+                    </div>
+                    {% for tab in record.tabs %}
+                    <div class="tab-pane fade {% if tab.slug == active_slug %}show active{% endif %}"
+                         id="doc-{{ tab.slug }}" role="tabpanel">
+
+                        {% if tab.kind == "santo" %}
+                            <div class="d-flex flex-column flex-sm-row align-items-start mb-3">
+                                {% if record.metadata.get("immagine_santo") %}
+                                <img src="{{ record.metadata["immagine_santo"] }}"
+                                     alt="{{ tab.santo.nome }}" class="img-thumbnail mr-sm-3 mb-2 mb-sm-0"
+                                     style="max-width:160px">
+                                {% endif %}
+                                <div>
+                                    <h4 class="text-primary">{{ tab.santo.nome }}</h4>
+                                    {% if tab.santo.martirologio %}
+                                    <small class="text-muted d-block mb-1">Dal Martirologio</small>
+                                    <div class="liturgical-text">{{ tab.santo.martirologio }}</div>
+                                    {% endif %}
+                                </div>
+                            </div>
+                            {% if tab.santo.altri_santi %}
+                            <h5 class="section-title text-primary border-bottom pb-1">Altri Santi</h5>
+                            {% for altro in tab.santo.altri_santi %}
+                            <div class="callout callout-info py-2 mb-2">
+                                <strong>{{ altro.nome }}</strong>
+                                <div class="liturgical-text">{{ altro.martirologio }}</div>
+                            </div>
+                            {% endfor %}
+                            {% endif %}
+
+                        {% elif tab.kind == "structured" %}
+                            {{ render_sections(tab.sections, tab.slug) }}
+
+                        {% elif tab.kind == "ora_media" %}
+                            <ul class="nav nav-pills mb-3" role="tablist">
+                                {% for name, _sections in tab.sub_hours %}
+                                <li class="nav-item">
+                                    <a class="nav-link {% if loop.first %}active{% endif %}"
+                                       data-toggle="pill" href="#om-{{ loop.index }}" role="tab">{{ name }}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                            <div class="tab-content">
+                                {% for name, sections in tab.sub_hours %}
+                                <div class="tab-pane fade {% if loop.first %}show active{% endif %}"
+                                     id="om-{{ loop.index }}" role="tabpanel">
+                                    {{ render_sections(sections, "om-" ~ loop.index) }}
+                                </div>
+                                {% endfor %}
+                            </div>
+
+                        {% else %}
+                            <div class="liturgical-text">{{ tab.text }}</div>
+                        {% endif %}
+
+                    </div>
+                    {% else %}
+                    <p class="text-muted">Nessun documento presente per questa giornata.</p>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+{% endblock %}

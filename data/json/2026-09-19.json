@@ -1,0 +1,271 @@
+{
+    "data": "2026-09-19",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXIV",
+    "celebrazione": "SAN GENNARO, VESCOVO E MARTIRE – MEMORIA FACOLTATIVA",
+    "grado": "Memoria facoltativa",
+    "colore": "Bianco",
+    "settimana_del_salterio": "IV",
+    "santo_del_giorno": "San Gennaro, vescovo",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/f3fc7f1a-9f8e-4699-a75c-a07743a970eb.jpeg",
+    "santo": {
+        "nome": "San Gennaro, vescovo",
+        "martirologio": "San Gennaro, vescovo di Benevento e martire, che in tempo di persecuzione contro la fede, a Pozzuoli vicino a Napoli subì il martirio per Cristo.",
+        "altri_santi": [
+            {
+                "nome": "San Trófimo, martire",
+                "martirologio": "A Sinnada in Frigia, nell’odierna Turchia, san Trófimo, martire."
+            },
+            {
+                "nome": "Santi martiri Péleo e Nilo, vescovi",
+                "martirologio": "In Palestina, santi martiri Péleo e Nilo, vescovi in Egitto, Elia, sacerdote, e Patermuzio, che, durante la persecuzione dell’imperatore Diocleziano, furono arsi per Cristo sul rogo insieme a molti chierici."
+            },
+            {
+                "nome": "Sant’Eustochio, vescovo",
+                "martirologio": "A Tours nella Gallia lugdunense, ora in Francia, sant’Eustochio, vescovo, che, senatore, fu uomo santo e pio e succedette a san Brizio."
+            },
+            {
+                "nome": "San Séquano, sacerdote e abate",
+                "martirologio": "Nel monastero di Sisteron presso Langres sempre in Francia, san Séquano, sacerdote e abate."
+            },
+            {
+                "nome": "San Mariano, eremita",
+                "martirologio": "Nel territorio di Bourges in Aquitania, in Francia, san Mariano, eremita, che non si nutriva che di frutti selvatici e miele reperito per caso."
+            },
+            {
+                "nome": "San Goeríco o Abbone, vescovo",
+                "martirologio": "A Metz in Austrasia, ancora nel territorio dell’odierna Francia, san Goeríco o Abbone, vescovo, che succedette a sant’Arnolfo, il corpo del quale traslò con venerazione in questa città."
+            },
+            {
+                "nome": "San Teodoro, vescovo",
+                "martirologio": "A Canterbury in Inghilterra, san Teodoro, vescovo, che, monaco di Tarso, elevato all’episcopato dal papa san Vitaliano e mandato quasi settuagenario in Inghilterra, governò con forza d’animo la Chiesa a lui affidata."
+            },
+            {
+                "nome": "Santa Pomposa, vergine e martire",
+                "martirologio": "A Córdova nell’Andalusia in Spagna, santa Pomposa, vergine e martire, che, durante la persecuzione dei Mori, fuggì di nascosto dal monastero di Peñamelaria dopo avere appreso del martirio di santa Colomba; giunta a Córdova, professò impavida davanti al giudice la sua fede in Cristo e, decapitata senza indugio con la spada davanti alle porte del palazzo, ottenne la palma del martirio."
+            },
+            {
+                "nome": "San Lantberto, vescovo",
+                "martirologio": "A Frisinga nella Baviera, in Germania, san Lantberto, vescovo."
+            },
+            {
+                "nome": "San Ciriaco, abate",
+                "martirologio": "A Buonvicino vicino a Cosenza in Calabria, san Ciriaco, abate."
+            },
+            {
+                "nome": "Sant’Arnolfo, vescovo",
+                "martirologio": "A Gap nella Provenza in Francia, sant’Arnolfo, vescovo, che si adoperò molto per ridare una retta disciplina alla vita della sua Chiesa."
+            },
+            {
+                "nome": "Santa Maria de Cervellón, vergine",
+                "martirologio": "A Barcellona nella Catalogna in Spagna, santa Maria de Cervellón, vergine dell’Ordine della Beata Maria della Mercede, che fu comunemente chiamata Maria del Soccorso per l’aiuto che offriva a chiunque lo invocasse."
+            },
+            {
+                "nome": "Sant’Alfonso de Orozco, sacerdote",
+                "martirologio": "A Madrid in Spagna, sant’Alfonso de Orozco, sacerdote dell’Ordine degli Eremiti di Sant’Agostino, che, predicatore ufficiale alla corte del re, si mostrò sempre austero e umile."
+            },
+            {
+                "nome": "San Carlo Hyon Songmun, martire",
+                "martirologio": "A Seul in Corea, passione di san Carlo Hyon Songmun, martire: catechista, compì lunghi e difficili viaggi per accompagnare i missionari nella sua patria; messo in carcere insieme ad altri cristiani, mai smise di esortare i suoi compagni e fu, infine, decapitato per Cristo."
+            },
+            {
+                "nome": "Santa Maria Guglielma Emilia de Rodat, vergine",
+                "martirologio": "A Villefranche nel territorio di Rodez in Francia, santa Maria Guglielma Emilia de Rodat, vergine, che fondò la Congregazione delle Suore della Santa Famiglia per la formazione della gioventù femminile e l’assistenza ai poveri."
+            },
+            {
+                "nome": "Beato Giacinto Hoyuelos González, religioso e martire",
+                "martirologio": "In località Ciempozuelos vicino a Madrid in Spagna, beato Giacinto Hoyuelos González, religioso dell’Ordine di San Giovanni di Dio e martire, che, durante la persecuzione contro la Chiesa, subì un glorioso martirio per aver professato la sua fede in Cristo."
+            },
+            {
+                "nome": "Beata Francesca Cualladó Baixauli, vergine e martire",
+                "martirologio": "Nel villaggio di Benifayó nel territorio di Valencia sempre in Spagna, beata Francesca Cualladó Baixauli, vergine e martire, che versò il sangue per Cristo sempre nella stessa persecuzione contro la fede."
+            },
+            {
+                "nome": "Beate Maria di Gesù de la Yglesia y de Varo, Maria Addolorata e Consolata Aguiar-Mella y Díaz, vergini e martiri",
+                "martirologio": "A Madrid ancora in Spagna, beate Maria di Gesù de la Yglesia y de Varo, Maria Addolorata e Consolata Aguiar-Mella y Díaz, vergini dell’Istituto delle Figlie di Maria delle Scuole Pie e martiri, che furono coronate con il martirio per la testimonianza data a Cristo."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Questo è un vero martire;\nper il nome di Cristo ha versato il proprio sangue,\nnon ha temuto le minacce dei giudici:\ncosì è giunto nel regno dei cieli.\n\nOppure:\n\nTutto considero una perdita\na motivo della conoscenza di Cristo\ne della comunione alle sue sofferenze,\nper rendermi conforme alla sua morte. (Cf. Fil 3,8.10)",
+        "colletta": "O Dio, che ci concedi di venerare la memoria\ndel santo martire Gennaro,\nfa’ che partecipiamo con lui alla beatitudine eterna.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "È seminato nella corruzione, risorge nell’incorruttibilità.\nDalla prima lettera di san Paolo apostolo ai Corìnzi\n1Cor 15,35-37.42-49\n\nFratelli, qualcuno dirà: «Come risorgono i morti? Con quale corpo verranno?». Stolto! Ciò che tu semini\nnon prende vita, se prima non muore. Quanto a ciò che semini, non semini il corpo che nascerà, ma un semplice chicco di grano o di altro genere. Così anche la risurrezione dei morti: è seminato nella corruzione, risorge nell’incorruttibilità; è seminato nella miseria, risorge nella gloria; è seminato nella\ndebolezza, risorge nella potenza; è seminato corpo animale, risorge corpo spirituale.\nSe c’è un corpo animale, vi è anche un corpo spirituale. Sta scritto infatti che il primo uomo, Adamo, divenne un essere vivente, ma l’ultimo Adamo divenne spirito datore di vita. Non vi fu prima il corpo spirituale, ma quello animale, e poi lo spirituale. Il primo uomo, tratto dalla terra, è fatto di terra; il secondo uomo viene dal cielo. Come è l’uomo terreno, così sono quelli di terra; e come è l’uomo celeste, così anche i celesti. E come eravamo simili all’uomo terreno, così saremo\nsimili all’uomo celeste.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 55 (56)\nR. Camminerò davanti a Dio nella luce dei viventi.\nOppure:\nR. Esulterò davanti a te, Signore, nella luce dei viventi.\n\nSi ritireranno i miei nemici,\nnel giorno in cui ti avrò invocato;\nquesto io so: che Dio è per me. R.\n\nIn Dio, di cui lodo la parola,\nnel Signore, di cui lodo la parola,\nin Dio confido, non avrò timore:\nche cosa potrà farmi un uomo? R.\n\nManterrò, o Dio, i voti che ti ho fatto:\nti renderò azioni di grazie,\nperché hai liberato la mia vita dalla morte,\ni miei piedi dalla caduta. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nBeati coloro che custodiscono la parola di Dio\ncon cuore integro e buono\ne producono frutto con perseveranza. (Cf. Lc 8,15)\n\nAlleluia.",
+        "vangelo": "Il seme caduto sul terreno buono sono coloro che custodiscono la Parola e producono frutto con perseveranza.\nDal Vangelo secondo Luca\nLc 8,4-15\n\nIn quel tempo, poiché una grande folla si radunava e accorreva a lui gente da ogni città, Gesù disse con una parabola: «Il seminatore uscì a seminare il suo seme. Mentre seminava, una parte cadde lungo la strada e fu calpestata, e gli uccelli del cielo la mangiarono. Un’altra parte cadde sulla pietra e, appena germogliata, seccò per mancanza di umidità. Un’altra parte cadde in mezzo ai rovi e i rovi, cresciuti insieme con essa, la soffocarono. Un’altra parte cadde sul terreno buono, germogliò e fruttò cento volte tanto». Detto questo, esclamò: «Chi ha orecchi per ascoltare, ascolti!».\nI suoi discepoli lo interrogavano sul significato della parabola. Ed egli disse: «A voi è dato conoscere i misteri del regno di Dio, ma agli altri solo con parabole, affinché\nvedendo non vedano\ne ascoltando non comprendano.\nIl significato della parabola è questo: il seme è la parola di Dio. I semi caduti lungo la strada sono coloro che l’hanno ascoltata, ma poi viene il diavolo e porta via la Parola dal loro cuore, perché non avvenga che, credendo, siano salvati. Quelli sulla pietra sono coloro che, quando ascoltano, ricevono la Parola con gioia, ma non hanno radici; credono per un certo tempo, ma nel tempo della prova vengono meno. Quello caduto in mezzo ai rovi sono coloro che, dopo aver ascoltato, strada facendo si lasciano soffocare da preoccupazioni, ricchezze e piaceri della vita e non giungono a maturazione. Quello sul terreno buono sono coloro che, dopo aver ascoltato la Parola con cuore integro e buono, la custodiscono e producono frutto con perseveranza.\n\nParola del Signore.",
+        "sulle_offerte": "Padre clementissimo,\neffondi su queste offerte la tua benedizione,\ne confermaci nella fede\nche san Gennaro testimoniò versando il suo sangue.\nPer Cristo nostro Signore.\n\nOppure:\n\nTi presentiamo, o Signore, queste offerte\nnella memoria del tuo santo martire Gennaro,\nche nessuna prova poté separare dall’unità del corpo di Cristo.\nEgli vive e regna nei secoli dei secoli.",
+        "antifona_alla_comunione": "Chi rimane in me, e io in lui, porta molto frutto:\nsenza di me non potete far nulla. (Gv 15,5)\n\nOppure:\n\n«Chi segue me, non camminerà nelle tenebre,\nma avrà la luce della vita», dice il Signore. (Gv 8,12)",
+        "dopo_la_comunione": "Rinnovati dai santi misteri, ti preghiamo, o Signore:\nfa’ che, imitando la mirabile costanza di san Gennaro,\notteniamo il premio eterno\npromesso a chi soffre a causa del tuo nome.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": {
+        "introduzione": "V. O Dio, vieni a salvarmi\nR. Signore, vieni presto in mio aiuto.\n\nGloria al Padre e al Figlio\ne allo Spirito Santo.\nCome era nel principio, e ora e sempre\nnei secoli dei secoli. Amen. Alleluia.\n\nQuesta introduzione si omette quando si comincia l'Ufficio con l'Invitatorio.",
+        "inno": "O re d’eterna gloria,\nche irradi sulla Chiesa\ni doni del tuo Spirito,\nassisti i tuoi fedeli.\n\nIllumina le menti,\nconsola i nostri cuori,\nrafforza i nostri passi\nsulla via della pace.\n\nE quando verrà il giorno\ndel tuo avvento glorioso,\naccoglici, o Signore,\nnel regno dei beati.\n\nA te sia lode, o Cristo,\nsperanza delle genti,\nal Padre e al Santo Spirito\nnei secoli dei secoli. Amen.",
+        "antifone_e_salmi": [
+            {
+                "antifona": "1 ant. Il Signore cònvoca cielo e terra\nper giudicare il suo popolo.",
+                "sottotitolo": "SALMO 49 Il culto gradito a Dio\nCristo non abolì il culto antico, ma lo portò alla sua perfezione; disse infatti: Non sono venuto per abolire, ma per dare compimento (cfr. Mt 5, 17).",
+                "salmo": "I (1-6)\n\nParla il Signore, Dio degli dèi, *\ncònvoca la terra da oriente a occidente.\nDa Sion, splendore di bellezza, *\nDio rifulge.\n\nViene il nostro Dio e non sta in silenzio; †\ndavanti a lui un fuoco divorante, *\nintorno a lui si scatena la tempesta.\n\nCònvoca il cielo dall’alto *\ne la terra al giudizio del suo popolo:\n\n«Davanti a me riunite i miei fedeli, *\nche hanno sancito con me l’alleanza\noffrendo un sacrificio».\n\nIl cielo annunzi la sua giustizia: *\nDio è il giudice.\n\n1 ant. Il Signore cònvoca cielo e terra\nper giudicare il suo popolo."
+            },
+            {
+                "antifona": "2 ant. Grida a me nel giorno della prova:\nverrò a liberarti.",
+                "sottotitolo": null,
+                "salmo": "II (7-15)\n\n«Ascolta, popolo mio, voglio parlare, †\ntestimonierò contro di te, Israele: *\nIo sono Dio, il tuo Dio.\n\nNon ti rimprovero per i tuoi sacrifici; *\ni tuoi olocausti mi stanno sempre dinanzi.\nNon prenderò giovenchi dalla tua casa, *\nné capri dai tuoi recinti.\n\nSono mie tutte le bestie della foresta, *\nanimali a migliaia sui monti.\nConosco tutti gli uccelli del cielo, *\nè mio ciò che si muove nella campagna.\n\nSe avessi fame, a te non lo direi: *\nmio è il mondo e quanto contiene.\nMangerò forse la carne dei tori, *\nberrò forse il sangue dei capri?\n\nOffri a Dio un sacrificio di lode *\ne sciogli all’Altissimo i tuoi voti;\ninvocami nel giorno della sventura: *\nti salverò e tu mi darai gloria».\n\n2 ant. Grida a me nel giorno della prova:\nverrò a liberarti."
+            },
+            {
+                "antifona": "3 ant. Chi offre il sacrificio della lode,\nquesti mi onora.",
+                "sottotitolo": null,
+                "salmo": "III (16-23)\n\nAll’empio dice Dio: †\n«Perché vai ripetendo i miei decreti *\ne hai sempre in bocca la mia alleanza,\n\ntu che detesti la disciplina *\ne le mie parole te le getti alle spalle?\nSe vedi un ladro, corri con lui; *\ne degli adùlteri ti fai compagno.\n\nAbbandoni la tua bocca al male *\ne la tua lingua ordisce inganni.\nTi siedi, parli contro il tuo fratello, *\ngetti fango contro il figlio di tua madre.\n\nHai fatto questo e dovrei tacere? †\nForse credevi ch’io fossi come te! *\nTi rimprovero: ti pongo innanzi i tuoi peccati».\n\nCapite questo voi che dimenticate Dio, *\nperché non mi adiri e nessuno vi salvi.\n\nChi offre il sacrificio di lode, questi mi onora, †\na chi cammina per la retta via *\nmostrerò la salvezza di Dio.\n\n3 ant. Chi offre il sacrificio della lode,\nquesti mi onora.\n\nV. Preghiamo e domandiamo in ogni tempo\nR. la piena conoscenza della volontà di Dio."
+            }
+        ],
+        "prima_lettura": "Dal libro del profeta Ezechiele\n\n18, 1-13. 20-32\n\nCiascuno sarà giudicato in base alle proprie azioni\n\nMi fu rivolta questa parola del Signore: «Perché andate ripetendo questo proverbio sul paese d'Israele:\n\nI padri han mangiato l'uva acerba\ne i denti dei figli si sono allegati?\n\nCom'è vero ch'io vivo, dice il Signore Dio, voi non ripeterete più questo proverbio in Israele. Ecco, tutte le vite sono mie: la vita del padre e quella del figlio è mia; chi pecca morirà.\nSe uno è giusto e osserva il diritto e la giustizia, se non mangia sulle alture e non alza gli occhi agli idoli della casa d'Israele, se non disonora la moglie del suo prossimo e non si accosta a una donna durante il suo stato di impurità, se non opprime alcuno, restituisce il pegno al debitore, non commette rapina, divide il pane con l'affamato e copre di vesti l'ignudo, se non presta a usura e non esige interesse, desiste dall'iniquità e pronunzia retto giudizio fra un uomo e un altro, se cammina nei miei decreti e osserva le mie leggi agendo con fedeltà, egli è giusto ed egli vivrà, parola del Signore Dio. Ma se uno ha generato un figlio violento e sanguinario che commette azioni inique, mentre egli non le commette, e questo figlio mangia sulle alture, disonora la donna del prossimo, opprime il povero e l'indigente, commette rapine, non restituisce il pegno, volge gli occhi agli idoli, compie azioni abominevoli, presta a usura ed esige gli interessi, egli non vivrà; poiché ha commesso azioni abominevoli, costui morirà e dovrà a se stesso la propria morte.\nColui che ha peccato, e non altri, deve morire; il figlio non sconta l'iniquità del padre, né il padre l'iniquità del figlio. Al giusto sarà accreditata la sua giustizia e al malvagio la sua malvagità.\nMa se il malvagio si allontana da tutti i peccati che ha commesso e osserva tutti i miei precetti e agisce con giustizia e rettitudine, egli vivrà, non morirà. Nessuna delle colpe commesse sarà ricordata, ma vivrà per la giustizia che ha praticato.\nForse che io ho piacere della morte del malvagio - dice il Signore Dio - o non piuttosto che desista dalla sua condotta e viva?\nMa se il giusto si allontana dalla giustizia e commette l'iniquità, imitando tutte le azioni abominevoli che l'empio commette, potrà egli vivere? Tutte le opere giuste da lui fatte saranno dimenticate; a causa della prevaricazione in cui è caduto e del peccato che ha commesso, egli morirà.\nVoi dite: Non è retto il modo di agire del Signore.\nAscolta dunque, popolo d'Israele: Non è retta la mia condotta o piuttosto non è retta la vostra? Se il giusto si allontana dalla giustizia per commettere l'iniquità e a causa di questa muore, egli muore appunto per l'iniquità che ha commesso. E se l'ingiusto desiste dall'ingiustizia che ha commesso e agisce con giustizia e rettitudine, egli fa vivere se stesso. Ha riflettuto, si è allontanato da tutte le colpe commesse: egli certo vivrà e non morirà. Eppure gli Israeliti van dicendo: Non è retta la via del Signore. O popolo d'Israele, non sono rette le mie vie o piuttosto non sono rette le vostre?\nPerciò, o Israeliti, io giudicherò ognuno di voi secondo la sua condotta. Oracolo del Signore Dio. Convertitevi e desistete da tutte le vostre iniquità, e l'iniquità non sarà più causa della vostra rovina. Liberatevi da tutte le iniquità commesse e formatevi un cuore nuovo e uno spirito nuovo. Perché volete morire, o Israeliti? Io non godo della morte di chi muore. Parola del Signore Dio. Convertitevi e vivrete».",
+        "responsorio_prima_lettura": "Cfr. Ger 31, 29; Ez 18, 20. 30. 20\n\nR. Non si dirà più: I padri hanno mangiato uva acerba\ne i denti dei figli si sono allegati. * Colui che ha\npeccato, e non altri, deve morire.\nV. Io giudicherò ognuno secondo la sua condotta: il\nfiglio non sconta l'iniquità del padre, né il padre l'iniquità\ndel figlio.\nR. Colui che ha peccato, e non altri deve morire.",
+        "seconda_lettura": "Dal «Discorso sui pastori» di sant’Agostino, vescovo\n\n(Disc. 46, 11-12; CCL 41, 538-539)\n\nOffri la fasciatura del conforto\n\nÈ detto nella Scrittura: «Egli (Dio) sferza chiunque riconosce come figlio» (Eb 12, 6), e tu dici: Forse per te ci sarà un’eccezione. Ma ricordati bene che se uno è esente dal flagello dei castighi, è escluso dal numero dei figli. Dunque, dirai, egli sferza proprio ogni figlio? Certo, egli sferza ogni figlio, come ha colpito perfino il suo Unigenito. Quel Figlio unico, nato dalla sostanza del Padre, era il Verbo uguale al Padre nella natura divina, colui per il quale sono state fatte tutte le cose. Ebbene egli non diede mai alcun motivo per essere colpito. Eppure si rivestì del corpo a questo scopo, per non restare senza flagello. Ora chi sferza l’Unigenito, benché senza peccato, lascerà esente dalla sofferenza il figlio adottivo e peccatore? L’Apostolo dice che noi siamo stati chiamati all’adozione. Abbiamo ricevuto l’adozione di figli per essere eredi insieme all’Unigenito, e per essere insieme la sua eredità: «Chiedi a me, ti darò in possesso le genti» (Sal 2, 8). Egli ci diede l’esempio con le sue sofferenze.\nMa certo il debole, per non soccombere alle future tentazioni, non deve essere ingannato con false speranze, né avvilito con prospettive spaventose. Devi dirgli: «Prepàrati alla tentazione» (Sir 2, 1). Egli forse comincerà a vacillare, a tremare tutto, a indietreggiare. Ma anche quest’altra verità devi dirgli: «Dio è fedele e non permetterà che siate tentati oltre le vostre forze» (1 Cor 10, 13).\nQuel promettere e prospettare le sofferenze future, è dare forza a chi è debole. Ma se uno teme troppo e perciò è spaventato, promettigli la misericordia di Dio. Con ciò non gli assicurerai certo l’immunità dalle tentazioni, ma lo convincerai che Dio non permette che siamo tentati oltre le forze. È come se tu applicassi delle fasce a chi ha subìto una frattura. Vi sono infatti alcuni, che, quando hanno sentito che verranno tribolazioni, si premuniscono di più e quasi hanno sete di questo calice. Stimano infatti troppo poco per loro la medicina dei fedeli, e anelano alla gloria dei martiri.\nC’è, invece, chi, al sentir parlare delle prove inevitabili riservate al cristiano e tali che nessun altro sperimenta se non colui che vuole essere veramente cristiano, si turba e, quando se le vede giungere addosso, si perde d’animo e vacilla. A costui offri la fasciatura del conforto e lega ciò che è spezzato. Di’: Non aver paura, non ti abbandonerà nelle tentazioni colui nel quale hai creduto. Dio è fedele e non permette che tu sia tentato oltre le tue forze. Non è questa una mia affermazione. Te la fa l’Apostolo che inoltre aggiunge: Volete una prova che Cristo parla in me? (cfr. 2 Cor 13, 3). Quando dunque senti queste parole, le ascolti da Cristo stesso, le ascolti anche da quel pastore che pasce Israele. A questi infatti fu detto: Ci fai bere lacrime, con misura (cfr. Sal 79, 6). Quello infatti che dice l’Apostolo: «Non permette che siate tentati oltre le vostre forze», lo dice anche il Profeta con le parole: «Con misura».\nSoltanto non voler abbandonare chi ti rimprovera e ti esorta, ti atterrisce e ti consola, ti percuote e ti risana.",
+        "responsorio_seconda_lettura": "Cfr. Sal 43, 23; Rm 8, 37; Sal 43, 11. 12\n\nR. Per te, Signore, ogni giorno siamo messi a morte,\nstimati come pecore al macello. * Ma noi siamo più\nche vincitori, per virtù di colui che ci ha amati.\nV. Ci hai fatto fuggire di fronte agli avversari, ci hai\ndispersi in mezzo alle nazioni.\nR. Ma noi siamo più che vincitori, per virtù di colui\nche ci ha amati.",
+        "orazione": "O Dio, che hai creato e governi l'universo, fa' che sperimentiamo la potenza della tua misericordia, per dedicarci con tutte le forze al tuo servizio. Per il nostro Signore.\n\nBenediciamo il Signore.\nR. Rendiamo grazie a Dio."
+    },
+    "lodi_mattutine": {
+        "introduzione": "V. O Dio, vieni a salvarmi\nR. Signore, vieni presto in mio aiuto.\n\nGloria al Padre e al Figlio\ne allo Spirito Santo.\nCome era nel principio, e ora e sempre\nnei secoli dei secoli. Amen. Alleluia.\n\nQuesta introduzione si omette quando si comincia l'Ufficio con l'Invitatorio.",
+        "inno": "L’aurora inonda il cielo\ndi una festa di luce,\ne riveste la terra\ndi meraviglia nuova.\n\nFugge l’ansia dai cuori,\ns’accende la speranza:\nemerge sopra il caos\nun’iride di pace.\n\nCosì nel giorno ultimo\nl’umanità in attesa\nalzi il capo e contempli\nl’avvento del Signore.\n\nSia gloria al Padre altissimo\ne a Cristo l’unigenito,\nsia lode al Santo Spirito\nnei secoli dei secoli. Amen.",
+        "antifone_e_salmi": [
+            {
+                "antifona": "1 ant. È bello dar lode all’Altissimo,\nannunziare al mattino il suo amore.",
+                "sottotitolo": "SALMO 91 Lode al Signore creatore\nSi celebrano le lodi per le meraviglie dell’Unigenito (sant’Atanasio).",
+                "salmo": "È bello dar lode al Signore *\ne cantare al tuo nome, o Altissimo,\n\nannunziare al mattino il tuo amore, *\nla tua fedeltà lungo la notte,\nsull’arpa a dieci corde e sulla lira, *\ncon canti sulla cetra.\n\nPoiché mi rallegri, Signore, con le tue meraviglie, *\nesulto per l’opera delle tue mani.\n\nCome sono grandi le tue opere, Signore, *\nquanto profondi i tuoi pensieri!\nL’uomo insensato non intende *\ne lo stolto non capisce:\n\nse i peccatori germogliano come l’erba *\ne fioriscono tutti i malfattori,\nli attende una rovina eterna: *\nma tu sei l’eccelso per sempre, o Signore.\n\nEcco, i tuoi nemici, o Signore, †\necco, i tuoi nemici periranno, *\nsaranno dispersi tutti i malfattori.\n\nTu mi doni la forza di un bufalo, *\nmi cospargi di olio splendente.\n\nI miei occhi disprezzeranno i miei nemici, †\ne contro gli iniqui che mi assalgono *\ni miei orecchi udranno cose infauste.\n\nIl giusto fiorirà come palma, *\ncrescerà come cedro del Libano;\npiantati nella casa del Signore, *\nfioriranno negli atri del nostro Dio.\n\nNella vecchiaia daranno ancora frutti, *\nsaranno vegeti e rigogliosi,\nper annunziare quanto è retto il Signore: *\nmia roccia, in lui non c’è ingiustizia.\n\n1 ant. È bello dar lode all’Altissimo,\nannunziare al mattino il suo amore."
+            },
+            {
+                "antifona": "2 ant. Un cuore nuovo donaci, Signore;\ninfondi in noi il tuo Spirito Santo.",
+                "sottotitolo": "CANTICO Ez 36, 24-28 Dio rinnoverà il suo popolo\nEssi saranno suo popolo ed egli sarà il «Dio-con-loro» (Ap 21, 3).",
+                "salmo": "Vi prenderò dalle genti, †\nvi radunerò da ogni terra *\ne vi condurrò sul vostro suolo.\n\nVi aspergerò con acqua pura e sarete purificati; †\nio vi purificherò da tutte le vostre sozzure *\ne da tutti i vostri idoli;\n\nvi darò un cuore nuovo, *\nmetterò dentro di voi uno spirito nuovo,\ntoglierò da voi il cuore di pietra *\ne vi darò un cuore di carne.\n\nPorrò il mio spirito dentro di voi †\ne vi farò vivere secondo i miei precetti *\ne vi farò osservare e mettere in pratica\nle mie leggi.\n\nAbiterete nella terra che io diedi ai vostri padri; †\nvoi sarete il mio popolo *\ne io sarò il vostro Dio.\n\n2 ant. Un cuore nuovo donaci, Signore;\ninfondi in noi il tuo Spirito Santo."
+            },
+            {
+                "antifona": "3 ant. Dalla bocca dei bambini\ns’innalza la tua lode, Signore.",
+                "sottotitolo": "SALMO 8 Grandezza del Signore e dignità dell'uomo\nTutto ha sottomesso ai suoi piedi, e lo ha costituito su tutte le cose a capo della Chiesa (Ef 1, 22).",
+                "salmo": "O Signore, nostro Dio, †\nquanto è grande il tuo nome\nsu tutta la terra:\nsopra i cieli si innalza la tua magnificenza.\n\nCon la bocca dei bimbi e dei lattanti †\naffermi la tua potenza contro i tuoi avversari, *\nper ridurre al silenzio nemici e ribelli.\n\nSe guardo il tuo cielo, opera delle tue dita, *\nla luna e le stelle che tu hai fissate,\nche cosa è l’uomo perché te ne ricordi, *\nil figlio dell’uomo perché te ne curi?\n\nEppure l’hai fatto poco meno degli angeli, *\ndi gloria e di onore lo hai coronato:\ngli hai dato potere sulle opere delle tue mani, *\ntutto hai posto sotto i suoi piedi;\n\ntutti i greggi e gli armenti, *\ntutte le bestie della campagna;\ngli uccelli del cielo e i pesci del mare, *\nche percorrono le vie del mare.\n\nO Signore, nostro Dio, *\nquanto è grande il tuo nome su tutta la terra!\n\n3 ant. Dalla bocca dei bambini\ns’innalza la tua lode, Signore."
+            }
+        ],
+        "lettura_breve": "2 Pt 3, 13-14\n\nSecondo la promessa del Signore, noi aspettiamo nuovi cieli e una terra nuova nei quali avrà stabile dimora la giustizia (cfr. Is 65, 17; 66, 22).\nPerciò, carissimi, nell’attesa di questi eventi, cercate d’essere senza macchia e irreprensibili davanti a Dio, in pace. La magnanimità del Signore nostro giudicatela come salvezza.",
+        "responsorio": "R. Esultano le mie labbra * cantando le tue lodi.\nEsultano le mie labbra cantando le tue lodi.\nV. La mia lingua proclama la tua giustizia\ncantando le tue lodi.\nGloria al Padre e al Figlio e allo Spirito Santo.\nEsultano le mie labbra cantando le tue lodi.",
+        "antifona_al_benedictus": "Guida i nostri passi, o Signore,\nsulla via della pace.",
+        "cantico_di_zaccaria": "Lc 1, 68-79\n\nIl Messia e il suo Precursore\n\nBenedetto il Signore Dio d’Israele, *\nperché ha visitato e redento il suo popolo,\n\ne ha suscitato per noi una salvezza potente *\nnella casa di Davide, suo servo,\n\ncome aveva promesso *\nper bocca dei suoi santi profeti d’un tempo:\n\nsalvezza dai nostri nemici, *\ne dalle mani di quanti ci odiano.\n\nCosì egli ha concesso misericordia ai nostri padri *\ne si è ricordato della sua santa alleanza,\n\ndel giuramento fatto ad Abramo, nostro padre, *\ndi concederci, liberàti dalle mani dei nemici,\n\ndi servirlo senza timore, in santità e giustizia *\nal suo cospetto, per tutti i nostri giorni.\n\nE tu, bambino, sarai chiamato profeta dell’Altissimo *\nperché andrai innanzi al Signore\na preparargli le strade,\n\nper dare al suo popolo la conoscenza della salvezza *\nnella remissione dei suoi peccati,\n\ngrazie alla bontà misericordiosa del nostro Dio, *\nper cui verrà a visitarci dall’alto un sole che sorge,\n\nper rischiarare quelli che stanno nelle tenebre *\ne nell’ombra della morte\n\ne dirigere i nostri passi *\nsulla via della pace.\n\nGloria al Padre e al Figlio *\ne allo Spirito Santo.\n\nCome era nel principio, e ora e sempre *\nnei secoli dei secoli. Amen.\n\nAnt. al Ben. Guida i nostri passi, o Signore,\nsulla via della pace.",
+        "invocazioni": "Adoriamo Dio Padre, che nel Cristo, suo Figlio, ha ridato\nal mondo la speranza e la vita. Animati da\nquesta certezza, diciamo:\n\nSignore, ascolta la nostra preghiera.\n\nDio, Padre di tutti, che ci hai fatto giungere all’alba\ndel nuovo giorno,\n— fa’ che viviamo nell’amore del Cristo a lode e gloria\ndel tuo nome.\nRafforza in noi la fede, la speranza e la carità,\n— che lo Spirito Santo ha seminato nei nostri cuori.\nIl nostro sguardo sia sempre rivolto a te,\n— perché rispondiamo prontamente alla tua chiamata.\nSalvaci dalle insidie e dalle seduzioni del male,\n— difendici da ogni pericolo nel cammino verso la\npatria del cielo.\n\nPadre nostro.",
+        "orazione": "O Dio, vera luce e giorno senza tramonto, accogli la lode mattutina del tuo popolo e fa’ che il nostro spirito, libero dalle tenebre della colpa, risplenda nel fulgore della tua venuta. Per il nostro Signore.\n\nIl Signore ci benedica, ci preservi da ogni male e ci conduca alla vita eterna.\nR. Amen."
+    },
+    "ora_media": {
+        "terza": {
+            "introduzione": "V. O Dio, vieni a salvarmi\nR. Signore, vieni presto in mio aiuto.\n\nGloria al Padre e al Figlio\ne allo Spirito Santo.\nCome era nel principio, e ora e sempre\nnei secoli dei secoli. Amen. Alleluia.",
+            "inno": "O Spirito Paraclito,\nuno col Padre e il Figlio,\ndiscendi a noi benigno\nnell'intimo dei cuori.\n\nVoce e mente si accordino\nnel ritmo della lode,\nil tuo fuoco ci unisca\nin un'anima sola.\n\nO luce di sapienza,\nrivelaci il mistero\ndel Dio trino e unico,\nfonte di eterno Amore. Amen.",
+            "antifone_e_salmi": [
+                {
+                    "antifona": "1 ant. La tua mano mi salvi, o Signore:\nho scelto le tue vie.",
+                    "sottotitolo": "SALMO 118, 169-176 XXII (Tau)",
+                    "salmo": "Giunga il mio grido fino a te, Signore, *\nfammi comprendere secondo la tua parola.\nVenga al tuo volto la mia supplica, *\nsalvami secondo la tua promessa.\n\nScaturisca dalle mie labbra la tua lode, *\npoiché mi insegni i tuoi voleri.\nLa mia lingua canti le tue parole, *\nperché sono giusti tutti i tuoi comandamenti.\n\nMi venga in aiuto la tua mano, *\npoiché ho scelto i tuoi precetti.\nDesidero la tua salvezza, Signore, *\ne la tua legge è tutta la mia gioia.\n\nPossa io vivere e darti lode, *\nmi aiutino i tuoi giudizi.\nCome pecora smarrita vado errando, †\ncerca il tuo servo, *\nperché non ho dimenticato i tuoi comandamenti.\n\n1 ant. La tua mano mi salvi, o Signore:\nho scelto le tue vie."
+                },
+                {
+                    "antifona": "2 ant. Il tuo regno, o Dio,\nnei secoli dei secoli.",
+                    "sottotitolo": "SALMO 44, 2-10 (I) Le nozze del Re\nA mezzanotte si levò un grido: Ecco lo Sposo: andategli incontro (Mt 25, 6).",
+                    "salmo": "Effonde il mio cuore liete parole, †\nio canto al re il mio poema. *\nLa mia lingua è stilo di scriba veloce.\n\nTu sei il più bello tra i figli dell’uomo, †\nsulle tue labbra è diffusa la grazia, *\nti ha benedetto Dio per sempre.\n\nCingi, prode, la spada al tuo fianco, †\nnello splendore della tua maestà ti arrida la sorte, *\navanza per la verità, la mitezza e la giustizia.\n\nLa tua destra ti mostri prodigi: †\nle tue frecce acute\ncolpiscono al cuore i tuoi nemici; *\nsotto di te cadono i popoli.\n\nIl tuo trono, Dio, dura per sempre; *\nè scettro giusto lo scettro del tuo regno.\n\nAmi la giustizia e l’empietà detesti: †\nDio, il tuo Dio ti ha consacrato *\ncon olio di letizia, a preferenza dei tuoi eguali.\n\nLe tue vesti sono tutte mirra, aloè e cassia, *\ndai palazzi d’avorio ti allietano le cetre.\nFiglie di re stanno tra le tue predilette; *\nalla tua destra la regina in ori di Ofir.\n\n2 ant. Il tuo regno, o Dio,\nnei secoli dei secoli."
+                },
+                {
+                    "antifona": "3 ant. Ecco la città santa, la nuova Gerusalemme,\nsplendente come sposa per il suo Signore.",
+                    "sottotitolo": null,
+                    "salmo": "II (11-18)\n\nAscolta, figlia, guarda, porgi l’orecchio, *\ndimentica il tuo popolo e la casa di tuo padre;\nal re piacerà la tua bellezza. *\nEgli è il tuo Signore: pròstrati a lui.\n\nDa Tiro vengono portando doni, *\ni più ricchi del popolo cercano il tuo volto.\n\nLa figlia del re è tutta splendore, *\ngemme e tessuto d’oro è il suo vestito.\n\nÈ presentata al re in preziosi ricami; *\ncon lei le vergini compagne a te sono condotte;\nguidate in gioia ed esultanza, *\nentrano insieme nel palazzo regale.\n\nAi tuoi padri succederanno i tuoi figli; *\nli farai capi di tutta la terra.\n\nFarò ricordare il tuo nome\nper tutte le generazioni, *\ne i popoli ti loderanno\nin eterno, per sempre.\n\n3 ant. Ecco la città santa, la nuova Gerusalemme,\nsplendente come sposa per il suo Signore."
+                }
+            ],
+            "lettura_breve": "Dn 6, 27b-28a\n\nIl nostro Dio è il Dio vivente, che dura in eterno; il suo regno è tale che non sarà mai distrutto e il suo dominio non conosce fine. Egli salva e libera, fa prodigi e miracoli in cielo e in terra.\n\nV. Venite, e vedete le opere del Signore,\nR. santo e sublime fra tutte le nazioni.",
+            "orazione": "Dio, Padre onnipotente, dona la luce dello Spirito Santo a questa tua famiglia riunita nel tuo nome, perché, sicura dalle insidie del nemico, si allieti sempre nella tua lode. Per Cristo nostro Signore.\n\nBenediciamo il Signore.\nR. Rendiamo grazie a Dio."
+        },
+        "sesta": {
+            "introduzione": "V. O Dio, vieni a salvarmi\nR. Signore, vieni presto in mio aiuto.\n\nGloria al Padre e al Figlio\ne allo Spirito Santo.\nCome era nel principio, e ora e sempre\nnei secoli dei secoli. Amen. Alleluia.",
+            "inno": "Glorioso e potente Signore,\nche alterni i ritmi del tempo,\nirradi di luce il mattino\ne accendi di fuochi il meriggio,\n\ntu placa le tristi contese,\nestingui la fiamma dell’ira,\ninfondi vigore alle membra,\nai cuori concedi la pace.\n\nSia gloria al Padre ed al Figlio,\nsia onore al Santo Spirito,\nall'unico e trino Signore\nsia lode nei secoli eterni. Amen.",
+            "antifone_e_salmi": [
+                {
+                    "antifona": "1 ant. La tua mano mi salvi, o Signore:\nho scelto le tue vie.",
+                    "sottotitolo": "SALMO 118, 169-176 XXII (Tau)",
+                    "salmo": "Giunga il mio grido fino a te, Signore, *\nfammi comprendere secondo la tua parola.\nVenga al tuo volto la mia supplica, *\nsalvami secondo la tua promessa.\n\nScaturisca dalle mie labbra la tua lode, *\npoiché mi insegni i tuoi voleri.\nLa mia lingua canti le tue parole, *\nperché sono giusti tutti i tuoi comandamenti.\n\nMi venga in aiuto la tua mano, *\npoiché ho scelto i tuoi precetti.\nDesidero la tua salvezza, Signore, *\ne la tua legge è tutta la mia gioia.\n\nPossa io vivere e darti lode, *\nmi aiutino i tuoi giudizi.\nCome pecora smarrita vado errando, †\ncerca il tuo servo, *\nperché non ho dimenticato i tuoi comandamenti.\n\n1 ant. La tua mano mi salvi, o Signore:\nho scelto le tue vie."
+                },
+                {
+                    "antifona": "2 ant. Il tuo regno, o Dio,\nnei secoli dei secoli.",
+                    "sottotitolo": "SALMO 44, 2-10 (I) Le nozze del Re\nA mezzanotte si levò un grido: Ecco lo Sposo: andategli incontro (Mt 25, 6).",
+                    "salmo": "Effonde il mio cuore liete parole, †\nio canto al re il mio poema. *\nLa mia lingua è stilo di scriba veloce.\n\nTu sei il più bello tra i figli dell’uomo, †\nsulle tue labbra è diffusa la grazia, *\nti ha benedetto Dio per sempre.\n\nCingi, prode, la spada al tuo fianco, †\nnello splendore della tua maestà ti arrida la sorte, *\navanza per la verità, la mitezza e la giustizia.\n\nLa tua destra ti mostri prodigi: †\nle tue frecce acute\ncolpiscono al cuore i tuoi nemici; *\nsotto di te cadono i popoli.\n\nIl tuo trono, Dio, dura per sempre; *\nè scettro giusto lo scettro del tuo regno.\n\nAmi la giustizia e l’empietà detesti: †\nDio, il tuo Dio ti ha consacrato *\ncon olio di letizia, a preferenza dei tuoi eguali.\n\nLe tue vesti sono tutte mirra, aloè e cassia, *\ndai palazzi d’avorio ti allietano le cetre.\nFiglie di re stanno tra le tue predilette; *\nalla tua destra la regina in ori di Ofir.\n\n2 ant. Il tuo regno, o Dio,\nnei secoli dei secoli."
+                },
+                {
+                    "antifona": "3 ant. Ecco la città santa, la nuova Gerusalemme,\nsplendente come sposa per il suo Signore.",
+                    "sottotitolo": null,
+                    "salmo": "II (11-18)\n\nAscolta, figlia, guarda, porgi l’orecchio, *\ndimentica il tuo popolo e la casa di tuo padre;\nal re piacerà la tua bellezza. *\nEgli è il tuo Signore: pròstrati a lui.\n\nDa Tiro vengono portando doni, *\ni più ricchi del popolo cercano il tuo volto.\n\nLa figlia del re è tutta splendore, *\ngemme e tessuto d’oro è il suo vestito.\n\nÈ presentata al re in preziosi ricami; *\ncon lei le vergini compagne a te sono condotte;\nguidate in gioia ed esultanza, *\nentrano insieme nel palazzo regale.\n\nAi tuoi padri succederanno i tuoi figli; *\nli farai capi di tutta la terra.\n\nFarò ricordare il tuo nome\nper tutte le generazioni, *\ne i popoli ti loderanno\nin eterno, per sempre.\n\n3 ant. Ecco la città santa, la nuova Gerusalemme,\nsplendente come sposa per il suo Signore."
+                }
+            ],
+            "lettura_breve": "Rm 15, 5-7\n\nIl Dio della perseveranza e della consolazione vi conceda di avere gli uni verso gli altri gli stessi sentimenti ad esempio di Cristo Gesù, perché con un solo animo e una voce sola rendiate gloria a Dio, Padre del Signore nostro Gesù Cristo.\nAccoglietevi perciò gli uni gli altri come Cristo accolse voi, per la gloria di Dio.\n\nV. Il Signore ama il suo popolo,\nR. agli umili dona la vittoria.",
+            "orazione": "O Signore, fiamma di carità, donaci l’ardore del tuo Spirito perché amiamo te sopra ogni cosa e i nostri fratelli nel vincolo del tuo amore. Per Cristo nostro Signore.\n\nBenediciamo il Signore.\nR. Rendiamo grazie a Dio."
+        },
+        "nona": {
+            "introduzione": "V. O Dio, vieni a salvarmi\nR. Signore, vieni presto in mio aiuto.\n\nGloria al Padre e al Figlio\ne allo Spirito Santo.\nCome era nel principio, e ora e sempre\nnei secoli dei secoli. Amen. Alleluia.",
+            "inno": "L’ora nona ci chiama\nal servizio divino:\nadoriamo cantando\nl'uno e trino Signore.\n\nSan Pietro che in quest’ora\nsalì al tempio a pregare,\nrafforzi i nostri passi\nsulla via della fede.\n\nUniamoci agli apostoli\nnella lode perenne\ne camminiamo insieme\nsulle orme di Cristo.\n\nAscolta, Padre altissimo,\ntu che regni in eterno,\ncon il Figlio e lo Spirito\nnei secoli dei secoli. Amen.",
+            "antifone_e_salmi": [
+                {
+                    "antifona": "1 ant. La tua mano mi salvi, o Signore:\nho scelto le tue vie.",
+                    "sottotitolo": "SALMO 118, 169-176 XXII (Tau)",
+                    "salmo": "Giunga il mio grido fino a te, Signore, *\nfammi comprendere secondo la tua parola.\nVenga al tuo volto la mia supplica, *\nsalvami secondo la tua promessa.\n\nScaturisca dalle mie labbra la tua lode, *\npoiché mi insegni i tuoi voleri.\nLa mia lingua canti le tue parole, *\nperché sono giusti tutti i tuoi comandamenti.\n\nMi venga in aiuto la tua mano, *\npoiché ho scelto i tuoi precetti.\nDesidero la tua salvezza, Signore, *\ne la tua legge è tutta la mia gioia.\n\nPossa io vivere e darti lode, *\nmi aiutino i tuoi giudizi.\nCome pecora smarrita vado errando, †\ncerca il tuo servo, *\nperché non ho dimenticato i tuoi comandamenti.\n\n1 ant. La tua mano mi salvi, o Signore:\nho scelto le tue vie."
+                },
+                {
+                    "antifona": "2 ant. Il tuo regno, o Dio,\nnei secoli dei secoli.",
+                    "sottotitolo": "SALMO 44, 2-10 (I) Le nozze del Re\nA mezzanotte si levò un grido: Ecco lo Sposo: andategli incontro (Mt 25, 6).",
+                    "salmo": "Effonde il mio cuore liete parole, †\nio canto al re il mio poema. *\nLa mia lingua è stilo di scriba veloce.\n\nTu sei il più bello tra i figli dell’uomo, †\nsulle tue labbra è diffusa la grazia, *\nti ha benedetto Dio per sempre.\n\nCingi, prode, la spada al tuo fianco, †\nnello splendore della tua maestà ti arrida la sorte, *\navanza per la verità, la mitezza e la giustizia.\n\nLa tua destra ti mostri prodigi: †\nle tue frecce acute\ncolpiscono al cuore i tuoi nemici; *\nsotto di te cadono i popoli.\n\nIl tuo trono, Dio, dura per sempre; *\nè scettro giusto lo scettro del tuo regno.\n\nAmi la giustizia e l’empietà detesti: †\nDio, il tuo Dio ti ha consacrato *\ncon olio di letizia, a preferenza dei tuoi eguali.\n\nLe tue vesti sono tutte mirra, aloè e cassia, *\ndai palazzi d’avorio ti allietano le cetre.\nFiglie di re stanno tra le tue predilette; *\nalla tua destra la regina in ori di Ofir.\n\n2 ant. Il tuo regno, o Dio,\nnei secoli dei secoli."
+                },
+                {
+                    "antifona": "3 ant. Ecco la città santa, la nuova Gerusalemme,\nsplendente come sposa per il suo Signore.",
+                    "sottotitolo": null,
+                    "salmo": "II (11-18)\n\nAscolta, figlia, guarda, porgi l’orecchio, *\ndimentica il tuo popolo e la casa di tuo padre;\nal re piacerà la tua bellezza. *\nEgli è il tuo Signore: pròstrati a lui.\n\nDa Tiro vengono portando doni, *\ni più ricchi del popolo cercano il tuo volto.\n\nLa figlia del re è tutta splendore, *\ngemme e tessuto d’oro è il suo vestito.\n\nÈ presentata al re in preziosi ricami; *\ncon lei le vergini compagne a te sono condotte;\nguidate in gioia ed esultanza, *\nentrano insieme nel palazzo regale.\n\nAi tuoi padri succederanno i tuoi figli; *\nli farai capi di tutta la terra.\n\nFarò ricordare il tuo nome\nper tutte le generazioni, *\ne i popoli ti loderanno\nin eterno, per sempre.\n\n3 ant. Ecco la città santa, la nuova Gerusalemme,\nsplendente come sposa per il suo Signore."
+                }
+            ],
+            "lettura_breve": "Fil 4, 8. 9b\n\nFratelli, tutto quello che è vero, nobile, giusto, puro, amabile, onorato, quello che è virtù e merita lode, tutto questo sia oggetto dei vostri pensieri. E il Dio della pace sarà con voi!\n\nV. Ti esalto, mio Dio, mio re,\nR. benedico il tuo nome per sempre.",
+            "orazione": "Ascolta, Signore, la nostra preghiera per intercessione della beata Vergine Maria, e donaci la tua vera pace, perché in tutti i giorni della nostra vita possiamo dedicarci con gioia al tuo servizio e giungere alla beatitudine del tuo regno. Per Cristo nostro Signore.\n\nBenediciamo il Signore.\nR. Rendiamo grazie a Dio."
+        }
+    },
+    "vespri": {
+        "introduzione": "V. Signore, apri le mie labbra\nR. e la mia bocca proclami la tua lode",
+        "antifone_e_salmi": [
+            {
+                "antifona": "Ant. Ascoltiamo la voce del Signore:\negli ci guida alla terra promessa.",
+                "sottotitolo": "SALMO 94 Invito a lodare Dio\nEsortatevi a vicenda ogni giorno, finché dura «quest’oggi» (Eb 3, 13).",
+                "salmo": "Venite, applaudiamo al Signore, *\nacclamiamo alla roccia della nostra salvezza.\nAccostiamoci a lui per rendergli grazie, *\na lui acclamiamo con canti di gioia (Ant.).\n\nPoiché grande Dio è il Signore, *\ngrande re sopra tutti gli dèi.\nNella sua mano sono gli abissi della terra, *\nsono sue le vette dei monti.\n\nSuo è il mare, egli l’ha fatto, *\nle sue mani hanno plasmato la terra (Ant.).\n\nVenite, prostràti adoriamo, *\nin ginocchio davanti al Signore che ci ha creati.\nEgli è il nostro Dio, e noi il popolo del suo pascolo, *\nil gregge che egli conduce (Ant.).\n\nAscoltate oggi la sua voce: †\n«Non indurite il cuore, *\n† come a Merìba, come nel giorno di Massa\nnel deserto,\n\ndove mi tentarono i vostri padri: *\nmi misero alla prova,\npur avendo visto le mie opere (Ant.).\n\nPer quarant’anni mi disgustai di quella generazione †\ne dissi: Sono un popolo dal cuore traviato, *\nnon conoscono le mie vie;\n\nperciò ho giurato nel mio sdegno: *\nNon entreranno nel luogo del mio riposo» (Ant.).\n\nGloria al Padre e al Figlio *\ne allo Spirito Santo.\nCome era nel principio, e ora e sempre *\nnei secoli dei secoli. Amen (Ant.).\n\nAnt. Ascoltiamo la voce del Signore:\negli ci guida alla terra promessa."
+            }
+        ]
+    },
+    "compieta": {
+        "introduzione": "V. Signore, apri le mie labbra\nR. e la mia bocca proclami la tua lode",
+        "antifone_e_salmi": [
+            {
+                "antifona": "Ant. Ascoltiamo la voce del Signore:\negli ci guida alla terra promessa.",
+                "sottotitolo": "SALMO 94 Invito a lodare Dio\nEsortatevi a vicenda ogni giorno, finché dura «quest’oggi» (Eb 3, 13).",
+                "salmo": "Venite, applaudiamo al Signore, *\nacclamiamo alla roccia della nostra salvezza.\nAccostiamoci a lui per rendergli grazie, *\na lui acclamiamo con canti di gioia (Ant.).\n\nPoiché grande Dio è il Signore, *\ngrande re sopra tutti gli dèi.\nNella sua mano sono gli abissi della terra, *\nsono sue le vette dei monti.\n\nSuo è il mare, egli l’ha fatto, *\nle sue mani hanno plasmato la terra (Ant.).\n\nVenite, prostràti adoriamo, *\nin ginocchio davanti al Signore che ci ha creati.\nEgli è il nostro Dio, e noi il popolo del suo pascolo, *\nil gregge che egli conduce (Ant.).\n\nAscoltate oggi la sua voce: †\n«Non indurite il cuore, *\n† come a Merìba, come nel giorno di Massa\nnel deserto,\n\ndove mi tentarono i vostri padri: *\nmi misero alla prova,\npur avendo visto le mie opere (Ant.).\n\nPer quarant’anni mi disgustai di quella generazione †\ne dissi: Sono un popolo dal cuore traviato, *\nnon conoscono le mie vie;\n\nperciò ho giurato nel mio sdegno: *\nNon entreranno nel luogo del mio riposo» (Ant.).\n\nGloria al Padre e al Figlio *\ne allo Spirito Santo.\nCome era nel principio, e ora e sempre *\nnei secoli dei secoli. Amen (Ant.).\n\nAnt. Ascoltiamo la voce del Signore:\negli ci guida alla terra promessa."
+            }
+        ]
+    },
+    "compieta_primi_vespri": {
+        "introduzione": "V. O Dio, vieni a salvarmi\nR. Signore, vieni presto in mio aiuto.\n\nGloria al Padre e al Figlio\ne allo Spirito Santo.\nCome era nel principio, e ora e sempre\nnei secoli dei secoli. Amen. Alleluia.\n\nA questo punto, è bene sostare alquanto in silenzio per l'esame di coscienza.",
+        "inno": "Al termine del giorno,\no sommo Creatore,\nvegliaci nel riposo\ncon amore di Padre.\n\nDona salute al corpo\ne fervore allo spirito,\nla tua luce rischiari\nle ombre della notte.\n\nNel sonno delle membra\nresti fedele il cuore,\ne al ritorno dell'alba\nintoni la tua lode.\n\nSia onore al Padre e al Figlio\ne allo Spirito Santo,\nal Dio trino ed unico\nnei secoli sia gloria. Amen.\n\nOppure:\n\nGesù, luce da luce,\nsole senza tramonto,\ntu rischiari le tenebre\nnella notte del mondo.\n\nIn te, santo Signore,\nnoi cerchiamo il riposo\ndall'umana fatica,\nal termine del giorno.\n\nSe i nostri occhi si chiudono,\nveglia in te il nostro cuore;\nla tua mano protegga\ncoloro che in te sperano.\n\nDifendi, o Salvatore,\ndalle insidie del male\ni figli che hai redenti\ncol tuo sangue prezioso.\n\nA te sia gloria, o Cristo,\nnato da Maria vergine,\nal Padre e allo Spirito\nnei secoli dei secoli. Amen.",
+        "antifone_e_salmi": [
+            {
+                "antifona": "1 ant. Pietà di me, o Signore:\nascolta la mia preghiera.",
+                "sottotitolo": "oppure\nIn te confido, Signore, e in pace mi addormento. SALMO 4 Rendimento di grazie E Dio che disse: «Rifulga la luce dalle tenebre», rifulse nei nostri cuori per far risplendere la conoscenza della gloria divina, che rifulge sul volto di Cristo (2 Cor 4, 6).",
+                "salmo": "Quando ti invoco, rispondimi,\nDio, mia giustizia: †\ndalle angosce mi hai liberato; *\npietà di me, ascolta la mia preghiera.\n\nFino a quando, o uomini, sarete duri di cuore? *\nPerché amate cose vane\ne cercate la menzogna?\n\nSappiate che il Signore\nfa prodigi per il suo fedele: *\nil Signore mi ascolta quando lo invoco.\n\nTremate e non peccate, *\nsul vostro giaciglio riflettete e placatevi.\n\nOffrite sacrifici di giustizia *\ne confidate nel Signore.\n\nMolti dicono: «Chi ci farà vedere il bene?». *\nRisplenda su di noi, Signore,\nla luce del tuo volto.\n\nHai messo più gioia nel mio cuore *\ndi quando abbondano vino e frumento.\n\nIn pace mi corico e subito mi addormento: *\ntu solo, Signore, al sicuro mi fai riposare.\n\n1 ant. Pietà di me, o Signore:\nascolta la mia preghiera.\n\noppure\n\nIn te confido, Signore,\ne in pace mi addormento."
+            },
+            {
+                "antifona": "2 ant. Nella notte, benedite il Signore.",
+                "sottotitolo": "SALMO 133 Orazione notturna nel tempio\nLodate il nostro Dio, voi suoi servi, voi che lo temete, piccoli e grandi (Ap 19, 5).",
+                "salmo": "Ecco, benedite il Signore, *\nvoi tutti, servi del Signore;\n\nvoi che state nella casa del Signore *\ndurante le notti.\n\nAlzate le mani verso il tempio *\ne benedite il Signore.\n\nDa Sion ti benedica il Signore, *\nche ha fatto cielo e terra.\n\n2 ant. Nella notte, benedite il Signore."
+            }
+        ],
+        "lettura_breve": "Dt 6, 4-7\n\nAscolta, Israele: il Signore è il nostro Dio, il Signore è uno solo. Tu amerai il Signore tuo Dio con tutto il cuore, con tutta l’anima e con tutte le forze. Questi precetti che oggi ti do, ti stiano fissi nel cuore; li ripeterai ai tuoi figli, ne parlerai quando sarai seduto in casa tua, quando camminerai per via, quando ti coricherai e quando ti alzerai.",
+        "responsorio": "R. Signore, * nelle tue mani affido il mio spirito.\nSignore, nelle tue mani affido il mio spirito.\nV. Dio di verità, tu mi hai redento:\nnelle tue mani affido il mio spirito.\nGloria al Padre e al Figlio e allo Spirito Santo.\nSignore, nelle tue mani affido il mio spirito.",
+        "antifona_al_cantico": "Nella veglia salvaci, Signore,\nnel sonno non ci abbandonare:\nil cuore vegli con Cristo\ne il corpo riposi nella pace.",
+        "cantico_di_simeone": "Lc 2, 29-32\n\nCristo, luce delle genti e gloria di Israele\n\nOra lascia, o Signore, che il tuo servo *\nvada in pace secondo la tua parola;\n\nperché i miei occhi han visto la tua salvezza, *\npreparata da te davanti a tutti i popoli,\n\nluce per illuminare le genti *\ne gloria del tuo popolo Israele.\n\nAnt. Nella veglia salvaci, Signore,\nnel sonno non ci abbandonare:\nil cuore vegli con Cristo\ne il corpo riposi nella pace.",
+        "orazione": "Veglia su di noi in questa notte, o Signore: la tua mano ci ridesti al nuovo giorno perché possiamo celebrare con gioia la risurrezione del tuo Figlio, che vive e regna nei secoli dei secoli.",
+        "benedizione": "Il Signore ci conceda una notte serena e un riposo tranquillo.\n\nR. Amen.\n\nSi conclude con un’antifona della Beata Vergine Maria.",
+        "antifona_alla_beata_vergine": "Ave, o Maria, piena di grazia,\nil Signore è con te.\nTu sei benedetta fra le donne\ne benedetto è il frutto del tuo seno, Gesù.\nSanta Maria, Madre di Dio,\nprega per noi peccatori,\nadesso e nell'ora della nostra morte. Amen.\n\nOppure:\n\nAve, María, grátia plena, Dóminus tecum;\nbenedícta tu in muliéribus,\net benedíctus fructus ventris tui, Iesus.\n( Sancta María, Mater Dei, ora pro nobis peccatóribus\nnunc et in hora mortis nostræ. Amen. )"
+    },
+    "compieta_secondi_vespri": null
+}

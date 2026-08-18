@@ -1,0 +1,60 @@
+{
+    "data": "2026-11-28",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXIV",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "San Giacomo della Marca, sacerdote",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/6029d259-fb43-4428-9869-714844a00349.jpeg",
+    "santo": {
+        "nome": "San Giacomo della Marca, sacerdote",
+        "martirologio": "A Napoli, deposizione di san Giacomo della Marca, sacerdote dell’Ordine dei Minori, insigne per la predicazione e per l’austerità di vita.",
+        "altri_santi": [
+            {
+                "nome": "Sant’Irenarco, martire",
+                "martirologio": "A Sivas nell’antica Armenia, sant’Irenarco, martire, che, addetto alle torture, si tramanda si sia convertito a Cristo dinanzi alla fermezza di fede delle donne cristiane e sia stato poi ucciso con un colpo di scure sotto l’imperatore Diocleziano e il governatore Massimo."
+            },
+            {
+                "nome": "Santi martiri Papiniano di Vita e Mansueto di Urusi, vescovi",
+                "martirologio": "In Africa settentrionale nell’odierno territorio libico e tunisino, commemorazione dei santi martiri Papiniano di Vita e Mansueto di Urusi, vescovi, che, durante la persecuzione vandalica, portarono a compimento il loro glorioso combattimento bruciati in tutto il corpo con lamine di ferro incandescenti per aver difeso la fede cattolica contro il re ariano Genserico. In quel tempo, anche i santi vescovi Urbano di Djerba, Crescente di Bizacio, Habetdéus di Teudala, Eustrazio di Sufes, Cresconio di Tripoli, Vice di Sabrata, Felice di Sousse, e infine, sotto Unnerico figlio di Genserico, i vescovi Ortolano di Bennefa e Florenziano di Mdila, condannati all’esilio, terminarono il corso della loro vita come confessori della fede."
+            },
+            {
+                "nome": "Santo Stefano il Giovane, monaco e martire",
+                "martirologio": "A Costantinopoli, santo Stefano il Giovane, monaco e martire, che, sotto l’imperatore Costantino Coprónimo, sottoposto a vari supplizi per aver difeso il culto delle sacre immagini, confermò con l’effusione del suo sangue la verità cattolica."
+            },
+            {
+                "nome": "Santa Teodora, badessa",
+                "martirologio": "Vicino a Rossano in Calabria, santa Teodora, badessa, discepola di san Nilo il Giovane e maestra di vita monastica."
+            },
+            {
+                "nome": "Beato Giacomo Thomson, sacerdote e martire",
+                "martirologio": "A York in Inghilterra, beato Giacomo Thomson, sacerdote e martire, che, condannato a morte sotto la regina Elisabetta I per aver riconciliato molti con la Chiesa cattolica, subì il supplizio del patibolo."
+            },
+            {
+                "nome": "Sant’Andrea Tran Van Trong, martire",
+                "martirologio": "Nel territorio di Khám Duong nell’An Nam, ora Viet Nam, sant’Andrea Tran Van Trong, martire, che, dopo aver patito il carcere e atroci torture per essersi rifiutato di recare oltraggio alla croce, fu decapitato sotto l’imperatore Minh Mang."
+            },
+            {
+                "nome": "Beati martiri Giovanni Gesù (Mariano) Adradas Gonzalo, sacerdote",
+                "martirologio": "In località Paracuellos del Jarama presso Madrid in Spagna, beati martiri Giovanni Gesù (Mariano) Adradas Gonzalo, sacerdote, e quattordici compagni, martiri, che, religiosi dell’Ordine di San Giovanni di Dio, in tempo di persecuzione furono coronati da gloriosa passione.\n\nI loro nomi sono: beati Guglielmo (Vincenzo) Llop Gayá, Clemente Díez Sahagún, Lazzaro (Giovanni maria) Múgica Goiburu, Martiniano (Antonio) Meléndez Sánchez, Pietro Maria Alcade Negredo, Giuliano Plazaola Artola, Ilario (Antonio) Delgado Vílchez, religiosi professi; Pietro de Alcantara Bernalte Calzado, Giovanni Alcade y Alcade, Isidoro Martínez Izquierdo, Angelo Sastre Corporales, novizi; Giueppe Mora Velasco, sacerdote e postulante; Giuseppe Ruiz Cuesta, postulante; Edoardo Battista Jiménez."
+            },
+            {
+                "nome": "Beato Luigi Campos Górriz, martire",
+                "martirologio": "Nel villaggio di Picadero de Paterna nel territorio di Valencia sempre in Spagna, beato Luigi Campos Górriz, martire, che, nella stessa persecuzione religiosa, coronò con una morte gloriosa una vita instancabilmente dedicata all’apostolato e alle opere di carità."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

@@ -1,0 +1,64 @@
+{
+    "data": "2026-11-25",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXIV",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "Santa Caterina d'Alessandria, vergine e martire",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/9d1add5c-7b81-4e17-8f32-d170a4b0c31f.jpeg",
+    "santo": {
+        "nome": "Santa Caterina d'Alessandria, vergine e martire",
+        "martirologio": "Santa Caterina, secondo la tradizione vergine e martire ad Alessandria, ricolma di acuto ingegno, sapienza e forza d’animo. Il suo corpo è oggetto di pia venerazione nel monastero sul monte Sinai.",
+        "altri_santi": [
+            {
+                "nome": "San Mercurio, martire",
+                "martirologio": "A Cesarea in Cappadocia, nell’odierna Turchia, san Mercurio, martire."
+            },
+            {
+                "nome": "San Mosè, sacerdote e martire",
+                "martirologio": "A Roma, commemorazione di san Mosè, sacerdote e martire, che, dopo l’uccisione del papa san Fabiano sotto l’imperatore Decio, insieme al collegio presbiterale si prese cura dei fedeli; giudicò necessario riconciliare quanti durante la persecuzione avevano rinnegato la fede ed erano in quel momento malati e in punto di morte e, tenuto a lungo in carcere, spesso li consolò riferendo loro le lettere di san Cipriano di Cartagine; coronò, infine, la sua vita con un insigne e mirabile martirio."
+            },
+            {
+                "nome": "San Pietro, vescovo e martire",
+                "martirologio": "Ad Alessandria d’Egitto, san Pietro, vescovo e martire, che, ornato di ogni virtù, fu improvvisamente decapitato per ordine dell’imperatore Galerio Massimiano, divenendo ultima vittima della grande persecuzione e sigillo dei martiri.\nCon lui si commemorano tre vescovi egiziani, Esichio, Pacomio e Teodoro, che, sempre ad Alessandria patirono insieme a molti altri nella stessa persecuzione e salirono al cielo crudelmente trafitti con la spada."
+            },
+            {
+                "nome": "San Marcolo, vescovo",
+                "martirologio": "In Numidia, nell’odierna Algeria, san Marcolo, vescovo, che, come si tramanda, morì martire al tempo dell’imperatore Costante, precipitato da una rupe da un certo Macario."
+            },
+            {
+                "nome": "San Maurino, martire",
+                "martirologio": "Nel territorio di Agen in Aquitania, ora in Francia, san Maurino, martire, che si tramanda sia stato trucidato dai pagani mentre attendeva all’evangelizzazione della popolazione rurale."
+            },
+            {
+                "nome": "Beata Beatrice d’Ornacieux, vergine",
+                "martirologio": "Nel territorio di Valence in Francia, beata Beatrice d’Ornacieux, vergine dell’Ordine Certosino, che, insigne per l’amore verso la Croce, visse e morì in estrema povertà nel cenobio di Eymeu da lei stessa fondato."
+            },
+            {
+                "nome": "Beata Elisabetta Achler, detta la Buona, vergine",
+                "martirologio": "A Reute in Svevia, nell’odierna Germania, beata Elisabetta Achler, detta la Buona, vergine, che visse quasi da reclusa nel Terz’Ordine regolare di San Francesco, coltivando mirabilmente l’umiltà, la povertà e la mortificazione del corpo."
+            },
+            {
+                "nome": "San Pietro Yi Ho-yong, martire",
+                "martirologio": "A Seul in Corea, san Pietro Yi Ho-yong, martire, che, catechista, catturato dalle guardie insieme a sua sorella, sant’Agata Yi So-sa, rimase saldo nella sua confessione di fede e, rottegli tre volte le ossa, rimase per quattro anni detenuto in carcere, dove morì, primo della gloriosa schiera dei martiri di questa nazione."
+            },
+            {
+                "nome": "Beato Giacinto Serrano López, sacerdote e martire",
+                "martirologio": "Nel villaggio di Puebla de Híjar vicino a Teruel in Spagna, beato Giacinto Serrano López, sacerdote dell’Ordine dei Predicatori e martire, fucilato durante la persecuzione contro la Chiesa. Insieme a lui si commemora il beato martire Giacomo Meseguer Burillo, sacerdote dello stesso Ordine, che a Barcellona, in un giorno rimasto ignoto, portò a termine la gloriosa prova per Cristo."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

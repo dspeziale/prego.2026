@@ -1,0 +1,72 @@
+{
+    "data": "2026-11-06",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXI",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "San Felice, martire",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/99f6e3a1-a448-40d6-9f8e-8a87c7c9475b.jpeg",
+    "santo": {
+        "nome": "San Felice, martire",
+        "martirologio": "A La Calle in Numidia, nell’odierna Tunisia, san Felice, martire, del quale sembra parlare sant’Agostino quando dice al popolo: «Veramente felice fu nel nome e nella corona portati: professò, infatti, la fede in Cristo e fu destinato alla tortura, ma all’indomani il suo corpo fu trovato in carcere esanime».",
+        "altri_santi": [
+            {
+                "nome": "San Paolo, vescovo di Costantinopoli",
+                "martirologio": "Commemorazione di san Paolo, vescovo di Costantinopoli: ripetutamente scacciato dagli ariani per la sua fede nicena e più volte restituito alla sua dignità, fu infine relegato dall’imperatore Costanzo a Göksun, piccola cittadina della Cappadocia, dove sarebbe stato crudelmente strangolato in un agguato tesogli dagli stessi ariani."
+            },
+            {
+                "nome": "San Melanio, vescovo",
+                "martirologio": "A Rennes nella Bretagna in Francia, san Melanio, vescovo, che passò al Signore nel luogo chiamato Plaz lungo il fiume Vilaine, dove aveva costruito con le sue stesse mani una chiesa e radunato dei monaci per servire Dio."
+            },
+            {
+                "nome": "Sant’Iltuto, abate",
+                "martirologio": "Nel monastero di Llanilltud Fawr in Galles, sant’Iltuto, abate, fondatore di questo cenobio, nel quale la fama della sua santità e della sua insigne dottrina raccolse molti discepoli."
+            },
+            {
+                "nome": "San Leonardo, eremita",
+                "martirologio": "Nella cittadina vicino a Limoges in Francia in seguito insignita del suo nome, san Leonardo, eremita."
+            },
+            {
+                "nome": "Santi Calliníco e compagni, martiri",
+                "martirologio": "A Gerusalemme, santi Calliníco, Imerio, Teodoro, Stefano, Pietro, Paolo, un altro Teodoro, Giovanni, un altro Giovanni e un altro ancora di cui resta sconosciuto il nome, martiri, che, soldati, durante l’occupazione di Gaza da parte dei Saraceni, furono arrestati dai nemici, ma incitati dal vescovo san Sofronio, confessarono la propria fede in Cristo e subirono per questo il martirio per decapitazione."
+            },
+            {
+                "nome": "San Severo, vescovo",
+                "martirologio": "A Barcellona in Spagna, san Severo, vescovo, che, come si tramanda, ricevette la corona del martirio."
+            },
+            {
+                "nome": "San Protasio, vescovo di Losanna",
+                "martirologio": "In Burgundia nel territorio dell’odierna Svizzera, san Protasio, venerato come vescovo di Losanna."
+            },
+            {
+                "nome": "San Vinnoco, abate",
+                "martirologio": "Nel territorio di Thérouanne in Austrasia, nell’odierna Francia, san Vinnoco, abate, che, di origine bretone, fu accolto da san Bertino tra i monaci di Sithieu e fondò poi, con il lavoro delle sue stesse mani il cenobio di Wormhoudt, che resse santamente."
+            },
+            {
+                "nome": "Santo Stefano, vescovo",
+                "martirologio": "Ad Apt nella Provenza, sempre in Francia, santo Stefano, vescovo, insigne per la sua mansuetudine, che fu per due volte pellegrino a Gerusalemme e si dedicò alla ricostruzione della cattedrale."
+            },
+            {
+                "nome": "San Teobaldo, sacerdote",
+                "martirologio": "A Dorat nel territorio di Limoges ancora in Francia, san Teobaldo, sacerdote, che, canonico regolare preposto all’ufficio di custode, non uscì mai dalle mura della chiesa, se non per assistere gli infermi e provvedere alle loro necessità."
+            },
+            {
+                "nome": "Beata Cristina di Stommeln, vergine",
+                "martirologio": "Vicino a Colonia in Lotaringia, nell’odierna Germania, beata Cristina di Stommeln, vergine, che, in piena comunione con la passione di Cristo, vinse mirabilmente ogni tentazione del mondo."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

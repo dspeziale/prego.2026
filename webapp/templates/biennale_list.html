@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block title %}Biennale — LiturgiaCollector{% endblock %}
+{% block page_title %}Biennale{% endblock %}
+
+{% block header_actions %}
+{% if current_user %}
+<a class="btn btn-outline-primary" href="{{ url_for('biennale_new') }}">
+    <i class="fas fa-plus"></i> Nuovo giorno
+</a>
+{% endif %}
+{% endblock %}
+
+{% block content %}
+<div class="card">
+    <div class="card-body table-responsive p-0">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Tempo</th>
+                    <th>Sett.</th>
+                    <th>Giorno</th>
+                    <th class="d-none d-sm-table-cell">Anno</th>
+                    <th class="d-none d-sm-table-cell">Ciclo</th>
+                    <th class="text-center d-none d-md-table-cell">Letture</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for entry in entries %}
+                <tr>
+                    <td>{{ entry.tempo_liturgico }}</td>
+                    <td>{{ entry.settimana_del_tempo or "—" }}</td>
+                    <td>{{ entry.giorno_settimana }}</td>
+                    <td class="d-none d-sm-table-cell">{{ entry.anno_liturgico or "—" }}</td>
+                    <td class="d-none d-sm-table-cell">{{ entry.ciclo_biennale or "—" }}</td>
+                    <td class="text-center d-none d-md-table-cell">{{ entry.letture | length }}</td>
+                    <td class="text-right text-nowrap">
+                        {% if current_user %}
+                        <a href="{{ url_for('biennale_edit', code=entry.codice) }}"
+                           class="btn btn-sm btn-outline-primary">
+                            <i class="fas fa-pen"></i><span class="d-none d-sm-inline"> Modifica</span>
+                        </a>
+                        <form method="post" class="d-inline js-confirm"
+                              action="{{ url_for('biennale_delete', code=entry.codice) }}"
+                              data-message="Eliminare {{ entry.codice }}?">
+                            <button type="submit" class="btn btn-sm btn-outline-danger">
+                                <i class="fas fa-trash"></i>
+                            </button>
+                        </form>
+                        {% endif %}
+                    </td>
+                </tr>
+            {% else %}
+                <tr><td colspan="7" class="text-center text-muted p-4">
+                    Nessun giorno inserito:
+                    <a href="{{ url_for('biennale_new') }}">crea il primo</a>.
+                </td></tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,7 @@
+data/output
+android
+__pycache__
+*.pyc
+.venv
+venv
+.env.local

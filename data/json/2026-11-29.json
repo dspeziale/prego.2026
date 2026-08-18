@@ -1,0 +1,68 @@
+{
+    "data": "2026-11-29",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "I",
+    "celebrazione": null,
+    "grado": "Domenica",
+    "colore": "Viola",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "San Saturnino di Cartagine",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/6e52c218-7f86-4a75-9258-3753960e484e.jpeg",
+    "santo": {
+        "nome": "San Saturnino di Cartagine",
+        "martirologio": "A Roma nel cimitero di Trasóne sulla via Salaria nuova, san Saturnino di Cartagine, martire, che, come riferisce il papa san Damaso, sotto l’imperatore Decio fu torturato sul cavalletto in patria per la sua fede in Cristo e poi mandato esule a Roma, dove, superati altri atroci supplizi, convertì alla fede il tiranno Graziano e infine, decapitato, ottenne la corona del martirio.",
+        "altri_santi": [
+            {
+                "nome": "San Saturnino, vescovo e martire",
+                "martirologio": "A Tolosa nella Gallia narbonense, ora in Francia, commemorazione di san Saturnino, vescovo e martire, che, come si tramanda, sempre al tempo dell’imperatore Decio, fu tenuto prigioniero dai pagani sulla rocca di questa città e, precipitato giù dalla sua sommità, con la testa frantumata e il corpo interamente straziato rese l’anima a Cristo."
+            },
+            {
+                "nome": "San Filomeno, martire",
+                "martirologio": "Ad Ankara in Galazia, nell’odierna Turchia, san Filomeno, martire, che si dice abbia portato a termine il suo martirio durante la persecuzione dell’imperatore Aureliano, sotto il governatore Felice, gettato nel fuoco e poi trafitto da chiodi alle mani, ai piedi e al capo."
+            },
+            {
+                "nome": "Santa Illuminata, vergine",
+                "martirologio": "A Todi in Umbria, santa Illuminata, vergine."
+            },
+            {
+                "nome": "San Giacomo, vescovo di Sarug",
+                "martirologio": "A Batnan nella provincia dell’Osroene, nell’odierna Turchia, san Giacomo, vescovo di Sarug, che illuminò di purissima fede questa Chiesa con discorsi, omelie e traduzioni ed è venerato tra i Siri insieme a sant’Efrem come dottore e colonna della Chiesa."
+            },
+            {
+                "nome": "San Radbodo, vescovo di Utrecht",
+                "martirologio": "A Deventer in Frisia, nell’odierna Olanda, traslazione di san Radbodo, vescovo di Utrecht, che, dotto e prudente pastore, morì mentre era in visita tra i contadini."
+            },
+            {
+                "nome": "Beato Edoardo Burden, sacerdote e martire",
+                "martirologio": "A York in Inghilterra, beato Edoardo Burden, sacerdote e martire, che, compiuti gli studi nel Collegio Inglese di Reims, rientrò da sacerdote nei domini della regina Elisabetta I e coronò, così, sul patibolo il proprio martirio davanti ad una folla inferocita."
+            },
+            {
+                "nome": "Beati Giorgio Errington, Guglielmo Gibson e Guglielmo Knight, martiri",
+                "martirologio": "Nello stesso luogo, otto anni più tardi, beati Giorgio Errington, Guglielmo Gibson e Guglielmo Knight, martiri, i quali patirono dopo vari supplizi il martirio per aver protetto dei sacerdoti condannati in quanto tali all’espulsione."
+            },
+            {
+                "nome": "Beati martiri Dionigi della Natività (Pietro) Berthelot e Redento della Croce (Tommaso) Rodríguez, religiosi",
+                "martirologio": "Ad Aceh nell’isola di Sumatra, beati martiri Dionigi della Natività (Pietro) Berthelot, sacerdote, e Redento della Croce (Tommaso) Rodríguez, religiosi dell’Ordine dei Carmelitani Scalzi, che furono dapprima ridotti in schiavitù dai maomettani e infine uccisi sulla riva del mare a colpi di frecce e di scure."
+            },
+            {
+                "nome": "San Francesco Antonio Fasani, sacerdote",
+                "martirologio": "A Lucera in Puglia, san Francesco Antonio Fasani, sacerdote dell’Ordine dei Frati Minori Conventuali, che, uomo di raffinata cultura pervaso da un grande amore per la predicazione e la penitenza, si adoperò al tal punto per i poveri e i bisognosi da non esitare mai a privarsi della veste per coprire un mendicante e offrire a tutti il suo cristiano sostegno."
+            },
+            {
+                "nome": "Beato Alfredo Simón Colomina, sacerdote",
+                "martirologio": "In località detta El Saler vicino a Valencia in Spagna, beato Alfredo Simón Colomina, sacerdote della Compagnia di Gesù e martire, che durante la persecuzione contro la Chiesa confermò con il suo sangue la sua fedeltà al Signore."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

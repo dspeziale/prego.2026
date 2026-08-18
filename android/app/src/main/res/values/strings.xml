@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prego</string>
+    <string name="sync_button">Sincronizza i dati</string>
+    <string name="sync_running">Sincronizzazione…</string>
+    <string name="sync_done">Dati aggiornati</string>
+    <string name="sync_error">Sincronizzazione non riuscita</string>
+    <string name="sync_offline">Nessuna connessione: impossibile sincronizzare</string>
+</resources>

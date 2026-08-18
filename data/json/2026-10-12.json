@@ -1,0 +1,82 @@
+{
+    "data": "2026-10-12",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXVIII",
+    "celebrazione": "LUNEDÌ DELLA XXVIII SETTIMANA DEL TEMPO ORDINARIO",
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "IV",
+    "santo_del_giorno": "Sant'Edisto, martire",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/76d761ae-83e2-4f63-ac8c-6e629c46c238.jpeg",
+    "santo": {
+        "nome": "Sant'Edisto, martire",
+        "martirologio": "A Roma sulla via Laurentina, sant’Edisto, martire.",
+        "altri_santi": [
+            {
+                "nome": "Santa Domnina, martire",
+                "martirologio": "Ad Ainvarza in Cilicia, nell’odierna Turchia, santa Domnina, martire, che si tramanda abbia patito molte torture sotto l’imperatore Diocleziano e il governatore Licia e abbia reso in carcere lo spirito a Dio."
+            },
+            {
+                "nome": "Commemorazione dei santi martiri e confessori della fede in Africa",
+                "martirologio": "Commemorazione dei santi quattromilanovecentosessantasei martiri e confessori della fede: vescovi, sacerdoti e diaconi della Chiesa di Dio insieme a una folla immensa di fedeli, durante la persecuzione vandalica in Africa, per ordine del re ariano Unnerico, furono esiliati in odio alla verità cattolica in un orrendo deserto e celebrarono, infine, il martirio dopo varie torture. Erano tra loro Cipriano e Felice, vescovi, insigni sacerdoti del Signore."
+            },
+            {
+                "nome": "Sant’Opilione, diacono",
+                "martirologio": "A Piacenza, sant’Opilione, diacono."
+            },
+            {
+                "nome": "San Felice IV, papa",
+                "martirologio": "A Roma, san Felice IV, papa, che trasformò due templi del Foro romano in una chiesa in onore dei santi Cosma e Damiano e si adoperò molto per la retta fede."
+            },
+            {
+                "nome": "San Massimiliano, vescovo",
+                "martirologio": "Nel territorio dell’odierna Austria, san Massimiliano, che si ritiene sia stato vescovo di Lorch."
+            },
+            {
+                "nome": "San Rodobaldo, vescovo",
+                "martirologio": "A Pavia, san Rodobaldo, vescovo, uomo di esemplare spirito di penitenza, che si impegnò molto per il culto divino e nella ricerca di reliquie dei santi."
+            },
+            {
+                "nome": "San Serafino da Montegranaro (Felice) de Nicola, religioso",
+                "martirologio": "Ad Ascoli, san Serafino da Montegranaro (Felice) de Nicola, religioso dell'Ordine dei Frati Minori Cappuccini, che, vero povero, rifulse per umiltà e pietà."
+            },
+            {
+                "nome": "Beato Tommaso Bullaker, sacerdote",
+                "martirologio": "A Londra in Inghilterra, beato Tommaso Bullaker, sacerdote dell’Ordine dei Frati Minori e martire, che, arrestato sotto il regno di Carlo I nel momento stesso in cui celebrava la Messa, morì impiccato a Tyburn per il suo sacerdozio e sventrato mentre era ancora vivo."
+            },
+            {
+                "nome": "Beato Giuseppe González Huguet, sacerdote e martire",
+                "martirologio": "Nel villaggio di Ribarroja de Turía nel territorio di Valencia in Spagna, beato Giuseppe González Huguet, sacerdote e martire, che, durante la persecuzione contro la fede, portò a termine il glorioso combattimento per Cristo."
+            },
+            {
+                "nome": "Beato Pacifico (Pietro) Salcedo Puchades, religioso",
+                "martirologio": "Nel villaggio di Massamagrel nello stesso territorio in Spagna, beato Pacifico (Pietro) Salcedo Puchades, religioso dell’Ordine dei Frati Minori Cappuccini e martire, che nella medesima persecuzione si conformò alla passione di Cristo."
+            },
+            {
+                "nome": "Beato Romano Sitko, sacerdote e martire",
+                "martirologio": "Nel campo di sterminio di Auschwitz vicino a Cracovia in Polonia, beato Romano Sitko, sacerdote e martire, che, durante l’occupazione della Polonia nel corso della guerra, crudelmente torturato dai persecutori della dignità umana e della fede, passò alla visione della beatitudine eterna."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Se consideri le colpe, o Signore,\nSignore, chi ti può resistere?\nCon te è il perdono, Dio d’Israele. (Cf. Sal 129,3-4)",
+        "colletta": "Ci preceda e ci accompagni sempre la tua grazia, o Signore,\nperché, sorretti dal tuo paterno aiuto,\nnon ci stanchiamo mai di operare il bene.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Non siamo figli di una schiava, ma della donna libera.\nDalla lettera di san Paolo apostolo ai Gàlati\nGal 4,22-24.26-27.31-5,1\n\nFratelli, sta scritto che Abramo ebbe due figli, uno dalla schiava e uno dalla donna libera. Ma il figlio della schiava è nato secondo la carne; il figlio della donna libera, in virtù della promessa.\nOra, queste cose sono dette per allegoria: le due donne infatti rappresentano le due alleanze. Una, quella del monte Sinai, che genera nella schiavitù, è rappresentata da Agar. Invece la Gerusalemme di lassù è libera ed è la madre di tutti noi. Sta scritto infatti:\n«Rallégrati, sterile, tu che non partorisci,\ngrida di gioia, tu che non conosci i dolori del parto,\nperché molti sono i figli dell’abbandonata,\npiù di quelli della donna che ha marito».\nCosì, fratelli, noi non siamo figli di una schiava, ma della donna libera.\nCristo ci ha liberati per la libertà! State dunque saldi e non lasciatevi imporre di nuovo il giogo della schiavitù.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 112 (113)\nR. Sia benedetto il nome del Signore, da ora e per sempre.\n\nLodate, servi del Signore,\nlodate il nome del Signore.\nSia benedetto il nome del Signore,\nda ora e per sempre. R.\n\nDal sorgere del sole al suo tramonto\nsia lodato il nome del Signore.\nSu tutte le genti eccelso è il Signore,\npiù alta dei cieli è la sua gloria. R.\n\nChi è come il Signore, nostro Dio,\nche si china a guardare\nsui cieli e sulla terra?\nSolleva dalla polvere il debole,\ndall’immondizia rialza il povero. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nOggi non indurite il vostro cuore,\nma ascoltate la voce del Signore. (Cf. Sal 94 (95),8ab)\n\nAlleluia.",
+        "vangelo": "Non sarà dato alcun segno a questa generazione, se non il segno di Giona.\nDal Vangelo secondo Luca\nLc 11,29-32\n\nIn quel tempo, mentre le folle si accalcavano, Gesù cominciò a dire:\n«Questa generazione è una generazione malvagia; essa cerca un segno, ma non le sarà dato alcun segno, se non il segno di Giona. Poiché, come Giona fu un segno per quelli di Nìnive, così anche il Figlio dell’uomo lo sarà per questa generazione.\nNel giorno del giudizio, la regina del Sud si alzerà contro gli uomini di questa generazione e li condannerà, perché ella venne dagli estremi confini della terra per ascoltare la sapienza di Salomone. Ed ecco, qui vi è uno più grande di Salomone. Nel giorno del giudizio, gli abitanti di Nìnive si alzeranno contro questa generazione e la condanneranno, perché essi alla predicazione di Giona si convertirono. Ed ecco, qui vi è uno più grande di Giona».\n\nParola del Signore.",
+        "sulle_offerte": "Accogli, o Signore, le preghiere dei tuoi fedeli\ninsieme all’offerta di questo sacrificio,\nperché mediante il nostro servizio sacerdotale\npossiamo giungere alla gloria del cielo.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "I leoni sono miseri e affamati;\na chi cerca il Signore non manca alcun bene. (Sal 33,11)\n\nOppure:\n\nQuando il Signore si sarà manifestato,\nnoi saremo simili a lui, perché lo vedremo così come egli è. (1Gv 3,2)",
+        "dopo_la_comunione": "Ti supplichiamo, o Padre d’infinita grandezza:\ncome ci nutri del Corpo e Sangue del tuo Figlio,\ncosì rendici partecipi della natura divina.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

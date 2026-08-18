@@ -1,0 +1,80 @@
+{
+    "data": "2026-11-26",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXIV",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "San Leonardo da Porto Maurizio",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/65081f78-6e42-41ec-89a3-c8e1a1a2cd89.jpeg",
+    "santo": {
+        "nome": "San Leonardo da Porto Maurizio",
+        "martirologio": "A Roma nel convento di San Bonaventura sul Palatino, san Leonardo da Porto Maurizio, sacerdote dell’Ordine dei Frati Minori, che, pieno di amore per le anime, impegnò tutta la sua vita nella predicazione, nel pubblicare libri di devozione e nel far visita ad oltre trecento missioni a Roma, in Corsica e nell’Italia settentrionale.",
+        "altri_santi": [
+            {
+                "nome": "San Siricio, papa",
+                "martirologio": "A Roma nel cimitero di Priscilla sulla via Salaria nuova, san Siricio, papa, che sant’Ambrogio loda come vero maestro, in quanto, portando il fardello di tutti coloro che sono gravati della responsabilità episcopale, li istruì negli insegnamenti dei Padri, che confermò anche con la sua autorità apostolica."
+            },
+            {
+                "nome": "Sant’Alipio, diacono e stilita",
+                "martirologio": "Ad Adrianopoli in Paflagonia, nell’odierna Turchia, sant’Alipio, diacono e stilita, che morì quasi centenario."
+            },
+            {
+                "nome": "San Corrado, vescovo",
+                "martirologio": "A Costanza nella Svevia in Germania, san Corrado, vescovo, che, ottimo pastore del suo gregge, con i suoi beni provvide largamente alla Chiesa e ai poveri."
+            },
+            {
+                "nome": "San Nicone, monaco",
+                "martirologio": "A Sparta nel Peloponneso in Grecia, san Nicone, monaco, che, dopo aver condotto in Asia vita cenobitica ed eremitica, si adoperò con zelo evangelico per riportare i costumi cristiani nell’isola di Creta liberata dal giogo dei Saraceni e percorse poi la Grecia per predicarvi la penitenza, finché morì nel monastero di Sparta da lui fondato."
+            },
+            {
+                "nome": "San Bellino, vescovo",
+                "martirologio": "Nella selva presso Fratta nel territorio di Rovigo, passione di san Bellino, vescovo di Padova e martire, che, insigne difensore della Chiesa, crudelmente aggredito dai sicari, morì per le molte ferite subite."
+            },
+            {
+                "nome": "Beato Ponzio da Faucigny",
+                "martirologio": "Nel monastero dei Canonici Regolari di Sixt in Borgogna, ora in Francia, beato Ponzio da Faucigny, che, un tempo abate di Abondance, lasciato l’incarico, volle morire come semplice religioso."
+            },
+            {
+                "nome": "San Silvestro Gozzolini, abate",
+                "martirologio": "Presso Fabriano nelle Marche, san Silvestro Gozzolini, abate, che, presa coscienza della grande vanità del mondo davanti al sepolcro aperto di un amico da poco defunto, si ritirò in un eremo e, dopo aver cambiato varie sedi per meglio isolarsi dagli uomini, fondò infine in un luogo appartato presso Montefano la Congregazione dei Silvestrini sotto la regola di san Benedetto."
+            },
+            {
+                "nome": "Beata Delfina",
+                "martirologio": "Ad Apt nella Provenza in Francia, beata Delfina, che, moglie di sant’Elzearo di Sabran, insieme al quale fece voto di castità, dopo la morte del marito visse in povertà e dedita alla preghiera."
+            },
+            {
+                "nome": "Beati martiri Ugo Taylor e Marmaduc Bowes",
+                "martirologio": "A York in Inghilterra, beati martiri Ugo Taylor, sacerdote, e Marmaduc Bowes, che salirono al patibolo sotto la regina Elisabetta I, il primo, ancor giovane, per essere entrato in Inghilterra da sacerdote, l’altro, anziano, per averlo aiutato."
+            },
+            {
+                "nome": "Sant’Umile (Luca Antonio) Pirozzo, religioso",
+                "martirologio": "A Bisignano in Calabria, sant’Umile (Luca Antonio) Pirozzo, religioso dell’Ordine dei Frati Minori, insigne per lo spirito di profezia e le frequenti estasi."
+            },
+            {
+                "nome": "Santi Tommaso Dinh Viet Du e Domenico Nguy n Van (Doàn) Xuyên, sacerdoti",
+                "martirologio": "Nella città di Nam Dinh nel Tonchino, ora Viet Nam, santi Tommaso Dinh Viet Du e Domenico Nguy n Van (Doàn) Xuyên, sacerdoti dell’Ordine dei Predicatori e martiri, che furono decapitati insieme per decreto dell’imperatore Minh Mang."
+            },
+            {
+                "nome": "Beata Gaetana Sterni, religiosa",
+                "martirologio": "A Bassano vicino a Vicenza, beata Gaetana Sterni, religiosa, che, rimasta vedova ancora giovane, si diede interamente al servizio dei poveri e istituì la Congregazione delle Suore della Divina Volontà per l’assistenza ai poveri e ai malati."
+            },
+            {
+                "nome": "Beato Giacomo Alberione, sacerdote",
+                "martirologio": "A Roma, beato Giacomo Alberione, sacerdote, che, sommamente sollecito per l’evangelizzazione, si dedicò con ogni mezzo a volgere gli strumenti della comunicazione sociale"
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

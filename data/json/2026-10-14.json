@@ -1,0 +1,82 @@
+{
+    "data": "2026-10-14",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXVIII",
+    "celebrazione": "MERCOLEDÌ DELLA XXVIII SETTIMANA DEL TEMPO ORDINARIO",
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "IV",
+    "santo_del_giorno": "San Callisto I, papa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/65b96211-b927-4a43-bb33-77952a756d87.jpeg",
+    "santo": {
+        "nome": "San Callisto I, papa",
+        "martirologio": "San Callisto I, papa, martire: da diacono, dopo un lungo esilio in Sardegna, si prese cura del cimitero sulla via Appia noto sotto il suo nome, dove raccolse le vestigia dei martiri a futura venerazione dei posteri; eletto poi papa promosse la retta dottrina e riconciliò con benevolenza i lapsi, coronando infine il suo operoso episcopato con un luminoso martirio. In questo giorno si commemora la deposizione del suo corpo nel cimitero di Calepodio a Roma sulla via Aurelia.",
+        "altri_santi": [
+            {
+                "nome": "San Lùpulo, martire",
+                "martirologio": "A Capua in Campania, san Lùpulo, martire."
+            },
+            {
+                "nome": "San Gaudenzio, vescovo",
+                "martirologio": "A Rimini, san Gaudenzio, che si ritiene sia stato, in tempo di persecuzione, il primo vescovo di questa città."
+            },
+            {
+                "nome": "San Donaziano, vescovo",
+                "martirologio": "A Bruges nel territorio dell’odierno Belgio, commemorazione di san Donaziano, vescovo di Reims, le cui reliquie si conservano in questa città."
+            },
+            {
+                "nome": "San Fortunato, vescovo",
+                "martirologio": "A Todi in Umbria, san Fortunato, vescovo, che, come riferisce il papa san Gregorio Magno, rifulse di immensa virtù nel prestare assistenza ai malati."
+            },
+            {
+                "nome": "Santa Manechilde, vergine",
+                "martirologio": "Nel territorio di Châlons nella Champagne in Francia, santa Manechilde, vergine."
+            },
+            {
+                "nome": "San Venanzio, vescovo",
+                "martirologio": "A Luni in Liguria, comemorazione di san Venanzio, vescovo, che ebbe particolare cura del clero e dei monaci e fu amico stimato del papa san Gregorio Magno."
+            },
+            {
+                "nome": "Santa Angadrisma, badessa",
+                "martirologio": "Presso Beauvais in Neustria, ora in Francia, santa Angadrisma, badessa del monastero fondato da sant’Ebrolfo e chiamato l’Oratorio, perché aveva più luoghi di preghiera, in cui ella senza sosta serviva il Signore."
+            },
+            {
+                "nome": "San Domenico, detto Loricato, sacerdote",
+                "martirologio": "A San Severino nelle Marche, san Domenico, detto Loricato per la cintura di ferro di cui si era cinto i fianchi, sacerdote dell’Ordine dei Camaldolesi, che, ordinato per simonia, si fece poi monaco eremita e, discepolo di san Damiano, condusse un’aspra vita di austerità e penitenza."
+            },
+            {
+                "nome": "Beata Anna Maria Aranda Riera, vergine e martire",
+                "martirologio": "Nel villaggio di Picadero de Paterna nel territorio di Valencia in Spagna, beata Anna Maria Aranda Riera, vergine e martire, che, in tempo di persecuzione contro la fede, versò il sangue per Cristo."
+            },
+            {
+                "nome": "Beati Stanislao Mysakowski e Francesco Roslaniec, sacerdoti e martiri",
+                "martirologio": "Nel campo di prigionia di Dachau vicino a Monaco di Baviera in Germania, beati Stanislao Mysakowski e Francesco Roslaniec, sacerdoti e martiri, che, durante l’occupazione della Polonia in tempo di guerra da parte di nemici di Dio e della dignità umana, subirono il martirio in una camera a gas."
+            },
+            {
+                "nome": "Beato Romano Lysko, sacerdote e martire",
+                "martirologio": "A Leopoli in Ucraina, beato Romano Lysko, sacerdote e martire, che, durante la persecuzione contro la fede, seguendo costantemente le orme di Cristo, giunse per sua grazia al regno dei cieli."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Se consideri le colpe, o Signore,\nSignore, chi ti può resistere?\nCon te è il perdono, Dio d’Israele. (Cf. Sal 129,3-4)",
+        "colletta": "Ci preceda e ci accompagni sempre la tua grazia, o Signore,\nperché, sorretti dal tuo paterno aiuto,\nnon ci stanchiamo mai di operare il bene.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Quelli che sono di Cristo Gesù hanno crocifisso la carne con le sue passioni.\nDalla lettera di san Paolo apostolo ai Gàlati\nGal 5,18-25\n\nFratelli, se vi lasciate guidare dallo Spirito, non siete sotto la Legge.\nDel resto sono ben note le opere della carne: fornicazione, impurità, dissolutezza, idolatria, stregonerie, inimicizie, discordia, gelosia, dissensi, divisioni, fazioni, invidie, ubriachezze, orge e cose del genere. Riguardo a queste cose vi preavviso, come già ho detto: chi le compie non erediterà il regno di Dio.\nIl frutto dello Spirito invece è amore, gioia, pace, magnanimità, benevolenza, bontà, fedeltà, mitezza, dominio di sé; contro queste cose non c’è Legge.\nQuelli che sono di Cristo Gesù hanno crocifisso la carne con le sue passioni e i suoi desideri. Perciò se viviamo dello Spirito, camminiamo anche secondo lo Spirito.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 1\nR. Chi ti segue, Signore, avrà la luce della vita.\n\nBeato l'uomo che non entra nel consiglio dei malvagi,\nnon resta nella via dei peccatori\ne non siede in compagnia degli arroganti,\nma nella legge del Signore trova la sua gioia,\nla sua legge medita giorno e notte. R .\n\nÈ come albero piantato lungo corsi d'acqua,\nche dà frutto a suo tempo:\nle sue foglie non appassiscono\ne tutto quello che fa, riesce bene. R.\n\nNon così, non così i malvagi,\nma come pula che il vento disperde;\npoiché il Signore veglia sul cammino dei giusti,\nmentre la via dei malvagi va in rovina. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nLe mie pecore ascoltano la mia voce, dice il Signore,\ne io le conosco ed esse mi seguono. (Gv 10,27)\n\nAlleluia.",
+        "vangelo": "Guai a voi, farisei; guai a voi dottori della legge.\nDal Vangelo secondo Luca\nLc 11,42-46\n\nIn quel tempo, il Signore disse: «Guai a voi, farisei, che pagate la decima sulla menta, sulla ruta e su tutte le erbe, e lasciate da parte la giustizia e l’amore di Dio. Queste invece erano le cose da fare, senza trascurare quelle. Guai a voi, farisei, che amate i primi posti nelle sinagoghe e i saluti sulle piazze. Guai a voi, perché siete come quei sepolcri che non si vedono e la gente vi passa sopra senza saperlo».\nIntervenne uno dei dottori della Legge e gli disse: «Maestro, dicendo questo, tu offendi anche noi». Egli rispose: «Guai anche a voi, dottori della Legge, che caricate gli uomini di pesi insopportabili, e quei pesi voi non li toccate nemmeno con un dito!».\n\nParola del Signore.",
+        "sulle_offerte": "Accogli, o Signore, le preghiere dei tuoi fedeli\ninsieme all’offerta di questo sacrificio,\nperché mediante il nostro servizio sacerdotale\npossiamo giungere alla gloria del cielo.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "I leoni sono miseri e affamati;\na chi cerca il Signore non manca alcun bene. (Sal 33,11)\n\nOppure:\n\nQuando il Signore si sarà manifestato,\nnoi saremo simili a lui, perché lo vedremo così come egli è. (1Gv 3,2)",
+        "dopo_la_comunione": "Ti supplichiamo, o Padre d’infinita grandezza:\ncome ci nutri del Corpo e Sangue del tuo Figlio,\ncosì rendici partecipi della natura divina.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

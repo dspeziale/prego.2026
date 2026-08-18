@@ -1,0 +1,98 @@
+{
+    "data": "2026-10-10",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXVII",
+    "celebrazione": "SABATO DELLA XXVII SETTIMANA DEL TEMPO ORDINARIO",
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "San Cerbonio",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/3fdb10b3-93f0-4c3b-8ea1-b198bc2b980d.jpeg",
+    "santo": {
+        "nome": "San Cerbonio",
+        "martirologio": "A Populonia in Toscana, san Cerbonio, vescovo, che, come riferisce il papa san Gregorio Magno, durante l’invasione longobarda della regione, si ritirò sull’isola d'Elba, offrendo numerosi esempi della sua virtù.",
+        "altri_santi": [
+            {
+                "nome": "San Pinìto, vescovo",
+                "martirologio": "Commemorazione di san Pinìto, vescovo di Cnosso nell’isola di Creta, che fiorì sotto gli imperatori Marco Antonino Vero e Lucio Aurelio Commodo e con i suoi scritti provvide sommamente alla fede e alla crescita spirituale del gregge a lui affidato."
+            },
+            {
+                "nome": "Santi Eulampio e sua sorella Eulampia, martiri",
+                "martirologio": "A Nicomedia in Bitinia, nell’odierna Turchia, santi Eulampio e sua sorella Eulampia, martiri durante la persecuzione dell’imperatore Diocleziano."
+            },
+            {
+                "nome": "Santi Gereone e compagni, martiri",
+                "martirologio": "A Colonia in Germania, santi Gereone e compagni, martiri, che per la vera fede porsero coraggiosamente il collo alla spada."
+            },
+            {
+                "nome": "Santi Vittore e Malloso, martiri",
+                "martirologio": "Nel villaggio di Birten sempre nel territorio di Colonia, santi Vittore e Malloso, martiri."
+            },
+            {
+                "nome": "Santi Cassio e Fiorenzo, martiri",
+                "martirologio": "A Bonn ancora in Germania, santi Cassio e Fiorenzo, martiri."
+            },
+            {
+                "nome": "San Chiaro, vescovo",
+                "martirologio": "A Nantes nella Gallia lugdunense, ora in Francia, san Chiaro, venerato come primo vescovo di questa città."
+            },
+            {
+                "nome": "Santa Tanca, vergine e martire",
+                "martirologio": "Vicino a Rameru nel territorio di Troyes in Francia, santa Tanca, vergine e martire, che, come si tramanda, affrontò una morte gloriosa per difendere la sua verginità."
+            },
+            {
+                "nome": "San Paolino, vescovo",
+                "martirologio": "A Rochester in Inghilterra, transito di san Paolino, vescovo di York, che, monaco e discepolo del papa san Gregorio Magno, fu da lui mandato insieme ad altri a predicare il Vangelo agli Angli, dopo aver convertito alla fede di Cristo Eduino re di Northumbria, lavò nel fiume il suo popolo con il lavacro della rigenerazione."
+            },
+            {
+                "nome": "Santa Telchilde, badessa",
+                "martirologio": "Nel monastero di Jouarre nel territorio di Meaux in Francia, santa Telchilde, badessa, che, di nobile origine, fulgida di meriti e salda nei costumi, insegnò alle vergini consacrate ad uscire incontro a Cristo con le lampade accese."
+            },
+            {
+                "nome": "Sette Santi martiri Daniele, Samuele, Angelo, Leone, Nicola e Ugolino e Domno",
+                "martirologio": "A Ceuta nel territorio dell’odierno Marocco, passione di sette santi martiri dell’Ordine dei Minori, Daniele, Samuele, Angelo, Leone, Nicola e Ugolino, sacerdoti, e Domno, che, mandati da frate Elia a predicare il Vangelo di Cristo ai Mori e patiti insulti, carcere e torture, conseguirono, infine, con la decapitazione la palma del martirio."
+            },
+            {
+                "nome": "San Giovanni, sacerdote",
+                "martirologio": "A Bridlington in Inghilterra, san Giovanni, sacerdote, che, priore del monastero dei Canonici regolari di Sant’Agostino, rifulse per la preghiera, l’austerità e la mansuetudine."
+            },
+            {
+                "nome": "San Daniele Comboni, vescovo",
+                "martirologio": "Nella città di Khartum in Sudan, san Daniele Comboni, vescovo, che fondò l’Istituto per le Missioni Africane e, nominato vescovo in Africa, si prodigò senza mai lesinare energie nel predicare il Vangelo in quelle regioni e nel prendersi in tutti i modi cura della dignità degli esseri umani."
+            },
+            {
+                "nome": "Beato Leone Wetmanski, vescovo",
+                "martirologio": "Nella cittadina di Dzialdowo sempre in Polonia, beato Leone Wetmanski, vescovo ausiliare di Plock, che, durante l’empia persecuzione perpetrata in Polonia contro gli uomini e contro Dio, compì il suo martirio in un campo di prigionia con una impavida morte."
+            },
+            {
+                "nome": "Beato Edoardo Detkens, martire",
+                "martirologio": "Presso Linz in Austria, beato Edoardo Detkens, martire, che, di origine polacca, morì nella medesima persecuzione in una camera a gas."
+            },
+            {
+                "nome": "Beata Angela Maria (Sofia Camilla) Truszkowska, vergine",
+                "martirologio": "A Cracovia in Polonia, beata Angela Maria (Sofia Camilla) Truszkowska, vergine, che fondò la Congregazione delle Francescane sotto il titolo di San Felice da Cantalíce in aiuto dei ragazzi abbandonati, dei poveri e degli emarginati."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Tutte le cose sono in tuo potere\ne nessuno può opporsi alla tua volontà.\nTu hai fatto il cielo e la terra\ne tutte le meraviglie che si trovano sotto il firmamento:\ntu sei il Signore di tutte le cose. (Cf. Est 4,17b-c)",
+        "colletta": "Dio onnipotente ed eterno,\nche esaudisci le preghiere del tuo popolo\noltre ogni desiderio e ogni merito,\neffondi su di noi la tua misericordia:\nperdona ciò che la coscienza teme\ne aggiungi ciò che la preghiera non osa sperare.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Tutti voi siete figli di Dio mediante la fede.\nDalla lettera di san Paolo apostolo ai Gàlati\nGal 3,22-29\n\nFratelli, la Scrittura ha rinchiuso ogni cosa sotto il peccato, perché la promessa venisse data ai credenti mediante la fede in Gesù Cristo.\nMa prima che venisse la fede, noi eravamo custoditi e rinchiusi sotto la Legge, in attesa della fede che doveva essere rivelata. Così la Legge è stata per noi un pedagogo, fino a Cristo, perché fossimo giustificati per la fede. Sopraggiunta la fede, non siamo più sotto un pedagogo.\nTutti voi infatti siete figli di Dio mediante la fede in Cristo Gesù, poiché quanti siete stati battezzati in Cristo vi siete rivestiti di Cristo. Non c’è Giudeo né Greco; non c’è schiavo né libero; non c’è maschio e femmina, perché tutti voi siete uno in Cristo Gesù. Se appartenete a Cristo, allora siete discendenza di Abramo, eredi secondo la promessa.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 104 (105)\nR. Il Signore si è sempre ricordato della sua alleanza.\nOppure:\nR. Il Signore è fedele per sempre.\n\nCantate al Signore, a lui inneggiate,\nmeditate tutte le sue meraviglie.\nGloriatevi del suo santo nome:\ngioisca il cuore di chi cerca il Signore. R.\n\nCercate il Signore e la sua potenza,\nricercate sempre il suo volto.\nRicordate le meraviglie che ha compiuto,\ni suoi prodigi e i giudizi della sua bocca. R.\n\nVoi, stirpe di Abramo, suo servo,\nfigli di Giacobbe, suo eletto.\nÈ lui il Signore, nostro Dio:\nsu tutta la terra i suoi giudizi. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nBeati coloro che ascoltano la parola di Dio\ne la osservano. (Lc 11,28)\n\nAlleluia.",
+        "vangelo": "Beato il grembo che ti ha portato! Beati piuttosto coloro che ascoltano la parola di Dio.\nDal Vangelo secondo Luca\nLc 11,27-28\n\nIn quel tempo, mentre Gesù parlava, una donna dalla folla alzò la voce e gli disse: «Beato il grembo che ti ha portato e il seno che ti ha allattato!».\nMa egli disse: «Beati piuttosto coloro che ascoltano la parola di Dio e la osservano!».\n\nParola del Signore.",
+        "sulle_offerte": "Accogli, o Signore, il sacrificio\nche tu stesso ci hai comandato di offrirti\ne per questi misteri che celebriamo con il nostro servizio sacerdotale\nporta a compimento la tua opera di santificazione.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Buono è il Signore con chi spera in lui,\ncon colui che lo cerca. (Lam 3,25)\n\nOppure:\n\nUno solo è il pane,\ne noi, pur essendo molti, siamo un corpo solo:\ntutti partecipiamo all’unico pane e all’unico calice. (Cf. 1Cor 10,17)",
+        "dopo_la_comunione": "Concedi a noi, Padre onnipotente,\nche, inebriati e nutriti da questi sacramenti,\nveniamo trasformati in Cristo\nche abbiamo ricevuto come cibo e bevanda di vita.\nEgli vive e regna nei secoli dei secoli."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

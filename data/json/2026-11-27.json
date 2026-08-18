@@ -1,0 +1,84 @@
+{
+    "data": "2026-11-27",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXIV",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "Santi Facondo e Primitivo, martiri",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/07e469fd-fa46-4dd0-ab99-a56c4c4b8d30.jpeg",
+    "santo": {
+        "nome": "Santi Facondo e Primitivo, martiri",
+        "martirologio": "Presso il fiume Cea nella Galizia in Spagna, santi Facondo e Primitivo, martiri.",
+        "altri_santi": [
+            {
+                "nome": "San Laverio, martire",
+                "martirologio": "A Grumento in Basilicata, san Laverio, martire."
+            },
+            {
+                "nome": "San Valeriano, vescovo",
+                "martirologio": "Ad Aquileia in Friuli, san Valeriano, vescovo, che difese la retta fede contro l’arianesimo nelle terre dell’antico Illirico e radunò insieme chierici e laici invitandoli a praticare una vita in comune."
+            },
+            {
+                "nome": "San Giacomo, detto l’Interciso, martire",
+                "martirologio": "In Persia, san Giacomo, detto l’Interciso, martire, che, al tempo dell’imperatore Teodosio il Giovane, aveva rinnegato Cristo in ossequio al re Iasdigerd, ma, aspramente rimproverato da sua madre e dalla moglie, si pentì e professò coraggiosamente la sua fede cristiana davanti a Varam, figlio e successore del sovrano di Persia, che, adirato, pronunciò contro di lui la sentenza di morte ordinando che fosse tagliato a pezzi e infine decapitato."
+            },
+            {
+                "nome": "San Massimo, vescovo",
+                "martirologio": "Presso Riez nella Provenza, in Francia, san Massimo, padre del cenobio di Lérins dopo sant’Onorato e poi vescovo della Chiesa di Riez."
+            },
+            {
+                "nome": "Sant’Eusicio, eremita",
+                "martirologio": "Nel territorio di Blois sempre in Francia, sant’Eusicio, eremita, che si costruì una piccola cella sulle sponde dello Cher."
+            },
+            {
+                "nome": "San Siffredo, vescovo",
+                "martirologio": "A Carpentras sempre in Provenza, san Siffredo, vescovo."
+            },
+            {
+                "nome": "Sant’Acario, vescovo",
+                "martirologio": "A Noyon in Francia, sant’Acario, vescovo, che, eletto alle Chiese di Noyon e Tournai dopo essere stato monaco a Luxeuil, si diede all’evangelizzazione delle popolazioni delle regioni settentrionali."
+            },
+            {
+                "nome": "Santa Bililde, vergine",
+                "martirologio": "A Magonza in Renania, in Germania, santa Bililde, vergine, fondatrice di un monastero, nel quale morì piamente."
+            },
+            {
+                "nome": "San Fergusto, vescovo",
+                "martirologio": "In Scozia, san Fergusto, vescovo, che si ritiene abbia esercitato il suo ministero tra i Pitti."
+            },
+            {
+                "nome": "San Virgilio, vescovo",
+                "martirologio": "A Salisburgo in Baviera, nell’odierna Austria, san Virgilio, vescovo, uomo di grande cultura, che, di origine irlandese, con il favore del re Pipino, fu posto alla guida della Chiesa di Salisburgo, dove costruì la cattedrale in onore di san Ruperto e si prodigò per diffondere la fede tra gli abitanti della Carinzia."
+            },
+            {
+                "nome": "San Gulstano, monaco",
+                "martirologio": "In località Beauvoir-sur-Mer sul litorale francese nel territorio di Nantes in Bretagna, san Gulstano, monaco, che, sfuggito da giovane alle mani dei pirati e accolto da san Felice, allora eremita, rifulse nel monastero di Rhuys dove, sebbene analfabeta, recitava a memoria il salterio e si prendeva cura dei naviganti."
+            },
+            {
+                "nome": "Beato Bernardino da Fossa (Giovanni) Amici, sacerdote",
+                "martirologio": "All’Aquila, beato Bernardino da Fossa (Giovanni) Amici, sacerdote dell’Ordine dei Minori, che predicò la fede cattolica in molte province d’Italia."
+            },
+            {
+                "nome": "Beati Tommaso Koteda Kiuni e dieci compagni, martiri",
+                "martirologio": "A Nagasaki in Giappone, beati Tommaso Koteda Kiuni e dieci compagni, martiri, che furono decapitati in odio alla fede per ordine del governatore Gonzuku.\n\nI loro nomi sono: beati Bartolomeo Seki, Antonio Kimura, Giovanni Iwanaga, Alessio Nakamura, Leone Nakanishi, Michele Takeshita, Mattia Kozasa, Romano Matsuoka Miota, Mattia Nakano Miota, Giovanni Motoyama."
+            },
+            {
+                "nome": "Beato Bronislao Kostowski, martire",
+                "martirologio": "Nel campo di prigionia di Dachau vicino a Monaco di Baviera in Germania, beato Bronislao Kostowski, martire, che, durante l’occupazione militare della Polonia in guerra, sottoposto in carcere a crudeli supplizi conseguì la palma del martirio."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

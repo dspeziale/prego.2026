@@ -1,0 +1,60 @@
+{
+    "data": "2026-11-19",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXIII",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "Sant'Abdia, profeta",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/81a38b09-3247-4897-8a33-5a452c86cfce.jpeg",
+    "santo": {
+        "nome": "Sant'Abdia, profeta",
+        "martirologio": "Commemorazione di sant'Abdia, profeta, che, dopo l’esilio del popolo d’Israele, preannunciò l’ira del Signore contro le genti nemiche.",
+        "altri_santi": [
+            {
+                "nome": "San Massimo, corepiscopo e martire",
+                "martirologio": "A Cesarea in Cappadocia, nell’odierna Turchia, san Massimo, corepiscopo e martire."
+            },
+            {
+                "nome": "San Barlaam, martire",
+                "martirologio": "Ad Antiochia in Siria, san Barlaam, martire, che, contadino e analfabeta, ma forte della sapienza di Cristo, costretto a tenere in mano carboni ardenti e incenso da offrire agli dei, resistette con fede invitta e, per la ferocia del tiranno, ottenne la palma del martirio."
+            },
+            {
+                "nome": "Sante quaranta donne, vergini e vedove, martiri in Turchia",
+                "martirologio": "A Marmara Ereglisi in Tracia, nell’odierna Turchia, sante quaranta donne, vergini e vedove, martiri."
+            },
+            {
+                "nome": "Sant’Eudone, abate",
+                "martirologio": "Nella regione del Vélay in Francia, sant’Eudone, abate."
+            },
+            {
+                "nome": "San Simone, eremita",
+                "martirologio": "Sul massiccio del Mercurio in Calabria, san Simone, eremita."
+            },
+            {
+                "nome": "Santa Mectilde, vergine",
+                "martirologio": "Nel monastero di Helfta nella Sassonia in Germania, santa Mectilde, vergine, che fu donna di squisita dottrina e umiltà, illuminata dal dono divino della contemplazione mistica."
+            },
+            {
+                "nome": "Beato Giacomo Benfatti, vescovo",
+                "martirologio": "A Mantova, beato Giacomo Benfatti, vescovo, dell’Ordine dei Predicatori, che, dopo aver riportato la pace in città, soccorse il popolo colpito dalla peste e dalla fame."
+            },
+            {
+                "nome": "Beati martiri Eliseo García, religioso",
+                "martirologio": "Nel villaggio di Garraf nel territorio di Valencia in Spagna, beati martiri Eliseo García, religioso della Società Salesiana, e Alessandro Planas Saurí, che, durante la persecuzione contro la fede, furono ritenuti degni di essere associati al sacrificio salvifico di Cristo."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

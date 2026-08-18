@@ -1,0 +1,98 @@
+{
+    "data": "2026-10-06",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXVII",
+    "celebrazione": "MARTEDÌ DELLA XXVII SETTIMANA DEL TEMPO ORDINARIO",
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "San Bruno, sacerdote",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/811339e9-9e56-47f6-888c-69f436c3d3f2.jpeg",
+    "santo": {
+        "nome": "San Bruno, sacerdote",
+        "martirologio": "San Bruno, sacerdote, che, originario di Colonia in Lotaringia, nel territorio dell’odierna Germania, dopo avere insegnato la teologia in Francia, desideroso di condurre vita solitaria, fondò con pochi discepoli nella deserta valle di Chartroux un Ordine, in cui la solitudine eremitica si combinasse con una minima forma di vita comunitaria.\nChiamato a Roma dal papa beato Urbano II, perché lo aiutasse nelle necessità della Chiesa, riuscì tuttavia a trascorrere gli ultimi anni della sua vita in un eremo vicino al monastero di La Torre in Calabria.",
+        "altri_santi": [
+            {
+                "nome": "San Ságaro, vescovo e martire",
+                "martirologio": "A Laodicea in Frigia, nell’odierna Turchia, san Ságaro, vescovo e martire sotto Servilio Paolo, proconsole della provincia d’Asia."
+            },
+            {
+                "nome": "Santa Fede, martire",
+                "martirologio": "Ad Agen in Aquitania, ora in Francia, santa Fede, martire."
+            },
+            {
+                "nome": "San Renato, vescovo",
+                "martirologio": "A Sorrento in Campania, san Renato, vescovo."
+            },
+            {
+                "nome": "San Romano, vescovo",
+                "martirologio": "A Auxerre in Neustria, ora in Francia, san Romano, vescovo."
+            },
+            {
+                "nome": "San Magno, vescovo",
+                "martirologio": "In Veneto, commemorazione di san Magno, vescovo, che si dice sia andato via dalla città di Oderzo con gran parte del suo gregge a causa dell’invasione longobarda, fondando la nuova città di Eraclea, e abbia costruito otto chiese a Venezia."
+            },
+            {
+                "nome": "Sant’Ivio, diacono e monaco",
+                "martirologio": "In Bretagna, sant’Ivio, diacono e monaco, che, discepolo di san Cutberto vescovo di Lindisfarne, attraversò il mare e dimorò in questa regione, assiduo nelle veglie e nei digiuni."
+            },
+            {
+                "nome": "San Giovanni, detto Xenos",
+                "martirologio": "A Nazogírea nell’isola di Creta, san Giovanni, detto Xenos, che diffuse nell’isola la vita monastica."
+            },
+            {
+                "nome": "San Pardolfo, abate",
+                "martirologio": "A Guéret nel territorio di Limoges in Aquitania, ora in francia, san Pardolfo, abate, che, noto per la sua santità di vita, si dice abbia messo in fuga dal suo chiostro i Saraceni sconfitti dal re Carlo Martello."
+            },
+            {
+                "nome": "Beato Adalberone, vescovo",
+                "martirologio": "A Lambach in Baviera, nell’odierna Austria, transito del beato Adalberone, vescovo di Würzburg, che, patite molte sofferenze da parte degli scismatici per aver difeso la Sede Apostolica e cacciato per due volte dalla sua sede, passò gli ultimi anni della sua vita in pace presso il monastero di Lambach da lui fondato."
+            },
+            {
+                "nome": "Sant’Artaldo, vescovo",
+                "martirologio": "Nella Certosa di Arvières da lui fondata nella Borgogna, in Francia, sant’Artaldo, vescovo di Belley, che, monaco già quasi nonagenario, fu eletto vescovo contro la sua volontà, ma dopo appena un biennio fece ritorno alla vita monastica e visse fino all’età di centosei anni."
+            },
+            {
+                "nome": "Santa Maria Francesca delle Piaghe del Signore nostro Gesù Cristo (Anna Maria) Gallo, vergine",
+                "martirologio": "A Napoli, santa Maria Francesca delle Piaghe del Signore nostro Gesù Cristo (Anna Maria) Gallo, vergine del Terz’Ordine Secolare di San Francesco, ammirevole per la pazienza di fronte alle innumerevoli e continue sofferenze e avversità, per le penitenze e per l’amore di Dio e delle anime."
+            },
+            {
+                "nome": "Beato Francesco Hunot, sacerdote e martire",
+                "martirologio": "Al largo di Rochefort in Francia, beato Francesco Hunot, sacerdote e martire, che, durante la persecuzione contro la Chiesa, fu rinchiuso a motivo del suo sacerdozio in una sordida galera, dove, assalito da febbre, rese lo spirito a Dio."
+            },
+            {
+                "nome": "Beata Maria Rosa (Eulalia) Durochet, vergine",
+                "martirologio": "In località Longueuil in Canada, beata Maria Rosa (Eulalia) Durochet, vergine, fondatrice della Congregazione delle Suore dei Santi Nomi di Gesù e Maria per la formazione umana e cristiana della gioventù femminile."
+            },
+            {
+                "nome": "San Francesco Tran Van Trung, martire",
+                "martirologio": "Presso la città di An-Hòa nell’antico An Nam, ora Viet Nam, san Francesco Tran Van Trung, martire, che, soldato, essendosi coraggiosamente rifiutato di rinnegare la fede cristiana, fu decapitato per ordine dell’imperatore Tu Duc."
+            },
+            {
+                "nome": "Beato Isidoro di San Giuseppe de Loor, religioso",
+                "martirologio": "A Cortryck in Belgio, beato Isidoro di San Giuseppe de Loor, religioso della Congregazione della Passione, che svolse santamente i compiti a lui affidati e, colpito dalla malattia, fu per i suoi confratelli un esempio di accettazione di atroci sofferenze."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Tutte le cose sono in tuo potere\ne nessuno può opporsi alla tua volontà.\nTu hai fatto il cielo e la terra\ne tutte le meraviglie che si trovano sotto il firmamento:\ntu sei il Signore di tutte le cose. (Cf. Est 4,17b-c)",
+        "colletta": "Dio onnipotente ed eterno,\nche esaudisci le preghiere del tuo popolo\noltre ogni desiderio e ogni merito,\neffondi su di noi la tua misericordia:\nperdona ciò che la coscienza teme\ne aggiungi ciò che la preghiera non osa sperare.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Dio si compiacque di rivelare in me il Figlio suo perché lo annunciassi in mezzo alle genti.\nDalla lettera di san Paolo apostolo ai Gàlati\nGal 1,13-24\n\nFratelli, voi avete certamente sentito parlare della mia condotta di un tempo nel giudaismo: perseguitavo ferocemente la Chiesa di Dio e la devastavo, superando nel giudaismo la maggior parte dei miei coetanei e connazionali, accanito com’ero nel sostenere le tradizioni dei padri.\nMa quando Dio, che mi scelse fin dal seno di mia madre e mi chiamò con la sua grazia, si compiacque di rivelare in me il Figlio suo perché lo annunciassi in mezzo alle genti, subito, senza chiedere consiglio a nessuno, senza andare a Gerusalemme da coloro che erano apostoli prima di me, mi recai in Arabia e poi ritornai a Damasco.\nIn seguito, tre anni dopo, salii a Gerusalemme per andare a conoscere Cefa e rimasi presso di lui quindici giorni; degli apostoli non vidi nessun altro, se non Giacomo, il fratello del Signore. In ciò che vi scrivo – lo dico davanti a Dio – non mentisco.\nPoi andai nelle regioni della Siria e della Cilìcia. Ma non ero personalmente conosciuto dalle Chiese della Giudea che sono in Cristo; avevano soltanto sentito dire: «Colui che una volta ci perseguitava, ora va annunciando la fede che un tempo voleva distruggere». E glorificavano Dio per causa mia.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 138 (139)\nR. Guidami, Signore, per una via di eternità.\n\nSignore, tu mi scruti e mi conosci,\ntu conosci quando mi siedo e quando mi alzo,\nintendi da lontano i miei pensieri,\nosservi il mio cammino e il mio riposo,\nti sono note tutte le mie vie. R.\n\nSei tu che hai formato i miei reni\ne mi hai tessuto nel grembo di mia madre.\nIo ti rendo grazie:\nhai fatto di me una meraviglia stupenda. R.\n\nMeravigliose sono le tue opere,\nle riconosce pienamente l’anima mia.\nNon ti erano nascoste le mie ossa\nquando venivo formato nel segreto,\nricamato nelle profondità della terra. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nBeati coloro che ascoltano la parola di Dio\ne la osservano. (Lc 11,28)\n\nAlleluia.",
+        "vangelo": "Marta lo ospitò. Maria ha scelto la parte migliore.\nDal Vangelo secondo Luca\nLc 10,38-42\n\nIn quel tempo, mentre erano in cammino, Gesù entrò in un villaggio e una donna, di nome Marta, lo ospitò.\nElla aveva una sorella, di nome Maria, la quale, seduta ai piedi del Signore, ascoltava la sua parola. Marta invece era distolta per i molti servizi.\nAllora si fece avanti e disse: «Signore, non t’importa nulla che mia sorella mi abbia lasciata sola a servire? Dille dunque che mi aiuti». Ma il Signore le rispose: «Marta, Marta, tu ti affanni e ti agiti per molte cose, ma di una cosa sola c’è bisogno. Maria ha scelto la parte migliore, che non le sarà tolta».\n\nParola del Signore.",
+        "sulle_offerte": "Accogli, o Signore, il sacrificio\nche tu stesso ci hai comandato di offrirti\ne per questi misteri che celebriamo con il nostro servizio sacerdotale\nporta a compimento la tua opera di santificazione.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Buono è il Signore con chi spera in lui,\ncon colui che lo cerca. (Lam 3,25)\n\nOppure:\n\nUno solo è il pane,\ne noi, pur essendo molti, siamo un corpo solo:\ntutti partecipiamo all’unico pane e all’unico calice. (Cf. 1Cor 10,17)",
+        "dopo_la_comunione": "Concedi a noi, Padre onnipotente,\nche, inebriati e nutriti da questi sacramenti,\nveniamo trasformati in Cristo\nche abbiamo ricevuto come cibo e bevanda di vita.\nEgli vive e regna nei secoli dei secoli."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

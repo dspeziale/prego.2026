@@ -1,0 +1,14 @@
+
+1. Prima i dati nuovi devono arrivare sul sito (l'app si sincronizza da prego.vercel.app):
+
+raccogli le giornate nuove in locale: menu Raccolta della webapp oppure python main.py --da 2026-12-01 --a 2026-12-31 (Vercel è in sola lettura, la raccolta si fa solo in locale);
+pubblica: vercel deploy --prod --yes --scope danieles-projects-f241dba0 dalla cartella del progetto. I nuovi JSON in data/json partono col deploy e il sito li mostra subito.
+2. Poi l'app si aggiorna da sola, o con un tocco:
+
+automaticamente: a ogni avvio, se c'è rete e l'ultima sincronizzazione ha più di 12 ore, l'app scarica in sottofondo le giornate nuove (vedi la barra rossa di avanzamento in alto);
+manualmente: pulsante ⟳ in basso a sinistra → "Scarica solo le novità" — scarica solo le giornate che mancano sul telefono, quindi è veloce.
+Due note utili:
+
+gli ultimi 7 giorni vengono comunque sempre riscaricati a ogni sincronizzazione, così se correggi qualcosa sulle giornate recenti (es. un Proprio o un Biennale appena inserito) l'app le riprende;
+se invece modifichi giornate più vecchie di una settimana già presenti sul telefono, usa "Riscarica tutto" dallo stesso pulsante ⟳ (più lento: riprende tutte le 334+ giornate).
+Quindi il tuo flusso tipico a fine mese sarà: Raccolta → deploy → apri l'app (o ⟳ → novità).

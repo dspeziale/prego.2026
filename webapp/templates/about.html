@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+{% block title %}About — Prego{% endblock %}
+{% block page_title %}About{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+
+        <div class="card card-primary card-outline">
+            <div class="card-body text-center py-4">
+                <img src="{{ url_for('static', filename='icon-192.png') }}" alt="Prego"
+                    style="width: 84px; border-radius: 18px" class="mb-3">
+                <h3 class="mb-1" style="font-weight: 700">Prego</h3>
+                <p class="text-muted mb-1">
+                    La liturgia del giorno, ogni giorno, in un unico posto.
+                </p>
+                <span class="badge badge-secondary">Versione {{ app_version }}</span>
+            </div>
+        </div>
+
+        <div class="card card-outline card-primary">
+            <div class="card-header">
+                <h3 class="card-title section-title text-primary">Che cos'è</h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    <strong>Prego</strong> raccoglie e ripropone in forma
+                    leggibile i testi della liturgia cattolica di ogni giorno:
+                    la <strong>Messa</strong> con le sue letture, l'intera
+                    <strong>Liturgia delle Ore</strong> (Ufficio delle
+                    letture, Lodi, Ora media, Vespri e Compieta, comprese le
+                    ore vigiliari del sabato e della domenica) e il
+                    <strong>Santo del giorno</strong> con il Martirologio.
+                </p>
+                <p class="mb-0">
+                    Per ogni giornata sono indicati l'anno liturgico, il
+                    ciclo del lezionario, il tempo e la settimana, il grado
+                    della celebrazione, il colore liturgico e la settimana
+                    del salterio. Le letture patristiche del ciclo biennale e
+                    il Proprio dei santi possono integrare l'Ufficio.
+                </p>
+            </div>
+        </div>
+
+        <div class="card card-outline card-primary">
+            <div class="card-header">
+                <h3 class="card-title section-title text-primary">Come usarlo</h3>
+            </div>
+            <div class="card-body">
+                <ul class="mb-0 pl-3">
+                    <li>All'apertura trovi la liturgia di <strong>oggi</strong>,
+                        con la scheda <em>Giorno</em> già selezionata.</li>
+                    <li>Tocca la <strong>data in alto</strong> per saltare a
+                        un'altra giornata dal calendario.</li>
+                    <li>Il <strong>calendario mensile</strong> mostra per ogni
+                        giorno celebrazione e colore liturgico.</li>
+                    <li>I pulsanti <strong>A+ / A−</strong> in basso a destra
+                        regolano la dimensione del testo; la luna in alto
+                        attiva il <strong>tema scuro</strong>. Le preferenze
+                        vengono ricordate.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="card card-outline card-primary">
+            <div class="card-header">
+                <h3 class="card-title section-title text-primary">Fonti</h3>
+            </div>
+            <div class="card-body">
+                <p class="mb-0">
+                    I testi liturgici provengono dal sito della
+                    <a href="https://www.chiesacattolica.it" target="_blank" rel="noopener">Conferenza Episcopale
+                        Italiana</a>
+                    (chiesacattolica.it), cui appartengono i relativi diritti.
+                    Questo sito è un progetto personale senza fini di lucro,
+                    pensato per la preghiera quotidiana.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

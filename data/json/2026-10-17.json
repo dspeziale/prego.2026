@@ -1,0 +1,110 @@
+{
+    "data": "2026-10-17",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXVIII",
+    "celebrazione": "SANT'IGNAZIO DI ANTIOCHIA, VESCOVO E MARTIRE – MEMORIA",
+    "grado": "Memoria",
+    "colore": "Rosso",
+    "settimana_del_salterio": "IV",
+    "santo_del_giorno": "Sant'Ignazio d'Antiochia, vescovo e martire",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/c2b9e9fe-49cf-46b8-b4a5-b30fa1e2103d.jpeg",
+    "santo": {
+        "nome": "Sant'Ignazio d'Antiochia, vescovo e martire",
+        "martirologio": "Memoria di sant'Ignazio, vescovo e martire, che, discepolo di san Giovanni Apostolo, resse per secondo dopo san Pietro la Chiesa di Antiochia.\nCondannato alle fiere sotto l'imperatore Traiano, fu portato a Roma e qui coronato da un glorioso martirio: durante il viaggio, mentre sperimentava la ferocia delle guardie, simile a quella dei leopardi, scrisse sette lettere a Chiese diverse, nelle quali esortava i fratelli a servire Dio in comunione con i vescovi e a non impedire che egli fosse immolato come vittima per Cristo.",
+        "altri_santi": [
+            {
+                "nome": "Sant’Osea, profeta",
+                "martirologio": "Commemorazione di sant’Osea, profeta, che, non solo con le parole, ma anche con la vita, mostrò all’infedele popolo di Israele il Signore come Sposo sempre fedele e mosso da infinita misericordia."
+            },
+            {
+                "nome": "Santi Rufo e Zosimo, martiri",
+                "martirologio": "Commemorazione dei santi Rufo e Zosimo, martiri, che il beato Policarpo associò nel martirio a sant’Ignazio, scrivendo ai Filippesi: «Essi condivisero la passione del Signore e non amarono il secolo presente, ma colui che per loro e per tutti è morto e risorto»."
+            },
+            {
+                "nome": "Santi martiri Volitani",
+                "martirologio": "In Africa proconsolare, nell’odierna Tunisia, santi martiri Volitani, che sant’Agostino celebrò in un suo sermone."
+            },
+            {
+                "nome": "San Giovanni, eremita",
+                "martirologio": "Ad Asyut in Egitto, san Giovanni, eremita, che, tra i tanti segni di virtù, fu insigne anche per lo spirito di profezia."
+            },
+            {
+                "nome": "San Dulcedio, vescovo",
+                "martirologio": "Ad Agen in Aquitania, ora in Francia, san Dulcedio, vescovo, che difese tenacemente la fede cattolica contro l’eresia ariana."
+            },
+            {
+                "nome": "San Fiorenzo, vescovo",
+                "martirologio": "A Orange in Provenza in Francia, san Fiorenzo, vescovo."
+            },
+            {
+                "nome": "Beato Gilberto, abate di Cîteaux",
+                "martirologio": "A Tolosa sempre in Francia, anniversario della morte del beato Gilberto, abate di Cîteaux, che, di origine inglese, fu uomo di alta scienza e difese san Tommaso Beckett in esilio."
+            },
+            {
+                "nome": "Beato Baldassarre da Chiavari Ravaschieri, sacerdote",
+                "martirologio": "A Binasco in Lombardia, beato Baldassarre da Chiavari Ravaschieri, sacerdote dell’Ordine dei Minori."
+            },
+            {
+                "nome": "San Riccardo Gwyn, martire",
+                "martirologio": "A Wrexham in Galles, san Riccardo Gwyn, martire, che, padre di famiglia e maestro di scuola, professò la fede cattolica e, arrestato per aver persuaso altri ad abbracciarla, dopo lunghi tormenti, invitto nella fede, fu impiccato sul patibolo e sventrato ancora vivo."
+            },
+            {
+                "nome": "Beato Pietro della Natività della Beata Vergine Maria Casani, sacerdote",
+                "martirologio": "A Roma, beato Pietro della Natività della Beata Vergine Maria Casani, sacerdote dell’Ordine dei Chierici regolari delle Scuole Pie, che mise le sue doti di natura e di grazia a servizio dell’istruzione dei fanciulli, lieto soltanto di servire Dio nei piccoli."
+            },
+            {
+                "nome": "Transito di S. Margherita Maria Alacoque, vergine",
+                "martirologio": "A Paray-le-Monial nel territorio di Autun in Francia, transito di santa Margherita Maria Alacoque, vergine, la cui memoria si celebra il giorno precedente a questo."
+            },
+            {
+                "nome": "Beato Giacomo Burin, sacerdote e martire",
+                "martirologio": "Nel territorio di Laval sempre in Francia, beato Giacomo Burin, sacerdote e martire, che si adoperò molto durante la rivoluzione francese nell’esercizio clandestino del minstero pastorale e, fuggendo di casa in casa dall’orda dei suoi persecutori, morì alla fine fucilato con il calice tra le mani."
+            },
+            {
+                "nome": "Beata Maria Natalia di San Luigi (Maria Luisa Giuseppa) Vanot e quattro compagne, vergini e martiri",
+                "martirologio": "A Valencienne ancora in Francia, beata Maria Natalia di San Luigi (Maria Luisa Giuseppa) Vanot e quattro compagne, vergini dell’Ordine delle Orsoline e martiri, che, condannate a morte durante la rivoluzione francese in odio alla fede cattolica, salirono il patibolo recitando il salmo Miserere.\n\nI loro nomi sono: Maria Lorenzina di San Stanislao (Giovanna Regina) Prin, Maria Orsola di San Bernardino (Giacinta Agostina Gabriella) Bourla, Maria Luisa di San Francesco (Maria Genoveffa) Ducrez e Maria Agostina del Sacro Cuore di Gesù (Maria Maddalena) Déjardin."
+            },
+            {
+                "nome": "Sant’Isidoro Gagelin, sacerdote",
+                "martirologio": "A Huê nell’antico An Nam, ora Viet Nam, sant’Isidoro Gagelin, sacerdote della Società per le Missioni Estere di Parigi e martire, strangolato per Cristo sotto l’imperatore Minh Mang."
+            },
+            {
+                "nome": "Beato Contardo Ferrini",
+                "martirologio": "A Suna presso il lago Maggiore, beato Contardo Ferrini, che, nell’educare i giovani, con il suo esempio di fede e di vita cristiana andò ben oltre la scienza umana."
+            },
+            {
+                "nome": "Beato Fedele Fuidio Rodríguez, religioso",
+                "martirologio": "A Ciudad Real in Spagna, beato Fedele Fuidio Rodríguez, religioso della Società di Maria e martire, che, in tempo di persecuzione contro la fede, fucilato passò al Signore."
+            },
+            {
+                "nome": "Beato Raimondo Stefano Bou Pascual, sacerdote e martire",
+                "martirologio": "In località La Nucía vicino ad Alicante sempre in Spagna, beato Raimondo Stefano Bou Pascual, sacerdote e martire, che, durante la stessa persecuzione, come un fedele discepolo, meritò la salvezza nel sangue di Cristo."
+            },
+            {
+                "nome": "Beata Tarsilla Córdoba Belda, martire",
+                "martirologio": "Nella città di Algemesí nel territorio di Valencia ancora in Spagna, beata Tarsilla Córdoba Belda, martire, che, madre di famiglia, sempre nella stessa persecuzione fu accolta da Cristo nella gloria."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Sono stato crocifisso con Cristo, e non vivo più io, ma Cristo vive in me.\nVivo nella fede del Figlio di Dio, che mi ha amato\ne ha consegnato se stesso per me. (Gal 2,19-20)",
+        "colletta": "Dio onnipotente ed eterno,\nche nella testimonianza dei santi martiri\nedifichi il corpo mistico della tua Chiesa,\nfa’ che la gloriosa passione,\nche meritò a sant’Ignazio una corona immortale,\ndoni a noi protezione perenne.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Dio ha dato Cristo alla Chiesa come capo su tutte le cose: essa è il corpo di lui.\nDalla lettera di san Paolo apostolo agli Efesìni\nEf 1,15-23\n\nFratelli, avendo avuto notizia della vostra fede nel Signore Gesù e dell’amore che avete verso tutti i santi, continuamente rendo grazie per voi ricordandovi nelle mie preghiere, affinché il Dio del Signore nostro Gesù Cristo, il Padre della gloria, vi dia uno spirito di sapienza e di rivelazione per una profonda conoscenza di lui; illumini gli occhi del vostro cuore per farvi comprendere a quale speranza vi ha chiamati, quale tesoro di gloria racchiude la sua eredità fra i santi e qual è la straordinaria grandezza della sua potenza verso di noi, che crediamo, secondo l’efficacia della sua forza e del suo vigore.\nEgli la manifestò in Cristo,\nquando lo risuscitò dai morti\ne lo fece sedere alla sua destra nei cieli,\nal di sopra di ogni Principato e Potenza,\nal di sopra di ogni Forza e Dominazione\ne di ogni nome che viene nominato\nnon solo nel tempo presente ma anche in quello futuro.\nTutto infatti egli ha messo sotto i suoi piedi\ne lo ha dato alla Chiesa come capo su tutte le cose:\nessa è il corpo di lui,\nla pienezza di colui che è il perfetto compimento\ndi tutte le cose.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 8\nR. Hai posto il tuo Figlio sopra ogni cosa.\n\nO Signore, Signore nostro,\nquanto è mirabile il tuo nome su tutta la terra!\nVoglio innalzare sopra i cieli la tua magnificenza,\ncon la bocca di bambini e di lattanti. R.\n\nQuando vedo i tuoi cieli, opera delle tue dita,\nla luna e le stelle che tu hai fissato,\nche cosa è mai l’uomo perché di lui ti ricordi,\nil figlio dell’uomo, perché te ne curi? R.\n\nDavvero l’hai fatto poco meno di un dio,\ndi gloria e di onore lo hai coronato.\nGli hai dato potere sulle opere delle tue mani,\ntutto hai posto sotto i suoi piedi. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nLo Spirito della verità darà testimonianza di me,\ndice il Signore,\ne anche voi date testimonianza. (Gv 15,26b.27a)\n\nAlleluia.",
+        "vangelo": "Lo Spirito Santo vi insegnerà in quel momento ciò che bisogna dire.\nDal Vangelo secondo Luca\nLc 12,8-12\n\nIn quel tempo, Gesù disse ai suoi discepoli:\n«Io vi dico: chiunque mi riconoscerà davanti agli uomini, anche il Figlio dell’uomo lo riconoscerà davanti agli angeli di Dio; ma chi mi rinnegherà davanti agli uomini, sarà rinnegato davanti agli angeli di Dio.\nChiunque parlerà contro il Figlio dell’uomo, gli sarà perdonato; ma a chi bestemmierà lo Spirito Santo, non sarà perdonato.\nQuando vi porteranno davanti alle sinagoghe, ai magistrati e alle autorità, non preoccupatevi di come o di che cosa discolparvi, o di che cosa dire, perché lo Spirito Santo vi insegnerà in quel momento ciò che bisogna dire».\n\nParola del Signore.",
+        "sulle_offerte": "O Padre, gradisci l’offerta del nostro servizio sacerdotale\ncome hai accolto sant’Ignazio,\nfrumento di Cristo macinato nel martirio\nper formare per te un pane puro.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Sono frumento di Cristo: che io sia macinato dai denti delle belve\nper diventare pane puro e santo.",
+        "dopo_la_comunione": "Ci sostenga e ci rinnovi, o Signore,\nil pane celeste che abbiamo ricevuto\nnel giorno della nascita al cielo di sant’Ignazio,\ne ci renda veri cristiani, nel nome e nelle opere.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

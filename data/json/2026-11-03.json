@@ -1,0 +1,92 @@
+{
+    "data": "2026-11-03",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": "A",
+    "ciclo_biennale": "II",
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXI",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Verde",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "San Martino de Porres, religioso",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/ac06b0c4-6fc2-4c3b-84de-1c813f3de6b0.jpeg",
+    "santo": {
+        "nome": "San Martino de Porres, religioso",
+        "martirologio": "San Martino de Porres, religioso dell’Ordine dei Predicatori: figlio di uno spagnolo e di una donna nera, fin dalla fanciullezza, sia pure tra le difficoltà derivanti dalla sua condizione di figlio illegittimo e di meticcio, apprese la professione di medico, che in seguito, diventato religioso, esercitò con abnegazione a Lima in Perù tra i poveri e, dedito a digiuni, alla penitenza e alla preghiera, condusse un’esistenza di semplicità e umiltà, irradiata dall’amore.",
+        "altri_santi": [
+            {
+                "nome": "Santi Germano, Teofilo e Cirillo, martiri",
+                "martirologio": "A Cesarea in Cappadocia, nell’odierna Turchia, santi Germano, Teofilo e Cirillo, martiri."
+            },
+            {
+                "nome": "San Libertino, vescovo e martire",
+                "martirologio": "Ad Agrigento, san Libertino, vescovo e martire."
+            },
+            {
+                "nome": "San Pápulo, venerato come martire",
+                "martirologio": "Nel territorio di Lauragais nella Gallia narbonense, ora in Francia, san Pápulo, venerato come martire."
+            },
+            {
+                "nome": "Santi Valentino, sacerdote, e Ilario, diacono, martiri",
+                "martirologio": "A Viterbo, santi Valentino, sacerdote, e Ilario, diacono, martiri."
+            },
+            {
+                "nome": "San Guenaele, ritenuto abate di Landévennec",
+                "martirologio": "Nella Bretagna in Francia, san Guenaele, ritenuto abate di Landévennec."
+            },
+            {
+                "nome": "Santa Silvia",
+                "martirologio": "A Roma, commemorazione di santa Silvia, madre del papa san Gregorio Magno, che, secondo quanto lo stesso Pontefice riferì nei suoi scritti, raggiunse il vertice della vita di preghiera e di penitenza e fu per il prossimo un eccelso esempio."
+            },
+            {
+                "nome": "San Pirmino, vescovo e abate",
+                "martirologio": "Nel monastero di Hornbach presso Strasburgo in Borgogna, deposizione di san Pirmino, vescovo e abate di Reichenau, che evangelizzò gli Alamanni e i Bavari, fondò molti monasteri e scrisse un libro per i suoi discepoli sulla catechesi degli incolti."
+            },
+            {
+                "nome": "San Giovannicio, monaco",
+                "martirologio": "Nel monastero di Antídion in Bitinia, nell’odierna Turchia, san Giovannicio, monaco, che, lasciato l’esercito dopo più di venti anni di servizio, si diede a vita solitaria su vari pendii dell’Olimpo, terminando di solito la preghiera con le parole: «Dio, mia speranza; Cristo, mio rifugio; Spirito\nSanto, mio protettore»."
+            },
+            {
+                "nome": "Santa Odrada, vergine",
+                "martirologio": "Ad Alem nelle Fiandre, nell’odierna Olanda, deposizione di santa Odrada, vergine."
+            },
+            {
+                "nome": "Sant’Ermengaudio, vescovo",
+                "martirologio": "A Urgell nella Catalogna in Spagna, sant’Ermengaudio, vescovo, che fu uno degli illustri presuli che si adoperarono per ristabilire la Chiesa nelle terre liberate dal giogo dei Mori e, precipitato a terra mentre lavorava con le sue proprie mani alla costruzione di un ponte, morì fratturandosi il capo sulle pietre."
+            },
+            {
+                "nome": "San Berardo, vescovo",
+                "martirologio": "Nella Marsica in Abruzzo, san Berardo, vescovo, che si distinse nella lotta contro la simonia, nell’opera di rinnovamento della disciplina del clero e nelle attività di sostegno e protezione dei poveri."
+            },
+            {
+                "nome": "Beata Alpáide, vergine",
+                "martirologio": "A Cudot nel territorio di Sens in Francia, beata Alpáide, vergine, che, crudelmente percossa e abbandonata dai suoi genitori da bambina, visse poi reclusa in una piccola cella fino ad avanzata vecchiaia."
+            },
+            {
+                "nome": "Santa Idda, monaca di clausura",
+                "martirologio": "Presso il monastero di Fischingen nel territorio dell’odierna Svizzera, santa Idda, monaca di clausura."
+            },
+            {
+                "nome": "Beato Simone Balacchi, religioso",
+                "martirologio": "A Rimini in Romagna, beato Simone Balacchi, religioso dell’Ordine dei Predicatori, che condusse una vita tutta dedita al servizio dei fratelli, alla penitenza e alla preghiera."
+            },
+            {
+                "nome": "Morte di san Carlo Borromeo, vescovo",
+                "martirologio": "A Milano, anniversario della morte di san Carlo Borromeo, vescovo, la cui memoria si celebra domani."
+            },
+            {
+                "nome": "San Pietro Francesco Néron, sacerdote",
+                "martirologio": "Nella fortezza di Xã Doài nel Tonchino, ora Viet Nam, san Pietro Francesco Néron, sacerdote della Società per le Missioni Estere di Parigi e martire, che sotto l’imperatore Tu Duc visse per tre mesi rinchiuso in una stretta gabbia e, atrocemente percosso, rimase per tre settimane senza alcun alimento, portando infine a termine il suo martirio con la decapitazione."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}
