@@ -96,6 +96,13 @@
                                 <p>Mese corrente</p>
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a href="{{ url_for('app_page') }}"
+                                class="nav-link {% if request.endpoint and request.endpoint.startswith('app_') %}active{% endif %}">
+                                <i class="nav-icon fas fa-mobile-screen"></i>
+                                <p>Scarica l'app</p>
+                            </a>
+                        </li>
                         {% if current_user %}
                         <li class="nav-item">
                             <a href="{{ url_for('proprio_list') }}"
@@ -156,13 +163,6 @@
                         </li>
                         {% endfor %}
                         {% endif %}
-                        <li class="nav-item">
-                            <a href="{{ url_for('app_page') }}"
-                                class="nav-link {% if request.endpoint and request.endpoint.startswith('app_') %}active{% endif %}">
-                                <i class="nav-icon fas fa-mobile-screen"></i>
-                                <p>Scarica l'app</p>
-                            </a>
-                        </li>
                         {# About: sempre ultima voce #}
                         <li class="nav-item">
                             <a href="{{ url_for('about') }}"
