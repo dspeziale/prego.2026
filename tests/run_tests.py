@@ -120,8 +120,49 @@ def test_omelia() -> None:
           "nucleo celebrazione = San Benedetto")
 
 
+def test_amministrazione() -> None:
+    print("[amministrazione]")
+    from downloads import DownloadStore, describe
+    from app import create_app
+
+    check(describe("Mozilla/5.0 (Linux; Android 14) Chrome/126.0 Mobile")
+          == "Android · Chrome", "User-Agent Android riconosciuto")
+    # Edge e Opera si dichiarano anche Chrome: vince il marcatore proprio.
+    check(describe("Mozilla/5.0 (Windows NT 10.0) Chrome/126 Edg/126")
+          == "Windows · Edge", "Edge non scambiato per Chrome")
+    check(describe("") == "Sconosciuto", "User-Agent vuoto")
+
+    registro = Path(__file__).resolve().parent / "_registro_di_prova.jsonl"
+    registro.unlink(missing_ok=True)
+    store = DownloadStore(registro)
+    check(store.record("203.0.113.7", "Android Chrome/1", "Prego.apk"),
+          "download registrato")
+    check(store.record("203.0.113.7", "Firefox/1", "Prego.apk"),
+          "secondo download registrato")
+    entries = store.entries()
+    check(len(entries) == 2, "due righe nel registro")
+    riepilogo = DownloadStore.summary(entries)
+    check(riepilogo["totale"] == 2, "totale corretto")
+    check(riepilogo["indirizzi"] == 1, "indirizzi distinti contati una volta")
+
+    # In sola lettura non deve scrivere, ma non deve nemmeno fallire.
+    sola_lettura = DownloadStore(registro, read_only=True)
+    check(not sola_lettura.record("198.51.100.1", "Safari", "Prego.apk"),
+          "sola lettura: nessuna registrazione")
+    check(len(store.entries()) == 2, "sola lettura: registro invariato")
+    registro.unlink(missing_ok=True)
+
+    client = create_app().test_client()
+    check(client.get("/app").status_code == 200, "GET /app pubblica")
+    check(client.get("/admin").status_code == 302, "/admin protetta da login")
+    with client.session_transaction() as session:
+        session["user"] = "prova"
+    check(client.get("/admin").status_code == 200, "/admin con sessione")
+
+
 def main() -> int:
-    for test in (test_calendario, test_cleaner, test_webapp, test_omelia):
+    for test in (test_calendario, test_cleaner, test_webapp, test_omelia,
+                 test_amministrazione):
         test()
     print(f"\nTutti i test superati ({PASSED} controlli).")
     return 0

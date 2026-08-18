@@ -6,3 +6,6 @@ __pycache__/
 venv/
 
 .vercel
+
+# registro dei download: stato di runtime, non codice
+data/downloads.jsonl

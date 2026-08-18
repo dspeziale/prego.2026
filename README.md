@@ -204,7 +204,9 @@ webapp/                      interfaccia web Flask
     views_proprio.py         gestione Proprio
     views_biennale.py        gestione Biennale
     views_raccolta.py        raccolta via web
+    views_admin.py           amministrazione e download dell'app
     repository.py            lettura dati per le viste
+    downloads.py             registro dei download dell'APK
     proprio.py  biennale.py  runner.py  users.py  youtube.py
     templates/               pagine Jinja (AdminLTE)
 static/                      icona, css/prego.css, js/prego.js
@@ -213,6 +215,8 @@ data/                        dati (non toccare a mano)
     json/                    metadati per giornata (YYYY-MM-DD.json)
     proprio/                 Proprio dei santi (GG-MM.json)
     biennale/                lezionario biennale (slug.json)
+    app/Prego.apk            APK pubblicato dal sito
+    downloads.jsonl          registro dei download (non versionato)
 tests/run_tests.py           smoke test eseguibili
 ```
 
@@ -296,6 +300,35 @@ in `data/proprio/<giorno>-<mese>.json` (es. `data/proprio/21-01.json`):
 ```
 
 L'elenco consente modifica (form precompilata) ed eliminazione.
+
+## Amministrazione e distribuzione dell'app
+
+Il sito pubblica l'APK Android e tiene traccia di chi lo scarica.
+
+* **`/app`** — pagina pubblica di presentazione, con il pulsante di
+  download e le istruzioni di installazione. L'APK servito è
+  `data/app/Prego.apk` (in locale, se manca, si ripiega su
+  `android/Prego-debug.apk`, che però il deploy esclude).
+* **`/app/scarica`** — consegna il file e annota data e ora, indirizzo
+  IP, User-Agent e nome del file in `data/downloads.jsonl`, una riga
+  JSON per download. Dietro il proxy di Vercel l'indirizzo vero è il
+  primo di `X-Forwarded-For`, non `remote_addr`.
+* **`/admin`** — cruscotto riservato agli utenti abilitati: download
+  totali, indirizzi distinti, download di oggi, ultimo download,
+  andamento degli ultimi 14 giorni, elenco completo con dispositivo
+  dedotto dallo User-Agent, più lo stato dell'archivio e del sistema.
+
+> **Limite su Vercel**: il filesystem è in sola lettura, quindi in
+> produzione il registro **non** si popola. I download vengono comunque
+> scritti nel log della funzione con il prefisso `DOWNLOAD` e la riga
+> JSON completa, recuperabile dalla dashboard Vercel; la pagina di
+> amministrazione lo segnala invece di mostrare un elenco vuoto senza
+> spiegazioni. Per un conteggio vero serve un archivio esterno al
+> filesystem (Vercel KV, Postgres o simili).
+
+Per pubblicare una nuova versione dell'app: costruire l'APK
+(`cd android && ./gradlew assembleDebug`), copiarlo in
+`data/app/Prego.apk` e rifare il deploy.
 
 ## Deploy su Vercel
 

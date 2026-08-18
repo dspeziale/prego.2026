@@ -17,12 +17,14 @@ from typing import Optional, Tuple
 
 from flask import Flask, flash, redirect, request, session, url_for
 
+import views_admin
 import views_auth
 import views_biennale
 import views_core
 import views_proprio
 import views_raccolta
 from biennale import BiennaleStore
+from downloads import DownloadStore
 from proprio import ProprioStore
 from repository import MONTHS_IT, WEEKDAYS_SHORT_IT, LiturgiaRepository
 from runner import CollectorRunner
@@ -78,6 +80,17 @@ def create_app(output_dir: Optional[Path] = None,
         os.environ.get("YOUTUBE_API_KEY")
         or values.get("youtube_api_key", "")
     )
+    download_store = DownloadStore(
+        PROJECT_ROOT / values.get("downloads_log", "data/downloads.jsonl"),
+        read_only=READ_ONLY,
+    )
+    # La cartella android/ è esclusa dal deploy, quindi l'APK pubblicato
+    # è quello in data/app/; il secondo percorso vale in locale, dove si
+    # può servire direttamente l'ultimo APK costruito.
+    apk_paths = (
+        PROJECT_ROOT / values.get("apk", "data/app/Prego.apk"),
+        PROJECT_ROOT / "android" / "Prego-debug.apk",
+    )
     repository = LiturgiaRepository(
         output_dir or default_output,
         json_dir or default_json,
@@ -127,6 +140,9 @@ def create_app(output_dir: Optional[Path] = None,
                             reject_if_read_only)
     views_raccolta.register(app, collector_runner, login_required,
                             reject_if_read_only)
+    views_admin.register(app, download_store, apk_paths, repository,
+                         proprio_store, biennale_store, user_store,
+                         login_required, values.get("version", "1.0"))
     return app
 
 

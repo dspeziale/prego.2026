@@ -1,0 +1,231 @@
+{% extends "base.html" %}
+{% block title %}Amministrazione — Prego{% endblock %}
+{% block page_title %}Amministrazione{% endblock %}
+
+{% block header_actions %}
+<a class="btn btn-outline-primary" href="{{ url_for('app_page') }}">
+    <i class="fas fa-mobile-screen"></i> Pagina di download
+</a>
+{% endblock %}
+
+{% block content %}
+
+{% if not registrazione_attiva %}
+<div class="alert alert-warning">
+    <h5><i class="fas fa-triangle-exclamation"></i> Registrazione sospesa</h5>
+    Il deploy è in <strong>sola lettura</strong>, quindi i nuovi download
+    non finiscono nel registro: qui sotto c'è solo lo storico già presente
+    nel file al momento del deploy. I download continuano però a essere
+    scritti nel log del server, con il prefisso <code>DOWNLOAD</code>. Per
+    contarli qui serve un archivio esterno al filesystem.
+</div>
+{% endif %}
+
+<div class="row">
+    <div class="col-6 col-lg-3">
+        <div class="small-box bg-primary">
+            <div class="inner">
+                <h3>{{ riepilogo.totale }}</h3>
+                <p>Download totali</p>
+            </div>
+            <div class="icon"><i class="fas fa-download"></i></div>
+        </div>
+    </div>
+    <div class="col-6 col-lg-3">
+        <div class="small-box bg-info">
+            <div class="inner">
+                <h3>{{ riepilogo.indirizzi }}</h3>
+                <p>Indirizzi distinti</p>
+            </div>
+            <div class="icon"><i class="fas fa-user-group"></i></div>
+        </div>
+    </div>
+    <div class="col-6 col-lg-3">
+        <div class="small-box bg-success">
+            <div class="inner">
+                <h3>{{ riepilogo.oggi }}</h3>
+                <p>Scaricati oggi</p>
+            </div>
+            <div class="icon"><i class="fas fa-calendar-day"></i></div>
+        </div>
+    </div>
+    <div class="col-6 col-lg-3">
+        <div class="small-box bg-secondary">
+            <div class="inner">
+                <h3 style="font-size:1.4rem;padding-top:.6rem">
+                    {% if riepilogo.ultimo %}
+                        {{ riepilogo.ultimo[8:10] }}/{{ riepilogo.ultimo[5:7] }}
+                        {{ riepilogo.ultimo[11:16] }}
+                    {% else %}—{% endif %}
+                </h3>
+                <p>Ultimo download</p>
+            </div>
+            <div class="icon"><i class="fas fa-clock"></i></div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-8">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Chi ha scaricato l'app</h3>
+            </div>
+            <div class="card-body table-responsive p-0" style="max-height:520px">
+                <table class="table table-hover table-sm">
+                    <thead>
+                        <tr>
+                            <th>Quando</th>
+                            <th>Indirizzo</th>
+                            <th class="d-none d-md-table-cell">Dispositivo</th>
+                            <th class="d-none d-lg-table-cell">File</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    {% for row in downloads %}
+                        <tr>
+                            <td class="text-nowrap">
+                                {{ row.quando[8:10] }}/{{ row.quando[5:7] }}/{{ row.quando[0:4] }}
+                                <span class="text-muted">{{ row.quando[11:16] }}</span>
+                            </td>
+                            <td class="text-nowrap">{{ row.ip or "—" }}</td>
+                            <td class="d-none d-md-table-cell"
+                                title="{{ row.user_agent }}">{{ row.dispositivo }}</td>
+                            <td class="d-none d-lg-table-cell text-muted">{{ row.file }}</td>
+                        </tr>
+                    {% else %}
+                        <tr><td colspan="4" class="text-center text-muted p-4">
+                            Nessun download registrato finora.
+                        </td></tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        {% if riepilogo.per_giorno %}
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Ultimi giorni</h3>
+            </div>
+            <div class="card-body">
+                {% for giorno, quanti in riepilogo.per_giorno %}
+                <div class="d-flex align-items-center mb-1">
+                    <span class="text-muted text-nowrap mr-2"
+                          style="width:5.5rem">{{ giorno[8:10] }}/{{ giorno[5:7] }}</span>
+                    <div class="progress flex-grow-1" style="height:1rem">
+                        <div class="progress-bar bg-primary"
+                             style="width: {{ (100 * quanti / riepilogo.massimo_giornaliero) | round }}%"></div>
+                    </div>
+                    <span class="ml-2" style="width:2.5rem">{{ quanti }}</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+    </div>
+
+    <div class="col-lg-4">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">App pubblicata</h3>
+            </div>
+            <div class="card-body">
+                {% if apk %}
+                <dl class="mb-0">
+                    <dt>File</dt><dd>{{ apk.nome }}</dd>
+                    <dt>Dimensione</dt><dd>{{ apk.mb }} MB</dd>
+                    <dt>Aggiornato</dt>
+                    <dd>{{ apk.aggiornato.strftime("%d/%m/%Y") }}</dd>
+                </dl>
+                {% else %}
+                <p class="text-muted mb-0">
+                    Nessun APK pubblicato: la pagina di download non offre
+                    il file.
+                </p>
+                {% endif %}
+            </div>
+        </div>
+
+        {% if riepilogo.dispositivi %}
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Dispositivi</h3>
+            </div>
+            <div class="card-body p-0">
+                <ul class="list-group list-group-flush">
+                {% for nome, quanti in riepilogo.dispositivi %}
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>{{ nome }}</span>
+                        <span class="badge badge-primary">{{ quanti }}</span>
+                    </li>
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+        {% endif %}
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Archivio</h3>
+            </div>
+            <div class="card-body p-0">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>Giornate raccolte</span>
+                        <span class="badge badge-primary">{{ archivio.giornate }}</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>Mesi</span>
+                        <span class="badge badge-primary">{{ archivio.mesi }}</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>Proprio</span>
+                        <span class="badge badge-primary">{{ archivio.proprio }}</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>Biennale</span>
+                        <span class="badge badge-primary">{{ archivio.biennale }}</span>
+                    </li>
+                    {% if archivio.prima %}
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>Periodo</span>
+                        <span class="text-muted">
+                            {{ archivio.prima.strftime("%d/%m/%Y") }} —
+                            {{ archivio.ultima.strftime("%d/%m/%Y") }}
+                        </span>
+                    </li>
+                    {% endif %}
+                </ul>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Sistema</h3>
+            </div>
+            <div class="card-body p-0">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>Versione</span>
+                        <span class="text-muted">{{ versione }}</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>Modalità</span>
+                        <span class="text-muted">
+                            {{ "Sola lettura" if read_only else "Scrittura" }}
+                        </span>
+                    </li>
+                    <li class="list-group-item">
+                        <div class="d-flex justify-content-between">
+                            <span>Utenti abilitati</span>
+                            <span class="badge badge-primary">{{ utenti | length }}</span>
+                        </div>
+                        <small class="text-muted">{{ utenti | join(", ") or "nessuno" }}</small>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

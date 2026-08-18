@@ -121,6 +121,15 @@
                             </a>
                         </li>
                         {% endif %}
+                        {% if current_user %}
+                        <li class="nav-item">
+                            <a href="{{ url_for('admin') }}"
+                                class="nav-link {% if request.endpoint == 'admin' %}active{% endif %}">
+                                <i class="nav-icon fas fa-gauge-high"></i>
+                                <p>Amministrazione</p>
+                            </a>
+                        </li>
+                        {% endif %}
                         <li class="nav-item">
                             {% if current_user %}
                             <a href="{{ url_for('logout') }}" class="nav-link">
@@ -147,6 +156,13 @@
                         </li>
                         {% endfor %}
                         {% endif %}
+                        <li class="nav-item">
+                            <a href="{{ url_for('app_page') }}"
+                                class="nav-link {% if request.endpoint and request.endpoint.startswith('app_') %}active{% endif %}">
+                                <i class="nav-icon fas fa-mobile-screen"></i>
+                                <p>Scarica l'app</p>
+                            </a>
+                        </li>
                         {# About: sempre ultima voce #}
                         <li class="nav-item">
                             <a href="{{ url_for('about') }}"
