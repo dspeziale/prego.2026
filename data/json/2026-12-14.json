@@ -1,0 +1,80 @@
+{
+    "data": "2026-12-14",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "III",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Viola",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "San Giovanni della Croce, presbitero e dottore della Chiesa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/1e70fe2d-f157-421d-aa4b-6a588203c454.jpeg",
+    "santo": {
+        "nome": "San Giovanni della Croce, presbitero e dottore della Chiesa",
+        "martirologio": "Memoria di san Giovanni della Croce, sacerdote dell'Ordine dei Carmelitani e dottore della Chiesa, che, su invito di santa Teresa di Gesù, fu il primo tra i frati ad aggregarsi alla riforma dell'Ordine, da lui sostenuta tra innumerevoli fatiche, opere e aspre tribolazioni. Come attestano i suoi scritti, ascese attraverso la notte oscura dell'anima alla montagna di Dio, cercando una vita di interiore nascondimento in Cristo e lasciandosi ardere dalla fiamma dell'amore di Dio. A Ubeda in Spagna riposò, infine, nel Signore.",
+        "altri_santi": [
+            {
+                "nome": "Santi Tirso, Leucio, Callinìco e compagni, martiri",
+                "martirologio": "Ad Apollonia in Bitinia, nell’odierna Turchia, santi Tirso, Leucio, Callinìco e compagni, martiri, che si tramanda abbiano subito la passione al tempo dell’imperatore Decio."
+            },
+            {
+                "nome": "Santi martiri Eróne, Atéo e Isidoro, con il piccolo Dióscoro",
+                "martirologio": "Ad Alessandria d’Egitto, commemorazione dei santi martiri Eróne, Atéo e Isidoro, con il piccolo Dióscoro di dodici anni, dei quali, durante la persecuzione di Decio, i primi tre furono mandati dal giudice al rogo, in quanto, pur dilaniati da vari supplizi, persistevano armati di invitta costanza nella fede; san Dioscoro, invece, dopo essere stato più volte fustigato, morì fatto a brandelli."
+            },
+            {
+                "nome": "Santa Dróside, martire",
+                "martirologio": "Ad Antiochia in Siria, santa Dróside, martire, che san Giovanni Crisostomo afferma sia stata arsa sul rogo."
+            },
+            {
+                "nome": "Santi Ares, Promo ed Elia, martiri",
+                "martirologio": "Ad Ascalona in Palestina, santi Ares, Promo ed Elia, martiri, che, volendo passare dall’Egitto in Cilicia per fare visita ai confessori di Cristo durante la persecuzione dell’imperatore Massimino e dare loro aiuto, furono arrestati a Cesarea, atrocemente privati degli occhi e mutilati dei piedi e poi condotti ad Ascalona, dove, per ordine del governatore Firmiliano, terminarono il loro martirio, Ares sul rogo, gli altri decapitati."
+            },
+            {
+                "nome": "San Pompeo, vescovo",
+                "martirologio": "A Pavia, san Pompeo, vescovo, che, successore di san Siro, dopo pochi e pacifici anni passò al Signore."
+            },
+            {
+                "nome": "San Nicasio, vescovo",
+                "martirologio": "A Reims nella Gallia belgica, nell’odierna Francia, passione di san Nicasio, vescovo, che insieme alla sorella Eutropia, vergine consacrata a Cristo, al diacono Fiorenzo e a Giocondo fu ucciso durante una incursione di alcuni pagani davanti alla porta della basilica da lui stesso fondata."
+            },
+            {
+                "nome": "Sant’Agnello, abate",
+                "martirologio": "A Napoli, sant’Agnello, abate del monastero di San Gaudioso."
+            },
+            {
+                "nome": "San Venanzio Fortunato, vescovo",
+                "martirologio": "A Poitiers in Aquitania, ora in Francia, san Venanzio Fortunato, vescovo, che narrò le gesta di molti santi e celebrò in eleganti inni la santa Croce."
+            },
+            {
+                "nome": "San Folcuino, vescovo",
+                "martirologio": "Nel territorio di Thérouanne nella Francia settentrionale, san Folcuino, vescovo."
+            },
+            {
+                "nome": "Beato Bonaventura da Pistoia, sacerdote",
+                "martirologio": "A Orvieto in Umbria, beato Bonaventura da Pistoia, sacerdote dell’Ordine dei Servi di Maria, che, mosso dalla predicazione di san Filippo Benizi, lo aiutò a ricomporre la pace tra le fazioni in molte città d’Italia."
+            },
+            {
+                "nome": "San Nimatullah al-Hardini (Giuseppe) Kassab, sacerdote",
+                "martirologio": "In località Klifane nel territorio libanese, san Nimatullah al-Hardini (Giuseppe) Kassab, sacerdote dell’Ordine Libanese Maronita, che, uomo insigne per spirito di preghiera e penitenza, attese all’insegnamento della teologia, all’educazione dei giovani e all’impegno pastorale."
+            },
+            {
+                "nome": "Beata Francesca Schervier, vergine",
+                "martirologio": "Ad Aachen in Germania, beata Francesca Schervier, vergine, che per lungo tempo si adoperò premurosamente in città per i poveri, i malati e gli afflitti e fondò la Congregazione delle Suore Povere di San Francesco per sovvenire alle necessità dei bisognosi."
+            },
+            {
+                "nome": "Beato Protasio (Antonio) Cubells Minguell, religioso",
+                "martirologio": "A Barcellona in Spagna, beato Protasio (Antonio) Cubells Minguell, religioso dell’Ordine di San Giovanni di Dio e martire, che, durante la persecuzione contro la Chiesa, fu ucciso in odio alla religione."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

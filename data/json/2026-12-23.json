@@ -1,0 +1,72 @@
+{
+    "data": "2026-12-23",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "IV",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Viola",
+    "settimana_del_salterio": "IV",
+    "santo_del_giorno": "San Giovanni da Kety, sacerdote",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/bb2121e6-0d10-435d-9b6e-bc6be03dece9.jpeg",
+    "santo": {
+        "nome": "San Giovanni da Kety, sacerdote",
+        "martirologio": "San Giovanni da Kety, sacerdote, che, ordinato sacerdote, insegnò per molti anni nell’Università di Cracovia. Ricevuto poi l’incarico della cura pastorale della parrocchia di Olkusz, aggiunse alle sue virtù la testimonianza di una fede retta e fu per i suoi collaboratori e i discepoli un modello di pietà e carità verso il prossimo. Nel giorno seguente a questo, a Cracovia in Polonia, passò ai celesti gaudi.",
+        "altri_santi": [
+            {
+                "nome": "Santi dieci martiri di Creta",
+                "martirologio": "A Górtina nell’isola di Creta, santi dieci martiri, Teodúlo, Saturnino, Eupóro, Gelasio, Euniciano, Zótico, Ponzio, Agatópo, Basílide ed Evaristo, che, durante la persecuzione dell’imperatore Decio, per essersi rifiutati pubblicamente di obbedire all’ordine di offrire sacrifici nel giorno della dedicazione del Tempio della Fortuna patirono i supplizi e morirono, infine, decapitati."
+            },
+            {
+                "nome": "San Sérvulo",
+                "martirologio": "A Roma, commemorazione di san Sérvulo, che, giacendo paralitico fin dall’infanzia sotto il portico della chiesa di San Clemente, cercò sempre, come scrive san Gregorio, sia pure nelle sofferenze, di rendere grazie a Dio e distribuì ai poveri tutto quello che raccoglieva dalle elemosine."
+            },
+            {
+                "nome": "Sant’Ivo, vescovo",
+                "martirologio": "A Chartres in Francia, sant’Ivo, vescovo, che ristabilì l’ordine dei canonici e molto operò e scrisse per promuovere la concordia tra il clero e il potere civile e per il bene della Chiesa."
+            },
+            {
+                "nome": "Beato Artmanno, vescovo",
+                "martirologio": "A Bressanone nell’Alto Adige, beato Artmanno, vescovo, che, già canonico regolare, governò questa Chiesa con saggezza e fedeltà."
+            },
+            {
+                "nome": "San Torlaco, vescovo",
+                "martirologio": "In Islanda, san Torlaco, vescovo di Skálholt, che si adoperò per il rinnovamento morale del clero e del popolo."
+            },
+            {
+                "nome": "San Giovanni Stone, sacerdote",
+                "martirologio": "A Canterbury in Inghilterra, commemorazione di san Giovanni Stone, sacerdote dell’Ordine dei Frati di Sant’Agostino e martire, che, strenuo difensore della fede cattolica, subì il martirio sul patibolo sotto il re Enrico VIII."
+            },
+            {
+                "nome": "Beato Nicola, detto il Fattore, sacerdote",
+                "martirologio": "A Valencia in Spagna, beato Nicola, detto il Fattore, sacerdote dell’Ordine dei Frati Minori, che, arso da fervido zelo per Dio, fu spesso rapito in estasi."
+            },
+            {
+                "nome": "Santa Maria Margherita d’Youville, religiosa",
+                "martirologio": "A Montréal in Canada, santa Maria Margherita d’Youville, religiosa, che, madre di famiglia, rimasta vedova, educò piamente due dei suoi figli sulla via del sacerdozio e si adoperò con tutte le forze per l’assistenza agli infermi, agli anziani e ai bisognosi di ogni genere, per i quali fondò la Congregazione delle Suore della carità."
+            },
+            {
+                "nome": "Beato Antonio di Sant’Anna Galvão de França, sacerdote",
+                "martirologio": "A San Paolo in Brasile, beato Antonio di Sant’Anna Galvão de França, sacerdote dell’Ordine dei Frati Minori, che si dedicò con frutto alla predicazione e al ministero della penitenza e fondò il “Ritiro della Luce”, in cui guidò una comunità di Suore sotto la sua esemplare direzione spirituale."
+            },
+            {
+                "nome": "San Giuseppe Cho Yun-ho, martire",
+                "martirologio": "Nel territorio di Tjyen-Tiyon in Corea, san Giuseppe Cho Yun-ho, martire, che, ancor giovane, seguendo le orme di suo padre san Pietro Cho Hwa-so, fu ucciso a bastonate per il nome di Cristo."
+            },
+            {
+                "nome": "Beato Paolo Meléndez Gonzalo, martire",
+                "martirologio": "Nel territorio di Valencia in Spagna, Paolo Meléndez Gonzalo, martire, che, padre di famiglia, durante la persecuzione contro la religione, uniformandosi in tutto all’esempio di Cristo, raggiunse per sua grazia il regno eterno."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

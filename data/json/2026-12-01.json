@@ -1,0 +1,90 @@
+{
+    "data": "2026-12-01",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "I",
+    "celebrazione": "MARTEDÌ DELLA I SETTIMANA DI AVVENTO",
+    "grado": "Feria",
+    "colore": "Viola",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "San Naum, profeta",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/61873f97-1960-4bf4-a1b3-c01a746705b4.jpeg",
+    "santo": {
+        "nome": "San Naum, profeta",
+        "martirologio": "Commemorazione di san Naum, profeta, il quale predicò che Dio regge il corso del tempo e giudica i popoli nella giustizia.",
+        "altri_santi": [
+            {
+                "nome": "San Castriziano, vescovo",
+                "martirologio": "A Milano, san Castriziano, vescovo."
+            },
+            {
+                "nome": "Santa Fiorenza, vergine",
+                "martirologio": "A Poitiers in Aquitania, ora in Francia, santa Fiorenza, vergine, che, convertita al vero Dio dal vescovo sant’Ilario esiliato nella provincia d’Asia, lo seguì al suo ritorno in patria."
+            },
+            {
+                "nome": "San Leonzio, vescovo",
+                "martirologio": "A Fréjus nella Provenza sempre in Francia, san Leonzio, vescovo, che appoggiò l’istituzione monastica di sant’Onorato nell’isola di Lérins; a lui san Giovanni Cassiano, suo amico, dedicò le sue dieci prime Conferenze."
+            },
+            {
+                "nome": "San Donnólo, vescovo",
+                "martirologio": "A Le Mans in Neustria, ora in Francia, san Donnólo, vescovo, già abate del monastero di San Lorenzo a Parigi, insigne per i suoi miracoli."
+            },
+            {
+                "nome": "Sant’Ageríco, vescovo",
+                "martirologio": "Presso Verdun in Austrasia, nel territorio dell’odierna Francia, sant'Ageríco, vescovo, che costruì chiese e battisteri e patì molto da parte del re Teodorico per aver fatto della sua chiesa un luogo di asilo per i fuggitivi."
+            },
+            {
+                "nome": "Sant’Eligio, vescovo",
+                "martirologio": "A Noyon in Neustria, ora in Francia, sant’Eligio, vescovo, che, orefice e consigliere del re Dagoberto, dopo aver contribuito alla fondazione di molti monasteri e costruito edifici sepolcrali di insigne arte e bellezza in onore dei santi, fu elevato alla sede di Noyon e Tournai, dove attese con zelo al lavoro apostolico."
+            },
+            {
+                "nome": "Beato Antonio Bonfadini, sacerdote",
+                "martirologio": "Nella cittadina di Cotignola in Emilia, beato Antonio Bonfadini, sacerdote dell’Ordine dei Minori, che percorse a lungo molte regioni d’Italia e luoghi della Terra Santa attendendo alla predicazione della parola di Dio."
+            },
+            {
+                "nome": "Beato Giovanni Beche, sacerdote",
+                "martirologio": "A Colchester in Inghilterra, beato Giovanni Beche, sacerdote dell’Ordine di San Benedetto e martire, che, abate del monastero di San Giovanni, fu condannato a morte e consegnato al patibolo sotto il re Enrico VIII con il pretesto del reato di tradimento, ma di fatto per aver mantenuto la fedeltà al Romano Pontefice."
+            },
+            {
+                "nome": "Santi Edmondo Campion, Rodolfo Sherwin e Alessandro Briant, sacerdoti e martiri",
+                "martirologio": "A Londra sempre in Inghilterra, santi Edmondo Campion, Rodolfo Sherwin e Alessandro Briant, sacerdoti e martiri sotto la regina Elisabetta I, insigni per ingegno e fortezza nella fede.\nSant’Edmondo, che fin da giovane aveva fatto professione di fede cattolica, ammesso a Roma nella Compagnia di Gesù e ordinato sacerdote a Praga, tornò in patria, dove, per essersi adoperato nel confortare gli animi dei fedeli con la sua parola e i suoi scritti, fu ucciso, dopo molti tormenti, a Tyburn.\nInsieme a lui subirono gli stessi supplizi i santi Rodolfo e Alessandro, il secondo dei quali ottenne in carcere di essere ammesso nella Compagnia di Gesù."
+            },
+            {
+                "nome": "Beato Riccardo Langley, martire",
+                "martirologio": "A York ancora in Inghilterra, beato Riccardo Langley, martire, che, sotto la stessa regina Elisabetta, fu condannato a morte e impiccato per aver dato ospitalità ad alcuni sacerdoti."
+            },
+            {
+                "nome": "Beato Casimiro Sykulski, sacerdote e martire",
+                "martirologio": "Nel campo di sterminio di Auschwitz vicino a Cracovia in Polonia, beato Casimiro Sykulski, sacerdote e martire, che fu fucilato durante la guerra davanti ai persecutori della Chiesa di Dio per aver custodito con fermezza la propria fede."
+            },
+            {
+                "nome": "Beata Liduina (Elisa Angela) Meneguzzi, vergine",
+                "martirologio": "Nella città di Dire Dawa in Etiopia, beata Liduina (Elisa Angela) Meneguzzi, vergine dell’Istituto di San Francesco di Sales, che, divenuta autentico specchio di umiltà e di carità cristiana, rese manifesta con la sua benignità la misericordia di Dio tra i poveri, i malati e i prigionieri."
+            },
+            {
+                "nome": "Beata Clementina Nengapeta Anuarite, vergine",
+                "martirologio": "A Isiro nella regione interna della Repubblica Popolare del Congo, beata Clementina Nengapeta Anuarite, vergine della Congregazione delle Suore della Sacra Famiglia e martire, che, arrestata durante la persecuzione nel corso della guerra civile insieme ad altre religiose, le esortò alle veglie e alla preghiera e, respingendo con grande forza i lascivi desideri del comandante dei soldati, fu da costui uccisa per Cristo Sposo in un eccesso di collera."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Ecco, il Signore verrà\ne con lui tutti i suoi santi:\nin quel giorno risplenderà una grande luce. (Cf. Zc 14,5.7)",
+        "colletta": "Accogli, o Padre,\nle preghiere della tua Chiesa\ne soccorrici nelle fatiche e nelle prove della vita;\nla venuta di Cristo tuo Figlio\nci liberi dal male antico che è in noi\ne ci conforti con la sua presenza.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Su di lui si poserà lo spirito del Signore.\nDal libro del profeta Isaìa\nIs 11,1-10\n\nIn quel giorno,\nun germoglio spunterà dal tronco di Iesse,\nun virgulto germoglierà dalle sue radici.\nSu di lui si poserà lo spirito del Signore,\nspirito di sapienza e d'intelligenza,\nspirito di consiglio e di fortezza,\nspirito di conoscenza e di timore del Signore.\nSi compiacerà del timore del Signore.\nNon giudicherà secondo le apparenze\ne non prenderà decisioni per sentito dire;\nma giudicherà con giustizia i miseri\ne prenderà decisioni eque per gli umili della terra.\nPercuoterà il violento con la verga della sua bocca,\ncon il soffio delle sue labbra ucciderà l'empio.\nLa giustizia sarà fascia dei suoi lombi\ne la fedeltà cintura dei suoi fianchi.\nIl lupo dimorerà insieme con l'agnello;\nil leopardo si sdraierà accanto al capretto;\nil vitello e il leoncello pascoleranno insieme\ne un piccolo fanciullo li guiderà.\nLa mucca e l'orsa pascoleranno insieme;\ni loro piccoli si sdraieranno insieme.\nIl leone si ciberà di paglia, come il bue.\nIl lattante si trastullerà sulla buca della vipera;\nil bambino metterà la mano nel covo del serpente velenoso.\nNon agiranno più iniquamente né saccheggeranno\nin tutto il mio santo monte,\nperché la conoscenza del Signore riempirà la terra\ncome le acque ricoprono il mare.\nIn quel giorno avverrà\nche la radice di Iesse sarà un vessillo per i popoli.\nLe nazioni la cercheranno con ansia.\nLa sua dimora sarà gloriosa.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 71 (72)\nR. Nei suoi giorni fioriranno giustizia e pace.\nOppure:\nR. Vieni, Signore, re di giustizia e di pace.\n\nO Dio, affida al re il tuo diritto,\nal figlio di re la tua giustizia;\negli giudichi il tuo popolo secondo giustizia\ne i tuoi poveri secondo il diritto. R.\n\nNei suoi giorni fiorisca il giusto\ne abbondi la pace,\nfinché non si spenga la luna.\nE dòmini da mare a mare,\ndal fiume sino ai confini della terra. R.\n\nPerché egli libererà il misero che invoca\ne il povero che non trova aiuto.\nAbbia pietà del debole e del misero\ne salvi la vita dei miseri. R.\n\nIl suo nome duri in eterno,\ndavanti al sole germogli il suo nome.\nIn lui siano benedette tutte le stirpi della terra\ne tutte le genti lo dicano beato. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nEcco, viene il Signore nostro Dio con potenza grande,\nilluminerà gli occhi dei suoi servi.\n\nAlleluia.",
+        "vangelo": "Gesù esultò nello Spirito Santo.\nDal Vangelo secondo Luca\nLc 10,21-24\n\nIn quella stessa ora Gesù esultò di gioia nello Spirito Santo e disse: «Ti rendo lode, o Padre, Signore del cielo e della terra, perché hai nascosto queste cose ai sapienti e ai dotti e le hai rivelate ai piccoli. Sì, o Padre, perché così hai deciso nella tua benevolenza. Tutto è stato dato a me dal Padre mio e nessuno sa chi è il Figlio se non il Padre, né chi è il Padre se non il Figlio e colui al quale il Figlio vorrà rivelarlo».\nE, rivolto ai discepoli, in disparte, disse: «Beati gli occhi che vedono ciò che voi vedete. Io vi dico che molti profeti e re hanno voluto vedere ciò che voi guardate, ma non lo videro, e ascoltare ciò che voi ascoltate, ma non lo ascoltarono».\n\nParola di Dio.",
+        "sulle_offerte": "Guarda con benevolenza, o Signore,\nalle preghiere e al sacrificio\nche umilmente ti presentiamo:\nall’estrema povertà dei nostri meriti\nsupplisca l’aiuto della tua misericordia.\nPer Cristo nostro Signore.\n\nOppure:\n\nAscolta con bontà, o Signore, le nostre preghiere,\ne rendici liberi da ogni colpa,\nperché dai misteri che celebriamo,\nper l’azione purificatrice della tua grazia,\notteniamo la pienezza del perdono.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Il giudice giusto darà la corona di giustizia\na coloro che hanno atteso con amore la sua venuta. (Cf. 2Tm 4,8)\n\nOppure:\n\nTi rendo lode, o Padre,\nperché hai nascosto queste cose ai sapienti e ai dotti\ne le hai rivelate ai piccoli. (Lc 10,21)",
+        "dopo_la_comunione": "Saziati del cibo spirituale, o Signore,\na te innalziamo la nostra supplica:\nper la partecipazione a questo sacramento,\ninsegnaci a valutare con sapienza i beni della terra\ne a tenere fisso lo sguardo su quelli del cielo.\nPer Cristo nostro Signore.\n\nOppure:\n\nNutriti dell’unico pane, ti supplichiamo, o Signore,\ndi confermarci sempre nel tuo amore,\nperché possiamo camminare in novità di vita.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

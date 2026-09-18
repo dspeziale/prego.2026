@@ -1,0 +1,102 @@
+{
+    "data": "2026-12-04",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "I",
+    "celebrazione": "VENERDÌ DELLA I SETTIMANA DI AVVENTO",
+    "grado": "Feria",
+    "colore": "Viola",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "San Giovanni Damasceno, sacerdote e dottore della Chiesa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/2cb25cec-4a88-49ff-83b9-5de2f5d3b37f.jpeg",
+    "santo": {
+        "nome": "San Giovanni Damasceno, sacerdote e dottore della Chiesa",
+        "martirologio": "San Giovanni Damasceno, sacerdote e dottore della Chiesa, che rifulse per santità e dottrina e lottò strenuamente con la parola e con gli scritti contro l’imperatore Leone l’Isaurico in difesa del culto delle sacre immagini. Divenuto monaco nel monastero di Mar Saba vicino a Gerusalemme, si dedicò qui alla composizione di inni sacri fino alla morte.\nIl suo corpo fu deposto in questo giorno.",
+        "altri_santi": [
+            {
+                "nome": "Santa Barbara, vergine e martire",
+                "martirologio": "A Nicomedia, commemorazione di santa Barbara, che fu, secondo la tradizione, vergine e martire."
+            },
+            {
+                "nome": "Sant’Eracla, vescovo",
+                "martirologio": "Ad Alessandria d’Egitto, sant’Eracla, vescovo, che, discepolo di Origene, nonché suo compagno e successore nella scuola, rifulse di grande fama e fu eletto alla guida di questa sede."
+            },
+            {
+                "nome": "San Melezio, vescovo",
+                "martirologio": "A Sanaklar nel Ponto, nell’odierna Turchia, san Melezio, vescovo, che, già insigne per le sue doti di cultura, ancora più celebre fu per le sue virtù d’animo e per la sua integrità di vita."
+            },
+            {
+                "nome": "San Felice, vescovo",
+                "martirologio": "A Bologna, san Felice, vescovo, che era stato diacono della Chiesa di Milano sotto sant’Ambrogio."
+            },
+            {
+                "nome": "Sant’Apro, sacerdote",
+                "martirologio": "Presso Vienne nella Gallia lugdunense, ora in Francia, sant’Apro, sacerdote, che, lasciata la patria, si costruì una celletta e si ritirò ad una vita di solitudine e di penitenza."
+            },
+            {
+                "nome": "San Sigiramno, monaco",
+                "martirologio": "Nel territorio di Bourges, sempre in Francia, san Sigiramno, monaco, pellegrino e abate di Lonrai."
+            },
+            {
+                "nome": "Santa Adreílde o Ada, badessa",
+                "martirologio": "A Le Mans in Neustria, ora in Francia, santa Adreílde o Ada, badessa del monastero di Santa Maria."
+            },
+            {
+                "nome": "San Sola, sacerdote ed eremita",
+                "martirologio": "Nel monastero di Ellwangen nella Baviera, in Germania, san Sola, sacerdote ed eremita."
+            },
+            {
+                "nome": "San Giovanni, detto il Taumaturgo, vescovo",
+                "martirologio": "A Políboto in Frigia, nell’odierna Turchia, san Giovanni, detto il Taumaturgo, vescovo, che si adoperò molto, contro l’opinione dell’imperatore Leone l’Armeno, in favore del culto delle sacre immagini."
+            },
+            {
+                "nome": "Sant’Annone, vescovo",
+                "martirologio": "Nel monastero di Siegburg nella Renania, in Germania, sant’Annone, vescovo di Colonia, che, uomo di valoroso ingegno, fu tenuto in grande onore, al tempo dell’imperatore Enrico IV, tanto nella Chiesa quanto nelle vicende civili e pose mano alla fondazione di molte chiese e monasteri per accrescere la fede e la pietà."
+            },
+            {
+                "nome": "Sant’Osmundo, vescovo",
+                "martirologio": "A Salisbury in Inghilterra, sant’Osmundo, vescovo, che, passato insieme al re Guglielmo dalla Normandia in Inghilterra e promosso poi all’episcopato, celebrò la dedicazione della cattedrale e provvide all’amministrazione della sua sede e al decoro del culto divino."
+            },
+            {
+                "nome": "San Bernardo, vescovo",
+                "martirologio": "A Parma, san Bernardo, vescovo, che da monaco si dedicò sempre alla perfezione di vita, da cardinale al bene della Chiesa e da vescovo alla salvezza delle anime."
+            },
+            {
+                "nome": "Beato Pietro Pettinario, religioso",
+                "martirologio": "A Siena, beato Pietro Pettinario, religioso del Terz’Ordine di San Francesco, insigne per la particolare carità verso i bisognosi e gli infermi e per la sua vita di umiltà e silenzio."
+            },
+            {
+                "nome": "Beati martiri Francesco Gálvez, Girolamo de Angelis e Simone Yempo, religiosi",
+                "martirologio": "In località Edo in Giappone, beati martiri Francesco Gálvez, sacerdote dell’Ordine dei Frati Minori, Girolamo de Angelis, sacerdote, e Simone Yempo, religioso, entrambi della Compagnia di Gesù, dati al rogo in odio alla fede."
+            },
+            {
+                "nome": "Beato Adolfo Kolping, sacerdote",
+                "martirologio": "A Colonia in Germania, beato Adolfo Kolping, sacerdote, che, mosso da fervida carità per i problemi dei lavoratori delle fabbriche e per i temi della giustizia sociale, fondò un’associazione di giovani operai e la diffuse in molti luoghi."
+            },
+            {
+                "nome": "San Giovanni Calabria, sacerdote",
+                "martirologio": "A Verona, san Giovanni Calabria, sacerdote, che fondò la Congregazione dei Poveri Servi e delle Povere Serve della Divina Provvidenza."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Ecco, il Signore verrà con splendore\na visitare il suo popolo nella pace\nper fargli dono della vita eterna.",
+        "colletta": "Risveglia la tua potenza e vieni, Signore Gesù:\ndai pericoli che ci minacciano a causa dei nostri peccati\nla tua protezione ci liberi,\nil tuo soccorso ci salvi.\nTu sei Dio, e vivi e regni con Dio Padre.",
+        "prima_lettura": "In quel giorno gli occhi dei ciechi vedranno.\nDal libro del profeta Isaìa\nIs 29,17-24\n\nCosì dice il Signore Dio:\n«Certo, ancora un po'\ne il Libano si cambierà in un frutteto\ne il frutteto sarà considerato una selva.\nUdranno in quel giorno i sordi le parole del libro;\nliberati dall'oscurità e dalle tenebre,\ngli occhi dei ciechi vedranno.\nGli umili si rallegreranno di nuovo nel Signore,\ni più poveri gioiranno nel Santo d'Israele.\nPerché il tiranno non sarà più, sparirà l'arrogante,\nsaranno eliminati quanti tramano iniquità,\nquanti con la parola rendono colpevoli gli altri,\nquanti alla porta tendono tranelli al giudice\ne rovinano il giusto per un nulla.\nPertanto, dice alla casa di Giacobbe il Signore,\nche riscattò Abramo:\n\"D'ora in poi Giacobbe non dovrà più arrossire,\nil suo viso non impallidirà più,\npoiché vedendo i suoi figli l'opera delle mie mani tra loro,\nsantificheranno il mio nome,\nsantificheranno il Santo di Giacobbe\ne temeranno il Dio d'Israele.\nGli spiriti traviati apprenderanno la sapienza,\nquelli che mormorano impareranno la lezione\"».\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 26 (27)\nR. Il Signore è mia luce e mia salvezza.\n\nIl Signore è mia luce e mia salvezza:\ndi chi avrò timore?\nIl Signore è difesa della mia vita:\ndi chi avrò paura? R.\n\nUna cosa ho chiesto al Signore,\nquesta sola io cerco:\nabitare nella casa del Signore\ntutti i giorni della mia vita,\nper contemplare la bellezza del Signore\ne ammirare il suo santuario. R.\n\nSono certo di contemplare la bontà del Signore\nnella terra dei viventi.\nSpera nel Signore, sii forte,\nsi rinsaldi il tuo cuore e spera nel Signore. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nIl Signore viene, andiamogli incontro:\negli è la luce del mondo.\n\nAlleluia.",
+        "vangelo": "Gesù guarisce due ciechi che credono in lui.\nDal Vangelo secondo Matteo\nMt 9,27-31\n\nIn quel tempo, mentre Gesù si allontanava, due ciechi lo seguirono gridando: «Figlio di Davide, abbi pietà di noi!».\nEntrato in casa, i ciechi gli si avvicinarono e Gesù disse loro: «Credete che io possa fare questo?». Gli risposero: «Sì, o Signore!».\nAllora toccò loro gli occhi e disse: «Avvenga per voi secondo la vostra fede». E si aprirono loro gli occhi.\nQuindi Gesù li ammonì dicendo: «Badate che nessuno lo sappia!». Ma essi, appena usciti, ne diffusero la notizia in tutta quella regione.\n\nParola del Signore.",
+        "sulle_offerte": "Guarda con benevolenza, o Signore,\nalle preghiere e al sacrificio\nche umilmente ti presentiamo:\nall’estrema povertà dei nostri meriti\nsupplisca l’aiuto della tua misericordia.\nPer Cristo nostro Signore.\n\nOppure:\n\nAccogli, o Signore,\nil sacrificio di riconciliazione e di lode\nche offriamo alla tua maestà,\nperché ci ottenga il perdono dei peccati\ne trasformi la nostra vita in perenne rendimento di grazie.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Aspettiamo il nostro Salvatore Gesù Cristo:\negli trasfigurerà il nostro corpo mortale\na immagine del suo corpo glorioso. (Cf. Fil 3,20-21)\n\nOppure:\n\nGesù toccò gli occhi ai ciechi e disse:\n«Avvenga per voi secondo la vostra fede».\nE si aprirono loro gli occhi. (Mt 9,29-30)",
+        "dopo_la_comunione": "Saziati del cibo spirituale, o Signore,\na te innalziamo la nostra supplica:\nper la partecipazione a questo sacramento,\ninsegnaci a valutare con sapienza i beni della terra\ne a tenere fisso lo sguardo su quelli del cielo.\nPer Cristo nostro Signore.\n\nOppure:\n\nSignore, che ci hai colmato con i tuoi doni,\nfa’ che la loro grazia ci guarisca\ne il loro aiuto ci protegga.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

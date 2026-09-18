@@ -1,0 +1,48 @@
+{
+    "data": "2026-12-19",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "III",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Viola",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "Sant'Anastasio I, papa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/af1b2470-c11a-4090-9dda-870cfd7bdb68.jpeg",
+    "santo": {
+        "nome": "Sant'Anastasio I, papa",
+        "martirologio": "A Roma nel cimitero di Ponziano sulla via Portuense, deposizione di sant'Anastasio I, papa, uomo ricco di povertà e di apostolica sollecitudine, che si oppose fermamente alle dottrine ereticali.",
+        "altri_santi": [
+            {
+                "nome": "San Gregorio, vescovo",
+                "martirologio": "A Auxerre nella Gallia lugdunense, ora in Francia, san Gregorio, vescovo."
+            },
+            {
+                "nome": "Beato Guglielmo da Fenoglio, religioso",
+                "martirologio": "Nella Certosa di Casotto in Piemonte, beato Guglielmo da Fenoglio, religioso, che aveva condotto in precedenza vita eremitica."
+            },
+            {
+                "nome": "Beato Urbano V",
+                "martirologio": "Ad Avignone nella Provenza in Francia, beato Urbano V, papa, che, dopo essere stato monaco, fu elevato alla cattedra di Pietro e si adoperò per riportare quanto prima la Sede Apostolica a Roma e ristabilire l'unità nella Chiesa."
+            },
+            {
+                "nome": "San Francesco Saverio Hà Trong Mau e compagni martiri",
+                "martirologio": "In località Bac-Ninh nel Tonchino, ora Viet Nam, santi martiri Francesco Saverio Hà Trong Mau, Domenico Bùi Van Úy, catechisti, Tommaso Nguy n Van De, sarto, e Agostino Nguy n Van Moi e Stefano Nguy n Van Vinh, contadini, dei quali l’uno neofita e l’altro ancora catecumeno: per essersi rifiutati di recare oltraggio alla croce, patirono tutti carcere e supplizi e furono, infine, strangolati per ordine dell’imperatore Minh Mang."
+            },
+            {
+                "nome": "Beate Maria Eva della Provvidenza Noiszewska e Maria Marta di Gesù Wolowsk, vergini",
+                "martirologio": "Nella cittadina di Slonim in Polonia, beate Maria Eva della Provvidenza Noiszewska e Maria Marta di Gesù Wolowsk, vergini della Congregazione delle Suore dell’Immacolata Concezione e martiri, che, durante l’occupazione della Polonia in guerra, furono fucilate per la loro fede."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

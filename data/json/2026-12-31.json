@@ -1,0 +1,64 @@
+{
+    "data": "2026-12-31",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Bianco",
+    "settimana_del_salterio": null,
+    "santo_del_giorno": "San Silvestro I, papa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/ab53db92-09a0-4de7-b418-7d758d6630e2.jpeg",
+    "santo": {
+        "nome": "San Silvestro I, papa",
+        "martirologio": "San Silvestro I, papa, che per molti anni resse con saggezza la Chiesa, nel tempo in cui l’imperatore Costantino costruì le venerande basiliche e il Concilio di Nicea acclamò Cristo Figlio di Dio. In questo giorno il suo corpo fu deposto a Roma nel cimitero di Priscilla.",
+        "altri_santi": [
+            {
+                "nome": "Sante Donata, Paolina, Rogata, Dominanda, Serótina, Saturnina e Ilaria, martiri",
+                "martirologio": "Sempre a Roma nel cimitero dei Giordani sulla via Salaria nuova, sante Donata, Paolina, Rogata, Dominanda, Serótina, Saturnina e Ilaria, martiri."
+            },
+            {
+                "nome": "Santa Colomba, vergine e martire",
+                "martirologio": "A Sens nella Gallia lugdunense, ora in Francia, santa Colomba, vergine e martire."
+            },
+            {
+                "nome": "San Zótico, sacerdote",
+                "martirologio": "A Costantinopoli, san Zótico, sacerdote, che provvide al sostentamento degli orfani."
+            },
+            {
+                "nome": "Santa Melania la Giovane",
+                "martirologio": "A Gerusalemme, santa Melania la Giovane, che con suo marito san Piniano andò via da Roma e si recò nella Città Santa, dove abbracciarono la regola, lei tra le donne consacrate a Dio e lui tra i monaci, ed entrambi riposarono in una santa morte."
+            },
+            {
+                "nome": "San Barbaziano, sacerdote",
+                "martirologio": "A Ravenna, san Barbaziano, sacerdote."
+            },
+            {
+                "nome": "San Mario, vescovo",
+                "martirologio": "A Losanna nell’odierna Svizzera, san Mario, vescovo, che trasferì in questa città la sede di Avanches, costruì molte chiese e fu difensore dei poveri."
+            },
+            {
+                "nome": "San Giovanni Francesco Régis, sacerdote",
+                "martirologio": "Nel territorio di La Louvesc sui monti presso Puy-en-Vélay in Francia, san Giovanni Francesco Régis, sacerdote della Compagnia di Gesù, che, predicando il Vangelo e amministrando il sacramento della penitenza, per monti e per villaggi si adoperò senza sosta per rinnovare la fede cattolica nell’animo degli abitanti."
+            },
+            {
+                "nome": "Beato Alano di Solminihac, vescovo",
+                "martirologio": "Nella rocca di Mercuès presso Cahors nella Francia meridionale, transito del beato Alano di Solminihac, vescovo di Cahors, che con le sue visite pastorali cercò di promuovere la correzione dei costumi del popolo e di rinnovare in ogni modo con vero zelo apostolico la Chiesa a lui affidata."
+            },
+            {
+                "nome": "Santa Caterina Labouré, vergine",
+                "martirologio": "A Parigi in Francia, santa Caterina Labouré, vergine delle Figlie della Carità, che venerò in modo speciale la Madre di Dio Immacolata e rifulse per semplicità, carità e pazienza."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

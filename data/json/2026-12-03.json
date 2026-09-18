@@ -1,0 +1,62 @@
+{
+    "data": "2026-12-03",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "I",
+    "celebrazione": "SAN FRANCESCO SAVERIO, PRESBITERO - MEMORIA",
+    "grado": "Memoria",
+    "colore": "Bianco",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "San Francesco Saverio",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2024/12/16ce4162-6684-4e6a-9f88-97550abf29d5.jpeg",
+    "santo": {
+        "nome": "San Francesco Saverio",
+        "martirologio": "Memoria di san Francesco Saverio, sacerdote della Compagnia di Gesù, evangelizzatore delle Indie, che, nato in Navarra, fu tra i primi compagni di sant’Ignazio. Spinto dall’ardente desiderio di diffondere il Vangelo, annunciò con impegno Cristo a innumerevoli popolazioni in India, nelle isole Molucche e in altre ancora, in Giappone convertì poi molti alla fede e morì, infine, in Cina nell’isola di Sancian, stremato dalla malattia e dalle fatiche.",
+        "altri_santi": [
+            {
+                "nome": "San Sofonia, profeta",
+                "martirologio": "Commemorazione di san Sofonia, profeta, che nei giorni di Giosia, re di Giuda, preannunciò la rovina degli empi nel giorno dell’ira del Signore e confortò il popolo dei poveri e dei bisognosi nella speranza della salvezza."
+            },
+            {
+                "nome": "San Cassiano, martire",
+                "martirologio": "A Tangeri in Mauritania, nell’odierno Marocco, san Cassiano, martire."
+            },
+            {
+                "nome": "Deposizione di san Birino",
+                "martirologio": "A Winchester in Inghilterra, deposizione di san Birino, che, mandato nella Britannia inferiore dal papa Onorio, tenne per primo la sede di Dorchester e divulgò con impegno tra i Sassoni occidentali il messaggio della salvezza."
+            },
+            {
+                "nome": "San Lucio, eremita",
+                "martirologio": "A Coira nell’odierna Svizzera, san Lucio, eremita."
+            },
+            {
+                "nome": "Beato Edoardo Coleman, martire",
+                "martirologio": "A Londra in Inghilterra, beato Edoardo Coleman, martire, che, per aver accolto la fede cattolica, falsamente accusato di cospirazione contro il re Carlo II, fu impiccato a Tyburn e sventrato con la spada mentre era ancora vivo."
+            },
+            {
+                "nome": "Beato Giovanni Nepomuceno De Tschiderer, vescovo",
+                "martirologio": "A Trento, beato Giovanni Nepomuceno De Tschiderer, vescovo, che governò questa Chiesa con evangelico ardore di fede e senso di umanità e in tempo di sventura offrì una mirabile testimonianza di amore per il suo gregge."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Ti loderò, Signore, tra le genti,\ne annuncerò il tuo nome ai miei fratelli. (Cf. Sal 17,50; 21,23)",
+        "colletta": "O Dio, che hai chiamato alla fede molti popoli\ncon la predicazione di san Francesco Saverio,\nconcedi che il cuore dei tuoi fedeli\narda dello stesso fervore missionario\ne che la santa Chiesa si allieti su tutta la terra di nuovi figli.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Entri una nazione giusta che si mantiene fedele.\nDal libro del profeta Isaìa\nIs 26,1-6\n\nIn quel giorno si canterà questo canto nella terra di Giuda:\n«Abbiamo una città forte;\nmura e bastioni egli ha posto a salvezza.\nAprite le porte:\nentri una nazione giusta,\nche si mantiene fedele.\nLa sua volontà è salda;\ntu le assicurerai la pace,\npace perché in te confida.\nConfidate nel Signore sempre,\nperché il Signore è una roccia eterna,\nperché egli ha abbattuto\ncoloro che abitavano in alto,\nha rovesciato la città eccelsa,\nl'ha rovesciata fino a terra,\nl'ha rasa al suolo.\nI piedi la calpestano:\nsono i piedi degli oppressi,\ni passi dei poveri».\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 117 (118)\nR. Benedetto colui che viene nel nome del Signore.\n\nRendete grazie al Signore perché è buono,\nperché il suo amore è per sempre.\nÈ meglio rifugiarsi nel Signore\nche confidare nell'uomo.\nÈ meglio rifugiarsi nel Signore\nche confidare nei potenti. R.\n\nApritemi le porte della giustizia:\nvi entrerò per ringraziare il Signore.\nÈ questa la porta del Signore:\nper essa entrano i giusti.\nTi rendo grazie, perché mi hai risposto,\nperché sei stato la mia salvezza. R.\n\nTi preghiamo, Signore: dona la salvezza!\nTi preghiamo, Signore: dona la vittoria!\nBenedetto colui che viene nel nome del Signore.\nVi benediciamo dalla casa del Signore.\nIl Signore è Dio, egli ci illumina. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nCercate il Signore, mentre si fa trovare,\ninvocatelo, mentre è vicino. (Is 55,6)\n\nAlleluia.",
+        "vangelo": "Chi fa la volontà del Padre mio, entrerà nel regno dei cieli.\nDal Vangelo secondo Matteo\nMt 7,21.24-27\n\nIn quel tempo, Gesù disse ai suoi discepoli:\n«Non chiunque mi dice: \"Signore, Signore\", entrerà nel regno dei cieli, ma colui che fa la volontà del Padre mio che è nei cieli.\nPerciò chiunque ascolta queste mie parole e le mette in pratica, sarà simile a un uomo saggio, che ha costruito la sua casa sulla roccia. Cadde la pioggia, strariparono i fiumi, soffiarono i venti e si abbatterono su quella casa, ma essa non cadde, perché era fondata sulla roccia.\nChiunque ascolta queste mie parole e non le mette in pratica, sarà simile a un uomo stolto, che ha costruito la sua casa sulla sabbia. Cadde la pioggia, strariparono i fiumi, soffiarono i venti e si abbatterono su quella casa, ed essa cadde e la sua rovina fu grande».\n\nParola del Signore.",
+        "sulle_offerte": "Accogli, o Signore, i doni che ti presentiamo\nnella memoria di san Francesco Saverio,\nche raggiunse terre lontane sospinto\ndallo zelo per la salvezza degli uomini,\ne concedi anche a noi di essere efficaci testimoni del Vangelo,\nper venire incontro a te con molti fratelli.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Quello che io vi dico nelle tenebre, ditelo nella luce,\nquello che ascoltate all’orecchio, annunciatelo dalle terrazze. (Mt 10,27)",
+        "dopo_la_comunione": "I tuoi santi misteri, o Dio,\naccendano in noi l’ardore di carità\nche infiammò il cuore di san Francesco Saverio\nper la salvezza delle anime,\nperché, camminando più fedelmente nella nostra vocazione,\nconseguiamo insieme a lui il premio\npromesso ai buoni operai del Vangelo.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

@@ -1,0 +1,52 @@
+{
+    "data": "2026-12-15",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "III",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Viola",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "San Valeriano, vescovo",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/4f0c24f8-2f39-408e-9561-5cc5af81d23c.jpeg",
+    "santo": {
+        "nome": "San Valeriano, vescovo",
+        "martirologio": "Commemorazione di san Valeriano, vescovo di Avensano nell'Africa settentrionale, che, a più di ottant'anni, durante la persecuzione vandalica, si rifiutò fermamente di consegnare gli arredi sacri della Chiesa come richiesto dal re Genserico e fu per questo scacciato tutto solo fuori della città, con l'ordine che nessuno gli prestasse ospitalità né in casa né tra i campi; giacque, dunque, per lungo tempo a cielo aperto sulla pubblica strada, giungendo, in tal modo, al termine della sua santa vita da confessore della retta fede.",
+        "altri_santi": [
+            {
+                "nome": "San Massimino, sacerdote",
+                "martirologio": "Nel territorio di Orléans nella Gallia lugdunense, ora in Francia, san Massimino, sacerdote, ritenuto primo abate di Micy."
+            },
+            {
+                "nome": "Beato Marino, abate",
+                "martirologio": "Nel monastero di Cava de’ Tirreni in Campania, beato Marino, abate, mirabile nella sua fedeltà al Romano Pontefice."
+            },
+            {
+                "nome": "Beata Maria Vittoria Fornari",
+                "martirologio": "A Genova, beata Maria Vittoria Fornari, che, rimasta vedova, fondò l’Ordine dell’Annunciazione."
+            },
+            {
+                "nome": "Santa Virginia Centurione Bracelli, vedova",
+                "martirologio": "Nella stessa città, santa Virginia Centurione Bracelli, vedova, che, dedita a servire Dio, accorse in molti modi in aiuto dei poveri, sostenne le chiese rurali e istituì e resse le Signore della Misericordia Protettrici dei Poveri."
+            },
+            {
+                "nome": "Santa Maria Crocifissa Di Rosa, vergine",
+                "martirologio": "A Brescia, santa Maria Crocifissa Di Rosa, vergine, che consacrò i suoi beni e tutta se stessa alla salvezza spirituale e materiale del prossimo e fondò l’Istituto delle Ancelle della Carità."
+            },
+            {
+                "nome": "Beato Carlo Steeb, sacerdote",
+                "martirologio": "A Verona, beato Carlo Steeb, sacerdote, che, nato a Tubinga, professò la fede cattolica a Verona e, ordinato sacerdote, fondò l’Istituto delle Suore della Misericordia a sostegno degli afflitti, dei bisognosi e dei malati."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

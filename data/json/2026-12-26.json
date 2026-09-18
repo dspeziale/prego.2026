@@ -1,0 +1,56 @@
+{
+    "data": "2026-12-26",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "celebrazione": "Santo Stefano, primo martire",
+    "grado": "Festa",
+    "colore": "Rosso",
+    "settimana_del_salterio": null,
+    "santo_del_giorno": "Santo Stefano, protomartire",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/5ed25537-e66a-4b49-a3e3-c0579480c614.jpeg",
+    "santo": {
+        "nome": "Santo Stefano, protomartire",
+        "martirologio": "Festa di santo Stefano, protomartire, uomo pieno di fede e di Spirito Santo, che, primo dei sette diaconi scelti dagli Apostoli come loro collaboratori nel ministero, fu anche il primo tra i discepoli del Signore a versare il suo sangue a Gerusalemme, dove, lapidato mentre pregava per i suoi persecutori, rese la sua testimonianza di fede in Cristo Gesù, affermando di vederlo seduto nella gloria alla destra del Padre.",
+        "altri_santi": [
+            {
+                "nome": "San Dionigi, papa",
+                "martirologio": "A Roma nel cimitero di Callisto sulla via Appia, san Dionigi, papa, che, colmo di ogni virtù, dopo la persecuzione dell’imperatore Valeriano, consolò con le sue lettere e la sua presenza i fratelli afflitti, riscattò i prigionieri dai supplizi e insegnò i fondamenti della fede a coloro che li ignoravano."
+            },
+            {
+                "nome": "San Zenone, vescovo",
+                "martirologio": "Commemorazione di san Zenone, vescovo di Maiuma in Palestina, che edificò una basilica per i santi martiri Eusebio, Nestabio e Zenone, suoi cugini, e fino al termine della sua vita esercitò il mestiere di tessitore per procurarsi il vitto e dare aiuto ai poveri."
+            },
+            {
+                "nome": "San Zosimo, papa",
+                "martirologio": "A Roma sulla via Tiburtina presso San Lorenzo, deposizione di san Zosimo, papa."
+            },
+            {
+                "nome": "Sant’Eutimio, vescovo e martire",
+                "martirologio": "A Sardi in Lidia, nell’odierna Turchia, sant’Eutimio, vescovo e martire, che, condannato all’esilio dall’imperatore iconoclasta Michele per il culto delle sacre immagini, consumò, infine, il suo martirio sotto l’impero di Teofilo, crudelmente fustigato con nervi di bue."
+            },
+            {
+                "nome": "Santa Vincenza Maria López Vicuña, vergine",
+                "martirologio": "A Madrid in Spagna, santa Vincenza Maria López Vicuña, vergine, che fondò e diffuse l’Istituto delle Figlie di Maria Immacolata per offrire aiuto spirituale e materiale alle ragazze separate dalle famiglie e impiegate come domestiche."
+            },
+            {
+                "nome": "Beate Agnese Phila, Lucia Khambang e compagne martiri",
+                "martirologio": "Nel villaggio di Song-Khon in Thailandia, beate martiri Agnese Phila e Lucia Khambang, vergini delle Suore Amanti della Croce, e Agata Phutta, Cecilia Butsi, Viviana Hampai e Maria Phon, fucilate nel cimitero locale per essersi rifiutate di rinnegare la fede cristiana."
+            },
+            {
+                "nome": "Beato Secondo Pollo, sacerdote",
+                "martirologio": "In località Dragali in Montenegro, beato Secondo Pollo, sacerdote di Vercelli, che, cappellano militare durante la seconda guerra mondiale, fu gravemente ferito mentre prestava soccorso ad un soldato moribondo e poco dopo, ormai esangue, rese lo spirito a Dio."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

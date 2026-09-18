@@ -1,0 +1,63 @@
+{
+    "data": "2026-12-06",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "II",
+    "celebrazione": "II DOMENICA DI AVVENTO - ANNO B",
+    "grado": "Domenica",
+    "colore": "Viola",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "San Nicola, vescovo",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/a52cfca8-7e3d-4ddd-b5d6-6ccb286a5570.jpeg",
+    "santo": {
+        "nome": "San Nicola, vescovo",
+        "martirologio": "San Nicola, vescovo di Mira in Licia nell’odierna Turchia, celebre per la sua santità e la sua intercessione presso il trono della grazia divina.",
+        "altri_santi": [
+            {
+                "nome": "Santa Asella, vergine",
+                "martirologio": "A Roma, commemorazione di santa Asella, vergine, che, come scrive san Girolamo, trascorse la sua vita tra digiuni e preghiere fino ad avanzata vecchiaia."
+            },
+            {
+                "nome": "Santi martiri della persecuzione vandalica",
+                "martirologio": "In Africa settentrionale, commemorazione dei santi martiri della persecuzione vandalica, che, sotto il re ariano Unnerico, furono sottoposti ad atroci e innumerevoli supplizi per aver difeso la fede cattolica; alla loro schiera* appartengono i martiri Dionisia e Maioríco, suo figlio, che, ancora bambino, spaventato dalle torture, ma confortato dallo sguardo e dalle parole della madre, si fece ancor più coraggioso degli altri compagni e rese tra i tormenti la sua anima. * Tra gli altri: santi Emilio medico, Dativa, Leonzia, Terzo, Bonifacio di Sibida, Servio, Vittrice."
+            },
+            {
+                "nome": "Beato martire Pietro Pascual, vescovo",
+                "martirologio": "A Granada in Spagna, beato martire Pietro Pascual, vescovo di Jaén, dell’Ordine della Mercede, che, arrestato dai Mori mentre, in visita al suo gregge, esortava il popolo alla difesa delle fede, morì in prigione."
+            },
+            {
+                "nome": "San Giuseppe Nguy n Duy Khang, martire",
+                "martirologio": "Nella città di Hai Duong nel Tonchino, ora Viet Nam, san Giuseppe Nguy n Duy Khang, martire, che, catechista e compagno di viaggio del santo vescovo Girolamo Hermosilla, fu insieme a lui catturato, flagellato e tenuto in carcere durante la persecuzione dell’imperatore Tu Duc e, infine, decapitato."
+            },
+            {
+                "nome": "Beata Luisa Maria Frías Cañizares, vergine e martire",
+                "martirologio": "A Picadero de Paterna nel territorio di Valencia in Spagna, beata Luisa Maria Frías Cañizares, vergine e martire, che durante la persecuzione contro la fede riportò nel combattimento per la fede il premio eterno."
+            },
+            {
+                "nome": "Sant’Obizio, cavaliere",
+                "martirologio": "A Brescia, sant’Obizio, che, cavaliere, convertitosi a Dio e datosi a una vita di penitenza, distribuì i suoi averi per il bene di tutti."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Popolo di Sion, il Signore verrà a salvare le genti\ne farà udire la sua voce maestosa\nnella letizia del vostro cuore. (Cf. Is 30,19.30)\n\nNon si dice il Gloria.",
+        "colletta": "Dio grande e misericordioso,\nfa’ che il nostro impegno nel mondo\nnon ci ostacoli nel cammino verso il tuo Figlio,\nma la sapienza che viene dal cielo\nci guidi alla comunione\ncon il Cristo, nostro Salvatore.\nEgli è Dio, e vive e regna con te.\n\nOppure:\n\nO Dio, Padre di ogni consolazione,\nche all’umanità pellegrina nel tempo\nhai promesso nuovi cieli e terra nuova,\nparla oggi al cuore del tuo popolo,\nperché, in purezza di fede e santità di vita,\npossa camminare verso il giorno\nin cui ti manifesterai pienamente\ne ogni uomo vedrà la tua salvezza.\nPer il nostro Signore Gesù Cristo.\n\nSi dice il Credo.",
+        "prima_lettura": "Preparate la via al Signore.\nDal libro del profeta Isaìa\nIs 40,1-5.9-11\n\n«Consolate, consolate il mio popolo - dice il vostro Dio -.\nParlate al cuore di Gerusalemme e gridatele che la sua tribolazione è compiuta, la sua colpa è scontata, perché ha ricevuto dalla mano del Signore il doppio per tutti i suoi peccati».\nUna voce grida: «Nel deserto preparate la via al Signore, spianate nella steppa la strada per il nostro Dio.\nOgni valle sia innalzata, ogni monte e ogni colle siano abbassati; il terreno accidentato si trasformi in piano e quello scosceso in vallata.\nAllora si rivelerà la gloria del Signore e tutti gli uomini insieme la vedranno, perché la bocca del Signore ha parlato».\nSali su un alto monte, tu che annunci liete notizie a Sion!\nAlza la tua voce con forza, tu che annunci liete notizie a Gerusalemme.\nAlza la voce, non temere; annuncia alle città di Giuda:\n«Ecco il vostro Dio!\nEcco, il Signore Dio viene con potenza, il suo braccio esercita il dominio.\nEcco, egli ha con sé il premio e la sua ricompensa lo precede.\nCome un pastore egli fa pascolare il gregge e con il suo braccio lo raduna;\nporta gli agnellini sul petto e conduce dolcemente le pecore madri».\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 84 (85)\nR. Mostraci, Signore, la tua misericordia e donaci la tua salvezza.\n\nAscolterò che cosa dice Dio, il Signore:\negli annuncia la pace\nper il suo popolo, per i suoi fedeli.\nSì, la sua salvezza è vicina a chi lo teme,\nperché la sua gloria abiti la nostra terra. R.\n\nAmore e verità s'incontreranno,\ngiustizia e pace si baceranno.\nVerità germoglierà dalla terra\ne giustizia si affaccerà dal cielo. R.\n\nCerto, il Signore donerà il suo bene\ne la nostra terra darà il suo frutto;\ngiustizia camminerà davanti a lui:\ni suoi passi tracceranno il cammino. R.",
+        "seconda_lettura": "Aspettiamo nuovi cieli e una terra nuova.\nDalla seconda lettera di san Pietro apostolo\n2Pt 3,8-14\n\nUna cosa non dovete perdere di vista, carissimi: davanti al Signore un solo giorno è come mille anni e mille anni come un solo giorno.\nIl Signore non ritarda nel compiere la sua promessa, anche se alcuni parlano di lentezza. Egli invece è magnanimo con voi, perché non vuole che alcuno si perda, ma che tutti abbiano modo di pentirsi.\nIl giorno del Signore verrà come un ladro; allora i cieli spariranno in un grande boato, gli elementi, consumati dal calore, si dissolveranno e la terra, con tutte le sue opere, sarà distrutta.\nDato che tutte queste cose dovranno finire in questo modo, quale deve essere la vostra vita nella santità della condotta e nelle preghiere, mentre aspettate e affrettate la venuta del giorno di Dio, nel quale i cieli in fiamme si dissolveranno e gli elementi incendiati fonderanno! Noi infatti, secondo la sua promessa, aspettiamo nuovi cieli e una terra nuova, nei quali abita la giustizia. Perciò, carissimi, nell'attesa di questi eventi, fate di tutto perché Dio vi trovi in pace, senza colpa e senza macchia.\n\nParola di Dio.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nPreparate la via del Signore,\nraddrizzate i suoi sentieri!\nOgni uomo vedrà la salvezza di Dio! (Lc 3,4.6)\n\nAlleluia.",
+        "vangelo": "Raddrizzate le vie del Signore.\nDal Vangelo secondo Marco\nMc 1,1-8\n\nInizio del vangelo di Gesù, Cristo, Figlio di Dio.\nCome sta scritto nel profeta Isaìa: «Ecco, dinanzi a te io mando il mio messaggero: egli preparerà la tua via. Voce di uno che grida nel deserto: Preparate la via del Signore, raddrizzate i suoi sentieri», vi fu Giovanni, che battezzava nel deserto e proclamava un battesimo di conversione per il perdono dei peccati. Accorrevano a lui tutta la regione della Giudea e tutti gli abitanti di Gerusalemme. E si facevano battezzare da lui nel fiume Giordano, confessando i loro peccati.\nGiovanni era vestito di peli di cammello, con una cintura di pelle attorno ai fianchi, e mangiava cavallette e miele selvatico. E proclamava: «Viene dopo di me colui che è più forte di me: io non sono degno di chinarmi per slegare i lacci dei suoi sandali. Io vi ho battezzato con acqua, ma egli vi battezzerà in Spirito Santo».\n\nParola del Signore.",
+        "sulle_offerte": "Guarda con benevolenza, o Signore,\nalle preghiere e al sacrificio\nche umilmente ti presentiamo:\nall’estrema povertà dei nostri meriti\nsupplisca l’aiuto della tua misericordia.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Sorgi, o Gerusalemme, sta’ in piedi sull’altura,\nosserva la gioia che ti viene da Dio. (Bar 5,5; 4,36)\n\nOppure:\n\nVoce di uno che grida nel deserto:\nPreparate la via del Signore,\nraddrizzate i suoi sentieri! (Mt 3,3; Mc 1,3; Lc 3,4)",
+        "dopo_la_comunione": "Saziati del cibo spirituale, o Signore,\na te innalziamo la nostra supplica:\nper la partecipazione a questo sacramento,\ninsegnaci a valutare con sapienza i beni della terra\ne a tenere fisso lo sguardo su quelli del cielo.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

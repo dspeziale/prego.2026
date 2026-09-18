@@ -1,0 +1,70 @@
+{
+    "data": "2026-12-05",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "I",
+    "celebrazione": "SABATO DELLA I SETTIMANA DI AVVENTO",
+    "grado": "Feria",
+    "colore": "Viola",
+    "settimana_del_salterio": "I",
+    "santo_del_giorno": "San Saba, abate",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/080682cb-d8e5-4c3f-94bf-d5a22cb0e26a.jpeg",
+    "santo": {
+        "nome": "San Saba, abate",
+        "martirologio": "Vicino a Gerusalemme, san Saba, abate, che, nato in Cappadocia, raggiunse il deserto di Giuda in Palestina, dove istituì una nuova forma di vita eremitica in sette monasteri, che ebbero il nome di laure, nelle quali gli eremiti si riunivano sotto la guida di un unico superiore; passò lunghi anni nella Grande Laura, in seguito insignita del suo nome, rifulgendo come modello di santità e lottando strenuamente in difesa della fede calcedonese.",
+        "altri_santi": [
+            {
+                "nome": "Santa Crispina di Tagora",
+                "martirologio": "A Tebessa in Numidia, nell’odierna Algeria, passione di santa Crispina di Tagora, madre di famiglia, che, al tempo di Diocleziano e Massimiano, fu decapitata per ordine del proconsole Anulino per essersi rifiutata di sacrificare agli idoli."
+            },
+            {
+                "nome": "San Lucido, monaco",
+                "martirologio": "Nel cenobio di San Pietro di Aquara in Campania, san Lucido, monaco."
+            },
+            {
+                "nome": "San Gerardo di Braga, vescovo",
+                "martirologio": "A Braga in Portogallo, commemorazione di san Gerardo, vescovo, che rifulse nell’attività di rinnovamento del"
+            },
+            {
+                "nome": "San Giovanni Almond, sacerdote e martire",
+                "martirologio": "A Londra in Inghilterra, san Giovanni Almond, sacerdote e martire, che per oltre dieci anni si prese cura nella clandestinità delle anime a lui affidate, finché sotto il re Giacomo I fu impiccato a Tyburn in quanto sacerdote, senza smettere neppure dal patibolo di elargire elemosine."
+            },
+            {
+                "nome": "Beato Nicola Stensen, vescovo",
+                "martirologio": "A Schwerin nella regione di Mecklenburg in Germania, transito del beato Nicola Stensen, vescovo di Dindebol, che, di origine danese, fu tra i più illustri ricercatori di scienze naturali del suo tempo; abbracciata la fede cattolica, desideroso di servire Dio a difesa della verità, divenne sacerdote e, ordinato poi vescovo, si dedicò con zelo all’evangelizzazione dell’Europa settentrionale."
+            },
+            {
+                "nome": "Beato Filippo Rinaldi, sacerdote",
+                "martirologio": "A Torino, beato Filippo Rinaldi, sacerdote della Società Salesiana, che si adoperò per la diffusione della fede nelle terre di missione."
+            },
+            {
+                "nome": "Beato Narciso Putz, sacerdote e martire",
+                "martirologio": "Vicino a Monaco di Baviera in Germania, beato Narciso Putz, sacerdote e martire, che, durante l’occupazione della Polonia in tempo di guerra da parte di un regime straniero, fu per la sua perseveranza nella fede messo in carcere nel campo di prigionia di Dachau, dove morì tra atroci supplizi."
+            },
+            {
+                "nome": "Beato Bartolomeo Fanti, sacerdote",
+                "martirologio": "A Mantova, beato Bartolomeo Fanti, sacerdote dell’Ordine dei Carmelitani, che con le parole e con l’esempio accese nel cuore dei fedeli un santo amore per Dio e una filiale devozione verso Maria sua Madre."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Vieni e fa' risplendere il tuo volto su di noi,\no Signore, che siedi nei cieli, e noi saremo salvi. (Cf. Sal 79,4.2)",
+        "colletta": "O Dio, che per liberare l’uomo dalla schiavitù del peccato\nhai mandato il tuo Figlio unigenito in questo mondo,\nconcedi a noi, che attendiamo con fede\nil dono della tua misericordia,\ndi giungere al premio della vera libertà.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "A un tuo grido di supplica il Signore ti farà grazia.\nDal libro del profeta Isaìa\nIs 30,19-21;23-26\n\nPopolo di Sion, che abiti a Gerusalemme,\ntu non dovrai più piangere.\nA un tuo grido di supplica [il Signore] ti farà grazia;\nappena udrà, ti darà risposta.\nAnche se il Signore ti darà il pane dell'afflizione\ne l'acqua della tribolazione,\nnon si terrà più nascosto il tuo maestro;\ni tuoi occhi vedranno il tuo maestro,\ni tuoi orecchi sentiranno questa parola dietro di te:\n«Questa è la strada, percorretela»,\ncaso mai andiate a destra o a sinistra.\nAllora egli concederà la pioggia per il seme\nche avrai seminato nel terreno,\ne anche il pane, prodotto della terra, sarà abbondante e sostanzioso;\nin quel giorno il tuo bestiame pascolerà su un vasto prato.\nI buoi e gli asini che lavorano la terra\nmangeranno biada saporita,\nventilata con la pala e con il vaglio.\nSu ogni monte e su ogni colle elevato\nscorreranno canali e torrenti d'acqua\nnel giorno della grande strage,\nquando cadranno le torri.\nLa luce della luna sarà come la luce del sole\ne la luce del sole sarà sette volte di più,\ncome la luce di sette giorni,\nquando il Signore curerà la piaga del suo popolo\ne guarirà le lividure prodotte dalle sue percosse.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 146 (147)\nR. Beati coloro che aspettano il Signore.\n\nÈ bello cantare inni al nostro Dio,\nè dolce innalzare la lode.\nIl Signore ricostruisce Gerusalemme,\nraduna i dispersi d'Israele. R.\n\nRisana i cuori affranti\ne fascia le loro ferite.\nEgli conta il numero delle stelle\ne chiama ciascuna per nome. R.\n\nGrande è il Signore nostro,\ngrande nella sua potenza;\nla sua sapienza non si può calcolare.\nIl Signore sostiene i poveri,\nma abbassa fino a terra i malvagi. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nIl Signore è nostro giudice,\nnostro legislatore, nostro re:\negli ci salverà. (Cf. Is 33,22)\n\nAlleluia.",
+        "vangelo": "Vedendo le folle, ne sentì compassione.\nDal Vangelo secondo Matteo\nMt 9,35-38-10,1.6-8\n\nIn quel tempo, Gesù percorreva tutte le città e i villaggi, insegnando nelle loro sinagoghe, annunciando il vangelo del Regno e guarendo ogni malattia e ogni infermità.\nVedendo le folle, ne sentì compassione, perché erano stanche e sfinite come pecore che non hanno pastore. Allora disse ai suoi discepoli: «La messe è abbondante, ma sono pochi gli operai! Pregate dunque il signore della messe, perché mandi operai nella sua messe!».\nChiamati a sé i suoi dodici discepoli, diede loro potere sugli spiriti impuri per scacciarli e guarire ogni malattia e ogni infermità.\nE li inviò ordinando loro: «Rivolgetevi alle pecore perdute della casa d'Israele. Strada facendo, predicate, dicendo che il regno dei cieli è vicino. Guarite gli infermi, risuscitate i morti, purificate i lebbrosi, scacciate i demòni. Gratuitamente avete ricevuto, gratuitamente date».\n\nParola del Signore.",
+        "sulle_offerte": "Sempre si rinnovi, o Signore,\nl’offerta di questo sacrificio\nche attua il santo mistero da te istituito,\ne con la sua divina potenza\nrenda efficace in noi l’opera della salvezza.\nPer Cristo nostro Signore.\n\nOppure:\n\nL’offerta di questo sacrificio, o Signore,\nci liberi dall’antica schiavitù del peccato,\nperché possiamo camminare in novità di vita.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "«Ecco, io vengo presto e ho con me il mio salario», dice il Signore,\n«per rendere a ciascuno secondo le sue opere». (Ap 22,12)\n\nOppure:\n\nIl regno dei cieli è vicino.\nGratuitamente avete ricevuto, gratuitamente date. (Mt 10,7.8)",
+        "dopo_la_comunione": "Imploriamo, o Signore, la tua misericordia:\nla forza divina di questo sacramento\nci purifichi dal peccato\ne ci prepari alle feste del Natale.\nPer Cristo nostro Signore.\n\nOppure:\n\nCi hai nutriti, Dio onnipotente, al tuo santo convito;\nfa’ che ti onoriamo con fedele servizio\ne ci prodighiamo verso tutti con carità instancabile.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

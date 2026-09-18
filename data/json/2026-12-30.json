@@ -1,0 +1,72 @@
+{
+    "data": "2026-12-30",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Bianco",
+    "settimana_del_salterio": null,
+    "santo_del_giorno": "San Felice I, papa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/32908b17-fb50-4ba9-87d0-d3a7f6367c6d.jpeg",
+    "santo": {
+        "nome": "San Felice I, papa",
+        "martirologio": "A Roma nel cimitero di Callisto sulla via Appia, deposizione di san Felice I, papa, che resse la Chiesa di Roma sotto l'imperatore Aureliano.",
+        "altri_santi": [
+            {
+                "nome": "Sant’Erméte, esorcista e martire",
+                "martirologio": "A Vidin in Mesia, nell’odierna Bulgaria, sant’Erméte, esorcista e martire."
+            },
+            {
+                "nome": "Sant’Anisio, vescovo",
+                "martirologio": "Commemorazione di sant’Anisio, vescovo di Salonicco, che, costituito dai Romani Pontefici vicario apostolico nell’antico Illirico e colmato di lodi da sant’Ambrogio, fiorì al tempo dell’imperatore Teodosio."
+            },
+            {
+                "nome": "San Perpetuo, vescovo",
+                "martirologio": "A Tours nella Gallia lugdunense, ora in Francia, san Perpetuo, vescovo, che edificò la basilica di San Martino e molte altre in onore di santi e ristabilì nella sua Chiesa l’uso dei digiuni e delle veglie."
+            },
+            {
+                "nome": "San Giocondo, vescovo",
+                "martirologio": "Ad Aosta, san Giocondo, vescovo."
+            },
+            {
+                "nome": "San Geremáro, abate",
+                "martirologio": "A Fly presso Beauvais nel territorio della Neustria in Francia, san Geremáro, abate del locale monastero da lui fondato."
+            },
+            {
+                "nome": "Sant’Egvino, vescovo",
+                "martirologio": "Ad Evesham in Inghilterra, sant’Egvino, vescovo, che fondò il monastero di questo luogo."
+            },
+            {
+                "nome": "San Raniero da Forcone, vescovo",
+                "martirologio": "In Abruzzo, san Raniero da Forcone, vescovo, del quale il papa Alessandro II lodò la virtù nell’amministrare i beni."
+            },
+            {
+                "nome": "San Ruggero, vescovo",
+                "martirologio": "A Canne in Puglia, san Ruggero, vescovo."
+            },
+            {
+                "nome": "San Lorenzo, monaco",
+                "martirologio": "Presso la cittadina di Frazzanò in Sicilia, san Lorenzo, monaco secondo la disciplina dei Padri orientali, insigne per austerità di vita e instancabile nella predicazione."
+            },
+            {
+                "nome": "Beata Margherita Colonna, vergine",
+                "martirologio": "Presso Palestrina nel Lazio, beata Margherita Colonna, vergine, che preferì alle ricchezze e ai piaceri del mondo la povertà per Cristo, che ella servì professando la regola di santa Chiara."
+            },
+            {
+                "nome": "Beato Giovanni Maria Boccardo, sacerdote",
+                "martirologio": "Nel territorio di Pancalieri vicino a Torino, beato Giovanni Maria Boccardo, sacerdote, che tra le molte fatiche intraprese per l’assistenza agli anziani e ai malati e per l’educazione cristiana della gioventù fondò la Congregazione delle Suore Povere Figlie di San Gaetano."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

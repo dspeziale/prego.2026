@@ -1,0 +1,74 @@
+{
+    "data": "2026-12-09",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "II",
+    "celebrazione": "MERCOLEDÌ DELLA II SETTIMANA DI AVVENTO",
+    "grado": "Feria",
+    "colore": "Viola",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "Santa Leucadia, vergine e martire",
+    "immagine_santo": null,
+    "santo": {
+        "nome": "Santa Leucadia, vergine e martire",
+        "martirologio": "A Toledo in Spagna, santa Leucadia, vergine e martire, insigne per la sua testimoniaza di fede in Cristo.",
+        "altri_santi": [
+            {
+                "nome": "San Giovanni Diego Cuauhtlatoatzin",
+                "martirologio": "San Giovanni Diego Cuauhtlatoatzin, che, di origine indigena, dotato di fede purissima, con la sua umiltà e il suo fervore fece sì che si edificasse il santuario in onore della Beata Maria Vergine di Guadalupe sul colle Tepeyac presso Città del Messico, dove ella apparve a lui ed egli si addormentò nel Signore."
+            },
+            {
+                "nome": "Santa Gorgonia",
+                "martirologio": "A Nazianzo in Cappadocia, nell’odierna Turchia, santa Gorgonia, madre di famiglia, che fu figlia di santa Nonna e sorella dei santi Gregorio il Teologo e Cesario, le cui virtù celebrò lo stesso Gregorio."
+            },
+            {
+                "nome": "San Cipriano, abate",
+                "martirologio": "Nel monastero di Genouillac presso Périgueux in Francia, san Cipriano, abate, insigne per la dedizione ai malati."
+            },
+            {
+                "nome": "Beato Liborio Wagner, sacerdote e martire",
+                "martirologio": "Presso il fiume Meno nella Baviera in Germania, beato Liborio Wagner, sacerdote e martire, che, uomo di insigne carità, coronò con l’effusione del sangue la sua cura pastorale resa a servizio tanto dei cattolici quanto dei fratelli separati."
+            },
+            {
+                "nome": "San Siro, vescovo",
+                "martirologio": "A Pavia, san Siro, primo vescovo della città."
+            },
+            {
+                "nome": "San Pietro Fourier, sacerdote",
+                "martirologio": "A Gray in Borgogna, ora in Francia, dove si era rifugiato come esule, transito di san Pietro Fourier, sacerdote, che scelse la poverissima parrocchia di Mattaincourt in Lorena e la curò mirabilmente, istituì i Canonici regolari del Nostro Salvatore e fondò l’Istituto delle Canonichesse regolari di Nostra Signora per impartire un’istruzione gratuita alle fanciulle."
+            },
+            {
+                "nome": "Beato Bernardo Maria di Gesù (Cesare) Silvestrelli, sacerdote",
+                "martirologio": "A Moricone in Sabina nel Lazio, beato Bernardo Maria di Gesù (Cesare) Silvestrelli, sacerdote della Congregazione della Passione, che, eletto preposito generale, si adoperò alacremente per la crescita e la diffusione dell’Ordine."
+            },
+            {
+                "nome": "Beati Riccardo de los Ríos Fabregat, Giuliano Rodríguez Sánchez e Giuseppe Giménez López, sacerdoti",
+                "martirologio": "Nel villaggio di Picadero de Paterna sempre nel territorio di Valencia, beati Riccardo de los Ríos Fabregat, Giuliano Rodríguez Sánchez e Giuseppe Giménez López, sacerdoti della Società Salesiana e martiri, che, durante la persecuzione contro la fede, portarono a termine la gloriosa prova per Cristo."
+            },
+            {
+                "nome": "Beato Giuseppe Ferrer Esteve, sacerdote",
+                "martirologio": "Nella cittadina di Llombay nel territorio di Valencia in Spagna, beato Giuseppe Ferrer Esteve, sacerdote dell’Ordine dei Chierici regolari delle Scuole Pie e martire, fucilato in odio al suo sacerdozio."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Il Signore viene, non tarderà:\nmetterà in luce i segreti delle tenebre\ne si rivelerà a tutte le genti. (Cf. Ab 2,3; 1Cor 4,5)",
+        "colletta": "Dio onnipotente,\nche ci comandi di preparare la via a Cristo Signore,\ndonaci, nella tua benevolenza,\ndi non lasciarci abbattere dalle nostre debolezze,\nmentre attendiamo la consolante presenza del medico celeste.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Il Signore dà forza a chi è stanco.\nDal libro del profeta Isaìa\nIs 40,25-31\n\n«A chi potreste paragonarmi,\nquasi che io gli sia pari?» dice il Santo.\nLevate in alto i vostri occhi e guardate:\nchi ha creato tali cose?\nEgli fa uscire in numero preciso il loro esercito\ne le chiama tutte per nome;\nper la sua onnipotenza e il vigore della sua forza\nnon ne manca alcuna.\nPerché dici, Giacobbe,\ne tu, Israele, ripeti:\n«La mia via è nascosta al Signore\ne il mio diritto è trascurato dal mio Dio»?\nNon lo sai forse?\nNon l'hai udito?\nDio eterno è il Signore,\nche ha creato i confini della terra.\nEgli non si affatica né si stanca,\nla sua intelligenza è inscrutabile.\nEgli dà forza allo stanco\ne moltiplica il vigore allo spossato.\nAnche i giovani faticano e si stancano,\ngli adulti inciampano e cadono;\nma quanti sperano nel Signore riacquistano forza,\nmettono ali come aquile,\ncorrono senza affannarsi,\ncamminano senza stancarsi.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 102 (103)\nR. Benedici il Signore, anima mia.\n\nBenedici il Signore, anima mia,\nquanto è in me benedica il suo santo nome.\nBenedici il Signore, anima mia,\nnon dimenticare tutti i suoi benefici. R.\n\nEgli perdona tutte le tue colpe,\nguarisce tutte le tue infermità,\nsalva dalla fossa la tua vita,\nti circonda di bontà e misericordia. R.\n\nMisericordioso e pietoso è il Signore,\nlento all'ira e grande nell'amore.\nNon ci tratta secondo i nostri peccati\ne non ci ripaga secondo le nostre colpe. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nEcco, viene il Signore a salvare il suo popolo:\nbeati coloro che sono preparati all'incontro.\n\nAlleluia.",
+        "vangelo": "Venite a me, voi tutti che siete stanchi.\nDal Vangelo secondo Matteo\nMt 11,28-30\n\nIn quel tempo, Gesù disse:\n«Venite a me, voi tutti che siete stanchi e oppressi, e io vi darò ristoro. Prendete il mio giogo sopra di voi e imparate da me, che sono mite e umile di cuore, e troverete ristoro per la vostra vita. Il mio giogo infatti è dolce e il mio peso leggero».\n\nParola del Signore.",
+        "sulle_offerte": "Sempre si rinnovi, o Signore,\nl’offerta di questo sacrificio\nche attua il santo mistero da te istituito,\ne con la sua divina potenza\nrenda efficace in noi l’opera della salvezza.\nPer Cristo nostro Signore.\n\nOppure:\n\nDio onnipotente, l’umile offerta che presentiamo\nti sia gradita e ci purifichi nel corpo e nello spirito.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Ecco, il Signore nostro viene con potenza,\nperché si aprano gli occhi dei suoi servi. (Cf. Is 40,10; 35,5)\n\nOppure:\n\n«Venite a me, voi tutti che siete stanchi e oppressi,\ne io vi darò ristoro», dice il Signore. (Mt 11,28)",
+        "dopo_la_comunione": "Imploriamo, o Signore, la tua misericordia:\nla forza divina di questo sacramento\nci purifichi dal peccato\ne ci prepari alle feste del Natale.\nPer Cristo nostro Signore.\n\nOppure:\n\nI santi doni da te ricevuti ci rinnovino, o Signore,\nperché possiamo progredire nel tuo servizio.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

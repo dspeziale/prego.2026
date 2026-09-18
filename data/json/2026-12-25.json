@@ -1,0 +1,60 @@
+{
+    "data": "2026-12-25",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "celebrazione": "Natale del Signore",
+    "grado": "Solennità",
+    "colore": "Bianco",
+    "settimana_del_salterio": null,
+    "santo_del_giorno": "Natale del Signore",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/71ddb8fe-9dce-42db-8517-dbe575e842e0.jpeg",
+    "santo": {
+        "nome": "Natale del Signore",
+        "martirologio": "Trascorsi molti secoli dalla creazione del mondo, quando in principio Dio creò il cielo e la terra e plasmò l’uomo a sua immagine; e molti secoli da quando, dopo il diluvio, l’Altissimo aveva fatto risplendere tra le nubi l’arcobaleno, segno di alleanza e di pace; ventuno secoli dopo che Abramo, nostro Padre nella fede, migrò dalla terra di Ur dei Caldei; tredici secoli dopo l’uscita del popolo d’Israele dall’Egitto sotto la guida di Mosè; circa mille anni dopo l’unzione regale di Davide; nella sessantacinquesima settimana secondo la profezia di Daniele; all’epoca della centonovantaquattresima Olimpiade; nell’anno settecentocinquantadue dalla fondazione di Roma; nel quarantaduesimo anno dell’impero di Cesare Ottaviano Augusto, mentre su tutta la terra regnava la pace, Gesù Cristo, Dio eterno e Figlio dell’eterno Padre, volendo santificare il mondo con la sua piissima venuta, concepito per opera dello Spirito Santo, trascorsi nove mesi, nasce in Betlemme di Giuda dalla Vergine Maria, fatto uomo: Natale di nostro Signore Gesù Cristo secondo la carne.",
+        "altri_santi": [
+            {
+                "nome": "Santa Anastásia, martire",
+                "martirologio": "A Roma, commemorazione di santa Anastásia, martire a Srijem in Pannonia, nell’odierna Croazia."
+            },
+            {
+                "nome": "Santa Eugenia, martire",
+                "martirologio": "Sempre a Roma nel cimitero di Aproniano sulla via Latina, santa Eugenia, martire."
+            },
+            {
+                "nome": "Santi Giovíno e Basiléo, martiri",
+                "martirologio": "Ancora a Roma sulla via Latina, santi Giovíno e Basiléo, martiri."
+            },
+            {
+                "nome": "Beato Pietro il Venerabile, abate",
+                "martirologio": "Nel monastero di Cluny in Borgogna, nell’odierna Francia, beato Pietro il Venerabile, abate, che resse l’Ordine monastico secondo i precetti della primitiva osservanza e compose numerosi trattati."
+            },
+            {
+                "nome": "Beato Bentivoglio de Bonis, sacerdote",
+                "martirologio": "A San Severino nelle Marche, beato Bentivoglio de Bonis, sacerdote dell’Ordine dei Minimi, insigne predicatore."
+            },
+            {
+                "nome": "Beato Michele Nakashima, religioso",
+                "martirologio": "Nella città di Unzen in Giappone, beato Michele Nakashima, religioso della Compagnia di Gesù e martire, che, catechista, per la sua fede in Cristo fu immerso nell’acqua bollente e conseguì, in tal modo, la corona del martirio."
+            },
+            {
+                "nome": "Beata Maria degli Apostoli (Maria Teresa) von Wüllenweber, vergine",
+                "martirologio": "A Roma, beata Maria degli Apostoli (Maria Teresa) von Wüllenweber, vergine, di origine tedesca, che, accesa da ardore missionario, fondò a Tivoli nel Lazio l’Istituto delle Suore del Divino Salvatore."
+            },
+            {
+                "nome": "Sant’Alberto (Adamo) Chmielowski, religioso",
+                "martirologio": "A Cracovia in Polonia, sant’Alberto (Adamo) Chmielowski, religioso, che, illustre pittore, si consacrò ai poveri, proponendosi di essere disponibile in tutto verso di loro, e fondò le Congregazioni dei Frati e delle Suore del Terz’Ordine di San Francesco al servizio dei bisognosi."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

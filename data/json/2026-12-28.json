@@ -1,0 +1,60 @@
+{
+    "data": "2026-12-28",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "celebrazione": "Santi Innocenti martiri",
+    "grado": "Festa",
+    "colore": "Rosso",
+    "settimana_del_salterio": null,
+    "santo_del_giorno": "Santa Famiglia di Gesù, Maria e Giuseppe",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/3196f2b8-9bb6-405a-af96-7640737c5d07.jpeg",
+    "santo": {
+        "nome": "Santa Famiglia di Gesù, Maria e Giuseppe",
+        "martirologio": "Festa della Sacra Famiglia di Gesù, Maria e Giuseppe, esempio santissimo per le famiglie cristiane che ne invocano il necessario aiuto.",
+        "altri_santi": [
+            {
+                "nome": "Santi Innocenti martiri",
+                "martirologio": "Festa dei santi Innocenti martiri, i bambini che a Betlemme di Giuda furono uccisi dall’empio re Erode, perché insieme ad essi morisse il bambino Gesù che i Magi avevano adorato, onorati come martiri fin dai primi secoli e primizia di tutti coloro che avrebbero versato il loro sangue per Dio e per l’Agnello."
+            },
+            {
+                "nome": "San Teone, vescovo",
+                "martirologio": "Ad Alessandria d’Egitto, san Teone, vescovo, che fu maestro e predecessore di san Pietro martire."
+            },
+            {
+                "nome": "Beata Mattia Nazzareni, badessa",
+                "martirologio": "A Matelica nelle Marche, beata Mattia Nazzareni, badessa dell’Ordine delle Clarisse."
+            },
+            {
+                "nome": "Sant’Antonio, monaco",
+                "martirologio": "Commemorazione di sant’Antonio, monaco, che, uomo illustre per garbo e preparazione, dopo aver condotto vita solitaria, si ritirò ormai vecchio nel monastero di Lérins in Provenza, dove si addormentò piamente nel Signore."
+            },
+            {
+                "nome": "Morte di san Francesco di Sales, vescovo",
+                "martirologio": "A Lione in Francia, anniversario della morte di san Francesco di Sales, vescovo di Ginevra, la cui memoria si celebra il 24 gennaio nel giorno della sua deposizione ad Annecy."
+            },
+            {
+                "nome": "San Gaspare del Bufalo, sacerdote",
+                "martirologio": "A Roma, san Gaspare del Bufalo, sacerdote, che lottò strenuamente per la libertà della chiesa e, anche in carcere, non smise mai la sua opera di conversione dei peccatori alla retta via, in particolare attraverso la devozione al Preziosissimo Sangue di Cristo, in cui onore intitolò le Congregazioni dei Missionari e delle Suore da lui fondate."
+            },
+            {
+                "nome": "Beata Caterina Volpicelli, vergine",
+                "martirologio": "A Napoli, beata Caterina Volpicelli, vergine, che, tutta dedita all’assistenza dei poveri e dei malati, fondò l’Istituto delle Ancelle del Sacro Cuore, in cui cercò di fare sempre esprimere la carità cristiana in attività adeguate alle esigenze della società contemporanea."
+            },
+            {
+                "nome": "Beato Gregorio Khomysyn, vescovo",
+                "martirologio": "A Kiev in Ucraina, beato Gregorio Khomysyn, vescovo di Ivano-Frankivsk e martire, che, durante la persecuzione contro la fede, meritò di sedere al banchetto celeste dell’Agnello."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

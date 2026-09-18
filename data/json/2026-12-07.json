@@ -1,0 +1,66 @@
+{
+    "data": "2026-12-07",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "II",
+    "celebrazione": "SANT'AMBROGIO, VESCOVO E DOTTORE DELLA CHIESA - memoria",
+    "grado": "Memoria",
+    "colore": "Bianco",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "Sant'Ambrogio, vescovo e dottore della Chiesa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/765a81f4-5bee-48c3-9c47-b45a3950302b.jpeg",
+    "santo": {
+        "nome": "Sant'Ambrogio, vescovo e dottore della Chiesa",
+        "martirologio": "Memoria di sant’Ambrogio, vescovo di Milano e dottore della Chiesa, che si addormentò nel Signore il 4 aprile, ma è venerato in particolare in questo giorno, nel quale ricevette, ancora catecumeno, l’episcopato di questa celebre sede, mentre era prefetto della città. Vero pastore e maestro dei fedeli, fu pieno di carità verso tutti, difese strenuamente la libertà della Chiesa e la retta dottrina della fede contro l’arianesimo e istruì nella devozione il popolo con commentari e inni per il canto.",
+        "altri_santi": [
+            {
+                "nome": "San Sabino, vescovo e martire",
+                "martirologio": "A Spoleto in Umbria, san Sabino, venerato come vescovo e martire."
+            },
+            {
+                "nome": "Sant’Atenodoro, martire",
+                "martirologio": "In Siria, sant’Atenodoro, martire, che, come si tramanda, dopo essere stato torturato con il fuoco e con altri supplizi sotto l’imperatore Diocleziano e il governatore Eleusio, fu, infine, condannato a morte, ma crollato a terra il suo carnefice, né osando alcun altro colpirlo con la spada, pregando si addormentò nel Signore."
+            },
+            {
+                "nome": "Sant’Urbano, vescovo",
+                "martirologio": "A Teano in Campania, sant’Urbano, vescovo."
+            },
+            {
+                "nome": "San Giovanni Silenziario o l’Esicasta",
+                "martirologio": "In Palestina, san Giovanni Silenziario o l’Esicasta, che, lasciato l’episcopato di Colonia nell’antica Armenia, condusse nella laura di san Saba una vita monastica di umile servizio ai fratelli, di rigorosa solitudine e di silenzio."
+            },
+            {
+                "nome": "Santa Fara, badessa",
+                "martirologio": "A Faremoutiers nel territorio di Meaux in Francia, santa Fara, badessa, che, dopo avere retto per molti anni il monastero, si unì all’assemblea delle vergini che seguono l’Agnello di Dio."
+            },
+            {
+                "nome": "San Carlo Garnier, sacerdote",
+                "martirologio": "Nello Stato dell’Ontario in Canada, passione di san Carlo Garnier, sacerdote della Compagnia di Gesù e martire, che, gravemente ferito durante una incursione da alcuni pagani mentre versava l’acqua del battesimo sui catecumeni, morì con un colpo di scure. La sua memoria si celebra il 19 ottobre insieme a quella dei suoi compagni."
+            },
+            {
+                "nome": "Santa Maria Giuseppa (Benedetta) Rossello, vergine",
+                "martirologio": "A Savona, Santa Maria Giuseppa (Benedetta) Rossello, vergine, che fondò l’Istituto delle Figlie di Nostra Signora della Misericordia e si dedicò con fervore alla salvezza delle anime, confidando solo in Dio."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "In mezzo alla Chiesa gli ha aperto la bocca,\nil Signore lo ha colmato dello spirito di sapienza e d’intelligenza;\ngli ha fatto indossare una veste di gloria. (Cf. Sir 15,5)",
+        "colletta": "O Dio, che nel vescovo sant’Ambrogio\nci hai dato un maestro della fede cattolica\ne un esempio di apostolica fortezza,\nsuscita nella tua Chiesa uomini secondo il tuo cuore\nche la governino con coraggio e sapienza.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Il nostro Dio viene a salvarci.\nDal libro del profeta Isaìa\nIs 35,1-10\n\nSi rallegrino il deserto e la terra arida,\nesulti e fiorisca la steppa.\nCome fiore di narciso fiorisca;\nsì, canti con gioia e con giubilo.\nLe è data la gloria del Libano,\nlo splendore del Carmelo e di Saron.\nEssi vedranno la gloria del Signore,\nla magnificenza del nostro Dio.\nIrrobustite le mani fiacche,\nrendete salde le ginocchia vacillanti.\nDite agli smarriti di cuore:\n«Coraggio, non temete!\nEcco il vostro Dio,\ngiunge la vendetta,\nla ricompensa divina.\nEgli viene a salvarvi».\nAllora si apriranno gli occhi dei ciechi\ne si schiuderanno gli orecchi dei sordi.\nAllora lo zoppo salterà come un cervo,\ngriderà di gioia la lingua del muto,\nperché scaturiranno acque nel deserto,\nscorreranno torrenti nella steppa.\nLa terra bruciata diventerà una palude,\nil suolo riarso sorgenti d'acqua.\nI luoghi dove si sdraiavano gli sciacalli\ndiventeranno canneti e giuncaie.\nCi sarà un sentiero e una strada\ne la chiameranno via santa;\nnessun impuro la percorrerà.\nSarà una via che il suo popolo potrà percorrere\ne gli ignoranti non si smarriranno.\nNon ci sarà più il leone,\nnessuna bestia feroce la percorrerà o vi sosterà.\nVi cammineranno i redenti.\nSu di essa ritorneranno i riscattati dal Signore\ne verranno in Sion con giubilo;\nfelicità perenne splenderà sul loro capo;\ngioia e felicità li seguiranno\ne fuggiranno tristezza e pianto.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 84 (85)\nR. Ecco il nostro Dio, egli viene a salvarci.\n\nAscolterò che cosa dice Dio, il Signore:\negli annuncia la pace.\nSì, la sua salvezza è vicina a chi lo teme,\nperché la sua gloria abiti la nostra terra. R.\n\nAmore e verità s'incontreranno,\ngiustizia e pace si baceranno.\nVerità germoglierà dalla terra\ne giustizia si affaccerà dal cielo. R.\n\nCerto, il Signore donerà il suo bene\ne la nostra terra darà il suo frutto;\ngiustizia camminerà davanti a lui:\ni suoi passi tracceranno il cammino. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nEcco verrà il Signore,\nstrapperà via il giogo della nostra schiavitù.\n\nAlleluia.",
+        "vangelo": "Oggi abbiamo visto cose prodigiose.\nDal Vangelo secondo Luca\nLc 5,17-26\n\nUn giorno Gesù stava insegnando. Sedevano là anche dei farisei e maestri della Legge, venuti da ogni villaggio della Galilea e della Giudea, e da Gerusalemme. E la potenza del Signore gli faceva operare guarigioni.\nEd ecco, alcuni uomini, portando su un letto un uomo che era paralizzato, cercavano di farlo entrare e di metterlo davanti a lui. Non trovando da quale parte farlo entrare a causa della folla, salirono sul tetto e, attraverso le tegole, lo calarono con il lettuccio davanti a Gesù nel mezzo della stanza.\nVedendo la loro fede, disse: «Uomo, ti sono perdonati i tuoi peccati». Gli scribi e i farisei cominciarono a discutere, dicendo: «Chi è costui che dice bestemmie? Chi può perdonare i peccati, se non Dio soltanto?».\nMa Gesù, conosciuti i loro ragionamenti, rispose: «Perché pensate così nel vostro cuore? Che cosa è più facile: dire \"Ti sono perdonati i tuoi peccati\", oppure dire \"Àlzati e cammina\"? Ora, perché sappiate che il Figlio dell'uomo ha il potere sulla terra di perdonare i peccati, dico a te - disse al paralitico -: àlzati, prendi il tuo lettuccio e torna a casa tua». Subito egli si alzò davanti a loro, prese il lettuccio su cui era disteso e andò a casa sua, glorificando Dio.\nTutti furono colti da stupore e davano gloria a Dio; pieni di timore dicevano: «Oggi abbiamo visto cose prodigiose».\n\nParola del Signore.",
+        "sulle_offerte": "O Signore, lo Spirito Santo infonda in noi,\nche celebriamo i divini misteri,\nla stessa luce di fede\nche illuminò sempre sant’Ambrogio\nper la diffusione della tua gloria.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Chi medita la legge del Signore giorno e notte, darà frutto\na suo tempo. (Cf. Sal 1,2.3)",
+        "dopo_la_comunione": "O Dio,\nche ci hai fortificati con la potenza di questo sacramento,\nfa’ che progrediamo\nsull’esempio di sant’Ambrogio,\nper camminare forti nelle tue vie\ne prepararci a gustare la dolcezza del banchetto eterno.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

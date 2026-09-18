@@ -1,0 +1,52 @@
+{
+    "data": "2026-12-18",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "III",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Viola",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "San Malachia, profeta",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2024/12/4447f7ba-74dd-496b-9186-39fee90f49f0.jpeg",
+    "santo": {
+        "nome": "San Malachia, profeta",
+        "martirologio": "Commemorazione di san Malachia, profeta, che, dopo il ritorno da Babilonia preannunciò il grande giorno del Signore e la sua venuta nel tempio e che sempre e dovunque si deve offrire al suo nome una oblazione pura.",
+        "altri_santi": [
+            {
+                "nome": "Santi martiri Namfamone, Míggine, Sanámis e Lucítas",
+                "martirologio": "Nell’Africa settentrionale, commemorazione dei santi martiri Namfamone, Míggine, Sanámis e Lucítas, che, secondo la testimonianza del pagano Massimo di Madaura in una lettera a sant’Agostino, godevano di grande venerazione presso il popolo cristiano."
+            },
+            {
+                "nome": "San Gaziano, vescovo",
+                "martirologio": "A Tours nella Gallia lugdunense, ora in Francia, san Gaziano, primo vescovo, che si dice sia stato trasferito da Roma a questa città e sia stato sepolto nel cimitero cristiano del luogo."
+            },
+            {
+                "nome": "San Flannano, vescovo",
+                "martirologio": "A Killaloe in Irlanda, san Flannano, vescovo."
+            },
+            {
+                "nome": "San Vinebaldo, abate",
+                "martirologio": "Nel monastero di Hildesheim nella Baviera, in Germania, san Vinebaldo, abate, che, di origine inglese, insieme al fratello san Villibaldo seguì san Bonifacio e lo aiutò nell’opera di evangelizzazione delle popolazioni germaniche."
+            },
+            {
+                "nome": "Santi Paolo Nguy n Van My, Pietro Truong Van Duong e Pietro Vu Van Truat, martiri",
+                "martirologio": "Sul colle Gò-Voi nel Tonchino, ora Viet Nam, santi Paolo Nguy n Van My, Pietro Truong Van Duong e Pietro Vu Van Truat, martiri, che, catechisti, saldi nella fede, morirono strangolati sotto l’imperatore Minh Mang."
+            },
+            {
+                "nome": "Beata Nemesia (Giulia) Valle, vergine",
+                "martirologio": "A Borgaro vicino a Torino, beata Nemesia (Giulia) Valle, vergine dell’Istituto delle Suore della Carità, che, insigne nel formare i giovani e guidarli all’amore del Vangelo, percorse sempre la via dei precetti del Signore nella carità verso il prossimo."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

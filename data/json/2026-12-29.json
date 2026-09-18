@@ -1,0 +1,76 @@
+{
+    "data": "2026-12-29",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Bianco",
+    "settimana_del_salterio": null,
+    "santo_del_giorno": "San Tommaso Beckett, vescovo e martire",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/42ce2c09-276a-4870-9218-f276ef45be0c.jpeg",
+    "santo": {
+        "nome": "San Tommaso Beckett, vescovo e martire",
+        "martirologio": "San Tommaso Beckett, vescovo e martire, che per avere difeso la giustizia e la Chiesa fu costretto all’esilio dalla sua sede di Canterbury e dal regno stesso d’Inghilterra e, tornato in patria dopo sei anni, patì ancora molto, finché passò a Cristo, trafitto con la spada dalle guardie del re Enrico II nella cattedrale.",
+        "altri_santi": [
+            {
+                "nome": "San Davide, re e profeta",
+                "martirologio": "Commemorazione di san Davide, re e profeta, che, figlio di Iesse il Betlemita, trovò grazia presso Dio e fu unto con olio santo dal profeta Samuele, perché regnasse sul popolo d’Israele; trasportò nella città di Gerusalemme l’Arca dell’Alleanza del Signore e il Signore stesso gli giurò che la sua discendenza sarebbe rimasta in eterno, perché da essa sarebbe nato Gesù Cristo secondo la carne."
+            },
+            {
+                "nome": "San Trófimo, vescovo",
+                "martirologio": "Ad Arles nella Provenza in Francia, san Trófimo, ritenuto primo vescovo di questa città."
+            },
+            {
+                "nome": "San Libóso, vescovo",
+                "martirologio": "A Cartagine, nell’odierna Tunisia, san Libóso, vescovo di Béja e martire, che nel Concilio di Cartagine sulla questione del battesimo degli eretici affermò: «Nel Vangelo Cristo ha detto: Io sono la verità, e non: Io sono la consuetudine»."
+            },
+            {
+                "nome": "San Martiniano, vescovo",
+                "martirologio": "A Milano, san Martiniano, vescovo."
+            },
+            {
+                "nome": "San Marcello, abate",
+                "martirologio": "A Costantinopoli, san Marcello, abate del monastero degli Acemeti sul Bosforo, nel quale si eseguiva giorno e notte ininterrottamente il canto dei salmi."
+            },
+            {
+                "nome": "Sant’Ebrolfo, abate",
+                "martirologio": "A Exmes in Neustria, ora in Francia, sant’Ebrolfo, abate del monastero di Ouche al tempo del re Childeberto."
+            },
+            {
+                "nome": "Beato Gerardo Cagnoli, religioso",
+                "martirologio": "A Palermo, beato Gerardo Cagnoli, religioso dell’Ordine dei Minori, che in precedenza aveva condotto a lungo vita eremitica."
+            },
+            {
+                "nome": "Beato Guglielmo Howard, martire",
+                "martirologio": "A Londra in Inghilterra, beato Guglielmo Howard, martire, che, visconte di Stafford, professò la fede cattolica e, falsamente accusato per questo di cospirazione contro il re Carlo II, morì per Cristo con un colpo di scure."
+            },
+            {
+                "nome": "Santi Benedetta Hyon Kyong-nyon e compagni, martiri",
+                "martirologio": "A Seul in Corea, santi Benedetta Hyon Kyong-nyon, vedova e catechista, e sei compagni70, martiri, che, dopo aver sofferto molti supplizi per il nome di Cristo, morirono infine decapitati. I loro nomi sono: santi Pietro Ch’oe Ch’ang-hub, catechista; Barbara Cho Chung-i, vedova di san Sebastiano Nam I-gwan; Maddalena Han Yong-i, vedova; Elisabetta Chong Chong-hye, vergine, figlia di santa Cecilia Yu So-sa e sorella di san Paolo Chong Hasang; Barbara Ko Sun-i, moglie di sant’Agostino Pak Chong-won: Maddalena Yi Yong-dog, vergine, sorella di santa Caterina Yi."
+            },
+            {
+                "nome": "Beato Giuseppe Aparicio Sanz, sacerdote e martire",
+                "martirologio": "Nella città di Paterna nel territorio di Valencia in Spagna, beato Giuseppe Aparicio Sanz, sacerdote e martire, che, durante la persecuzione contro la fede, versò il sangue per Cristo."
+            },
+            {
+                "nome": "Beati martiri Enrico Giovanni Requena e Giuseppe Perpiñá Nacher",
+                "martirologio": "Nel villaggio di Picadero de Paterna sempre nel territorio di Valencia, beati martiri Enrico Giovanni Requena, sacerdote, e Giuseppe Perpiñá Nacher, che portarono a termine la gloriosa prova per Cristo."
+            },
+            {
+                "nome": "Beato Giovanni Battista Ferreres Boluda, sacerdote e martire",
+                "martirologio": "Nel villaggio di San Miguel de los Reyes nello stesso territorio, beato Giovanni Battista Ferreres Boluda, sacerdote della Compagnia di Gesù e martire, che, nella stessa persecuzione, imitando la passione di Cristo, meritò di conseguire la palma della gloria."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

@@ -1,0 +1,68 @@
+{
+    "data": "2026-12-13",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "III",
+    "celebrazione": null,
+    "grado": "Domenica",
+    "colore": "Viola",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "Sant’Aristone, martire",
+    "immagine_santo": null,
+    "santo": {
+        "nome": "Sant’Aristone, martire",
+        "martirologio": "Presso l’odierna Fiumicino, sant’Aristone, martire.",
+        "altri_santi": [
+            {
+                "nome": "Santi Eustrazio, Aussenzio, Eugenio, Mardario e Oreste, martiri",
+                "martirologio": "In Armenia, santi Eustrazio, Aussenzio, Eugenio, Mardario e Oreste, martiri."
+            },
+            {
+                "nome": "Santa Lucia, vergine e martire",
+                "martirologio": "Memoria di santa Lucia, vergine e martire, che custodì, finché visse, la lampada accesa per andare incontro allo Sposo e, a Siracusa in Sicilia condotta alla morte per Cristo, meritò di accedere con lui alle nozze del cielo e di possedere la luce che non conosce tramonto."
+            },
+            {
+                "nome": "San Giudoco, sacerdote ed eremita",
+                "martirologio": "Nella Neustria settentrionale, ora in Francia, san Giudoco, sacerdote ed eremita, che, figlio di Giutaele, re della Bretagna, e fratello di san Giudicaele, per non essere costretto a succedere al padre, lasciò la patria e si ritirò a vita eremitica."
+            },
+            {
+                "nome": "Sant’Antioco, martire",
+                "martirologio": "Nel promontorio di Sulcis in Sardegna, sant’Antioco, martire."
+            },
+            {
+                "nome": "Sant’Autbero, vescovo",
+                "martirologio": "A Cambrai nell’Austrasia, in Francia, sant’Autbero, vescovo."
+            },
+            {
+                "nome": "Santa Ottilia, vergine e badessa",
+                "martirologio": "Nel territorio di Strasburgo nell’antica Burgundia in Francia, santa Ottilia, vergine e prima badessa del monastero di Hohenbourg fondato da suo padre, il duca Adalríco."
+            },
+            {
+                "nome": "Beato Giovanni (Francesco) Marinoni, sacerdote",
+                "martirologio": "A Napoli, beato Giovanni (Francesco) Marinoni, sacerdote dell’Ordine dei Chierici regolari detti Teatini, che si dedicò insieme a san Gaetano alla riforma del clero e alla salvezza delle anime e diede impulso al Monte di Pietà per l’aiuto ai bisognosi."
+            },
+            {
+                "nome": "Santa Giovanna Francesca Frémiot de Chantal",
+                "martirologio": "Nel monastero della Visitazione a Moulins in Francia, anniversario della morte di santa Giovanna Francesca Frémiot de Chantal, la cui memoria si celebra il 12 agosto."
+            },
+            {
+                "nome": "Beato Antonio Grassi, sacerdote",
+                "martirologio": "A Fermo nelle Marche, beato Antonio Grassi, sacerdote della Congregazione dell’Oratorio, uomo umile e pacifico, che con il suo esempio spinse fortemente molti confratelli all’osservanza della regola."
+            },
+            {
+                "nome": "Santi Pietro Cho Hwa-so e cinque compagni, martiri",
+                "martirologio": "Nel territorio di Tiyen-Tiyou in Corea, santi Pietro Cho Hwa-so, padre di famiglia, e cinque compagni, martiri, che, sebbene tentati dal mandarino con promesse e torture a rinnegare la religione cristiana, resistettero fino alla decapitazione. I loro nomi sono: santi Pietro Yi Myong-so e Bartolomeo Chong Mun-ho, padri di famiglia; Pietro Son Son-Ji, padre di famiglia e catechista; Giuseppe Pietro Han Chaekwon, prima catechista; Pietro Chong Won ji, adolescente."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

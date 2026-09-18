@@ -1,0 +1,48 @@
+{
+    "data": "2026-12-21",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "IV",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Viola",
+    "settimana_del_salterio": "IV",
+    "santo_del_giorno": "San Pietro Canisio, presbitero e dottore della Chiesa",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/b3f91976-2939-4e30-ae76-d8960259e6be.jpeg",
+    "santo": {
+        "nome": "San Pietro Canisio, presbitero e dottore della Chiesa",
+        "martirologio": "San Pietro Canisio, sacerdote della Compagnia di Gesù e dottore della Chiesa, che, mandato in Germania, si adoperò strenuamente per molti anni nel difendere e rafforzare la fede cattolica con la predicazione e con i suoi scritti, tra i quali il celebre Catechismo. A Friburgo in Svizzera prese infine riposo dalle sue fatiche.",
+        "altri_santi": [
+            {
+                "nome": "San Michea, profeta",
+                "martirologio": "Commemorazione di san Michea, profeta, che al tempo di Iotam, Acaz ed Ezechia, re di Giuda, con la sua predicazione difese gli oppressi, condannò gli idoli e le ingiustizie e preannunciò al popolo eletto che sarebbe nato in Betlemme di Giuda il re promesso fin dai giorni più remoti, per pascolare Israele con la forza del Signore."
+            },
+            {
+                "nome": "San Temistocle, martire",
+                "martirologio": "In Licia, nell’odierna Turchia, san Temistocle, martire, che si racconta si sia offerto, sotto l’imperatore Decio, al posto di san Dioscoro, ricercato per essere messo a morte, e, torturato sul cavalletto, trascinato per le vie e fustigato, abbia conseguito la corona del martirio."
+            },
+            {
+                "nome": "Beato Domenico Spadafora, sacerdote",
+                "martirologio": "A Montecerignone nelle Marche, beato Domenico Spadafora, sacerdote dell’Ordine dei Predicatori, che si adoperò attivamente nel ministero della predicazione."
+            },
+            {
+                "nome": "Passione dei santi Andrea Dung Lac e Pietro Truong Van Thi, sacerdoti e martiri",
+                "martirologio": "Ad Hanoi nel Tonchino, ora Viet Nam, passione dei santi Andrea Dung Lac e Pietro Truong Van Thi, sacerdoti e martiri, che conclusero con la decapitazione il loro combattimento rifiutando l’ordine di oltraggiare la croce. La loro memoria si celebra il 24 novembre."
+            },
+            {
+                "nome": "Beato Pietro Friedhofen, religioso",
+                "martirologio": "A Coblenza nella Renania in Germania, beato Pietro Friedhofen, religioso, che, dapprima spazzacamino, fondò poi la Congregazione dei Frati della Misericordia di Maria Ausiliatrice, per la quale dovette sopportare con mitezza e serenità d’animo derisioni e molestie."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

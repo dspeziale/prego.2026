@@ -1,0 +1,72 @@
+{
+    "data": "2026-12-16",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "III",
+    "celebrazione": null,
+    "grado": "Feria",
+    "colore": "Viola",
+    "settimana_del_salterio": "III",
+    "santo_del_giorno": "san Beano, eremita",
+    "immagine_santo": null,
+    "santo": {
+        "nome": "san Beano, eremita",
+        "martirologio": "In Irlanda, san Beano, eremita.",
+        "altri_santi": [
+            {
+                "nome": "Sant’Everardo",
+                "martirologio": "A Cisoing nella regione dell’Artois in Francia, sant’Everardo, che, conte del Friuli, fondò in questo luogo un monastero di canonici regolari, dove alcuni anni dopo la sua morte fu piamente deposto."
+            },
+            {
+                "nome": "Sant’Aggeo, profeta",
+                "martirologio": "Commemorazione di sant’Aggeo, profeta, che, al tempo di Zorobabele, re di Giuda, esortò il popolo a riedificare la casa del Signore, nella quale affluiranno le ricchezze di tutte le genti."
+            },
+            {
+                "nome": "Sante martiri d’Africa",
+                "martirologio": "Commemorazione di moltissime sante vergini, che in Africa durante la persecuzione vandalica sotto il re ariano Unnerico, patendo pesi e lame infuocate, coronarono felicemente con il martirio il loro combattimento per la fede."
+            },
+            {
+                "nome": "Sant’Adone, vescovo",
+                "martirologio": "A Vienne in Borgogna, nell’odierna Francia, sant’Adone, vescovo, che da monaco fu eletto vescovo e onorò degnamente la memoria dei santi componendo un martirologio."
+            },
+            {
+                "nome": "Sant’Adelaide, imperatrice",
+                "martirologio": "A Selz vicino a Strasburgo in Lotaringia, nell’odierna Francia, sant’Adelaide, imperatrice, che mostrò sobria giocondità verso i familiari, decorosa compostezza con gli estranei, instancabile pietà verso i poveri, munifica generosità nell’onorare le chiese di Dio."
+            },
+            {
+                "nome": "Beato Clemente Marchisio, sacerdote",
+                "martirologio": "A Rivalba in Piemonte, beato Clemente Marchisio, sacerdote, che, parroco del luogo, fondò l’Istituto delle Figlie di San Giuseppe."
+            },
+            {
+                "nome": "Beato Onorato da Biala Podlaska (Fiorenzo) Kazminsky, sacerdote",
+                "martirologio": "Nella città di Nowe Miasto in Polonia, beato Onorato da Biala Podlaska (Fiorenzo) Kazminsky, sacerdote dell’Ordine dei Frati Minori Cappuccini, che si adoperò egregiamente nel servire i penitenti, nel predicare la parola di Dio e nel confortare in carcere i prigionieri."
+            },
+            {
+                "nome": "San Macario da Collesano, monaco",
+                "martirologio": "In Basilicata, san Macario da Collesano, monaco, che, insigne per l'umiltà e i digiuni, resse con saggezza vari cenobi tra i pendii del Mercurio e del Latiniano."
+            },
+            {
+                "nome": "Beato Sebastiano (Salvatico) Maggi, sacerdote",
+                "martirologio": "A Genova, commemorazione del beato Sebastiano (Salvatico) Maggi, sacerdote dell’Ordine dei Predicatori, che predicò il Vangelo al popolo ligure e si occupò dell’osservanza della disciplina nei conventi."
+            },
+            {
+                "nome": "Beato Filippo Siphong Onphitak, martire",
+                "martirologio": "Vicino alla città di Mukdahan in Thailandia, beato Filippo Siphong Onphitak, martire, che, padre di famiglia, dopo l’allontanamento del sacerdote dal villaggio di Song-Khon fu nominato capo della comunità cristiana e, alle prime avvisaglie della persecuzione contro i cristiani, fu condotto con l’inganno presso il fiume Tum Nok e fucilato."
+            },
+            {
+                "nome": "Beata Maria degli Angeli (Marianna) Fontanella, vergine",
+                "martirologio": "A Torino, beata Maria degli Angeli (Marianna) Fontanella, vergine dell’Ordine dei Carmelitani, insigne per le sue volontarie penitenze e per la virtù dell’obbedienza."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

@@ -1,0 +1,82 @@
+{
+    "data": "2026-12-11",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "II",
+    "celebrazione": "Venerdì della II settimana di Avvento",
+    "grado": "Feria",
+    "colore": "Viola",
+    "settimana_del_salterio": "II",
+    "santo_del_giorno": "Santi Vittoríco e Fusciano, martiri",
+    "immagine_santo": null,
+    "santo": {
+        "nome": "Santi Vittoríco e Fusciano, martiri",
+        "martirologio": "Nel territorio di Amiens nella Gallia belgica, ora in Francia, santi Vittoríco e Fusciano, martiri.",
+        "altri_santi": [
+            {
+                "nome": "Beato Davide, monaco",
+                "martirologio": "Nel monastero di Himmerod vicino a Treviri in Germania, beato Davide, monaco, che, debole nel corpo, fu accolto a Chiaravalle da san Bernardo, che lo mandò poi con dei confratelli in Germania a fondare un nuovo monastero, dove giorno e notte attese alla preghiera e alle opere buone."
+            },
+            {
+                "nome": "San Damaso I, papa",
+                "martirologio": "San Damaso I, papa, che, nelle difficoltà dei suoi tempi, convocò molti sinodi per difendere la fede nicena contro gli scismi e le eresie, incaricò san Girolamo di tradurre in latino i libri sacri e onorò i sepolcri dei martiri adornandoli di versi."
+            },
+            {
+                "nome": "San Daniele, detto Stilita, sacerdote",
+                "martirologio": "A Costantinopoli, san Daniele, detto Stilita, sacerdote, che, dopo aver condotto vita monastica e superato molte difficoltà, seguendo l’esempio di vita di san Simeone, alloggiò sull’alto di una colonna per trentatré anni e tre mesi fino alla morte, imperterrito davanti all’impeto del freddo, del caldo o dei venti."
+            },
+            {
+                "nome": "San Sabino, vescovo",
+                "martirologio": "A Piacenza, san Sabino, vescovo, che chiamò folle intere alla fede in Cristo, istituì monasteri per le vergini e lottò coraggiosamente per la verità nicena."
+            },
+            {
+                "nome": "Beati Martino Lumbreras Peralta e Melchiorre Sánchez Pérez, sacerdoti",
+                "martirologio": "A Nagasaki in Giappone, beati Martino Lumbreras Peralta e Melchiorre Sánchez Pérez, sacerdoti dell’Ordine di Sant’Agostino e martiri, che appena entrati in questa città furono arrestati e gettati in una oscura cella e, infine, mandati al rogo."
+            },
+            {
+                "nome": "Beato Franco Lippi, eremita",
+                "martirologio": "A Siena, beato Franco Lippi, eremita dell’Ordine dei Carmelitani, insigne per la grande austerità di vita."
+            },
+            {
+                "nome": "Beato Girolamo, sacerdote",
+                "martirologio": "A Sant’Angelo in Vado sempre nelle Marche, beato Girolamo, sacerdote dell’Ordine dei Servi di Maria, che nella solitudine e nel silenzio raggiunse la sapienza della santità."
+            },
+            {
+                "nome": "Santa Mirabilia di Gesù Pidal y Chico de Guzmán, vergine",
+                "martirologio": "Nella cittadina La Aldehuela nella regione di Madrid sempre in Spagna, santa Mirabilia di Gesù Pidal y Chico de Guzmán, vergine dell’Ordine delle Carmelitane Scalze, che fondò molti monasteri in Spagna e in India, unendo la vita contemplativa a una operosa carità."
+            },
+            {
+                "nome": "Beato Ugolino Magalotti, eremita",
+                "martirologio": "Nel territorio di Camerino nelle Marche, beato Ugolino Magalotti, eremita del Terz’Ordine di san Francesco."
+            },
+            {
+                "nome": "Beata Maria del Pilar Villalonga Villalba, vergine e martire",
+                "martirologio": "In località detta El Saler vicino a Valencia in Spagna, beata Maria del Pilar Villalonga Villalba, vergine e martire, che, durante la persecuzione religiosa, seguì con il suo martirio le orme di Cristo."
+            },
+            {
+                "nome": "Beato Arturo Bell, sacerdote",
+                "martirologio": "A Londra in Inghilterra, beato Arturo Bell, sacerdote dell’Ordine dei Frati Minori e martire, che per il solo fatto di essere sacerdote fu condannato a morte sotto il re Carlo I e impiccato a Tyburn."
+            }
+        ]
+    },
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Ecco, il Signore verrà con splendore\na visitare il suo popolo nella pace\nper fargli dono della vita eterna.",
+        "colletta": "Rafforza, o Padre, la nostra vigilanza\nnell’attesa del tuo Figlio,\nperché, illuminati dalla sua parola di salvezza,\nandiamo incontro a lui con le lampade accese.\nEgli è Dio, e vive e regna con te.",
+        "prima_lettura": "Se tu avessi prestato attenzione ai miei comandi!\nDal libro del profeta Isaia\nIs 48,17-19\n\nCosì dice il Signore, tuo redentore,\nil Santo d'Israele:\n«Io sono il Signore, tuo Dio,\nche ti insegno per il tuo bene,\nche ti guido per la strada su cui devi andare.\nSe avessi prestato attenzione ai miei comandi,\nil tuo benessere sarebbe come un fiume,\nla tua giustizia come le onde del mare.\nLa tua discendenza sarebbe come la sabbia\ne i nati dalle tue viscere come i granelli d'arena.\nNon sarebbe mai radiato né cancellato\nil suo nome davanti a me».\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 1\nR. Chi ti segue, Signore, avrà la luce della vita.\n\nBeato l'uomo che non entra nel consiglio dei malvagi,\nnon resta nella via dei peccatori\ne non siede in compagnia degli arroganti,\nma nella legge del Signore trova la sua gioia,\nla sua legge medita giorno e notte. R .\n\nÈ come albero piantato lungo corsi d'acqua,\nche dà frutto a suo tempo:\nle sue foglie non appassiscono\ne tutto quello che fa, riesce bene. R.\n\nNon così, non così i malvagi,\nma come pula che il vento disperde;\npoiché il Signore veglia sul cammino dei giusti,\nmentre la via dei malvagi va in rovina. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nIl Signore viene, andiamogli incontro:\negli è il principe della pace.\n\nAlleluia.",
+        "vangelo": "Non ascoltano né Giovanni né il Figlio dell'uomo.\nDal Vangelo secondo Matteo\nMt 11,16-19\n\nIn quel tempo, Gesù disse alle folle:\n«A chi posso paragonare questa generazione? È simile a bambini che stanno seduti in piazza e, rivolti ai compagni, gridano:\n\"Vi abbiamo suonato il flauto e non avete ballato, abbiamo cantato un lamento e non vi siete battuti il petto!\".\nÈ venuto Giovanni, che non mangia e non beve, e dicono: \"È indemoniato\". È venuto il Figlio dell'uomo, che mangia e beve, e dicono: \"Ecco, è un mangione e un beone, un amico di pubblicani e di peccatori\".\nMa la sapienza è stata riconosciuta giusta per le opere che essa compie».\n\nParola del Signore.",
+        "sulle_offerte": "Guarda con benevolenza, o Signore,\nalle preghiere e al sacrificio\nche umilmente ti presentiamo:\nall’estrema povertà dei nostri meriti\nsupplisca l’aiuto della tua misericordia.\nPer Cristo nostro Signore.\n\nOppure:\n\nIl sacrificio che offriamo alla tua maestà, Signore,\ngiovi alla nostra salvezza\ne sia gradito al tuo amore di Padre.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Aspettiamo il nostro Salvatore Gesù Cristo:\negli trasfigurerà il nostro corpo mortale\na immagine del suo corpo glorioso. (Cf. Fil 3,20-21)\n\nOppure:\n\nIl Figlio dell'uomo è amico di pubblicani e di peccatori.\nLa sapienza è stata riconosciuta giusta\nper le opere che essa compie. (Cf. Mt 11,19)",
+        "dopo_la_comunione": "Saziati del cibo spirituale, o Signore,\na te innalziamo la nostra supplica:\nper la partecipazione a questo sacramento,\ninsegnaci a valutare con sapienza i beni della terra\ne a tenere fisso lo sguardo su quelli del cielo.\nPer Cristo nostro Signore.\n\nOppure:\n\nNutriti con il pane del cielo,\numilmente ti preghiamo, Signore:\nfa’ che otteniamo il perdono delle colpe,\nla salute del corpo,\nla grazia e la gloria eterna dell’anima.\nPer Cristo nostro Signore."
+    },
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}

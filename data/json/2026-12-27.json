@@ -1,0 +1,44 @@
+{
+    "data": "2026-12-27",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": "B",
+    "ciclo_biennale": "I",
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "celebrazione": "San Giovanni apostolo ed evangelista",
+    "grado": "Festa",
+    "colore": "Bianco",
+    "settimana_del_salterio": null,
+    "santo_del_giorno": "San Giovanni, Apostolo ed Evangelista",
+    "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/454b9438-4e3b-4869-842f-f184d9e54cc5.jpeg",
+    "santo": {
+        "nome": "San Giovanni, Apostolo ed Evangelista",
+        "martirologio": "Festa di san Giovanni, Apostolo ed Evangelista, che, figlio di Zebedeo, fu insieme al fratello Giacomo e a Pietro testimone della trasfigurazione e della passione del Signore, dal quale ricevette stando ai piedi della croce Maria come madre. Nel Vangelo e in altri scritti si dimostra teologo, che, ritenuto degno di contemplare la gloria del Verbo incarnato, annunciò ciò che vide con i propri occhi.",
+        "altri_santi": [
+            {
+                "nome": "Santa Fabíola, vedova romana",
+                "martirologio": "Commemorazione di santa Fabíola, vedova romana, che, secondo la testimonianza di san Girolamo, volse e destinò la sua vita di penitenza a beneficio dei poveri."
+            },
+            {
+                "nome": "San Teodoro, monaco",
+                "martirologio": "Ad Hisarlik in Bitinia, nell’odierna Turchia, passione di san Teodoro, monaco del monastero di San Saba in Palestina, sacerdote e martire, che, a Costantinopoli, insieme a suo fratello Teofane, per aver difeso il culto delle sacre immagini, dopo aver subito la fustigazione, la prigionia, l’esilio e il supplizio dell’incisione di alcuni versi sulla fronte, che gli valse il nome di Graptós, “marchiato”, spirò alla fine in carcere."
+            },
+            {
+                "nome": "Beato Alfredo Parte, sacerdote",
+                "martirologio": "A Santander in Cantabria sulla costa della Spagna, beato Alfredo Parte, sacerdote dell’Ordine dei Chierici regolari delle Scuole Pie e martire, che, durante la persecuzione, fu condotto in quanto sacerdote a glorioso martirio."
+            },
+            {
+                "nome": "Beato Giuseppe Maria Corbin Ferrer",
+                "martirologio": "In una galera all’ancora sempre al largo di Santander in Spagna, beato Giuseppe Maria Corbin Ferrer, che affrontò la gloriosa prova per Cristo."
+            }
+        ]
+    },
+    "liturgia_del_giorno": null,
+    "ufficio_delle_letture": null,
+    "lodi_mattutine": null,
+    "ora_media": null,
+    "vespri": null,
+    "compieta": null,
+    "compieta_primi_vespri": null,
+    "compieta_secondi_vespri": null
+}
