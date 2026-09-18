@@ -5,7 +5,7 @@
     "ciclo_biennale": "I",
     "tempo_liturgico": "Avvento",
     "settimana_del_tempo": "I",
-    "celebrazione": "Sant'Andrea apostolo",
+    "celebrazione": "SANT'ANDREA APOSTOLO - FESTA",
     "grado": "Festa",
     "colore": "Rosso",
     "settimana_del_salterio": "I",
@@ -65,7 +65,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Mentre camminava lungo il mare di Galilea,\nil Signore vide due fratelli, Pietro e Andrea, e disse loro:\n«Venite dietro a me e vi farò pescatori di uomini». (Cf. Mt 4,18-19)\n\nSi dice il Gloria.",
+        "colletta": "Umilmente ti invochiamo, o Signore:\nil santo apostolo Andrea, che fu annunciatore del Vangelo\ne guida per la tua Chiesa,\nsia presso di te nostro perenne intercessore.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "La fede viene dall'ascolto e l'ascolto riguarda la parola di Cristo.\nDalla lettera di san Paolo apostolo ai Romani\nRm 10,9-18\n\nFratello, se con la tua bocca proclamerai: «Gesù è il Signore!», e con il tuo cuore crederai che Dio lo ha risuscitato dai morti, sarai salvo. Con il cuore infatti si crede per ottenere la giustizia, e con la bocca si fa la professione di fede per avere la salvezza.\nDice infatti la Scrittura: «Chiunque crede in lui non sarà deluso». Poiché non c’è distinzione fra Giudeo e Greco, dato che lui stesso è il Signore di tutti, ricco verso tutti quelli che lo invocano. Infatti: «Chiunque invocherà il nome del Signore sarà salvato».\nOra, come invocheranno colui nel quale non hanno creduto? Come crederanno in colui del quale non hanno sentito parlare? Come ne sentiranno parlare senza qualcuno che lo annunci? E come lo annunceranno, se non sono stati inviati? Come sta scritto: «Quanto sono belli i piedi di coloro che recano un lieto annuncio di bene!».\nMa non tutti hanno obbedito al Vangelo. Lo dice Isaìa: «Signore, chi ha creduto dopo averci ascoltato?». Dunque, la fede viene dall’ascolto e l’ascolto riguarda la parola di Cristo. Ora io dico: forse non hanno udito? Tutt’altro:\n«Per tutta la terra è corsa la loro voce,\ne fino agli estremi confini del mondo le loro parole».\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 18 (19)\nR. Per tutta la terra si diffonde il loro annuncio.\n\nI cieli narrano la gloria di Dio,\nl’opera delle sue mani annuncia il firmamento.\nIl giorno al giorno ne affida il racconto\ne la notte alla notte ne trasmette notizia. R.\n\nSenza linguaggio, senza parole,\nsenza che si oda la loro voce,\nper tutta la terra si diffonde il loro annuncio\ne ai confini del mondo il loro messaggio. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nVenite dietro a me,\nvi farò pescatori di uomini. (Cf. Mt 4,19)\n\nAlleluia.",
+        "vangelo": "Essi subito lasciarono le reti e lo seguirono.\nDal Vangelo secondo Matteo\nMt 4,18-22\n\nIn quel tempo, mentre camminava lungo il mare di Galilea, Gesù vide due fratelli, Simone, chiamato Pietro, e Andrea suo fratello, che gettavano le reti in mare; erano infatti pescatori. E disse loro: «Venite dietro a me, vi farò pescatori di uomini». Ed essi subito lasciarono le reti e lo seguirono.\nAndando oltre, vide altri due fratelli, Giacomo, figlio di Zebedèo, e Giovanni suo fratello, che nella barca, insieme a Zebedèo loro padre, riparavano le loro reti, e li chiamò. Ed essi subito lasciarono la barca e il loro padre e lo seguirono.\n\nParola del Signore.",
+        "sulle_offerte": "Dio onnipotente, nella festa di sant’Andrea\nportiamo questi doni al tuo altare;\nfa’ che, offrendoli, siamo a te graditi\ne, ricevendoli da te santificati, otteniamo la vita.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Disse Andrea a Simone, suo fratello:\n«Abbiamo trovato il Messia, il Cristo». E lo condusse da Gesù. (Cf. Gv 1,41-42)",
+        "dopo_la_comunione": "La comunione al tuo sacramento, o Signore,\nci fortifichi, perché, portando in noi i patimenti di Cristo\nsull’esempio del santo apostolo Andrea,\npossiamo vivere con lui nella gloria.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

@@ -5,7 +5,7 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXIII",
-    "celebrazione": null,
+    "celebrazione": "GIOVEDÌ DELLA XXXIII SETTIMANA DEL TEMPO ORDINARIO",
     "grado": "Feria",
     "colore": "Verde",
     "settimana_del_salterio": "I",
@@ -49,7 +49,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Dice il Signore:\n«Io ho progetti di pace e non di sventura.\nVoi mi invocherete e io vi esaudirò:\nvi radunerò da tutte le nazioni dove vi ho disperso». (Cf. Ger 29,11-12.14)",
+        "colletta": "Il tuo aiuto, Signore Dio nostro,\nci renda sempre lieti nel tuo servizio,\nperché solo nella dedizione a te, fonte di ogni bene,\npossiamo avere felicità piena e duratura.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "L’Agnello è stato immolato e ci ha riscattato con il suo sangue, noi uomini di ogni nazione.\nDal libro dell’Apocalisse di san Giovanni apostolo\nAp 5,1-10\n\nIo, Giovanni, vidi nella mano destra di Colui che sedeva sul trono, un libro scritto sul lato interno e su quello esterno, sigillato con sette sigilli.\nVidi un angelo forte che proclamava a gran voce: «Chi è degno di aprire il libro e scioglierne i sigilli?». Ma nessuno né in cielo, né in terra, né sotto terra, era in grado di aprire il libro e di guardarlo. Io piangevo molto, perché non fu trovato nessuno degno di aprire il libro e di guardarlo. Uno degli anziani mi disse: «Non piangere; ha vinto il leone della tribù di Giuda, il Germoglio di Davide, e aprirà il libro e i suoi sette sigilli».\nPoi vidi, in mezzo al trono, circondato dai quattro esseri viventi e dagli anziani, un Agnello, in piedi, come immolato; aveva sette corna e sette occhi, i quali sono i sette spiriti di Dio mandati su tutta la terra.\nGiunse e prese il libro dalla destra di Colui che sedeva sul trono. E quando l’ebbe preso, i quattro esseri viventi e i ventiquattro anziani si prostrarono davanti all’Agnello, avendo ciascuno una cetra e coppe d’oro colme di profumi, che sono le preghiere dei santi, e cantavano un canto nuovo:\n«Tu sei degno di prendere il libro\ne di aprirne i sigilli,\nperché sei stato immolato\ne hai riscattato per Dio, con il tuo sangue,\nuomini di ogni tribù, lingua, popolo e nazione,\ne hai fatto di loro, per il nostro Dio,\nun regno e sacerdoti,\ne regneranno sopra la terra».\n\nParola di Dio.",
+        "salmo_responsoriale": "dall Sal 149\nR. Hai fatto di noi, per il nostro Dio, un regno e sacerdoti.\n\nCantate al Signore un canto nuovo;\nla sua lode nell’assemblea dei fedeli.\nGioisca Israele nel suo creatore,\nesultino nel loro re i figli di Sion. R.\n\nLodino il suo nome con danze,\ncon tamburelli e cetre gli cantino inni.\nIl Signore ama il suo popolo,\nincorona i poveri di vittoria. R.\n\nEsultino i fedeli nella gloria,\nfacciano festa sui loro giacigli.\nLe lodi di Dio sulla loro bocca:\nquesto è un onore per tutti i suoi fedeli. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nOggi non indurite il vostro cuore,\nma ascoltate la voce del Signore. (Cf. Sal 94 (95),8ab)\n\nAlleluia.",
+        "vangelo": "Se avessi compreso quello che porta alla pace!\nDal Vangelo secondo Luca\nLc 19,41-44\n\nIn quel tempo, Gesù, quando fu vicino a Gerusalemme, alla vista della città pianse su di essa dicendo:\n«Se avessi compreso anche tu, in questo giorno, quello che porta alla pace! Ma ora è stato nascosto ai tuoi occhi.\nPer te verranno giorni in cui i tuoi nemici ti circonderanno di trincee, ti assedieranno e ti stringeranno da ogni parte; distruggeranno te e i tuoi figli dentro di te e non lasceranno in te pietra su pietra, perché non hai riconosciuto il tempo in cui sei stata visitata».\n\nParola del Signore.",
+        "sulle_offerte": "L’offerta che ti presentiamo, o Signore,\nci ottenga la grazia di servirti fedelmente\ne ci prepari il frutto di un’eternità beata.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Il mio bene è stare vicino a Dio;\nnel Signore ho posto il mio rifugio. (Sal 72,28)\n\nOppure:\n\n«In verità io vi dico:\ntutto quello che chiederete nella preghiera,\nabbiate fede di averlo ottenuto e vi sarà accordato»,\ndice il Signore. (Cf. Mc 11,23.24)",
+        "dopo_la_comunione": "Nutriti da questo sacramento,\nti preghiamo umilmente, o Padre:\nla celebrazione che il tuo Figlio\nha comandato di fare in sua memoria,\nci faccia crescere nell’amore.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

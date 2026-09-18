@@ -5,7 +5,7 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXIV",
-    "celebrazione": null,
+    "celebrazione": "LUNEDÌ DELLA XXXIV SETTIMANA DEL TEMPO ORDINARIO",
     "grado": "Feria",
     "colore": "Verde",
     "settimana_del_salterio": "II",
@@ -77,7 +77,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Il Signore annuncia la pace per il suo popolo,\nper i suoi fedeli, per chi ritorna a lui con fiducia. (Sal 84,9)",
+        "colletta": "Ridesta, o Signore, la volontà dei tuoi fedeli,\nperché, collaborando con impegno alla tua opera di salvezza,\nottengano in misura sempre più abbondante\ni doni della tua misericordia.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Recavano scritto sulla fronte il nome di Cristo e il nome del Padre suo.\nDal libro dell’Apocalisse di san Giovanni apostolo\nAp 14,1-3.4b-5\n\nIo, Giovanni, vidi: ecco l’Agnello in piedi sul monte Sion, e insieme a lui centoquarantaquattromila persone, che recavano scritto sulla fronte il suo nome e il nome del Padre suo.\nE udii una voce che veniva dal cielo, come un fragore di grandi acque e come un rimbombo di forte tuono. La voce che udii era come quella di suonatori di cetra che si accompagnano nel canto con le loro cetre. Essi cantano come un canto nuovo davanti al trono e davanti ai quattro esseri viventi e agli anziani. E nessuno poteva comprendere quel canto se non i centoquarantaquattromila, i redenti della terra.\nEssi sono coloro che seguono l’Agnello dovunque vada. Questi sono stati redenti tra gli uomini come primizie per Dio e per l’Agnello. Non fu trovata menzogna sulla loro bocca: sono senza macchia.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 23 (24)\nR. Ecco la generazione che cerca il tuo volto, Signore.\n\nDel Signore è la terra e quanto contiene:\nil mondo, con i suoi abitanti.\nÈ lui che l’ha fondato sui mari\ne sui fiumi l’ha stabilito. R.\n\nChi potrà salire il monte del Signore?\nChi potrà stare nel suo luogo santo?\nChi ha mani innocenti e cuore puro,\nchi non si rivolge agli idoli. R.\n\nEgli otterrà benedizione dal Signore,\ngiustizia da Dio sua salvezza.\nEcco la generazione che lo cerca,\nche cerca il tuo volto, Dio di Giacobbe. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nVegliate e tenetevi pronti,\nperché, nell’ora che non immaginate,\nviene il Figlio dell’uomo. (Mt 24,42a.44)\n\nAlleluia.",
+        "vangelo": "Vide una vedova povera, che gettava due monetine.\nDal Vangelo secondo Luca\nLc 21,1-4\n\nIn quel tempo, Gesù alzàti gli occhi, vide i ricchi che gettavano le loro offerte nel tesoro del tempio.\nVide anche una vedova povera, che vi gettava due monetine, e disse: «In verità vi dico: questa vedova, così povera, ha gettato più di tutti. Tutti costoro, infatti, hanno gettato come offerta parte del loro superfluo. Ella invece, nella sua miseria, ha gettato tutto quello che aveva per vivere».\n\nParola del Signore.",
+        "sulle_offerte": "Accogli, o Signore, questi santi doni\nche ci hai comandato di offrire in onore del tuo nome,\nperché, seguendo i tuoi insegnamenti,\ndiventiamo un’offerta a te gradita.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Genti tutte, lodate il Signore,\npopoli tutti, cantate la sua lode,\nperché forte è il suo amore per noi. (Sal 116,1-2)\n\nOppure:\nEcco, io sono con voi tutti i giorni,\nsino alla fine del mondo. Alleluia. (Mt 28,20)",
+        "dopo_la_comunione": "Dio onnipotente,\nche ci dai la gioia di partecipare ai divini misteri,\nnon permettere che ci separiamo mai da te,\nfonte di ogni bene.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

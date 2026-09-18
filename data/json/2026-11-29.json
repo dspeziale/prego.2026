@@ -5,7 +5,7 @@
     "ciclo_biennale": "I",
     "tempo_liturgico": "Avvento",
     "settimana_del_tempo": "I",
-    "celebrazione": null,
+    "celebrazione": "I DOMENICA DI AVVENTO - ANNO B",
     "grado": "Domenica",
     "colore": "Viola",
     "settimana_del_salterio": "I",
@@ -57,7 +57,18 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "A te, Signore, innalzo l’anima mia,\nmio Dio, in te confido: che io non resti deluso!\nNon trionfino su di me i miei nemici!\nChiunque in te spera non resti deluso. (Sal 24,1-3)\n\nNon si dice il Gloria .",
+        "colletta": "O Dio, nostro Padre,\nsuscita in noi la volontà\ndi andare incontro con le buone opere al tuo Cristo che viene,\nperché egli ci chiami accanto a sé nella gloria\na possedere il regno dei cieli.\nPer il nostro Signore Gesù Cristo.\n\nOppure:\n\nO Dio, nostro Padre,\nnella tua fedeltà ricordati di noi, opera delle tue mani,\ne donaci l’aiuto della tua grazia,\nperché, resi forti nello spirito,\nattendiamo vigilanti la gloriosa venuta di Cristo tuo Figlio.\nEgli è Dio, e vive e regna con te.\n\nSi dice il Credo.",
+        "prima_lettura": "Se tu squarciassi i cieli e scendessi.\nDal libro del profeta Isaìa\nIs 63,16b-17.19b; 64,2-7\n\nTu, Signore, sei nostro padre, da sempre ti chiami nostro redentore.\nPerché, Signore, ci lasci vagare lontano dalle tue vie e lasci indurire il nostro cuore, cosi che non ti tema? Ritorna per amore dei tuoi servi, per amore delle tribù, tua eredità.\nSe tu squarciassi i cieli e scendessi!\nDavanti a te sussulterebbero i monti.\nQuando tu compivi cose terribili che non attendevamo,\ntu scendesti e davanti a te sussultarono i monti.\nMai si udì parlare da tempi lontani,\norecchio non ha sentito,\nocchio non ha visto che un Dio, fuori di te,\nabbia fatto tanto per chi confida in lui.\nTu vai incontro a quelli che praticano con gioia la giustizia\ne si ricordano delle tue vie.\nEcco, tu sei adirato perché abbiamo peccato contro di te da lungo tempo e siamo stati ribelli.\nSiamo divenuti tutti come una cosa impura,\ne come panno immondo sono tutti i nostri atti di giustizia;\ntutti siamo avvizziti come foglie, le nostre iniquità ci hanno portato via come il vento.\nNessuno invocava il tuo nome, nessuno si risvegliava per stringersi a te;\nperché tu avevi nascosto da noi il tuo volto,\nci avevi messo in balìa della nostra iniquità.\nMa, Signore, tu sei nostro padre;\nnoi siamo argilla e tu colui che ci plasma,\ntutti noi siamo opera delle tue mani.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 79 (80)\nR. Signore, fa' splendere il tuo volto e noi saremo salvi.\n\nTu, pastore d'Israele, ascolta,\nseduto sui cherubini, risplendi.\nRisveglia la tua potenza\ne vieni a salvarci. R.\n\nDio degli eserciti, ritorna!\nGuarda dal cielo e vedi\ne visita questa vigna,\nproteggi quello che la tua destra ha piantato,\nil figlio dell'uomo che per te hai reso forte. R.\n\nSia la tua mano sull'uomo della tua destra,\nsul figlio dell'uomo che per te hai reso forte.\nDa te mai più ci allontaneremo,\nfacci rivivere e noi invocheremo il tuo nome. R.",
+        "seconda_lettura": "Aspettiamo la manifestazione del Signore nostro Gesù Cristo.\nDalla prima lettera di san Paolo apostolo ai Corìnzi\n1Cor 1,3-9\n\nFratelli, grazia a voi e pace da Dio Padre nostro e dal Signore Gesù Cristo!\nRendo grazie continuamente al mio Dio per voi, a motivo della grazia di Dio che vi è stata data in Cristo Gesù, perché in lui siete stati arricchiti di tutti i doni, quelli della parola e quelli della conoscenza.\nLa testimonianza di Cristo si è stabilita tra voi così saldamente che non manca più alcun carisma a voi, che aspettate la manifestazione del Signore nostro Gesù Cristo. Egli vi renderà saldi sino alla fine, irreprensibili nel giorno del Signore nostro Gesù Cristo. Degno di fede è Dio, dal quale siete stati chiamati alla comunione con il Figlio suo Gesù Cristo, Signore nostro!\n\nParola di Dio",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nMostraci, Signore, la tua misericordia\ne donaci la tua salvezza. (Sal 84,8)\n\nAlleluia.",
+        "vangelo": "Vegliate: non sapete quando il padrone di casa ritornerà.\nDal Vangelo secondo Marco\nMc 13,33-37\n\nIn quel tempo, Gesù disse ai suoi discepoli: «Fate attenzione, vegliate, perché non sapete quando è il momento. È come un uomo, che è partito dopo aver lasciato la propria casa e dato il potere ai suoi servi, a ciascuno il suo compito, e ha ordinato al portiere di vegliare.\nVegliate dunque: voi non sapete quando il padrone di casa ritornerà, se alla sera o a mezzanotte o al canto del gallo o al mattino; fate in modo che, giungendo all'improvviso, non vi trovi addormentati.\nQuello che dico a voi, lo dico a tutti: vegliate!».\n\nParola del Signore.",
+        "sulle_offerte": "Accogli, o Signore, il pane e il vino,\ndono della tua benevolenza,\ne concedi che il nostro sacrificio spirituale compiuto nel tempo\nsia per noi pegno della redenzione eterna.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Il Signore donerà il suo bene\ne la nostra terra darà il suo frutto. (Sal 84,13)\n\nOppure:\n\n*B\nVegliate, perché non sapete\nné il giorno né l'ora. (Cf. Mc 13,33)",
+        "dopo_la_comunione": "La partecipazione a questo sacramento,\nche a noi pellegrini sulla terra\nrivela il senso cristiano della vita,\nci sostenga, o Signore, nel nostro cammino\ne ci guidi ai beni eterni.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

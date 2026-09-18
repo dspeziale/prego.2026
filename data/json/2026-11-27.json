@@ -5,7 +5,7 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXIV",
-    "celebrazione": null,
+    "celebrazione": "VENERDÌ DELLA XXXIV SETTIMANA DEL TEMPO ORDINARIO",
     "grado": "Feria",
     "colore": "Verde",
     "settimana_del_salterio": "II",
@@ -73,7 +73,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Il Signore annuncia la pace per il suo popolo,\nper i suoi fedeli, per chi ritorna a lui con fiducia. (Sal 84,9)",
+        "colletta": "Ridesta, o Signore, la volontà dei tuoi fedeli,\nperché, collaborando con impegno alla tua opera di salvezza,\nottengano in misura sempre più abbondante\ni doni della tua misericordia.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "I morti vennero giudicati, ciascuno secondo le sue opere. Vidi la Gerusalemme nuova scendere dal cielo.\nDal libro dell'Apocalisse di san Giovanni apostolo\nAp 20,1-4.11; 21,2\n\nIo, Giovanni, vidi un angelo che scendeva dal cielo con in mano la chiave dell'Abisso e una grande catena. Afferrò il drago, il serpente antico, che è diavolo e il Satana, e lo incatenò per mille anni; lo gettò nell'Abisso, lo rinchiuse e pose il sigillo sopra di lui, perché non seducesse più le nazioni, fino al compimento dei mille anni, dopo i quali deve essere lasciato libero per un po' di tempo.\nPoi vidi alcuni troni - a quelli che vi sedettero fu dato il potere di giudicare - e le anime dei decapitati a causa della testimonianza di Gesù e della parola di Dio, e quanti non avevano adorato la bestia e la sua statua e non avevano ricevuto il marchio sulla fronte e sulla mano. Essi ripresero vita e regnarono con Cristo per mille anni.\nE vidi un grande trono bianco e Colui che vi sedeva. Scomparvero dalla sua presenza la terra e il cielo senza lasciare traccia di sé. E vidi i morti, grandi e piccoli, in piedi davanti al trono. E i libri furono aperti. Fu aperto anche un altro libro, quello della vita. I morti vennero giudicati secondo le loro opere, in base a ciò che era scritto in quei libri. Il mare restituì i morti che esso custodiva, la Morte e gli inferi resero i morti da loro custoditi e ciascuno venne giudicato secondo le sue opere. Poi la Morte e gli inferi furono gettati nello stagno di fuoco. Questa è la seconda morte, lo stagno di fuoco. E chi non risultò scritto nel libro della vita fu gettato nello stagno di fuoco.\nE vidi un cielo nuovo e una terra nuova: il cielo e la terra di prima infatti erano scomparsi e il mare non c'era più. E vidi anche la città santa, la Gerusalemme nuova, scendere dal cielo, da Dio, pronta come una sposa adorna per il suo sposo.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 83 (84)\nR. Ecco la tenda di Dio con gli uomini!\n\nL'anima mia anela\ne desidera gli atri del Signore.\nIl mio cuore e la mia carne\nesultano nel Dio vivente.R.\n\nAnche il passero trova una casa\ne la rondine il nido dove porre i suoi piccoli,\npresso i tuoi altari, Signore degli eserciti,\nmio re e mio Dio. R.\n\nBeato chi abita nella tua casa:\nsenza fine canta le tue lodi.\nBeato l'uomo che trova in te il suo rifugio:\ncresce lungo il cammino il suo vigore. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nRisollevatevi e alzate il capo,\nperché la vostra liberazione è vicina. (Lc 21,28)\n\nAlleluia.",
+        "vangelo": "Quando vedrete accadere queste cose, sappiate che il regno di Dio è vicino.\nDal Vangelo secondo Luca\nLc 21,29-33\n\nIn quel tempo, Gesù disse ai suoi discepoli una parabola:\n«Osservate la pianta di fico e tutti gli alberi: quando già germogliano, capite voi stessi, guardandoli, che ormai l'estate è vicina. Così anche voi: quando vedrete accadere queste cose, sappiate che il regno di Dio è vicino.\nIn verità io vi dico: non passerà questa generazione prima che tutto avvenga. Il cielo e la terra passeranno, ma le mie parole non passeranno».\n\nParola del Signore.",
+        "sulle_offerte": "Accogli, o Signore, questi santi doni\nche ci hai comandato di offrire in onore del tuo nome,\nperché, seguendo i tuoi insegnamenti,\ndiventiamo un’offerta a te gradita.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Genti tutte, lodate il Signore,\npopoli tutti, cantate la sua lode,\nperché forte è il suo amore per noi. (Sal 116,1-2)\n\nOppure:\nEcco, io sono con voi tutti i giorni,\nsino alla fine del mondo. Alleluia. (Mt 28,20)",
+        "dopo_la_comunione": "Dio onnipotente,\nche ci dai la gioia di partecipare ai divini misteri,\nnon permettere che ci separiamo mai da te,\nfonte di ogni bene.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

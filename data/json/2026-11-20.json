@@ -5,7 +5,7 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXIII",
-    "celebrazione": null,
+    "celebrazione": "VENERDÌ DELLA XXXIII SETTIMANA DEL TEMPO ORDINARIO",
     "grado": "Feria",
     "colore": "Verde",
     "settimana_del_salterio": "I",
@@ -77,7 +77,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Dice il Signore:\n«Io ho progetti di pace e non di sventura.\nVoi mi invocherete e io vi esaudirò:\nvi radunerò da tutte le nazioni dove vi ho disperso». (Cf. Ger 29,11-12.14)",
+        "colletta": "Il tuo aiuto, Signore Dio nostro,\nci renda sempre lieti nel tuo servizio,\nperché solo nella dedizione a te, fonte di ogni bene,\npossiamo avere felicità piena e duratura.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Presi quel piccolo libro e lo divorai.\nDal libro dell’Apocalisse di san Giovanni apostolo\nAp 10,8-11\n\nIo, Giovanni, udii una voce dal cielo che diceva: «Va’, prendi il libro aperto dalla mano dell’angelo che sta in piedi sul mare e sulla terra».\nAllora mi avvicinai all’angelo e lo pregai di darmi il piccolo libro. Ed egli mi disse: «Prendilo e divoralo; ti riempirà di amarezza le viscere, ma in bocca ti sarà dolce come il miele».\nPresi quel piccolo libro dalla mano dell’angelo e lo divorai; in bocca lo sentii dolce come il miele, ma come l’ebbi inghiottito ne sentii nelle viscere tutta l’amarezza. Allora mi fu detto: «Devi profetizzare ancora su molti popoli, nazioni, lingue e re».\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 118 (119)\nR. Quanto sono dolci al mio palato le tue promesse!\nOppure:\nR. Nelle tue parole, Signore, è la mia gioia.\n\nNella via dei tuoi insegnamenti è la mia gioia,\npiù che in tutte le ricchezze.\nI tuoi insegnamenti sono la mia delizia:\nsono essi i miei consiglieri. R.\n\nBene per me è la legge della tua bocca,\npiù di mille pezzi d’oro e d’argento.\nQuanto sono dolci al mio palato le tue promesse,\npiù del miele per la mia bocca. R.\n\nMia eredità per sempre sono i tuoi insegnamenti,\nperché sono essi la gioia del mio cuore.\nApro anelante la mia bocca,\nperché ho sete dei tuoi comandi. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nLe mie pecore ascoltano la mia voce, dice il Signore,\ne io le conosco ed esse mi seguono. (Gv 10,27)\n\nAlleluia.",
+        "vangelo": "Avete fatto della casa di Dio un covo di ladri.\nDal Vangelo secondo Luca\nLc 19,45-48\n\nIn quel tempo, Gesù, entrato nel tempio, si mise a scacciare quelli che vendevano, dicendo loro: «Sta scritto: “La mia casa sarà casa di preghiera”. Voi invece ne avete fatto un covo di ladri».\nOgni giorno insegnava nel tempio. I capi dei sacerdoti e gli scribi cercavano di farlo morire e così anche i capi del popolo; ma non sapevano che cosa fare, perché tutto il popolo pendeva dalle sue labbra nell’ascoltarlo.\n\nParola del Signore.",
+        "sulle_offerte": "L’offerta che ti presentiamo, o Signore,\nci ottenga la grazia di servirti fedelmente\ne ci prepari il frutto di un’eternità beata.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Il mio bene è stare vicino a Dio;\nnel Signore ho posto il mio rifugio. (Sal 72,28)\n\nOppure:\n\n«In verità io vi dico:\ntutto quello che chiederete nella preghiera,\nabbiate fede di averlo ottenuto e vi sarà accordato»,\ndice il Signore. (Cf. Mc 11,23.24)",
+        "dopo_la_comunione": "Nutriti da questo sacramento,\nti preghiamo umilmente, o Padre:\nla celebrazione che il tuo Figlio\nha comandato di fare in sua memoria,\nci faccia crescere nell’amore.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

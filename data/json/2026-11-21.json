@@ -5,9 +5,9 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXIII",
-    "celebrazione": null,
-    "grado": "Feria",
-    "colore": "Verde",
+    "celebrazione": "PRESENTAZIONE DELLA BEATA VERGINE MARIA – MEMORIA",
+    "grado": "Memoria",
+    "colore": "Bianco",
     "settimana_del_salterio": "I",
     "santo_del_giorno": "Presentazione della beata Vergine Maria",
     "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/3f9cb909-de5b-4410-b6ca-2cae4454cf99.jpeg",
@@ -41,7 +41,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Disse Maria: «Il mio spirito esulta in Dio, mio Salvatore,\nil Signore ha guardato l’umiltà della sua serva». (Cf. Lc 1,47-48)",
+        "colletta": "Nella gloriosa memoria della santissima Vergine Maria\nconcedi anche a noi, o Signore, per sua intercessione,\ndi partecipare alla pienezza della tua grazia.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Gioisci, figlia di Sion, perché, ecco, io vengo.\nDal libro del profeta Zaccarìa\nZc 2,14-17\n\nRallégrati, esulta, figlia di Sion,\nperché, ecco, io vengo ad abitare in mezzo a te.\nOracolo del Signore.\nNazioni numerose aderiranno in quel giorno al Signore\ne diverranno suo popolo,\ned egli dimorerà in mezzo a te\ne tu saprai che il Signore degli eserciti\nmi ha inviato a te.\nIl Signore si terrà Giuda\ncome eredità nella terra santa\ned eleggerà di nuovo Gerusalemme.\nTaccia ogni mortale davanti al Signore,\npoiché egli si è destato dalla sua santa dimora.\n\nParola di Dio.",
+        "salmo_responsoriale": "Da Lc 1,46-55\nR. Il Signore si è ricordato della sua misericordia.\n\nOppure:\n\nR. Grandi cose ha fatto per me l'Onnipotente.\n\nL’anima mia magnifica il Signore\ne il mio spirito esulta in Dio, mio salvatore. R.\n\nPerché ha guardato l’umiltà della sua serva.\nD’ora in poi tutte le generazioni mi chiameranno beata.\nGrandi cose ha fatto per me l’Onnipotente\ne Santo è il suo nome. R.\n\nDi generazione in generazione la sua misericordia\nper quelli che lo temono.\nHa spiegato la potenza del suo braccio,\nha disperso i superbi nei pensieri del loro cuore. R.\n\nHa rovesciato i potenti dai troni,\nha innalzato gli umili;\nha ricolmato di beni gli affamati,\nha rimandato i ricchi a mani vuote. R.\n\nHa soccorso Israele, suo servo,\nricordandosi della sua misericordia,\ncome aveva detto ai nostri padri,\nper Abramo e la sua discendenza, per sempre. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nBeati coloro che ascoltano la parola di Dio\ne la osservano. (Lc 11,28)\n\nAlleluia.",
+        "vangelo": "Tendendo la mano verso i suoi discepoli, disse: «Ecco mia madre e i miei fratelli!».\nDal Vangelo secondo Matteo\nMt 12,46-50\n\nIn quel tempo, mentre Gesù parlava ancora alla folla, ecco, sua madre e i suoi fratelli stavano fuori e cercavano di parlargli.\nQualcuno gli disse: «Ecco, tua madre e i tuoi fratelli stanno fuori e cercano di parlarti».\nEd egli, rispondendo a chi gli parlava, disse: «Chi è mia madre e chi sono i miei fratelli?».\nPoi, tendendo la mano verso i suoi discepoli, disse: «Ecco mia madre e i miei fratelli! Perché chiunque fa la volontà del Padre mio che è nei cieli, egli è per me fratello, sorella e madre».\n\nParola del Signore.",
+        "sulle_offerte": "Accogli, o Padre, i doni offerti dal tuo popolo\nnella memoria della beata Vergine Maria,\nche per la verginità fu a te gradita\ne nell’umiltà concepì il tuo Figlio, Signore nostro.\nEgli vive e regna nei secoli dei secoli.",
+        "antifona_alla_comunione": "Maria custodiva tutte queste cose,\nmeditandole nel suo cuore. (Lc 2,19)",
+        "dopo_la_comunione": "O Signore, Dio nostro,\nche ci hai resi partecipi del cibo spirituale,\nfa’ che, imitando assiduamente la beata Vergine Maria,\nci dedichiamo sempre al servizio della Chiesa\ne sperimentiamo la gioia di esserti fedeli.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,
