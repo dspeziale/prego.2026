@@ -83,4 +83,4 @@ android/
 Il sito espone per l'app l'endpoint `GET /api/giorni`
 (`{"giorni": ["2026-01-01", ...], "totale": N}`).
 
-© 2026 DS Consulting
+© 2024-26 DS Consulting
