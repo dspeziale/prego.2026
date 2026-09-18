@@ -96,6 +96,15 @@
                                 <p>Mese corrente</p>
                             </a>
                         </li>
+                        {% if not in_app %}
+                        <li class="nav-item">
+                            <a href="{{ url_for('app_page') }}"
+                                class="nav-link {% if request.endpoint and request.endpoint.startswith('app_') %}active{% endif %}">
+                                <i class="nav-icon fas fa-mobile-screen"></i>
+                                <p>Scarica l'app</p>
+                            </a>
+                        </li>
+                        {% endif %}
                         {% if current_user %}
                         <li class="nav-item">
                             <a href="{{ url_for('proprio_list') }}"
@@ -130,6 +139,7 @@
                             </a>
                         </li>
                         {% endif %}
+                        {% if not in_app %}
                         <li class="nav-item">
                             {% if current_user %}
                             <a href="{{ url_for('logout') }}" class="nav-link">
@@ -144,6 +154,7 @@
                             </a>
                             {% endif %}
                         </li>
+                        {% endif %}
                         {% if current_user %}
                         <li class="nav-header">MESI RACCOLTI</li>
                         {% for y, m in sidebar_months %}

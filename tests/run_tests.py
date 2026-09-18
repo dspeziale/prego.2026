@@ -93,6 +93,14 @@ def test_webapp() -> None:
     giorni = client.get("/api/giorni").get_json()
     check(giorni and "2026-07-08" in giorni["giorni"], "API /api/giorni")
     check(giorni["totale"] == len(giorni["giorni"]), "totale coerente")
+    # dal sito il menu ha Scarica l'app e Accedi; dall'app Android no
+    check("Scarica l'app" in page and "Accedi" in page,
+          "menu del sito con Scarica l'app e Accedi")
+    da_app = client.get("/giorno/2026-07-08",
+                        headers={"User-Agent": "PregoAndroid/2.07"}
+                        ).data.decode("utf-8")
+    check("Scarica l'app" not in da_app and ">Accedi<" not in da_app,
+          "menu dell'app senza Scarica l'app e Accedi")
 
 
 def test_omelia() -> None:

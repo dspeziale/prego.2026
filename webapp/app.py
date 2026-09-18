@@ -128,6 +128,10 @@ def create_app(output_dir: Optional[Path] = None,
             ],
             "today": date.today(),
             "read_only": READ_ONLY,
+            # l'app Android sincronizza le pagine con User-Agent
+            # "PregoAndroid/<versione>": lì le voci Scarica l'app e Accedi
+            # non hanno senso e vengono nascoste
+            "in_app": request.user_agent.string.startswith("PregoAndroid"),
             "current_user": session.get("user"),
             "app_version": values.get("version", "1.0"),
         }
