@@ -5,7 +5,7 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXII",
-    "celebrazione": null,
+    "celebrazione": "SABATO DELLA XXXII SETTIMANA DEL TEMPO ORDINARIO",
     "grado": "Feria",
     "colore": "Verde",
     "settimana_del_salterio": "IV",
@@ -61,7 +61,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Giunga fino a te la mia preghiera,\ntendi l’orecchio alla mia supplica, Signore. (Sal 87,3)",
+        "colletta": "Dio onnipotente e misericordioso,\nallontana ogni ostacolo nel nostro cammino verso di te,\nperché, nella serenità del corpo e dello spirito,\npossiamo dedicarci liberamente al tuo servizio.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Dobbiamo accogliere i fratelli per diventare collaboratori della verità.\nDalla terza lettera di san Giovanni apostolo\n3Gv 5-8\n\nCarissimo [Gaio], tu ti comporti fedelmente in tutto ciò che fai in favore dei fratelli, benché stranieri.\nEssi hanno dato testimonianza della tua carità davanti alla Chiesa; tu farai bene a provvedere loro il necessario per il viaggio in modo degno di Dio. Per il suo nome, infatti, essi sono partiti senza accettare nulla dai pagani.\nNoi perciò dobbiamo accogliere tali persone per diventare collaboratori della verità.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 111 (112)\nR. Beato l’uomo che teme il Signore.\n\nBeato l’uomo che teme il Signore\ne nei suoi precetti trova grande gioia.\nPotente sulla terra sarà la sua stirpe,\nla discendenza degli uomini retti sarà benedetta. R.\n\nProsperità e ricchezza nella sua casa,\nla sua giustizia rimane per sempre.\nSpunta nelle tenebre, luce per gli uomini retti:\nmisericordioso, pietoso e giusto. R.\n\nFelice l’uomo pietoso che dà in prestito,\namministra i suoi beni con giustizia.\nEgli non vacillerà in eterno:\neterno sarà il ricordo del giusto. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nDio ci ha chiamati mediante il Vangelo,\nper entrare in possesso della gloria\ndel Signore nostro Gesù Cristo. (Cf. 2Ts 2,14)\n\nAlleluia.",
+        "vangelo": "Dio farà giustizia ai suoi eletti che gridano verso di lui.\nDal Vangelo secondo Luca\nLc 18,1-8\n\nIn quel tempo, Gesù diceva ai suoi discepoli una parabola sulla necessità di pregare sempre, senza stancarsi mai:\n«In una città viveva un giudice, che non temeva Dio né aveva riguardo per alcuno. In quella città c’era anche una vedova, che andava da lui e gli diceva: “Fammi giustizia contro il mio avversario”.\nPer un po’ di tempo egli non volle; ma poi disse tra sé: “Anche se non temo Dio e non ho riguardo per alcuno, dato che questa vedova mi dà tanto fastidio, le farò giustizia perché non venga continuamente a importunarmi”».\nE il Signore soggiunse: «Ascoltate ciò che dice il giudice disonesto. E Dio non farà forse giustizia ai suoi eletti, che gridano giorno e notte verso di lui? Li farà forse aspettare a lungo? Io vi dico che farà loro giustizia prontamente. Ma il Figlio dell’uomo, quando verrà, troverà la fede sulla terra?».\n\nParola del Signore.",
+        "sulle_offerte": "O Padre, volgi benevolo\nil tuo sguardo su queste offerte,\nperché celebrando nel mistero la passione del tuo Figlio\nvi aderiamo con amore fedele.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Il Signore è il mio pastore: non manco di nulla.\nSu pascoli erbosi mi fa riposare,\nad acque tranquille mi conduce. (Sal 22,1-2)\n\nOppure:\n\nI discepoli riconobbero Gesù, il Signore,\nnello spezzare il pane. Alleluia. (Cf. Lc 24,35)",
+        "dopo_la_comunione": "Nutriti dei tuoi santi doni ti rendiamo grazie, o Signore,\ne imploriamo la tua misericordia:\nper il tuo Spirito, comunicato a noi in questi sacramenti,\nci sia data la grazia di rimanere fedeli nel tuo servizio.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

@@ -5,7 +5,7 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXIII",
-    "celebrazione": null,
+    "celebrazione": "LUNEDÌ DELLA XXXIII SETTIMANA DEL TEMPO ORDINARIO",
     "grado": "Feria",
     "colore": "Verde",
     "settimana_del_salterio": "I",
@@ -53,7 +53,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Dice il Signore:\n«Io ho progetti di pace e non di sventura.\nVoi mi invocherete e io vi esaudirò:\nvi radunerò da tutte le nazioni dove vi ho disperso». (Cf. Ger 29,11-12.14)",
+        "colletta": "Il tuo aiuto, Signore Dio nostro,\nci renda sempre lieti nel tuo servizio,\nperché solo nella dedizione a te, fonte di ogni bene,\npossiamo avere felicità piena e duratura.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Ricorda da dove sei caduto e convèrtiti.\nDal libro dell’Apocalisse di san Giovanni apostolo\nAp 1,1-5a; 2,1-5a\n\nRivelazione di Gesù Cristo, al quale Dio la consegnò per mostrare ai suoi servi le cose che dovranno accadere tra breve. Ed egli la manifestò, inviandola per mezzo del suo angelo al suo servo Giovanni, il quale attesta la parola di Dio e la testimonianza di Gesù Cristo, riferendo ciò che ha visto. Beato chi legge e beati coloro che ascoltano le parole di questa profezia e custodiscono le cose che vi sono scritte: il tempo infatti è vicino.\nGiovanni, alle sette Chiese che sono in Asia: grazia a voi e pace da Colui che è, che era e che viene, e dai sette spiriti che stanno davanti al suo trono, e da Gesù Cristo, il testimone fedele, il primogenito dei morti e il sovrano dei re della terra.\n[Io udii il Signore che mi diceva]:\n«All’angelo della Chiesa che è a Èfeso scrivi:\n“Così parla Colui che tiene le sette stelle nella sua destra e cammina in mezzo ai sette candelabri d’oro. Conosco le tue opere, la tua fatica e la tua perseveranza, per cui non puoi sopportare i cattivi. Hai messo alla prova quelli che si dicono apostoli e non lo sono, e li hai trovati bugiardi. Sei perseverante e hai molto sopportato per il mio nome, senza stancarti. Ho però da rimproverarti di avere abbandonato il tuo primo amore. Ricorda dunque da dove sei caduto, convèrtiti e compi le opere di prima”».\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 1\nR. Al vincitore darò da mangiare dall’albero della vita.\nOppure:\nR. Il servo fedele riceverà la vita.\n\nBeato l’uomo che non entra nel consiglio dei malvagi,\nnon resta nella via dei peccatori\ne non siede in compagnia degli arroganti,\nma nella legge del Signore trova la sua gioia,\nla sua legge medita giorno e notte. R.\n\nÈ come albero piantato lungo corsi d’acqua,\nche dà frutto a suo tempo:\nle sue foglie non appassiscono\ne tutto quello che fa, riesce bene. R.\n\nNon così, non così i malvagi,\nma come pula che il vento disperde.\nPoiché il Signore veglia sul cammino dei giusti,\nmentre la via dei malvagi va in rovina. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nIo sono la luce del mondo, dice il Signore;\nchi segue me avrà la luce della vita. (Gv 8,12)\n\nAlleluia.",
+        "vangelo": "Che cosa vuoi che io faccia per te? Signore, che io veda di nuovo!\nDal Vangelo secondo Luca\nLc 18,35-43\n\nMentre Gesù si avvicinava a Gèrico, un cieco era seduto lungo la strada a mendicare. Sentendo passare la gente, domandò che cosa accadesse. Gli annunciarono: «Passa Gesù, il Nazareno!».\nAllora gridò dicendo: «Gesù, figlio di Davide, abbi pietà di me!». Quelli che camminavano avanti lo rimproveravano perché tacesse; ma egli gridava ancora più forte: «Figlio di Davide, abbi pietà di me!».\nGesù allora si fermò e ordinò che lo conducessero da lui. Quando fu vicino, gli domandò: «Che cosa vuoi che io faccia per te?». Egli rispose: «Signore, che io veda di nuovo!». E Gesù gli disse: «Abbi di nuovo la vista! La tua fede ti ha salvato».\nSubito ci vide di nuovo e cominciò a seguirlo glorificando Dio. E tutto il popolo, vedendo, diede lode a Dio.\n\nParola del Signore.",
+        "sulle_offerte": "L’offerta che ti presentiamo, o Signore,\nci ottenga la grazia di servirti fedelmente\ne ci prepari il frutto di un’eternità beata.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Il mio bene è stare vicino a Dio;\nnel Signore ho posto il mio rifugio. (Sal 72,28)\n\nOppure:\n\n«In verità io vi dico:\ntutto quello che chiederete nella preghiera,\nabbiate fede di averlo ottenuto e vi sarà accordato»,\ndice il Signore. (Cf. Mc 11,23.24)",
+        "dopo_la_comunione": "Nutriti da questo sacramento,\nti preghiamo umilmente, o Padre:\nla celebrazione che il tuo Figlio\nha comandato di fare in sua memoria,\nci faccia crescere nell’amore.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,
