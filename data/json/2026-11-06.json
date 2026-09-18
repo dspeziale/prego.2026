@@ -5,7 +5,7 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXI",
-    "celebrazione": null,
+    "celebrazione": "VENERDÌ DELLA XXXI SETTIMANA DEL TEMPO ORDINARIO",
     "grado": "Feria",
     "colore": "Verde",
     "settimana_del_salterio": "III",
@@ -61,7 +61,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Non abbandonarmi, Signore, mio Dio,\nda me non stare lontano;\nvieni presto in mio aiuto,\no Signore, mia salvezza. (Sal 37,22-23)",
+        "colletta": "Dio onnipotente e misericordioso,\ntu solo puoi dare ai tuoi fedeli\nil dono di servirti in modo lodevole e degno;\nfa’ che corriamo senza ostacoli verso i beni da te promessi.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Aspettiamo come salvatore il Signore Gesù Cristo, il quale trasfigurerà il nostro misero corpo per conformarlo al suo corpo glorioso.\nDalla lettera di san Paolo apostolo ai Filippési\nFil 3,17-4,1\n\nFratelli, fatevi insieme miei imitatori e guardate quelli che si comportano secondo l'esempio che avete in noi.\nPerché molti - ve l'ho già detto più volte e ora, con le lacrime agli occhi, ve lo ripeto - si comportano da nemici della croce di Cristo. La loro sorte finale sarà la perdizione, il ventre è il loro dio. Si vantano di ciò di cui dovrebbero vergognarsi e non pensano che alle cose della terra.\nLa nostra cittadinanza infatti è nei cieli e di là aspettiamo come salvatore il Signore Gesù Cristo, il quale trasfigurerà il nostro misero corpo per conformarlo al suo corpo glorioso, in virtù del potere che egli ha di sottomettere a sé tutte le cose.\nPerciò, fratelli miei carissimi e tanto desiderati, mia gioia e mia corona, rimanete in questo modo saldi nel Signore, carissimi!\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 121 (122)\nR. Andremo con gioia alla casa del Signore.\n\nQuale gioia, quando mi dissero:\n«Andremo alla casa del Signore»!\nGià sono fermi i nostri piedi\nalle tue porte, Gerusalemme! R.\n\nGerusalemme è costruita\ncome città unita e compatta.\nÈ là che salgono le tribù,\nle tribù del Signore. R.\n\nSecondo la legge d'Israele,\nper lodare il nome del Signore.\nLà sono posti i troni del giudizio,\ni troni della casa di Davide. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nChi osserva la parola di Gesù Cristo,\nin lui l’amore di Dio è veramente perfetto. (1Gv 2,5)\n\nAlleluia.",
+        "vangelo": "I figli di questo mondo verso i loro pari sono più scaltri dei figli della luce.\nDal Vangelo secondo Luca\nLc 16,1-8\n\nIn quel tempo, Gesù diceva ai discepoli:\n«Un uomo ricco aveva un amministratore, e questi fu accusato dinanzi a lui di sperperare i suoi averi. Lo chiamò e gli disse: \"Che cosa sento dire di te? Rendi conto della tua amministrazione, perché non potrai più amministrare\".\nL'amministratore disse tra sé: \"Che cosa farò, ora che il mio padrone mi toglie l'amministrazione? Zappare, non ne ho la forza; mendicare, mi vergogno. So io che cosa farò perché, quando sarò stato allontanato dall'amministrazione, ci sia qualcuno che mi accolga in casa sua\".\nChiamò uno per uno i debitori del suo padrone e disse al primo: \"Tu quanto devi al mio padrone?\". Quello rispose: \"Cento barili d'olio\". Gli disse: \"Prendi la tua ricevuta, siediti subito e scrivi cinquanta\". Poi disse a un altro: \"Tu quanto devi?\". Rispose: \"Cento misure di grano\". Gli disse: \"Prendi la tua ricevuta e scrivi ottanta\".\nIl padrone lodò quell'amministratore disonesto, perché aveva agito con scaltrezza. I figli di questo mondo, infatti, verso i loro pari sono più scaltri dei figli della luce».\n\nParola del Signore.",
+        "sulle_offerte": "Questo sacrificio, o Signore, sia per te offerta pura,\ne per noi dono santo della tua misericordia.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Mi indicherai il sentiero della vita,\ngioia piena alla tua presenza. (Sal 15,11)\n\nOppure:\n\nDice il Signore: «Come il Padre, che ha la vita,\nha mandato me e io vivo per il Padre,\ncosì colui che mangia me vivrà per me». (Gv 6,57)",
+        "dopo_la_comunione": "Rafforza in noi, o Signore, la tua opera di salvezza,\nperché i sacramenti che ci nutrono in questa vita\nci preparino a ricevere i beni che promettono.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

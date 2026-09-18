@@ -5,9 +5,9 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXII",
-    "celebrazione": null,
-    "grado": "Feria",
-    "colore": "Verde",
+    "celebrazione": "SAN MARTINO DI TOURS, VESCOVO – MEMORIA",
+    "grado": "Memoria",
+    "colore": "Bianco",
     "settimana_del_salterio": "IV",
     "santo_del_giorno": "San Martino di Tours, vescovo",
     "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/7d7a9cd1-97a8-4b6b-8f6b-1fd5d831d977.jpeg",
@@ -57,7 +57,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Farò sorgere al mio servizio un sacerdote fedele,\nche agirà secondo i desideri del mio cuore. (Cf. 1Sam 2,35)",
+        "colletta": "O Dio, che hai fatto risplendere la tua gloria\nnella vita e nella morte del santo vescovo Martino [ di Tours] ,\nrinnova nei nostri cuori le meraviglie della tua grazia,\nperché né morte né vita ci possano separare dal tuo amore.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Eravamo insensati, ma Dio ci ha salvati per la sua misericordia.\nDalla lettera di san Paolo apostolo a Tito\nTt 3,1-7\n\nCarissimo, ricorda [a tutti] di essere sottomessi alle autorità che governano, di obbedire, di essere pronti per ogni opera buona; di non parlare male di nessuno, di evitare le liti, di essere mansueti, mostrando ogni mitezza verso tutti gli uomini.\nAnche noi un tempo eravamo insensati, disobbedienti, corrotti, schiavi di ogni sorta di passioni e di piaceri, vivendo nella malvagità e nell’invidia, odiosi e odiandoci a vicenda.\nMa quando apparvero la bontà di Dio, salvatore nostro,\ne il suo amore per gli uomini,\negli ci ha salvati,\nnon per opere giuste da noi compiute,\nma per la sua misericordia,\ncon un’acqua che rigenera e rinnova nello Spirito Santo,\nche Dio ha effuso su di noi in abbondanza\nper mezzo di Gesù Cristo, salvatore nostro,\naffinché, giustificati per la sua grazia,\ndiventassimo, nella speranza, eredi della vita eterna.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 22 (23)\nR. Il Signore è il mio pastore: non manco di nulla.\n\nIl Signore è il mio pastore:\nnon manco di nulla.\nSu pascoli erbosi mi fa riposare,\nad acque tranquille mi conduce. R.\n\nRinfranca l’anima mia,\nmi guida per il giusto cammino\na motivo del suo nome. R.\n\nAnche se vado per una valle oscura,\nnon temo alcun male, perché tu sei con me.\nIl tuo bastone e il tuo vincastro\nmi danno sicurezza. R.\n\nDavanti a me tu prepari una mensa\nsotto gli occhi dei miei nemici.\nUngi di olio il mio capo;\nil mio calice trabocca.R.\n\nSì, bontà e fedeltà mi saranno compagne\ntutti i giorni della mia vita,\nabiterò ancora nella casa del Signore\nper lunghi giorni. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nIn ogni cosa rendete grazie:\nquesta infatti è volontà di Dio in Cristo Gesù verso di voi. (1Ts 5,18)\n\nAlleluia.",
+        "vangelo": "Non si è trovato nessuno che tornasse indietro a rendere gloria a Dio, all’infuori di questo straniero.\nDal Vangelo secondo Luca\nLc 17,11-19\n\nLungo il cammino verso Gerusalemme, Gesù attraversava la Samarìa e la Galilea.\nEntrando in un villaggio, gli vennero incontro dieci lebbrosi, che si fermarono a distanza e dissero ad alta voce: «Gesù, maestro, abbi pietà di noi!». Appena li vide, Gesù disse loro: «Andate a presentarvi ai sacerdoti». E mentre essi andavano, furono purificati.\nUno di loro, vedendosi guarito, tornò indietro lodando Dio a gran voce, e si prostrò davanti a Gesù, ai suoi piedi, per ringraziarlo. Era un Samaritano.\nMa Gesù osservò: «Non ne sono stati purificati dieci? E gli altri nove dove sono? Non si è trovato nessuno che tornasse indietro a rendere gloria a Dio, all’infuori di questo straniero?». E gli disse: «Àlzati e va’; la tua fede ti ha salvato!».\n\nParola del Signore.",
+        "sulle_offerte": "Santifica, Signore nostro Dio, questi doni\nche ti offriamo con gioia in onore di san Martino [ di Tours] ,\nperché con il loro sostegno siamo sempre guidati\nattraverso le vicende liete e tristi della nostra vita.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "«In verità io vi dico:\ntutto quello che avete fatto a uno solo di questi miei fratelli più piccoli,\nl’avete fatto a me», dice il Signore. (Mt 25,40)",
+        "dopo_la_comunione": "O Signore, che ci hai nutriti con il sacramento dell’unità,\nconcedi a noi di vivere in perfetta concordia con il tuo volere\nperché, imitando san Martino [ di Tours] nella totale sottomissione a te,\ngustiamo la gioia di essere veramente tuoi.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

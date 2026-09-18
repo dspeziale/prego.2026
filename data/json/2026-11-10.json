@@ -5,9 +5,9 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXII",
-    "celebrazione": null,
-    "grado": "Feria",
-    "colore": "Verde",
+    "celebrazione": "SAN LEONE MAGNO, PAPA E DOTTORE DELLA CHIESA - MEMORIA",
+    "grado": "Memoria",
+    "colore": "Bianco",
     "settimana_del_salterio": "IV",
     "santo_del_giorno": "San Leone Magno, papa e dottore della Chiesa",
     "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2024/09/8e4ae3ac-e585-4f06-88be-69b783fe78b3.jpeg",
@@ -49,7 +49,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Il Signore ha stabilito con lui un’alleanza di pace:\nper sempre avrà la dignità del sacerdozio. (Cf. Sir 45,24)",
+        "colletta": "O Dio, che mai permetti alle potenze del male\ndi prevalere contro la tua Chiesa,\nfondata sulla roccia dell’apostolo Pietro,\nper intercessione del papa san Leone[ Magno]\nfa’ che essa rimanga salda nella tua verità\ne proceda sicura nella pace.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Viviamo con pietà, nell’attesa della beata speranza e della manifestazione della gloria del nostro grande Dio e salvatore Gesù Cristo.\nDalla lettera di san Paolo apostolo a Tito\nTt 2,1-8.11-14\n\nCarissimo, insegna quello che è conforme alla sana dottrina.\nGli uomini anziani siano sobri, dignitosi, saggi, saldi nella fede, nella carità e nella pazienza. Anche le donne anziane abbiano un comportamento santo: non siano maldicenti né schiave del vino; sappiano piuttosto insegnare il bene, per formare le giovani all’amore del marito e dei figli, a essere prudenti, caste, dedite alla famiglia, buone, sottomesse ai propri mariti, perché la parola di Dio non venga screditata.\nEsorta ancora i più giovani a essere prudenti, offrendo te stesso come esempio di opere buone: integrità nella dottrina, dignità, linguaggio sano e irreprensibile, perché il nostro avversario resti svergognato, non avendo nulla di male da dire contro di noi.\nÈ apparsa infatti la grazia di Dio, che porta salvezza a tutti gli uomini e ci insegna a rinnegare l’empietà e i desideri mondani e a vivere in questo mondo con sobrietà, con giustizia e con pietà, nell’attesa della beata speranza e della manifestazione della gloria del nostro grande Dio e salvatore Gesù Cristo. Egli ha dato se stesso per noi, per riscattarci da ogni iniquità e formare per sé un popolo puro che gli appartenga, pieno di zelo per le opere buone.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 36 (37)\nR. La salvezza dei giusti viene dal Signore.\n\nConfida nel Signore e fa’ il bene:\nabiterai la terra e vi pascolerai con sicurezza.\nCerca la gioia nel Signore:\nesaudirà i desideri del tuo cuore. R.\n\nIl Signore conosce i giorni degli uomini integri:\nla loro eredità durerà per sempre.\nIl Signore rende sicuri i passi dell’uomo\ne si compiace della sua via. R.\n\nSta’ lontano dal male e fa’ il bene\ne avrai sempre una casa.\nI giusti avranno in eredità la terra\ne vi abiteranno per sempre. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nSe uno mi ama, osserverà la mia parola, dice il Signore,\ne il Padre mio lo amerà e noi verremo a lui. (Gv 14,23)\n\nAlleluia.",
+        "vangelo": "Siamo servi inutili. Abbiamo fatto quanto dovevamo fare.\nDal Vangelo secondo Luca\nLc 17,7-10\n\nIn quel tempo, Gesù disse:\n«Chi di voi, se ha un servo ad arare o a pascolare il gregge, gli dirà, quando rientra dal campo: “Vieni subito e mettiti a tavola”? Non gli dirà piuttosto: “Prepara da mangiare, strìngiti le vesti ai fianchi e sérvimi, finché avrò mangiato e bevuto, e dopo mangerai e berrai tu”? Avrà forse gratitudine verso quel servo, perché ha eseguito gli ordini ricevuti?\nCosì anche voi, quando avrete fatto tutto quello che vi è stato ordinato, dite: “Siamo servi inutili. Abbiamo fatto quanto dovevamo fare”».\n\nParola del Signore.",
+        "sulle_offerte": "Per i doni che ti offriamo, o Signore,\nfa’ risplendere la tua luce sulla Chiesa,\nperché in ogni parte della terra\nil gregge progredisca nel bene\ne sotto la tua guida i pastori siano graditi al tuo nome.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Simon Pietro disse a Gesù: «Tu sei il Cristo, il Figlio del Dio vivente».\nRispose Gesù: «Tu sei Pietro e su questa pietra edificherò la mia Chiesa». (Cf. Mt 16,16.18)",
+        "dopo_la_comunione": "Guida con bontà, o Signore, la tua Chiesa\nche hai nutrito a questa santa mensa,\nperché, condotta dalla tua mano potente,\ncresca nella perfetta libertà\ne custodisca l’integrità della fede.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

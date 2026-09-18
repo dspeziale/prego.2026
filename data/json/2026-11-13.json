@@ -5,7 +5,7 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXII",
-    "celebrazione": null,
+    "celebrazione": "VENERDÌ DELLA XXXII SETTIMANA DEL TEMPO ORDINARIO",
     "grado": "Feria",
     "colore": "Verde",
     "settimana_del_salterio": "IV",
@@ -89,7 +89,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Giunga fino a te la mia preghiera,\ntendi l’orecchio alla mia supplica, Signore. (Sal 87,3)",
+        "colletta": "Dio onnipotente e misericordioso,\nallontana ogni ostacolo nel nostro cammino verso di te,\nperché, nella serenità del corpo e dello spirito,\npossiamo dedicarci liberamente al tuo servizio.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Chi rimane nella dottrina, possiede il Padre e il Figlio.\nDalla seconda lettera di san Giovanni apostolo\n2Gv 1a.3-9\n\nIo, il Presbìtero, alla Signora eletta da Dio e ai suoi figli, che amo nella verità: grazia, misericordia e pace saranno con noi da parte di Dio Padre e da parte di Gesù Cristo, Figlio del Padre, nella verità e nell’amore. Mi sono molto rallegrato di aver trovato alcuni tuoi figli che camminano nella verità, secondo il comandamento che abbiamo ricevuto dal Padre.\nE ora prego te, o Signora, non per darti un comandamento nuovo, ma quello che abbiamo avuto da principio: che ci amiamo gli uni gli altri. Questo è l’amore: camminare secondo i suoi comandamenti. Il comandamento che avete appreso da principio è questo: camminate nell’amore.\nSono apparsi infatti nel mondo molti seduttori, che non riconoscono Gesù venuto nella carne. Ecco il seduttore e l’anticristo! Fate attenzione a voi stessi per non rovinare quello che abbiamo costruito e per ricevere una ricompensa piena. Chi va oltre e non rimane nella dottrina del Cristo, non possiede Dio. Chi invece rimane nella dottrina, possiede il Padre e il Figlio.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 118 (119)\nR. Beato chi cammina nella legge del Signore.\n\nBeato chi è integro nella sua via\ne cammina nella legge del Signore.\nBeato chi custodisce i suoi insegnamenti\ne lo cerca con tutto il cuore. R.\n\nCon tutto il mio cuore ti cerco:\nnon lasciarmi deviare dai tuoi comandi.\nRipongo nel cuore la tua promessa\nper non peccare contro di te. R.\n\nSii benevolo con il tuo servo e avrò vita,\nosserverò la tua parola.\nAprimi gli occhi perché io consideri\nle meraviglie della tua legge. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nRisollevatevi e alzate il capo,\nperché la vostra liberazione è vicina. (Lc 21,28)\n\nAlleluia.",
+        "vangelo": "Così accadrà nel giorno in cui il Figlio dell'uomo si manifesterà.\nDal Vangelo secondo Luca\nLc 17,26-37\n\nIn quel tempo, Gesù disse ai suoi discepoli:\n«Come avvenne nei giorni di Noè, così sarà nei giorni del Figlio dell’uomo: mangiavano, bevevano, prendevano moglie, prendevano marito, fino al giorno in cui Noè entrò nell’arca e venne il diluvio e li fece morire tutti.\nCome avvenne anche nei giorni di Lot: mangiavano, bevevano, compravano, vendevano, piantavano, costruivano; ma, nel giorno in cui Lot uscì da Sòdoma, piovve fuoco e zolfo dal cielo e li fece morire tutti. Così accadrà nel giorno in cui il Figlio dell’uomo si manifesterà.\nIn quel giorno, chi si troverà sulla terrazza e avrà lasciato le sue cose in casa, non scenda a prenderle; così, chi si troverà nel campo, non torni indietro. Ricordatevi della moglie di Lot.\nChi cercherà di salvare la propria vita, la perderà; ma chi la perderà, la manterrà viva.\nIo vi dico: in quella notte, due si troveranno nello stesso letto: l’uno verrà portato via e l’altro lasciato; due donne staranno a macinare nello stesso luogo: l’una verrà portata via e l’altra lasciata».\nAllora gli chiesero: «Dove, Signore?». Ed egli disse loro: «Dove sarà il cadavere, lì si raduneranno insieme anche gli avvoltoi».\n\nParola del Signore.",
+        "sulle_offerte": "O Padre, volgi benevolo\nil tuo sguardo su queste offerte,\nperché celebrando nel mistero la passione del tuo Figlio\nvi aderiamo con amore fedele.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Il Signore è il mio pastore: non manco di nulla.\nSu pascoli erbosi mi fa riposare,\nad acque tranquille mi conduce. (Sal 22,1-2)\n\nOppure:\n\nI discepoli riconobbero Gesù, il Signore,\nnello spezzare il pane. Alleluia. (Cf. Lc 24,35)",
+        "dopo_la_comunione": "Nutriti dei tuoi santi doni ti rendiamo grazie, o Signore,\ne imploriamo la tua misericordia:\nper il tuo Spirito, comunicato a noi in questi sacramenti,\nci sia data la grazia di rimanere fedeli nel tuo servizio.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

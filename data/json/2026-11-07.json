@@ -5,7 +5,7 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXI",
-    "celebrazione": null,
+    "celebrazione": "SABATO DELLA XXXI SETTIMANA DEL TEMPO ORDINARIO",
     "grado": "Feria",
     "colore": "Verde",
     "settimana_del_salterio": "III",
@@ -73,7 +73,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Non abbandonarmi, Signore, mio Dio,\nda me non stare lontano;\nvieni presto in mio aiuto,\no Signore, mia salvezza. (Sal 37,22-23)",
+        "colletta": "Dio onnipotente e misericordioso,\ntu solo puoi dare ai tuoi fedeli\nil dono di servirti in modo lodevole e degno;\nfa’ che corriamo senza ostacoli verso i beni da te promessi.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Tutto posso in colui che mi dà la forza.\nDalla lettera di san Paolo apostolo ai Filippési\nFil 4,10-19\n\nFratelli, ho provato grande gioia nel Signore perché finalmente avete fatto rifiorire la vostra premura nei miei riguardi: l'avevate anche prima, ma non ne avete avuto l'occasione.\nNon dico questo per bisogno, perché ho imparato a bastare a me stesso in ogni occasione. So vivere nella povertà come so vivere nell'abbondanza; sono allenato a tutto e per tutto, alla sazietà e alla fame, all'abbondanza e all'indigenza. Tutto posso in colui che mi dà la forza.\nAvete fatto bene tuttavia a prendere parte alle mie tribolazioni. Lo sapete anche voi, Filippési, che all'inizio della predicazione del Vangelo, quando partii dalla Macedònia, nessuna Chiesa mi aprì un conto di dare e avere, se non voi soli; e anche a Tessalònica mi avete inviato per due volte il necessario.\nNon è però il vostro dono che io cerco, ma il frutto che va in abbondanza sul vostro conto. Ho il necessario e anche il superfluo; sono ricolmo dei vostri doni ricevuti da Epafrodìto, che sono un piacevole profumo, un sacrificio gradito, che piace a Dio.\nIl mio Dio, a sua volta, colmerà ogni vostro bisogno secondo la sua ricchezza con magnificenza, in Cristo Gesù.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 111 (112)\nR. Beato l’uomo che teme il Signore.\n\nBeato l’uomo che teme il Signore\ne nei suoi precetti trova grande gioia.\nPotente sulla terra sarà la sua stirpe,\nla discendenza degli uomini retti sarà benedetta. R.\n\nFelice l’uomo pietoso che dà in prestito,\namministra i suoi beni con giustizia.\nEgli non vacillerà in eterno:\neterno sarà il ricordo del giusto. R.\n\nSicuro è il suo cuore, non teme.\nEgli dona largamente ai poveri,\nla sua giustizia rimane per sempre,\nla sua fronte s’innalza nella gloria. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nGesù Cristo, da ricco che era, si è fatto povero per voi,\nperché voi diventaste ricchi per mezzo della sua povertà. (2Cor 8,9)\n\nAlleluia.",
+        "vangelo": "Se non siete stati fedeli nella ricchezza disonesta, chi vi affiderà quella vera?\nDal Vangelo secondo Luca\nLc 16,9-15\n\nIn quel tempo, Gesù diceva ai discepoli: «Fatevi degli amici con la ricchezza disonesta, perché, quando questa verrà a mancare, essi vi accolgano nelle dimore eterne.\nChi è fedele in cose di poco conto, è fedele anche in cose importanti; e chi è disonesto in cose di poco conto, è disonesto anche in cose importanti. Se dunque non siete stati fedeli nella ricchezza disonesta, chi vi affiderà quella vera? E se non siete stati fedeli nella ricchezza altrui, chi vi darà la vostra?\nNessun servitore può servire due padroni, perché o odierà l'uno e amerà l'altro, oppure si affezionerà all'uno e disprezzerà l'altro. Non potete servire Dio e la ricchezza».\nI farisei, che erano attaccati al denaro, ascoltavano tutte queste cose e si facevano beffe di lui. Egli disse loro: «Voi siete quelli che si ritengono giusti davanti agli uomini, ma Dio conosce i vostri cuori: ciò che fra gli uomini viene esaltato, davanti a Dio è cosa abominevole».\n\nParola del Signore.",
+        "sulle_offerte": "Questo sacrificio, o Signore, sia per te offerta pura,\ne per noi dono santo della tua misericordia.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Mi indicherai il sentiero della vita,\ngioia piena alla tua presenza. (Sal 15,11)\n\nOppure:\n\nDice il Signore: «Come il Padre, che ha la vita,\nha mandato me e io vivo per il Padre,\ncosì colui che mangia me vivrà per me». (Gv 6,57)",
+        "dopo_la_comunione": "Rafforza in noi, o Signore, la tua opera di salvezza,\nperché i sacramenti che ci nutrono in questa vita\nci preparino a ricevere i beni che promettono.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

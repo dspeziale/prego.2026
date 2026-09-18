@@ -5,9 +5,9 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXI",
-    "celebrazione": null,
-    "grado": "Feria",
-    "colore": "Verde",
+    "celebrazione": "SAN CARLO BORROMEO, VESCOVO - MEMORIA",
+    "grado": "Memoria",
+    "colore": "Bianco",
     "settimana_del_salterio": "III",
     "santo_del_giorno": "San Carlo Borromeo, vescovo",
     "immagine_santo": "https://www.chiesacattolica.it/wp-content/uploads/sites/31/2023/06/29d5e752-0720-4dad-9b91-6da70ee50184.jpeg",
@@ -57,7 +57,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "«Io cercherò le mie pecore», dice il Signore,\n«e susciterò un pastore che le pascerà:\nio, il Signore, sarò il loro Dio». (Cf. Ez 34,11.23-24)\n\nOppure:\n\nEcco il servo fedele e prudente,\nche il Signore ha messo a capo della sua famiglia,\nper nutrirla al tempo opportuno. (Cf. Lc 12,42)",
+        "colletta": "Custodisci nel tuo popolo, o Signore,\nlo spirito di cui hai ricolmato il vescovo san Carlo [ Borromeo] ,\nperché la Chiesa si rinnovi incessantemente\ne, conformandosi all’immagine del tuo Figlio,\nmanifesti al mondo il volto di Cristo Signore.\nEgli è Dio, e vive e regna con te.",
+        "prima_lettura": "Dedicatevi alla vostra salvezza. È Dio infatti che suscita in voi il volere e l’operare.\nDalla lettera di san Paolo apostolo ai Filippési\nFil 2,12-18\n\nMiei cari, voi che siete stati sempre obbedienti, non solo quando ero presente ma molto più ora che sono lontano, dedicatevi alla vostra salvezza con rispetto e timore. È Dio infatti che suscita in voi il volere e l’operare secondo il suo disegno d’amore.\nFate tutto senza mormorare e senza esitare, per essere irreprensibili e puri, figli di Dio innocenti in mezzo a una generazione malvagia e perversa. In mezzo a loro voi risplendete come astri nel mondo, tenendo salda la parola di vita.\nCosì nel giorno di Cristo io potrò vantarmi di non aver corso invano, né invano aver faticato. Ma, anche se io devo essere versato sul sacrificio e sull’offerta della vostra fede, sono contento e ne godo con tutti voi. Allo stesso modo anche voi godetene e rallegratevi con me.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 26 (27)\nR. Il Signore è mia luce e mia salvezza.\n\nIl Signore è mia luce e mia salvezza:\ndi chi avrò timore?\nIl Signore è difesa della mia vita:\ndi chi avrò paura? R.\n\nUna cosa ho chiesto al Signore,\nquesta sola io cerco:\nabitare nella casa del Signore\ntutti i giorni della mia vita,\nper contemplare la bellezza del Signore\ne ammirare il suo santuario. R.\n\nSono certo di contemplare la bontà del Signore\nnella terra dei viventi.\nSpera nel Signore, sii forte,\nsi rinsaldi il tuo cuore e spera nel Signore. R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nBeati voi, se venite insultati per il nome di Cristo,\nperché lo Spirito di Dio riposa su di voi. (1Pt 4,14)\n\nAlleluia.",
+        "vangelo": "Chi non rinuncia a tutti i suoi averi, non può essere mio discepolo.\nDal Vangelo secondo Luca\nLc 14,25-33\n\nIn quel tempo, una folla numerosa andava con Gesù. Egli si voltò e disse loro:\n«Se uno viene a me e non mi ama più di quanto ami suo padre, la madre, la moglie, i figli, i fratelli, le sorelle e perfino la propria vita, non può essere mio discepolo. Colui che non porta la propria croce e non viene dietro a me, non può essere mio discepolo.\nChi di voi, volendo costruire una torre, non siede prima a calcolare la spesa e a vedere se ha i mezzi per portarla a termine? Per evitare che, se getta le fondamenta e non è in grado di finire il lavoro, tutti coloro che vedono comincino a deriderlo, dicendo: “Costui ha iniziato a costruire, ma non è stato capace di finire il lavoro”.\nOppure quale re, partendo in guerra contro un altro re, non siede prima a esaminare se può affrontare con diecimila uomini chi gli viene incontro con ventimila? Se no, mentre l’altro è ancora lontano, gli manda dei messaggeri per chiedere pace.\nCosì chiunque di voi non rinuncia a tutti i suoi averi, non può essere mio discepolo».\n\nParola del Signore.",
+        "sulle_offerte": "Guarda con bontà, o Signore,\ni doni che portiamo al tuo altare nella memoria di san Carlo [ Borromeo] :\ncome l’hai reso glorioso per le sue virtù\ne per il vigile servizio pastorale,\nconcedi anche a noi, per la potenza di questo sacrificio,\ndi abbondare in frutti genuini di opere buone.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "«Non voi avete scelto me», dice il Signore,\n«ma io ho scelto voi e vi ho costituiti perché andiate\ne portiate frutto e il vostro frutto rimanga». (Gv 15,16)\n\nOppure:\n\nBeato quel servo che il padrone troverà ancora sveglio,\nquando verrà e busserà alla porta. (Cf. Lc 12,36-37)",
+        "dopo_la_comunione": "La partecipazione ai santi misteri, o Signore,\nci comunichi lo spirito di fortezza\nche rese san Carlo [ Borromeo] fedele nel ministero\ne ardente nella carità verso i fratelli.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,

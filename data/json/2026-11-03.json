@@ -5,7 +5,7 @@
     "ciclo_biennale": "II",
     "tempo_liturgico": "Tempo Ordinario",
     "settimana_del_tempo": "XXXI",
-    "celebrazione": null,
+    "celebrazione": "MARTEDÌ DELLA XXXI SETTIMANA DEL TEMPO ORDINARIO",
     "grado": "Feria",
     "colore": "Verde",
     "settimana_del_salterio": "III",
@@ -81,7 +81,17 @@
             }
         ]
     },
-    "liturgia_del_giorno": null,
+    "liturgia_del_giorno": {
+        "antifona_d_ingresso": "Non abbandonarmi, Signore, mio Dio,\nda me non stare lontano;\nvieni presto in mio aiuto,\no Signore, mia salvezza. (Sal 37,22-23)",
+        "colletta": "Dio onnipotente e misericordioso,\ntu solo puoi dare ai tuoi fedeli\nil dono di servirti in modo lodevole e degno;\nfa’ che corriamo senza ostacoli verso i beni da te promessi.\nPer il nostro Signore Gesù Cristo.",
+        "prima_lettura": "Svuotò se stesso, per questo Dio lo esaltò.\nDalla lettera di san Paolo apostolo ai Filippési\nFil 2,5-11\n\nFratelli,\nabbiate in voi gli stessi sentimenti di Cristo Gesù:\negli, pur essendo nella condizione di Dio,\nnon ritenne un privilegio\nl’essere come Dio,\nma svuotò se stesso\nassumendo una condizione di servo,\ndiventando simile agli uomini.\nDall’aspetto riconosciuto come uomo,\numiliò se stesso\nfacendosi obbediente fino alla morte\ne a una morte di croce.\nPer questo Dio lo esaltò\ne gli donò il nome\nche è al di sopra di ogni nome,\nperché nel nome di Gesù\nogni ginocchio si pieghi\nnei cieli, sulla terra e sotto terra,\ne ogni lingua proclami:\n«Gesù Cristo è Signore!»,\na gloria di Dio Padre.\n\nParola di Dio.",
+        "salmo_responsoriale": "Dal Sal 21 (22)\nR. Da te, Signore, la mia lode nella grande assemblea.\nOppure:\nR. Lode a te, Signore, nell’assemblea dei santi.\n\nScioglierò i miei voti davanti ai suoi fedeli.\nI poveri mangeranno e saranno saziati,\nloderanno il Signore quanti lo cercano;\nil vostro cuore viva per sempre! R.\n\nRicorderanno e torneranno al Signore\ntutti i confini della terra;\ndavanti a te si prostreranno\ntutte le famiglie dei popoli. R.\n\nPerché del Signore è il regno:\nè lui che domina sui popoli!\nA lui solo si prostreranno\nquanti dormono sotto terra. R.\n\nLo servirà la mia discendenza.\nSi parlerà del Signore alla generazione che viene;\nannunceranno la sua giustizia;\nal popolo che nascerà diranno:\n«Ecco l’opera del Signore!». R.",
+        "acclamazione_al_vangelo": "Alleluia, alleluia.\n\nVenite a me, voi tutti che siete stanchi e oppressi,\ne io vi darò ristoro, dice il Signore. (Mt 11,28)\n\nAlleluia.",
+        "vangelo": "Esci per le strade e lungo le siepi e costringili ad entrare, perché la mia casa si riempia.\nDal Vangelo secondo Luca\nLc 14,15-24\n\nIn quel tempo, uno dei commensali, avendo udito questo, disse a Gesù: «Beato chi prenderà cibo nel regno di Dio!».\nGli rispose: «Un uomo diede una grande cena e fece molti inviti. All’ora della cena, mandò il suo servo a dire agli invitati: “Venite, è pronto”. Ma tutti, uno dopo l’altro, cominciarono a scusarsi. Il primo gli disse: “Ho comprato un campo e devo andare a vederlo; ti prego di scusarmi”. Un altro disse: “Ho comprato cinque paia di buoi e vado a provarli; ti prego di scusarmi”. Un altro disse: “Mi sono appena sposato e perciò non posso venire”.\nAl suo ritorno il servo riferì tutto questo al suo padrone. Allora il padrone di casa, adirato, disse al servo: “Esci subito per le piazze e per le vie della città e conduci qui i poveri, gli storpi, i ciechi e gli zoppi”.\nIl servo disse: “Signore, è stato fatto come hai ordinato, ma c’è ancora posto”. Il padrone allora disse al servo: “Esci per le strade e lungo le siepi e costringili ad entrare, perché la mia casa si riempia. Perché io vi dico: nessuno di quelli che erano stati invitati gusterà la mia cena”».\n\nParola del Signore.",
+        "sulle_offerte": "Questo sacrificio, o Signore, sia per te offerta pura,\ne per noi dono santo della tua misericordia.\nPer Cristo nostro Signore.",
+        "antifona_alla_comunione": "Mi indicherai il sentiero della vita,\ngioia piena alla tua presenza. (Sal 15,11)\n\nOppure:\n\nDice il Signore: «Come il Padre, che ha la vita,\nha mandato me e io vivo per il Padre,\ncosì colui che mangia me vivrà per me». (Gv 6,57)",
+        "dopo_la_comunione": "Rafforza in noi, o Signore, la tua opera di salvezza,\nperché i sacramenti che ci nutrono in questa vita\nci preparino a ricevere i beni che promettono.\nPer Cristo nostro Signore."
+    },
     "ufficio_delle_letture": null,
     "lodi_mattutine": null,
     "ora_media": null,
