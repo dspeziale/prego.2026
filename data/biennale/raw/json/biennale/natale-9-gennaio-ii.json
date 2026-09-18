@@ -1,0 +1,29 @@
+{
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "giorno_settimana": null,
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "data": "09-01",
+    "data_estesa": "9 Gennaio",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "56,1-8",
+            "sottotitolo": "Gli stranieri e gli eunuchi sono ammessi nella casa del Signore",
+            "fonte": "Dal libro del profeta Isaia",
+            "testo": "Così dice il Signore: «Osservate il diritto e praticate la giustizia, perché prossima a venire è la mia salvezza; la mia giustizia sta per rivelarsi». Beato l’uomo che così agisce, il figlio dell’uomo che a questo si attiene, che osserva il sabato senza profanarlo, che preserva la sua mano da ogni male. Non dica lo straniero che ha aderito al Signore: «Certo mi escluderà il Signore dal suo popolo!». Non dica l’eunuco: «Ecco, io sono un albero secco!». Poiché così dice il Signore: «Agli eunuchi che osservano i miei sabati, preferiscono le cose di mio gradimento e restano fermi nella mia alleanza, io concederò nella mia casa e dentro le mie mura un posto e un nome meglio di figli e figlie; darò loro un nome eterno che non sarà mai cancellato. Gli stranieri, che hanno aderito al Signore per servirlo e per amare il nome del Signore, e per essere suoi servi, quanti si guardano dal profanare il sabato e restano fermi nella mia alleanza, li condurrò sul mio monte santo e li colmerò di gioia nella mia casa di preghiera. I loro olocausti e i loro sacrifici saliranno graditi sul mio altare, perché il mio tempio si chiamerà casa di preghiera per tutti i popoli». Oracolo del Signore Dio che raduna i dispersi di Israele: «Io ancora radunerò i suoi prigionieri, oltre quelli già radunati»",
+            "responsorio": "Responsorio (Is 56,8.6.7; Col 1,27)\nR. Oracolo del Signore Dio che raduna i dispersid’Israele, gli stranieri che hanno aderito al Signore per servirlo:\n*licondurrò sul mio monte santo e li colmerò di gioia nella mia casa di preghiera.\nV. Dio volle far conoscere in mezzo ai pagani lagloriosa ricchezza di questo mistero: Cristo è in voi.\nR. Li condurrò sul mio monte santo e li colmeròdi gioia nella mia casa di preghiera."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "36,1-2",
+            "sottotitolo": "Tutti i confini della terra vedranno la salvezza del nostro Dio",
+            "fonte": "Dai “Discorsi” di san Leone Magno, papa",
+            "testo": "Se vogliamo celebrare degnamente, carissimi, il giorno in cui Cristo, Salvatore del mondo, si manifestò per la prima volta alle genti, cerchiamo di ridestare oggi nei nostri cuori la gioia che provarono i magi quando, spinti e guidati dalla nuova stella, poterono adorare, contemplandolo con i propri occhi, il re del cielo e della terra, nel quale già prima, e solo in forza di una promessa, avevano creduto. Né quel giorno può considerarsi concluso in modo tale, che la forza dell’evento in esso manifestata si sia esaurita nel tempo e non sia rimasto altro che il ricordo accolto dalla fede e celebrato dalla memoria. Il dono di Dio si è moltiplicato e i nostri tempi ne fanno ogni giorno l’esperienza. Sebbene il racconto evangelico si riferisca propriamente a quei giorni in cui tre uomini non illuminati dalla predicazione dei profeti né istruiti dalle testimonianze della legge, vennero dalle regioni più lontane dell’oriente per conoscere Dio, vediamo tuttavia che in modo ancora più manifesto e frequente, questo si verifica nell’illuminazione di tutti coloro che sono chiamati alla fede. Si realizza così la profezia di Isaia che dice: «Il Signore ha snudato il suo santo braccio davanti a tutti i popoli; tutti i confini della terra vedranno la salvezza del nostro Dio» (Is 52,10), e ancora: «Lo vedranno coloro ai quali non era stato annunziato e coloro che non ne avevano udito parlare, comprenderanno» (Rm 15,21; cfr. Is 52,15). Quando vediamo che uomini, intenti alla sapienza profana e lontani dalla fede in Gesù Cristo, vengono tratti fuori dall’abisso del loro errore e chiamati alla conoscenza della vera luce, è senza dubbio lo splendore della grazia divina che agisce; e ogni nuova luce che si desta nei cuori ottenebrati, si sprigiona dai raggi di quella medesima stella, per muovere col suo prodigioso fulgore le anime che ha toccato e condurle, precedendole, a adorare il Signore. Se poi desiderosi di addentrarci maggiormente nel mistero, vogliamo scoprire come tutti coloro che vengono a Cristo attraverso il cammino della fede portino quei tre tipi di doni, non è forse vero che nel cuore di chi crede rettamente si fa la stessa offerta? Dal tesoro del proprio cuore si offre l’oro, riconoscendo Cristo re dell’universo; offre la mirra chi crede che il Figlio unigenito di Dio ha assunto una vera natura umana; l’onora, in certo senso con incenso, chi confessa la sua assoluta uguaglianza con la maestà del Padre.",
+            "responsorio": "Responsorio (Mt 2,1-2)\nR. I magi giunsero da oriente a Gerusalemme edomandavano: Dov’è il re dei Giudei che è nato? Abbiamo visto la sua stella\n*e siamo venuti per adorarlo.\nV. Abbiamo visto la sua stella in oriente,\nR. e siamo venuti per adorarlo."
+        }
+    ],
+    "codice": "natale-9-gennaio-ii",
+    "fonte_raw": "Natale/bien_pari/0901.txt"
+}

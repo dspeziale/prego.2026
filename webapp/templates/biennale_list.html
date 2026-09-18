@@ -30,7 +30,7 @@
                 <tr>
                     <td>{{ entry.tempo_liturgico }}</td>
                     <td>{{ entry.settimana_del_tempo or "—" }}</td>
-                    <td>{{ entry.giorno_settimana }}</td>
+                    <td>{{ entry.data_estesa or entry.giorno_settimana or "—" }}</td>
                     <td class="d-none d-sm-table-cell">{{ entry.anno_liturgico or "—" }}</td>
                     <td class="d-none d-sm-table-cell">{{ entry.ciclo_biennale or "—" }}</td>
                     <td class="text-center d-none d-md-table-cell">{{ entry.letture | length }}</td>

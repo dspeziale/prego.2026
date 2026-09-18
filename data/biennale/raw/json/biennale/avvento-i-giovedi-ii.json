@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "I",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "16,1-5; 17,4-8",
+            "sottotitolo": "I Moabiti si rifugiano nel regno di Giuda. Èfraim si converte",
+            "fonte": "Dal libro del profeta Isaia",
+            "testo": "Mandate l’agnello al signore del paese, dalla rupe verso il deserto al monte della figlia di Sion. Come un uccello fuggitivo, come una nidiata dispersa saranno le figlie di Moab ai guadi dell’Arnon. Dacci un consiglio, prendi una decisione! Rendi come la notte la tua ombra in pieno mezzogiorno; nascondi i dispersi, non tradire i fuggiaschi. Siano tuoi ospiti i dispersi di Moab; sii loro rifugio di fronte al devastatore. Quando sarà estinto il tiranno e finita la devastazione, scomparso il distruttore della regione, allora sarà stabilito un trono sulla mansuetudine, vi siederà con tutta fedeltà, nella tenda di Davide, un giudice sollecito del diritto e pronto alla giustizia. In quel giorno verrà ridotta la gloria di Giacobbe, e sarà smunta la floridezza delle sue membra. Avverrà come quando il mietitore prende una manciata di steli, e con l’altro braccio falcia le spighe, come quando si raccolgono le spighe nella valle dei Rèfaim. Vi resteranno solo racimoli, come alla bacchiatura degli ulivi: due o tre bacche sulla cima dell’albero, quattro o cinque sui rami da frutto. Oracolo del Signore, Dio di Israele. In quel giorno si volgerà l’uomo al suo creatore e i suoi occhi guarderanno al Santo di Israele. Non si volgerà agli altari, lavoro delle sue mani; non guarderà ciò che fecero le sue dita, i pali sacri e gli altari per l’incenso.",
+            "responsorio": "Responsorio (Cfr. Ger 33,15.16; Is 16,5)\nR. Farò nascere da Davide un germoglio di giustizia: riporterà sullaterra il giudizio e il diritto.\n*Lo chiameranno: Signore-nostra-giustizia.\nV. Fonderà il suo regno sull’amore e la fedeltà, giusto giudice,difensore dei poveri.\nR. Lo chiameranno: Signore-nostra-giustizia."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "C. 18,15-17",
+            "sottotitolo": "Vegliate: egli di nuovo verrà",
+            "fonte": "Dal “Commento sul Diatèssaron” di sant’Efrem, diacono",
+            "testo": "Nessuno conosce quell’ora, neanche gli angeli, neppure il Figlio (cfr. Mt 24,36). Disse questo per impedire che i discepoli lo interrogassero ancora sul tempo della sua venuta. «Non spetta a voi», disse, «conoscere i tempi e i momenti» (At 1,7). Egli nascose la cosa perché fossimo vigilanti e ognuno di noi ritenesse che il fatto può accadere ai nostri stessi giorni. Se infatti fosse stato rivelato il tempo della sua venuta, il suo avvento sarebbe rimasto senza mordente, né la sua manifestazione avrebbe costituito oggetto di attesa delle nazioni e dei secoli. Disse perciò semplicemente che sarebbe venuto, ma non determinò il tempo, e così ecco che in tutte le generazioni e nei secoli si mantiene viva la speranza del suo arrivo. Benché infatti il Signore abbia indicato i segni della sua venuta, tuttavia non si comprende la loro ultima scadenza, poiché attraverso molteplici mutazioni essi vennero, passarono e sono tuttora in atto. La sua ultima venuta infatti è simile alla prima. Come lo attendevano i giusti e i profeti, perché pensavano che si sarebbe rivelato ai loro giorni, così oggi i fedeli desiderano accoglierlo, ognuno nel proprio tempo, appunto perché egli non indicò chiaramente il giorno della sua visita; ciò soprattutto perché nessuno pensasse sottomesso a costrizione e a tempi colui che ha il libero dominio dei ritmi e dei tempi. Ciò che lui stesso ha stabilito, come poteva essergli nascosto, dal momento che egli stesso ha manifestato perfino i segni della sua venuta? Disse dunque: «Non lo so», anzitutto per impedire che lo interrogassero ancora, e poi perché risultassero efficaci i segni indicati. Mise in risalto quei segni perché fin dall’inizio tutti i popoli e tutti i tempi avessero motivo di pensare che la sua venuta si sarebbe potuta verificare ai loro giorni. Vegliate, perché quando il corpo s’addormenta, ha in noi il sopravvento la natura, e la nostra azione non si svolge secondo la nostra volontà, ma si compie secondo un impulso inconscio. E quando il torpore, cioè la viltà e la trepidazione, domina l’anima, prende il dominio su di lei il nemico e fa per suo mezzo ciò ch’essa non vuole. Sulla natura domina una forza bruta e sull’anima domina il nemico. Pertanto la vigilanza di cui parlò il Signore nostro è prescritta per ambedue: per il corpo, perché non si abbandoni a pesante sonno; per l’anima, perché non cada nel torpore della pusillanimità, secondo quel che dice la Scrittura: Siate vigilanti, o giusti (cfr. 1Cor 15,34), e: Mi sono alzato e sono con te (cfr. Sal 138,18), e ancora: Non lasciatevi stancare, e perciò non desistiamo nel ministero che ci è stato affidato (cfr. 2Cor 4,1).",
+            "responsorio": "Responsorio (Cfr. Is 55,3-4; cfr. At 28,28)\nR. Ristabilirò per voi un’alleanza eterna, fedele al mio amore perDavide. L’ho costituito testimonio tra i popoli,\n*guida e maestro dellenazioni.\nV. Anche ai pagani è mandato Cristo salvezza di Dio, ed essil’accoglieranno,\nR. guida e maestro delle nazioni."
+        }
+    ],
+    "codice": "avvento-i-giovedi-ii",
+    "fonte_raw": "Avvento/AVV01/bien_pari/5GIO.txt"
+}

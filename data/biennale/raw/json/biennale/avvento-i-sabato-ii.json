@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "I",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "21,6-12",
+            "sottotitolo": "La sentinella che scruta nella notte annunzia la caduta di Babilonia. Così mi ha detto il Signore:",
+            "fonte": "Dal libro del profeta Isaia",
+            "testo": "«Va’, metti una sentinella che annunzi quanto vede. Se vede cavalleria, coppie di cavalieri, gente che cavalca asini, gente che cavalca cammelli, osservi attentamente, con grande attenzione». La vedetta ha gridato: «Al posto di osservazione, Signore, io sto sempre, tutto il giorno, e nel mio osservatorio sto in piedi, tutta la notte. Ecco, arriva una schiera di cavalieri, coppie di cavalieri». Essi esclamano e dicono: «È caduta, è caduta Babilonia! Tutte le statue dei suoi dèi sono a terra, in frantumi». O popolo mio, calpestato, che ho trebbiato come su un’aia, ciò che ho udito dal Signore degli eserciti, Dio di Israele, a voi ho annunziato. Oracolo sull’Idumea. Mi gridano da Seir: «Sentinella, quanto resta della notte? Sentinella, quanto resta della notte?». La sentinella risponde: «Viene il mattino, poi anche la notte; se volete domandare, domandate, convertitevi, venite!».",
+            "responsorio": "Responsorio (Ap 18,2.4-5)\nR. L’angelo gridò con voce potente: È caduta Babilonia la grande! Poiudii un’altra voce dal cielo:\n*Esci da Babilonia, popolo mio, e non saraicoinvolto nelle sue colpe.\nV. I suoi peccati sono alti fino al cielo; Dio si è ricordato delle sueingiustizie.\nR. Esci da Babilonia, popolo mio, e non sarai coinvolto nelle sue colpe."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "13-15",
+            "sottotitolo": "Ciò che non vediamo, speriamo",
+            "fonte": "Dal trattato “Sui vantaggi della pazienza” di san Cipriano, vescovo e martire",
+            "testo": "«Chi persevererà sino alla fine sarà salvato» (Mt 10,22; 24,13): questo è comando salutare del nostro Signore e Maestro. E ancora: «Se rimanete fedeli alla mia parola, sarete davvero miei discepoli; conoscerete la verità e la verità vi farà liberi» (Gv 8,31-32). Bisogna perciò aver pazienza e perseverare, fratelli carissimi, perché, ammessi alla speranza della verità e della libertà, possiamo davvero arrivare alla verità e alla libertà. Il fatto stesso di essere cristiani è questione di fede e di speranza; ma perché la speranza e la fede possano arrivare a portare frutto, è necessaria la pazienza. Noi non miriamo infatti alla gloria presente, ma alla futura, secondo quanto ammonisce l’apostolo Paolo, quando dice: «Nella speranza noi siamo stati salvati. Ora, ciò che si spera, se visto, non è più speranza; infatti ciò che uno già vede, come potrebbe ancora sperarlo? Ma se speriamo quello che non vediamo, lo attendiamo con perseveranza» (Rm 8,24-25). L’attesa e la pazienza sono necessarie perché portiamo a compimento quello che abbiamo cominciato a essere, e raggiungiamo quello che speriamo e crediamo perché Dio ce lo rivela. In un altro passo lo stesso Apostolo, rivolgendosi ai giusti e a coloro che con le buone opere e mettendo a frutto i doni ricevuti si procurano tesori per il cielo, insegna loro a essere pazienti dicendo: «Poiché dunque ne abbiamo l’occasione, operiamo il bene verso tutti, soprattutto verso i fratelli nella fede. Non stanchiamoci di fare il bene, e a suo tempo mieteremo» (Gal 6,10.9). Egli ammonisce tutti a non venir meno nell’operare per mancanza di pazienza; nessuno, distolto e vinto dalle tentazioni, desista nel bel mezzo del cammino della lode e della gloria, e rovini così le azioni precedentemente compiute, perché non porta a compimento quelle incominciate. Infine l’Apostolo, parlando della carità, le unisce anche la sopportazione e la pazienza. «La carità», dice, «è paziente; è benigna la carità; non è invidiosa la carità, non si vanta, non si gonfia,… non si adira, non tiene conto del male ricevuto. Tutto copre, tutto crede, tutto spera, tutto sopporta» (1Cor 13,4-5). Egli ci fa vedere così che essa può perseverare tenacemente per il fatto che sa sopportare tutto. E altrove: «Sopportandovi a vicenda con amore, cercando di conservare unità dello Spirito per mezzo del vincolo della pace» (Ef 4,2b-3). Con ciò ha voluto dimostrare che non si può conservare né l’unità né la pace se i fratelli non si sostengono vicendevolmente con la mutua sopportazione e non serbano il vincolo della concordia con l’aiuto della pazienza.",
+            "responsorio": "Responsorio (Cfr. Ab 2,3; Eb 10,37)\nR. Apparirà il Signore, non smentirà l’attesa;\n*attendilo, viene dicerto, non può tardare.\nV. Ancora un poco, appena un poco: e verrà colui che deve venire.\nR. Attendilo, viene di certo, non può tardare."
+        }
+    ],
+    "codice": "avvento-i-sabato-ii",
+    "fonte_raw": "Avvento/AVV01/bien_pari/7SAB.txt"
+}

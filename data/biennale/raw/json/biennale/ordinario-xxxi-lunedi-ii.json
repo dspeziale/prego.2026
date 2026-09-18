@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXXI",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "9,1-18; Volg. 9,1-19",
+            "sottotitolo": "Preghiera per ottenere la sapienza",
+            "fonte": "Dal libro della Sapienza",
+            "testo": "«Dio dei padri e Signore di misericordia, che tutto hai creato con la tua parola, che con la tua sapienza hai formato l’uomo, perché domini sulle creature che tu hai fatto, e governi il mondo con santità e giustizia e pronunzi giudizi con animo retto, dammi la sapienza, che siede in trono accanto a te e non mi escludere dal numero dei tuoi figli, perché io sono tuo servo e figlio della tua ancella, uomo debole e di vita breve, incapace di comprendere la giustizia e le leggi. Anche il più perfetto tra gli uomini, privo della tua sapienza, sarebbe stimato un nulla. Tu mi hai prescelto come re del tuo popolo e giudice dei tuoi figli e delle tue figlie; mi hai detto di costruirti un tempio sul tuo santo monte, un altare nella città della tua dimora, un’imitazione della tenda santa che ti eri preparata fin da principio. Con te è la sapienza che conosce le tue opere, che era presente quando creavi il mondo; essa conosce che cosa è gradito ai tuoi occhi e ciò che è conforme ai tuoi decreti. Mandala dai cieli santi, dal tuo trono glorioso, perché mi assista e mi affianchi nella mia fatica e io sappia che cosa ti è gradito. Essa tutto conosce e tutto comprende: mi guiderà con prudenza nelle mie azioni e mi proteggerà con la sua gloria. Così le mie opere ti saranno gradite; io giudicherò con equità il tuo popolo e sarò degno del trono di mio padre. Quale uomo può conoscere il volere di Dio? Chi può immaginare che cosa vuole il Signore? I ragionamenti dei mortali sono timidi e incerte le nostre riflessioni, perché un corpo corruttibile appesantisce l’anima e la tenda d’argilla grava la mente dai molti pensieri. A stento ci raffiguriamo le cose terrestri, scopriamo con fatica quelle a portata di mano; ma chi può rintracciare le cose del cielo? Chi ha conosciuto il tuo pensiero, se tu non gli hai concesso la sapienza e non gli hai inviato il tuo santo spirito dall’alto? Così furono raddrizzati i sentieri di chi è sulla terra; gli uomini furono ammaestrati in ciò che ti è gradito; essi furono salvati per mezzo della sapienza».",
+            "responsorio": "Responsorio (Cfr. Sap 9,10.4)\nR. Manda la sapienza, Signore, dal tuo trono glorioso, perché mi assistae mi affianchi nella mia fatica:\n*e in ogni tempo io sappia ciò che ti ègradito.\nV. Dammi la sapienza, che siede in trono accanto a te,\nR. e in ogni tempo io sappia ciò che ti è gradito."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Lib. II,6,2",
+            "sottotitolo": "Il mistero del Verbo incarnato",
+            "fonte": "Dai libri “Le origini” di Origene, sacerdote",
+            "testo": "Tra tutte le cose meravigliose che si possono dire del Cristo, ce n’è una che supera assolutamente l’ammirazione di cui è capace lo spirito umano, e la fragilità della nostra intelligenza mortale non sa come comprenderla o immaginarla: che l’onnipotenza della maestà divina, la Parola stessa del Padre, la Sapienza di Dio, nella quale sono state create tutte le cose – le visibili e le invisibili – si sia lasciata racchiudere nei limiti di un uomo apparso in Giudea. Questo è l’oggetto della nostra fede; ma c’è di più. Noi crediamo che la Sapienza di Dio è entrata nel seno di una donna ed è nata tra i vagiti e i pianti come tutti i mortali. E sappiamo che più tardi il Cristo ha conosciuto la paura della morte al punto da esclamare: «La mia anima è triste fino alla morte» (Mt 26,38), e che alla fine è stato condotto alla morte più ignominiosa, anche se poi è risuscitato il terzo giorno. Riscontriamo in lui contemporaneamente i lineamenti umani comuni alla nostra debolezza di mortali, e i lineamenti divini propri soltanto di quella natura sovrana e ineffabile. Di fronte a ciò l’intelligenza umana, troppo piccola, è presa da tale ammirazione da non sapere che dire e come orientarsi. Sa che Cristo è Dio, e tuttavia lo vede morire; se poi lo considera un uomo, ecco che lo vede risorgere col suo bottino di vittoria dopo aver distrutto il regno della morte. La nostra contemplazione, meditando nello stesso Gesù la verità delle due nature, deve procedere con riverente timore, evitando sia di attribuire cose indegne o sconvenienti all’ineffabile essenza divina, sia di considerare gli avvenimenti storici come apparenze illusorie. In verità spiegare tali cose a intelligenze umane e cercare di esprimere parole, è impresa superiore alle nostre forze e ai nostri meriti e supera l’intelligenza e le parole. Anzi, penso che superi le capacità degli stessi apostoli. Ancor più: la spiegazione di questo mistero trascende probabilmente tutto l’ordine delle potenze celesti.",
+            "responsorio": "Responsorio (Fil 2,6.7; Gv 1,2)\nR. Cristo Gesù, pur essendo di natura divina, non considerò un tesorogeloso la sua uguaglianza con Dio,\n*ma spogliò se stesso divenendo simileagli uomini, apparso in forma umana.\nV. Egli era in principio presso Dio,\nR. ma spogliò se stesso divenendo simile agli uomini, apparso in formaumana."
+        }
+    ],
+    "codice": "ordinario-xxxi-lunedi-ii",
+    "fonte_raw": "Ordinario/31_BIEN/bien_pari/2LUN.txt"
+}

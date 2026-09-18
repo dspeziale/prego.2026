@@ -1,0 +1,30 @@
+{
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "giorno_settimana": null,
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "data": "29-12",
+    "data_estesa": "29 Dicembre",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "1,1-8",
+            "sottotitolo": "La Chiesa sposa di Cristo Re ne desidera l’amore",
+            "fonte": "Inizio del Cantico dei Cantici",
+            "testo": "Cantico dei cantici, che è di Salomone.\nMi baci con i baci della sua bocca!\nSì, le tue tenerezze sono più dolci del vino.\nPer la fragranza sono inebrianti i tuoi profumi,\nprofumo olezzante è il tuo nome,\nper questo le giovinette ti amano.\nAttirami dietro a te, corriamo!\nM’introduca il re nelle sue stanze:\ngioiremo e ci rallegreremo per te,\nricorderemo le tue tenerezze più del vino.\nA ragione ti amano!\nBruna sono ma bella,\no figlie di Gerusalemme,\ncome le tende di Kedar,\ncome padiglioni di Salma.\nNon state a guardare che sono bruna,\npoiché mi ha abbronzato il sole.\nI figli di mia madre si sono sdegnati con me:\nmi hanno messo a guardia delle vigne;\nla mia vigna, la mia, non l’ho custodita.\nDimmi, o amore dell’anima mia,\ndove vai a pascolare il gregge,\ndove lo fai riposare al meriggio,\nperché io non sia come vagabonda\ndietro i greggi dei tuoi compagni.\nSe non lo sai, o bellissima tra le donne,\nsegui le orme del gregge\ne mena a pascolare le tue caprette\npresso le dimore dei pastori.",
+            "responsorio": "Responsorio (Ct 4,7-8; Ger 31,3)\nR. Tutta bella tu sei, amica mia, in te nessuna\nmacchia. *Vieni con me dal Libano, o sposa, vieni.\nV. Ti ho amato di amore eterno, per questo ti\nconservo ancora pietà.\nR. Vieni con me dal Libano, o sposa, vieni."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "N. 1",
+            "sottotitolo": "Gioiremo e ci rallegreremo per Te",
+            "fonte": "Dalle “Omelie sul Cantico dei Cantici” di san Gregorio di Nissa, vescovo",
+            "testo": "Quanti, secondo il consiglio di Paolo, vi siete spogliati dell’uomo vecchio con le sue opere e i suoi desideri, come di una sordida veste, e con la purezza della vita vi siete rivestiti degli abiti del Signore, splendidi come li mostrò sul monte della trasfigurazione; quanti, anzi, per mezzo della carità che è la sua veste, vi siete rivestiti di Gesù Cristo stesso nostro Signore e a lui vi siete conformati per essergli anche più simili nella impassibilità, ascoltate il mistero del Cantico dei Cantici. Queste fanciulle che sono cresciute in virtù e, per la loro età, sono già entrate nel talamo delle mistiche nozze, amano lo sposo per la sua bellezza e col loro amore ne attraggono lo sguardo. Lo sposo, infatti, non rimane insensibile a questo amore e risponde al loro desiderio. Dice, infatti, per bocca della Sapienza: «Io amo coloro che mi amano» (Pr 8,17). Le anime che, com’è scritto, seguono il Signore Dio, attirano a sé l’amore di tale sposo che non è soggetto alla morte. Accende il loro amore la fragranza di un profumo, dietro al quale si slanciano dimentiche di ciò che lasciano, sempre correndo verso quello che anelano: Correremo – dice – dietro a te, nella fragranza dei tuoi profumi (Ct 1,3). L’anima, raggiunto un grado più alto di perfezione, è protesa con maggior ardore verso l’oggetto del suo desiderio, perciò raggiunge tosto lo scopo per cui ha corso, ed è ritenuta degna dei tesori più reconditi. Dice infatti: «Il re mi introdusse nelle sue stanze» (cfr. Ct 1,4 Volg.). Ha desiderato di sfiorare con le sue labbra la felicità e di attingere almeno tanta bellezza quanta è l’intensità del suo desiderio: perciò chiede ardentemente di esser fatta degna – come un bacio del Verbo – della grazia della sua illuminazione. Ottenutolo, e penetrata più profondamente nel mistero con la contemplazione, esclama con esultanza di non trovarsi appena nel vestibolo, ma di avere le primizie dello Spirito; il quale per sua grazia, come con un bacio, l’ha resa degna di scrutare le profondità di Dio, e di vedere e udire sulle soglie del paradiso, come dice l’apostolo Paolo, «cose che occhio non vide né orecchio udì» (1Cor 2,9), che non è lecito ad alcuno pronunciare. Le parole che seguono introducono nel mistero della Chiesa. Infatti coloro che per primi furono illuminati dalla grazia e per primi udirono il Verbo e lo servirono, non racchiusero gelosamente dentro di sé tali ricchezze, ma trasmisero anche ai posteri la stessa grazia. Per questo, alla sposa che per prima fu colmata di delizie, ed ebbe il privilegio di entrare nelle stanze dello sposo e di udire dalla sua stessa bocca quelle indicibili parole, le fanciulle dicono: «Gioiremo e ci rallegreremo per te» (Ct 1,4).",
+            "responsorio": "Responsorio (Ct 5,16; Gal 2,20)\nR. Egli è tutto delizie: questo è il mio diletto,\n*questo è il mio amico, o figlie di Gerusalemme.\nV. Non sono più io che vivo, ma Cristo vive in me.\nR. Questo è il mio amico, o figlie di Gerusalemme."
+        }
+    ],
+    "orazione": "Dio invisibile ed eterno, che nella venuta del Cristo vera luce hai rischiarato le nostre tenebre, guarda con bontà questa tua famiglia, perché possa celebrare con lode unanime la nascita gloriosa del tuo unico Figlio. Egli è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli.",
+    "codice": "natale-29-dicembre-ii",
+    "fonte_raw": "Natale/bien_pari/2912.txt"
+}

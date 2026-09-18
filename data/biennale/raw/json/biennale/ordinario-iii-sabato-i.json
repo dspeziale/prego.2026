@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "III",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "11,23-24",
+            "sottotitolo": "Se è santa la radice, lo saranno anche i rami",
+            "fonte": "Dalla lettera ai Romani di san Paolo, apostolo",
+            "testo": "Ecco che cosa dico a voi, Gentili: come apostolo dei Gentili, io faccio onore al mio ministero, nella speranza di suscitare la gelosia di quelli del mio sangue e di salvarne alcuni. Se infatti il loro rifiuto ha segnato la riconciliazione del mondo, quale potrà mai essere la loro riammissione, se non una risurrezione dai morti? Se le primizie sono sante, lo sarà anche tutta la pasta, se è santa la radice, lo saranno anche i rami. Se però alcuni rami sono stati tagliati e tu, essendo oleastro, sei stato innestato al loro posto, diventando così partecipe della radice e della linfa dell’olivo, non menar tanto vanto contro i rami! Se ti vuoi proprio vantare, sappi che non sei tu che porti la radice, ma è la radice che porta te. Dirai certamente: Ma i rami sono stati tagliati perché vi fossi innestato io! Bene; essi però sono stati tagliati a causa dell’infedeltà, mentre tu resti lì in ragione della fede. Non montare dunque in superbia, ma temi! Se infatti Dio non ha risparmiato quelli che erano rami naturali, tanto meno risparmierà te! Considera dunque la bontà e la severità di Dio: severità verso quelli che sono caduti; bontà di Dio invece verso di te, a condizione però che tu sia fedele a questa bontà. Altrimenti anche tu verrai reciso. Quanto a loro, se non persevereranno nell’infedeltà, saranno anch’essi innestati; Dio infatti ha la potenza di innestarli di nuovo! Se tu infatti sei stato reciso dall’oleastro che eri secondo la tua natura e contro natura sei stato innestato su un olivo buono, quanto più essi, che sono della medesima natura, potranno venire di nuovo innestati sul proprio olivo!",
+            "responsorio": "Responsorio (Cfr. Rm 11,23; 2Cor 3,16)\nR. Se quelli che sono caduti non persevereranno nell’infedeltà, sarannoanch’essi innestati;\n*Dio infatti ha la potenza di innestarli di nuovo!\nV. Quando si convertiranno al Signore, sarà tolto il velo dal loro cuore.\nR. Dio infatti ha la potenza di innestarli di nuovo."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "4-5",
+            "sottotitolo": "Andate, istruite tutte le genti",
+            "fonte": "Dal Decreto “Ad Gentes” del Concilio ecumenico Vaticano II sull’attività missionaria della Chiesa",
+            "testo": "Il Signore Gesù Cristo, prima di sacrificare liberamente la sua vita per il mondo, istituì il ministero apostolico e promise di mandare lo Spirito Santo in modo che entrambi collaborassero sempre e in ogni luogo nel portare a effetto l’opera della salvezza. Lo Spirito Santo tiene unita nella comunione e nel ministero tutta la Chiesa in tutti i tempi e la fornisce dei diversi doni gerarchici e carismatici, vivificando, come anima, le istituzioni ecclesiastiche e infondendo nel cuore dei fedeli lo stesso spirito missionario da cui era spinto Cristo stesso. Previene visibilmente l’azione apostolica, l’accompagna e la dirige senza posa in vari modi. Il Signore Gesù, fin dall’inizio, chiamò presso di sé quelli che volle e fece sì che dodici fossero con lui e li mandò a predicare (cfr. Mc 3,13-15). Così gli apostoli furono al tempo stesso il seme del nuovo Israele e l’origine della sacra gerarchia. In seguito, compiuti in se stesso, con la sua morte e risurrezione, i misteri della nostra salvezza e della restaurazione di tutte le cose, il Signore, cui competeva ogni potere in cielo e in terra, prima di ascendere al cielo, fondò la sua Chiesa come sacramento di salvezza. Mandò gli apostoli in tutto il mondo, come egli a sua volta era stato mandato dal Padre. E comandò loro: «Andate dunque e ammaestrate tutte le nazioni, battezzandole nel nome del Padre e del Figlio e dello Spirito Santo, insegnando loro a osservare tutto ciò che vi ho comandato» (Mt 28,19-20). Da qui deriva alla Chiesa il dovere di propagare la fede e la salvezza del Cristo. E ciò in forza di un esplicito mandato che l’ordine dei vescovi ereditò dagli apostoli, a cui si affiancano i sacerdoti, tutti uniti con il successore di Pietro, che è il supremo Pastore della Chiesa. Ma la Chiesa esplica il suo compito missionario anche in forza della vita che Cristo comunica alle sue membra. La Chiesa, obbediente all’ordine di Cristo e mossa dalla grazia e dall’amore dello Spirito Santo, si rende attualmente presente a tutti gli uomini e popoli per condurli, con l’esempio della vita, la predicazione, i sacramenti e con tutti gli altri mezzi della grazia alla fede, alla libertà e alla pace di Cristo. Apre così la via spedita e sicura alla partecipazione piena del mistero di Cristo",
+            "responsorio": "Responsorio (Mc 16,15-16; Gv 3,5)\nR. Andate in tutto il mondo e predicate il vangelo a ogni creatura.\n*Chicrederà e sarà battezzato, sarà salvo.\nV. Se uno non nasce da acqua e da Spirito, non può entrare nel regno diDio.\nR. Chi crederà e sarà battezzato, sarà salvo."
+        }
+    ],
+    "codice": "ordinario-iii-sabato-i",
+    "fonte_raw": "Ordinario/03_BIEN/bien_dispari/7SAB.txt"
+}

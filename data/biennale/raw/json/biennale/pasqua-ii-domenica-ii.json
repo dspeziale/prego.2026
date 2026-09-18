@@ -1,0 +1,19 @@
+{
+    "tempo_liturgico": "Tempo di Pasqua",
+    "settimana_del_tempo": "II",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "",
+            "sottotitolo": "",
+            "fonte": "Dall’ “Omelia pasquale” di un antico autore La Pasqua spirituale",
+            "testo": "La Pasqua da noi celebrata è causa di salvezza per tutti gli uomini, incominciando dal primo uomo che in tutti è salvato e vivificato. Le realtà parziali e temporanee, immagini e tipo della perfetta ed eterna realtà, furono suscitate in precedenza per adombrare la verità di oggi. Ma ora che la verità è presente, ogni figura deve cedere alla realtà. Giunge il re: nessuno abbandoni lui vivente, per adorare la sua immagine. E chiaro quanto la figura sia inferiore alla verità: la figura celebra la breve vita dei primogeniti Giudei, la verità celebra la vita eterna di ogni uomo. Non è gran cosa che la morte si allontani per breve tempo da chi poco dopo dovrà pur morire, ma è grande cosa sfuggire del tutto alla morte; e questo avviene a noi per i quali Cristo, nostra Pasqua, è stato immolato. Lo stesso nome della festa rivela il suo pieno significato se si spiega secondo verità. Pasqua, infatti, significa “passaggio”, perché lo sterminatore mandato a uccidere i primogeniti passava oltre le case degli Ebrei. Quanto più per noi è vero questo passar oltre dello sterminatore, perché lascia intatti noi, suscitati da Cristo alla vita eterna. Stando alla profonda verità dei fatti, per qual motivo il tempo in cui è avvenuta la pasqua e la salvezza dei primogeniti è definito l’inizio dell’anno, se non perché davvero per noi il sacrificio pasquale è l’inizio della vita eterna? L’anno è infatti simbolo del tempo, perché ruotando sempre su se stesso, non ha mai riposo. Ma Cristo, padre del tempo futuro, si è offerto in sacrificio per noi e, quasi annullando la nostra vita precedente, ci ha dato un altro principio di vita con il lavacro di rigenerazione, assimilandoci alla sua morte e risurrezione. Così, chiunque ha conosciuto che la Pasqua è stata immolata per lui, ricollega l’inizio della propria vita al momento in cui Cristo per lui è stato immolato. Ma Cristo è immolato per lui quando egli riconosce la grazia che gli vien fatta, e comprende quale vita gli è elargita con questo sacrificio. Apprese dunque queste verità, si affretti a ricevere l’inizio della vita nuova e non ritorni più alla vita di prima, ormai giunta al suo termine. Infatti, «noi che già siamo morti al peccato, come potremo ancora vivere nel peccato?» (Rm 6,2).",
+            "responsorio": "Responsorio (1Cor 5,7.8; Rm 4,25)\nR. Togliete via il lievito vecchio, per esserepasta nuova; infatti Cristo nostra Pasqua, è stato immolato!\n*Celebriamodunque la festa nel Signore, alleluia.\nV. È stato messo a morte per i nostri peccati edè risuscitato per la nostra giustificazione.\nR. Celebriamo dunque la festa nel Signore,alleluia."
+        }
+    ],
+    "codice": "pasqua-ii-domenica-ii",
+    "fonte_raw": "Pasqua/PAS02/bien_pari/1DOM.txt"
+}

@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "I",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "19,16-25",
+            "sottotitolo": "Gli Egiziani e gli Assiri conosceranno",
+            "fonte": "Dal libro del profeta Isaia",
+            "testo": "In quel giorno gli Egiziani diverranno come femmine, tremeranno e temeranno all’agitarsi della mano del Signore degli eserciti contro di loro. Il paese di Giuda sarà il terrore degli Egiziani; quando se ne parlerà, ne avranno spavento, a causa del proposito che il Signore degli eserciti ha formulato contro di esso. In quel giorno ci saranno cinque città nell’Egitto che parleranno la lingua di Canaan e giureranno per il Signore degli eserciti; una di esse si chiamerà Città del sole. In quel giorno ci sarà un altare dedicato al Signore in mezzo al paese d’Egitto e una stele in onore del Signore presso la sua frontiera: sarà un segno e una testimonianza per il Signore degli eserciti nel paese d’Egitto. Quando, di fronte agli avversari, invocheranno il Signore, allora egli manderà loro un salvatore che li difenderà e li libererà. Il Signore si rivelerà agli Egiziani e gli Egiziani riconosceranno in quel giorno il Signore, lo serviranno con sacrifici e offerte, faranno voti al Signore e li adempiranno. Il Signore percuoterà ancora gli Egiziani ma, una volta colpiti, li risanerà. Essi faranno ritorno al Signore ed egli si placherà e li risanerà. In quel giorno ci sarà una strada dall’Egitto verso l’Assiria; l’Assiro andrà in Egitto e l’Egiziano in Assiria; gli Egiziani serviranno il Signore insieme con gli Assiri. In quel giorno Israele, il terzo con l’Egitto e l’Assiria, sarà una benedizione in mezzo alla terra. Li benedirà il Signore degli eserciti: «Benedetto sia l’Egiziano mio popolo, l’Assiro opera delle mie mani e Israele mia eredità».",
+            "responsorio": "Responsorio (Is 19,21; Lc 13,29)\nR. In quel giorno gli abitanti dell’Egitto riconosceranno il Signore,\n*lo serviranno con offerte e sacrifici.\nV. Verranno da oriente e da occidente, da settentrione e da mezzogiornoe sederanno alla mensa del regno di Dio:\nR. lo serviranno con offerte e sacrifici."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "C. 1",
+            "sottotitolo": "Il desiderio della contemplazione di Dio",
+            "fonte": "Dal “Proslògion” di sant’Anselmo, vescovo",
+            "testo": "Orsù, misero mortale, fuggi via per breve tempo dalle tue occupazioni, lascia per un po’ i tuoi pensieri tumultuosi. Allontana in questo momento i gravi affanni e metti da parte le tue faticose attività. Attendi un poco a Dio e riposa in lui. Entra nell’intimo della tua anima, escludi tutto tranne Dio e quello che ti aiuta a cercarlo, e, richiusa la porta, cercalo. O mio cuore, di’ ora con tutto te stesso, di’ ora a Dio: Cerco il tuo volto. «Il tuo volto, Signore, io cerco» (Sal 26,8). Orsù dunque, Signore Dio mio, insegna al mio cuore dove e come cercarti, dove e come trovarti. Signore, se tu non sei qui, dove cercherò te assente? Se poi sei dappertutto, perché mai non ti vedo presente? Ma tu certo abiti in una luce inaccessibile. E dov’è la luce inaccessibile, o come mi accosterò a essa? Chi mi condurrà, chi mi guiderà a essa sì che in essa io possa vederti? Inoltre con quali segni, con quale volto ti cercherò? O Signore Dio mio, mai io ti vidi, non conosco il tuo volto. Che cosa farà, o altissimo Signore, questo esule, che è così distante da te, ma che a te appartiene? Che cosa farà il tuo servo tormentato dall’amore per te e gettato lontano dal tuo volto? Anela a vederti e il tuo volto gli è troppo discosto. Desidera avvicinarti e la tua abitazione è inaccessibile. Brama trovarti e non conosce la tua dimora. Si impegna a cercarti e non conosce il tuo volto. Signore, tu sei il mio Dio, tu sei il mio Signore e io non ti ho mai visto. Tu mi hai creato e ricreato, mi hai donato tutti i miei beni, e io ancora non ti conosco. Io sono stato creato per vederti e ancora non ho fatto ciò per cui sono stato creato. Ma tu, Signore, fino a quando ti dimenticherai di noi, fino a quando distoglierai da noi il tuo sguardo? Quando ci guarderai e ci esaudirai? Quando illuminerai i nostri occhi e ci mostrerai la tua faccia? Quando ti restituirai a noi? Guarda, Signore, esaudiscici, illuminaci, mostrati a noi. Ridonati a noi perché ne abbiamo bene: senza di te stiamo tanto male. Abbi pietà delle nostre fatiche, dei nostri sforzi verso di te; non valiamo nulla senza te. Insegnami a cercarti e mostrati quando ti cerco: non posso cercarti se tu non mi insegni, né trovarti se non ti mostri. Che io ti cerchi desiderandoti e ti desideri cercandoti, che io ti trovi amandoti e ti ami trovandoti.",
+            "responsorio": "Responsorio (Sal 79,19.20; 105,4)\nR. Da te, Signore, non ci allontaneremo; ci farai vivere, e invocheremoil tuo nome.\n*Fa’ splendere il tuo volto, e saremo salvi.\nV. Ricordati di noi, Signore, per amore del tuo popolo; visitaci con latua salvezza.\nR. Fa’ splendere il tuo volto, e saremo salvi."
+        }
+    ],
+    "codice": "avvento-i-venerdi-ii",
+    "fonte_raw": "Avvento/AVV01/bien_pari/6VEN.txt"
+}

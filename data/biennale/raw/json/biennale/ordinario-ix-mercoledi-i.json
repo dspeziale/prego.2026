@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "IX",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "3,13-18",
+            "sottotitolo": "La vera e la falsa sapienza",
+            "fonte": "Dalla lettera di san Giacomo, apostolo",
+            "testo": "Fratelli, chi è saggio e accorto tra voi? Mostri con la buona condotta le sue opere ispirate a saggia mitezza. Ma se avete nel vostro cuore gelosia amara e spirito di contesa, non vantatevi e non mentite contro la verità. Non è questa la sapienza che viene dall’alto: è terrena, carnale, diabolica; poiché dove c’è gelosia e spirito di contesa, c’è disordine e ogni sorta di cattive azioni. La sapienza che viene dall’alto invece è anzitutto pura, poi pacifica, mite, arrendevole, piena di misericordia e di buoni frutti, senza parzialità, senza ipocrisia. Un frutto di giustizia viene seminato nella pace per coloro che fanno opera di pace.",
+            "responsorio": "Responsorio (Gc 3,17.18; Mt 5,9)\nR. La sapienza che viene dall’alto è anzituttopura, poi pacifica, mite, arrendevole piena di misericordia\n*Un frutto digiustizia viene seminato nella pace per coloro che fanno opera di pace.\nV. Beati gli operatori di pace, perché sarannochiamati figli di Dio.\nR. Un frutto di giustizia viene seminato nellapace per coloro che fanno opera di pace."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "16,1-2",
+            "sottotitolo": "Il più gran premio sarà Dio, che è l’essenza del comandamento stesso",
+            "fonte": "Dai “Discorsi” di san Leone Magno, papa",
+            "testo": "La sublimità della grazia di Dio, dilettissimi, opera ogni giorno nel cuore dei cristiani e fa sì che ogni nostro desiderio si stacchi man mano dalle cose della terra e si orienti verso il cielo. Anche la vita terrena, però, è diretta dall’opera del Creatore e sostenuta dalla sua provvidenza: egli non solo ci promette beni eterni ma ci elargisce anche quelli temporali. E quindi, come dobbiamo rendergli grazie per la speranza della felicità eterna verso cui corriamo per mezzo della fede, e che già ci fa pregustare ciò che egli ha preparato per noi, così dobbiamo ringraziarlo e lodarlo per tutti i beni che ci distribuisce nel succedersi delle stagioni. Fin dall’inizio della creazione, egli diede tale fecondità alla terra, dispose con leggi così precise ogni germe e ogni seme alla produzione, che nulla mai fallisce di ciò che ha creato, e tutto rivela la provvida presenza dell’opera del Creatore. Tutto ciò che campi, vigne e oliveti producono a beneficio degli uomini ci viene elargito con larghezza dalla provvidenza divina, che con l’alterno avvicendarsi degli elementi naturali sostiene le incerte fatiche degli agricoltori; sicché venti e piogge, freddo e caldo, luce e tenebre, tutto è preordinato alla nostra utilità. L’umana ragione non basterebbe per portare a effetto le sue opere, se le normali semine e irrigazioni non fossero incrementate dall’azione potente del Signore Quindi è dovere di carità e di giustizia che anche noi aiutiamo gli altri con quegli stessi doni che il Padre celeste ci ha elargiti con tanta misericordia. Grande è il numero di coloro che non hanno alcun possesso di campi, vigne e oliveti: dobbiamo andar loro incontro, attingendo all’abbondanza che il Signore ci ha dato, in modo che anch’essi con noi benedicano il Signore per fecondità della terra, godendo che a quanti la possiedono sia stato dato ciò che è divenuto bene comune anche dei poveri e dei pellegrini. Beati e degni di essere moltiplicati quei granai che saziano la fame dei poveri e degli indigenti, che prevengono le necessità dei pellegrini e appagano i desideri degli infermi. La giustizia di Dio permette che tutti questi gemano sotto il peso di varie sofferenze, per poi premiare la pazienza dei sofferenti e la carità di chi gli ha usato misericordia. I mezzi più efficaci per ottenere il perdono dei peccati sono proprio l’elemosina e il digiuno; e la preghiera, levata in alto da tali opere giunge immediatamente alle orecchie di Dio. È scritto infatti: «Benefica se stesso l’uomo misericordioso» (Pr 11,17) e nulla è maggiormente nostro di quanto spendiamo per il prossimo. Quella parte di beni temporali che si spende per gl’indigenti passa nel tesoro del cielo, e il tesoro che si accumula con tale carità non decresce né va in perdizione per nessun motivo. «Beati, infatti, i misericordiosi, perché troveranno misericordia» (Mt 5,7) e Dio stesso sarà il loro più grande premio, egli che è l’essenza del comandamento.",
+            "responsorio": "Responsorio (Lc 16,9; Tb 4,10; 12,9)\nR. Io vi dico:\n*Procuratevi amici con laricchezza, perché quand’essa verrà a mancare, vi accolgano nelle dimore eterne.\nV. L’elemosina libera dalla morte e purifica daogni peccato; essa salva dall’andare tra le tenebre.\nR. Procuratevi amici con la ricchezza, perchéquand’essa verrà a mancare, vi accolgano nelle dimore eterne."
+        }
+    ],
+    "codice": "ordinario-ix-mercoledi-i",
+    "fonte_raw": "Ordinario/09_BIEN/bien_dispari/4MER.txt"
+}

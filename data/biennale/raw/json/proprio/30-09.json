@@ -1,0 +1,29 @@
+{
+    "data": "30-09",
+    "giorno": 30,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "30 Settembre",
+    "santo": "San Girolamo, sacerdote e dottore della Chiesa",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "39,1c-10",
+            "sottotitolo": "Il saggio è esperto nelle Scritture L’uomo saggio indaga la sapienza di tutti gli antichi,",
+            "fonte": "Dal libro del Siracide",
+            "testo": "si dedica allo studio delle profezie.\nConserva i detti degli uomini famosi,\npenetra le sottigliezze delle parabole,\nindaga il senso recondito dei proverbi,\ne s’occupa degli enigmi delle parabole.\nSvolge il suo compito fra i grandi,\nè presente alle riunioni dei capi,\nviaggia fra genti straniere,\ninvestigando il bene e il male in mezzo agli uomini.\nDi buon mattino rivolge il cuore\nal Signore, che lo ha creato,\nprega davanti all’Altissimo,\napre la bocca alla preghiera,\nimplora per i suoi peccati.\nSe questa è la volontà del Signore grande,\negli sarà ricolmato di spirito di intelligenza,\ncome pioggia effonderà parole di sapienza,\nnella preghiera renderà lode al Signore.\nEgli dirigerà il suo consiglio e la sua scienza,\nmediterà sui misteri di Dio.\nFarà brillare la dottrina del suo insegnamento,\nsi vanterà della legge dell’alleanza del Signore.\nMolti loderanno la sua intelligenza,\negli non sarà mai dimenticato,\nnon scomparirà il suo ricordo,\nil suo nome vivrà di generazione in generazione.\nI popoli parleranno della sua sapienza,\nl’assemblea proclamerà le sue lodi.",
+            "responsorio": "Responsorio (Sir 15,5.3.6)\nR. Il Signore gli diede la parola in mezzo all’assemblea, *lo riempì del suo Spirito di sapienza e di intelligenza.\nV. Grande felicità e una corona di gioia gli diede il Signore,\nR. lo riempì del suo Spirito di sapienza e di intelligenza."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "1.2",
+            "sottotitolo": "L’ignoranza delle Scritture è ignoranza di Cristo",
+            "fonte": "Dal “Prologo al commento del profeta Isaia” di san Girolamo, sacerdote",
+            "testo": "Adempio al mio dovere, ubbidendo al comando di Cristo: «Scrutate le Scritture» (Gv 5,39) e: «Cercate e troverete» (Mt 7,7), per non sentirmi dire come ai Giudei: «Voi vi ingannate, non conoscendo né le Scritture, né la potenza di Dio» (Mt 22,29). Se, infatti, al dire dell’apostolo Paolo, «Cristo è potenza di Dio e sapienza di Dio» (1Cor 1,24), chi non conosce le Scritture, non conosce la potenza di Dio, né la sua sapienza. Ignorare le Scritture significa ignorare Cristo.\nPerciò voglio imitare il padre di famiglia, che dal suo tesoro sa trarre cose nuove e vecchie, e così anche la Sposa, che nel Cantico dei Cantici dice: O mio diletto, ho serbato per te il nuovo e il vecchio (cfr. Ct 7,14). Intendo perciò esporre il profeta Isaia in modo da presentarlo non solo come profeta, ma anche come evangelista e apostolo. Egli infatti ha detto anche di sé quello che dice degli altri evangelisti: «Come sono belli sui monti i piedi del messaggero di lieti annunzi, che annunzia la pace» (Is 52,7). E Dio rivolge a lui, come a un apostolo, la domanda: Chi manderò, e chi andrà da questo popolo? Ed egli risponde: «Eccomi, manda me» (Is 6,8).\nMa nessuno creda che io voglia esaurire in poche parole l’argomento di questo libro della Scrittura che contiene tutti i misteri del Signore. Effettivamente nel libro di Isaia troviamo che il Signore viene predetto come l’Emmanuele nato dalla Vergine, come autore di miracoli e di segni grandiosi, come morto e sepolto, risorto dagli inferi e salvatore di tutte le genti. Che dirò della sua dottrina sulla fisica, sull’etica e sulla logica? Tutto ciò che riguarda le Sacre Scritture, tutto ciò che la lingua può esprimere e l’intelligenza dei mortali può comprendere, si trova racchiuso in questo volume. Della profondità di tali misteri dà testimonianza lo stesso autore quando scrive: «Per voi ogni visione sarà come le parole di un libro sigillato: si dà a uno che sappia leggere, dicendogli: Lèggilo. Ma quegli risponde: Non posso, perché è sigillato. Oppure si dà il libro a chi non sa leggere, dicendogli: Lèggilo, ma quegli risponde: Non so leggere» (Is 29,11-12). Si tratta dunque di misteri che, come tali, restano chiusi e incomprensibili ai profani, ma aperti e chiari ai profeti. Se perciò dai il libro di Isaia ai pagani, ignari dei libri ispirati, ti diranno: Non so leggerlo, perché non ho imparato a leggere i testi delle Scritture. I profeti però sapevano quello che dicevano e lo comprendevano. Leggiamo infatti in san Paolo: «Le ispirazioni dei profeti devono essere sottomesse ai profeti» (1Cor 14,32), perché sia in loro facoltà di tacere o di parlare secondo l’occorrenza. I profeti, dunque, comprendevano quello che dicevano, per questo tutte le loro parole sono piene di sapienza e di ragionevolezza. Alle loro orecchie non arrivavano soltanto le vibrazioni della voce, ma la stessa parola di Dio che parlava nel loro animo. Lo afferma qualcuno di loro con espressioni come queste: L’angelo parlava in me (cfr. Zc 1,9), e: lo Spirito grida nei nostri cuori: «Abbà, Padre» (Gal 4,6), e ancora: «Ascolterò che cosa dice Dio, il Signore» (Sal 84,9).",
+            "responsorio": "Responsorio (Cfr. 2Tm 3,16; Pr 28,7)\nR. Tutta la Scrittura, ispirata da Dio, è utile per insegnare e formare alla giustizia. *Così l’uomo di Dio sarà completo e ben preparato per ogni opera buona.\nV. Chi osserva la legge è un figlio sapiente.\nR. Così l’uomo di Dio sarà completo e ben preparato per ogni opera buona."
+        }
+    ],
+    "orazione": "",
+    "fonte_raw": "Santi/0930.txt"
+}

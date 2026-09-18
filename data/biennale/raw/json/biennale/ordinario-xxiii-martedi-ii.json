@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXIII",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "2,1-9",
+            "sottotitolo": "I falsi maestri",
+            "fonte": "Dalla seconda lettera di san Pietro, apostolo",
+            "testo": "Ci sono stati falsi profeti tra il popolo, come pure ci saranno in mezzo a voi falsi maestri che introdurranno eresie perniciose, rinnegando il Signore che li ha riscattati e attirandosi una pronta rovina. Molti seguiranno le loro dissolutezze e per colpa loro la via della verità sarà coperta di improperi. Nella loro cupidigia vi sfrutteranno con parole false; ma la loro condanna è già da tempo all’opera e la loro rovina è in agguato. Dio infatti non risparmiò gli angeli che avevano peccato, ma li precipitò negli abissi tenebrosi dell’inferno, serbandoli per il giudizio; non risparmiò il mondo antico, ma tuttavia con altri sette salvò Noè, banditore di giustizia, mentre faceva piombare il diluvio su un mondo di empi; condannò alla distruzione le città di Sodoma e Gomorra, riducendole in cenere, ponendo un esempio a quanti sarebbero vissuti empiamente. Liberò invece il giusto Lot, angustiato dal comportamento immorale di quegli scellerati. Quel giusto infatti, per ciò che vedeva e udiva mentre abitava in mezzo a loro, si tormentava ogni giorno nella sua anima giusta per tali ignominie. Il Signore sa liberare i pii dalla prova e serbare gli empi per il castigo nel giorno del giudizio.",
+            "responsorio": "Responsorio (Mt 7,15; 24,11.24)\nR. Guardatevi dai falsi profeti, che vengono avoi in veste di pecore,\n*ma dentro son lupi rapaci.\nV. Sorgeranno molti falsi profeti, e farannoportenti, e inganneranno molti;\nR. ma dentro son lupi rapaci."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "37,5-7",
+            "sottotitolo": "Principio della sapienza è il timore del Signore",
+            "fonte": "Dai “Discorsi sul Cantico dei Cantici” di san Bernardo, abate",
+            "testo": "Se siamo ottenebrati dall’ignoranza di Dio, come potremo sperare in colui che non conosciamo? Se siamo prigionieri dell’ignoranza di noi stessi, come potremo essere umili? Crederemo infatti di esser qualcosa, mentre siamo nulla. E sappiamo che né i superbi né i disperati avranno parte o comunione con la sorte dei santi. Considerate dunque insieme a me con quanta cura e sollecitudine dobbiamo liberarci da queste due ignoranze, la prima delle quali è l’origine di ogni peccato, mentre l’altra ne è il compimento; alla stessa maniera che le due conoscenze – di Dio e di noi stessi – producono rispettivamente l’inizio e la perfezione della sapienza, cioè l’una il timore del Signore e l’altra la carità. Infatti, come il «principio della saggezza è il timore del Signore» (Sal 110,10), così «il principio di tutti i peccati è la superbia» (Sir 10,15 Volg; cfr. 10,12.13 CEI); e se l’amore di Dio è la perfezione della sapienza, la disperazione è la consumazione di ogni malizia. Così pure, se dalla conoscenza di sé sorge in cuore il timore di Dio e dalla conoscenza di Dio l’amore per lui, dall’ignoranza di sé germoglia invece la superbia e dall’ignoranza di Dio la disperazione. L’ignoranza di sé genera in noi la superbia perché, ingannati da una mentalità cieca e fallace, ci crediamo migliori di quello che siamo. Proprio in questo consiste la superbia, qui sta la radice di tutti i peccati: nel credersi più grandi di quello che si è al cospetto di Dio, di quello che si è in verità. Dunque, per quanto ci umiliamo, per quanto ci reputiamo inferiori a quello che siamo, ossia a come ci valuta la Verità, non corriamo alcun pericolo. Ma è un grandissimo danno innalzarsi anche di poco al di sopra di sé e preferirsi mentalmente a qualcuno che la Verità giudica pari o superiore a noi. Per dare un esempio concreto, è come quando, dovendo passare per una porta il cui architrave è troppo basso, tu puoi abbassarti quanto vuoi senza farti male; ma se ti alzerai sia pure dello spessore di un dito al di sopra dell’altezza della porta, ci sbatterai contro e ti romperai la testa. Allo stesso modo non bisogna temere alcuna umiliazione, per grande che sia, ma avere un gran timore e orrore anche del minimo moto di presunzione. Quindi non ci paragoniamo con quelli che sono superiori o inferiori a noi, non ci confrontiamo con alcuno, neanche con un solo uomo. Che ne sai se colui che forse stimi come il più spregevole di tutti, per un mutamento operato dalla potenza dell’Altissimo, non diventerà migliore di te e degli altri o se non lo è già realmente in Dio? Perciò il Signore vuole che scegliamo non un posto mediocre, né il penultimo e neanche uno degli ultimi, ma dice: «Va’ a metterti all’ultimo posto» (Lc 14,10), in modo che solo tu sia 1’ultimo di tutti e non ti preferisca, anzi neanche osi paragonarti ad alcuno.",
+            "responsorio": "Responsorio (Sal 110,10; Sap 6,18; Sir 19,18)\nR. Principio della sapienza è il timore delSignore, saggi sono coloro che lo praticano;\n*la lode del Signore è senzafine.\nV. L’amore è la custodia delle sue leggi, perchétutta la sapienza è nel timore di Dio.\nR. La lode del Signore è senza fine."
+        }
+    ],
+    "codice": "ordinario-xxiii-martedi-ii",
+    "fonte_raw": "Ordinario/23_BIEN/bien_pari/3MAR.txt"
+}

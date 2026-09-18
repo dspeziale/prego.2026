@@ -1,0 +1,21 @@
+{
+    "data": "03-06",
+    "giorno": 3,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "3 Giugno",
+    "santo": "Santi Carlo Lwanga e Compagni, martiri",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "AAS 56, [1964], 905-906",
+            "sottotitolo": "La gloria dei martiri, segno di rinascita",
+            "fonte": "Dall’ “Omelia per la canonizzazione dei martiri dell’Uganda” di Paolo VI, papa",
+            "testo": "Questi Martiri Africani aggiungono all’alLo dei vittoriosi, qual è il Martirologio, una pagina tragica e magnifica, veramente degna di aggiungersi a quelle meravigliose dell’Africa antica, che noi moderni, uomini di poca fede, pensavamo non potessero avere degno seguito mai più.\nChi poteva supporre, ad esempio, che alle commoventissime storie dei Martiri Scillitani, dei Martiri Cartaginesi, dei Martiri della «Massa candida» uticense, di cui sant’Agostino e Prudenzio ci hanno lasciato memoria, dei Martiri dell’Egitto, dei quali conserviamo l’elogio di san Giovanni Crisostomo, dei Martiri della persecuzione vandalica, si sarebbero aggiunte nuove storie non meno eroiche, non meno fulgenti, nei tempi nostri?\nChi poteva prevedere che alle grandi figure storiche dei Santi Martiri e Confessori Africani, quali Cipriano, Felicita e Perpetua e il sommo Agostino, avremmo un giorno associati i cari nomi di Carlo Lwanga, e di Mattia Mulumba Kalemba, con i loro venti compagni?\nE non vogliamo dimenticare altresì gli altri che, appartenendo alla confessione anglicana, hanno affrontato la morte per il nome di Cristo.\nQuesti Martiri Africani aprono una nuova epoca; oh! non vogliamo pensare di persecuzioni e di contrasti religiosi, ma di rigenerazione cristiana e civile. L’Africa, bagnata dal sangue di questi Martiri, primi dell’era nuova (Dio voglia che siano gli ultimi, tanto il loro olocausto è grande e prezioso!), risorge libera e redenta.\nLa tragedia, che li ha divorati, è talmente inaudita ed espressiva, da offrire elementi rappresentativi sufficienti per la formazione morale d’un popolo nuovo, per la fondazione d’una nuova tradizione spirituale per simboleggiare e per promuovere il trapasso da una civiltà primitiva, non priva di ottimi valori umani, ma inquinata e inferma e quasi schiava di se stessa, a una civiltà aperta alle espressioni superiori dello spirito e alle forme superiori della socialità.",
+            "responsorio": "Responsorio\nR. Mentre combattiamo per la fede, Dio ci guarda, Cristo e i suoi angeli assistono: *è onore e gioia per noi lottare sotto lo sguardo di Dio, ricevere il premio da Cristo giudice. Alleluia.\nV. Raccogliamo le forze, prepariamoci alla lotta con spirito puro, con fede e coraggio, con dedizione totale:\nR. è onore e gioia per noi lottare sotto lo sguardo di Dio, ricevere il premio da Cristo giudice. Alleluia."
+        }
+    ],
+    "orazione": "O Dio, che nel sangue dei martiri hai posto il seme di nuovi cristiani, concedi che il mistico campo della Chiesa, fecondato dal sacrificio di san Carlo Lwanga e dei suoi compagni, produca una messe sempre più abbondante, a gloria del tuo nome. Per il nostro Signore.",
+    "fonte_raw": "Santi/0603.txt"
+}

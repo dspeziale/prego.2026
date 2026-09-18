@@ -1,0 +1,29 @@
+{
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "giorno_settimana": null,
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "data": "04-01",
+    "data_estesa": "4 Gennaio",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "3,17–4,1",
+            "sottotitolo": "La vita della famiglia cristiana",
+            "fonte": "Dalla lettera ai Colossesi di san Paolo, apostolo",
+            "testo": "Fratelli, tutto quello che fate in parole e opere, tutto si compia nel nome del Signore Gesù rendendo per mezzo di lui grazie a Dio Padre. Voi, mogli state sottomesse ai mariti come si conviene nel Signore. Voi, mariti, amate le vostre mogli e non inaspritevi con esse. Voi, figli, obbedite ai genitori in tutto; ciò è gradito al Signore. Voi, padri, non esasperate i vostri figli, perché non si scoraggino. Voi, servi, siate docili in tutto con i vostri padroni terreni; non servendo solo quando vi vedono, come si fa per piacere agli uomini, ma con cuore semplice e nel timore del Signore. Qualunque cosa facciate, fatela di cuore come per il Signore e non per gli uomini, sapendo che, quale ricompensa, riceverete dal Signore l’eredità. Servite a Cristo Signore. Chi commette ingiustizia infatti subirà le conseguenze del torto commesso, e non v’è parzialità per nessuno. Voi, padroni, date ai vostri servi ciò che è giusto ed equo, sapendo che anche voi avete un padrone in cielo.",
+            "responsorio": "Responsorio (Col 3,17)\nR. Tutto quello che fate in parole e in opere,\n*tutto si compia nel nome di Gesù nostro Signore.\nV. Rendete grazie per mezzo di lui a Dio Padre:\nR. tutto si compia nel nome di Gesù nostroSignore."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Cent. 1,8-13",
+            "sottotitolo": "Mistero sempre nuovo",
+            "fonte": "Dai “500 Capitoli” di san Massimo il Confessore",
+            "testo": "Il Verbo di Dio fu generato secondo la carne una volta per tutte. Ora, per la sua benignità verso l’uomo, desidera ardentemente di nascere secondo lo spirito in coloro che lo vogliono e diviene bambino che cresce con il crescere delle loro virtù. Si manifesta in quella misura di cui sa che è capace chi lo riceve. Non restringe la visuale immensa della sua grandezza per invidia e gelosia, ma saggia, quasi misurandola, la capacità di coloro che desiderano vederlo. Così il Verbo di Dio, pur manifestandosi nella misura di coloro che ne sono partecipi, rimane tuttavia sempre imperscrutabile a tutti, data l’elevatezza del mistero. Per questa ragione l’Apostolo di Dio, considerando con sapienza la portata del mistero dice: «Gesù Cristo è lo stesso ieri, oggi e sempre!» (Eb 13,8), intendendo dire in tal modo che il mistero è sempre nuovo e non invecchia mai per la comprensione di nessuna mente umana. Cristo Dio nasce e si fa uomo prendendo un corpo dotato di un’anima intelligente, lui, che aveva concesso alle cose di uscire dal nulla. Dall’oriente una stella che brilla in pieno giorno guida i magi verso il luogo dove il Verbo ha preso carne, per dimostrare misticamente che il Verbo contenuto nella legge e nei profeti supera ogni conoscenza dei sensi e conduce le genti alla suprema luce della conoscenza. La parola della legge e dei profeti, rettamente intesa, a guisa di stella, conduce a riconoscere il Verbo incarnato coloro che in virtù della grazia sono stati chiamati secondo il beneplacito divino. Dio si fa perfetto uomo, non cambiando nulla di quanto è proprio della natura umana, tolto, si intende, il peccato, che del resto non le appartiene. Si fa uomo per provocare il dragone infernale, avido e impaziente di divorare la sua preda, cioè l’umanità del Cristo. Cristo in effetti gli dà in pasto la sua carne. Quella carne però doveva tramutarsi per il diavolo in veleno. La carne abbatteva totalmente il mostro con la potenza della divinità che in essa si celava. Per la natura umana, invece, sarebbe stata il rimedio, perché l’avrebbe riportata alla grazia originale con la forza della divinità in essa presente. Come il dragone, avendo istillato il suo veleno nell’albero della scienza, aveva rovinato il genere umano facendoglielo gustare, così presumendo di divorare la carne del Signore, fu rovinato e spodestato per la potenza della divinità che era in essa. Ma il grande mistero dell’incarnazione divina rimane pur sempre un mistero. In realtà come può il Verbo, che con la sua persona è essenzialmente nella carne, essere al tempo stesso come persona ed essenzialmente tutto nel Padre? E come può lo stesso Verbo, totalmente Dio per natura, diventare totalmente uomo per natura? E questo senza abdicare per niente né alla natura divina, per cui è Dio, né alla nostra, per cui è divenuto uomo? Soltanto la fede arriva a questi misteri, essa che è la sostanza e la base di quelle cose che superano ogni comprensione della mente umana.",
+            "responsorio": "Responsorio (Gv 1,14.1)\nR. Il Verbo si fece carne, e venne ad abitare inmezzo a noi:\n*e noi abbiamo contemplato la sua gloria, gloria come diunigenito dal Padre, pieno di grazia e di verità.\nV. In principio era il Verbo, e il Verbo erapresso Dio, e il Verbo era Dio:\nR. e noi abbiamo contemplato la sua gloria,gloria come di unigenito dal Padre, pieno di grazia e di verità."
+        }
+    ],
+    "codice": "natale-4-gennaio-i",
+    "fonte_raw": "Natale/bien_dispari/0401.txt"
+}

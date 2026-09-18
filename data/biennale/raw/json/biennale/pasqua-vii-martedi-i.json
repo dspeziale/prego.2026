@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo di Pasqua",
+    "settimana_del_tempo": "VII",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "4,11-21",
+            "sottotitolo": "Dio è amore",
+            "fonte": "Dalla prima lettera di san Giovanni, apostolo",
+            "testo": "Carissimi, se Dio ci ha amato, anche noi dobbiamo amarci gli uni gli altri. Nessuno mai ha visto Dio; se ci amiamo gli uni gli altri, Dio rimane in noi e l’amore di lui è perfetto in noi. Da questo si conosce che noi rimaniamo in lui ed egli in noi: egli ci ha fatto dono del suo Spirito. E noi stessi abbiamo veduto e attestiamo che il Padre ha mandato il suo Figlio come salvatore del mondo. Chiunque riconosce che Gesù è il Figlio di Dio, Dio dimora in lui ed egli in Dio. Noi abbiamo riconosciuto e creduto all’amore che Dio ha per noi. Dio è amore; chi sta nell’amore dimora in Dio e Dio dimora in lui. Per questo l’amore ha raggiunto in noi la sua perfezione, perché abbiamo fiducia nel giorno del giudizio; perché come è lui, così siamo anche noi, in questo mondo. Nell’amore non c’è timore, al contrario l’amore perfetto scaccia il timore, perché il timore suppone un castigo e chi teme non è perfetto nell’amore. Noi amiamo, perché egli ci ha amati per primo. Se uno dicesse: «Io amo Dio», e odiasse il suo fratello, è un mentitore. Chi infatti non ama il proprio fratello che vede, non può amare Dio che non vede. Questo è il comandamento che abbiamo da lui: chi ama Dio, ami anche il suo fratello.",
+            "responsorio": "Responsorio (Cfr. 1Gv 4,19.10.16; Is 63,8.9)\nR. Dio ci ha amati per primo, e ha mandato il suoFiglio come vittima di espiazione per i nostri peccati.\n*Abbiamoriconosciuto e creduto all’amore che Dio ha per noi, alleluia.\nV. Dio fu per noi un salvatore; con amore ecompassione ci ha riscattati.\nR. Abbiamo riconosciuto e creduto all’amore cheDio ha per noi, alleluia."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "94,1-3",
+            "sottotitolo": "Una volta asceso il Cristo era necessario il Consolatore",
+            "fonte": "Dai “Trattati sul vangelo di Giovanni” di sant’Agostino, vescovo",
+            "testo": "Il Signore Gesù, dopo aver preannunziato ai suoi discepoli le persecuzioni che avrebbero subìte dopo la sua partenza, così continuò: «Non ve l’ho detto dal principio, perché ero con voi. Ora però, vado da colui che mi ha mandato» (Gv 16,4-5). Che cosa vuol dire qui, se non che quanto annunziava dello Spirito Santo, cioè che verrebbe sui discepoli per renderli suoi testimoni quando sarebbero stati oggetto di persecuzione, non l’aveva detto prima, perché con loro c’era lui? Questo Consolatore e avvocato sarebbe stato necessario ai discepoli dopo la partenza di Cristo, perciò egli non ne aveva parlato all’inizio, quando era con loro, perché erano confortati dalla sua presenza fisica. Ma essendo ormai in procinto di partire, occorreva che parlasse della prossima venuta di colui che avrebbe diffusa la carità nei loro cuori, mettendoli in grado di annunziare con fiducia la parola di Dio, forti della testimonianza che lo Spirito avrebbe reso a Cristo nell’intimo delle loro anime. Così anch’essi gli avrebbero reso testimonianza, senza scandalizzarsi quando i Giudei, loro avversari, li avrebbero scacciati dalle sinagoghe e messi a morte ritenendo con ciò di rendere culto a Dio. Infatti la carità, diffusa nei loro cuori per il dono dello Spirito Santo, tutto sopporta. Il significato completo delle sue parole è dunque che egli intendeva fare dei discepoli i suoi martiri, cioè i suoi testimoni, per mezzo dello Spirito Santo: affinché operando egli in loro, fossero capaci di sopportare qualsiasi aspra persecuzione, e accesi di quel fuoco divino, il loro ardente zelo nel predicare non si raffreddasse. Perciò disse: «Vi ho detto queste cose perché, quando giungerà la loro ora, ricordiate che ve ne ho parlato» (Gv 16,4). Cioè vi ho dette queste cose non tanto perché dovrete subire delle persecuzioni, ma perché quando verrà il Consolatore e renderà testimonianza in mio favore, voi non ve ne stiate zitti per paura dei tormenti, ma siate anche voi miei testimoni. «Non ve le ho dette dal principio, perché ero con voi» (Gv 16,4) e vi confortavo con la mia presenza fisica, accessibile ai vostri sensi umani, che potevate percepire anche se eravate ancora piccoli. «Ora però vado da colui che mi ha mandato e nessuno di voi mi domanda: Dove vai?» (Gv 16,5). Egli vuol significare così che nessuno gli avrebbe chiesto dove andrà, perché lo vedranno chiaramente, proprio con gli occhi del corpo. Prima però gli avevano chiesto dove andasse, e aveva risposto che dove egli andava non potevano per allora seguirlo. Ora invece promette di partire in modo che nessuno di loro gli debba chiedere dove vada. Una nube infatti lo avvolse quando salì al loro cospetto: ed essi non chiesero con le parole, ma videro con gli occhi che andava in cielo.",
+            "responsorio": "Responsorio (Gv 14,16-17; 16,7)\nR. Io pregherò il Padre ed egli vi darà un altroConsolatore\n*perché rimanga con voi per sempre, lo Spirito di verità,alleluia.\nV. Se non me ne vado, non verrà a voi ilConsolatore; ma quando me ne sarò andato, ve lo manderò.\nR. Perché rimanga con voi per sempre, lo Spiritodi verità, alleluia."
+        }
+    ],
+    "codice": "pasqua-vii-martedi-i",
+    "fonte_raw": "Pasqua/PAS07/bien_dispari/3MAR.txt"
+}

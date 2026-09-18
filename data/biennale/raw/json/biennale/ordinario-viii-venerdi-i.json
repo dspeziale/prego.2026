@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "VIII",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "1,1-18",
+            "sottotitolo": "Perfetta letizia in ogni sorta di prove Giacomo, servo di Dio e del Signore Gesù Cristo, alle dodici tribù",
+            "fonte": "Inizio della lettera di san Giacomo, apostolo",
+            "testo": "disperse nel mondo, salute.\nConsiderate perfetta letizia, miei fratelli, quando subite ogni sorta di\nprove, sapendo che la prova della vostra fede produce la pazienza.\nE la pazienza completi l’opera sua in voi, perché siate perfetti e\nintegri, senza mancare di nulla.\nSe qualcuno di voi manca di sapienza, la domandi a Dio, che dona a tutti\ngenerosamente e senza rinfacciare, e gli sarà data. La domandi però con\nfede, senza esitare, perché chi esita somiglia all’onda del mare mossa e\nagitata dal vento; e non pensi di ricevere qualcosa dal Signore un uomo\nche ha l’animo oscillante e instabile in tutte le sue azioni.\nIl fratello di umili condizioni si rallegri della sua elevazione e il\nricco della sua umiliazione, perché passerà come fiore d’erba. Si leva il\nsole col suo ardore e fa seccare l’erba e il suo fiore cade, e la\nbellezza del suo aspetto svanisce. Così anche il ricco appassirà nelle\nsue imprese.\nBeato l’uomo che sopporta la tentazione, perché una volta superata la\nprova riceverà la corona della vita che il Signore ha promesso a quelli\nche lo amano. Nessuno, quando è tentato, dica: «Sono tentato da Dio»;\nperché Dio non può essere tentato dal male e non tenta nessuno al male.\nCiascuno piuttosto è tentato dalla propria concupiscenza che lo attrae e\nlo seduce; poi la concupiscenza concepisce e genera il peccato, e il\npeccato, quand’è consumato, produce la morte.\nNon andate fuori strada, fratelli miei carissimi; ogni buon regalo e ogni\ndono perfetto viene dall’alto e discende dal Padre della luce, nel quale\nnon c’è variazione né ombra di cambiamento. Di sua volontà egli ci ha\ngenerati con una parola di verità, perché noi fossimo come una primizia\ndelle sue creature.",
+            "responsorio": "Responsorio (Gc 1,12; 2Tm 4,7-8)\nR. Beato l’uomo che sopporta la tentazione,\nperché una volta superata la prova riceverà la corona della vita, *che il\nSignore ha promesso a quelli che lo amano.\nV. Ho combattuto la buona battaglia, ho terminato\nla mia corsa, ho conservato la fede. Ora mi resta solo la corona di\ngiustizia,\nR. che il Signore ha promesso a quelli che lo\namano."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Cc. 1-2",
+            "sottotitolo": "Dove maggiore è la fatica, più grande è il premio",
+            "fonte": "Dalla “Lettera a Policarpo” di sant’Ignazio di Antiochia, vescovo e martire",
+            "testo": "Ignazio, il portatore di Dio, a Policarpo vescovo della Chiesa di Smirne, o piuttosto soggetto egli stesso all’episcopato di Dio Padre e del Signore Gesù Cristo, ottima salute! Conosciuta la tua pietà solidamente fondata come su una roccia incrollabile, lodo e ringrazio il Signore che mi ha concesso di vedere il tuo santo volto: potessi goderne in Dio! Ti scongiuro, per la grazia di cui sei rivestito, di accelerare il passo e di esortare tutti perché si salvino. Mostrati degno del posto che occupi, curando ogni settore, sia riguardo al bene dei corpi, come a quello dello spirito. Abbi cura di mantenere l’unità, perché nulla vi è di più prezioso. Porta il peso di tutti i fedeli, come il Signore porta te. Abbi pazienza e carità con tutti, come già fai. Attendi di continuo alla preghiera. Chiedi una sapienza ancora maggiore di quella che già hai. Vigila con spirito insonne. Parla a ciascuno singolarmente, seguendo il modo di agire di Dio. Come un valido atleta prendi sopra di te le infermità di tutti. Dove maggiore è la fatica, più grande anche sarà il premio. Se ami solo i discepoli buoni, non ne avrai nessun merito. Cerca piuttosto di cattivarti con la dolcezza i più riottosi. Non ogni ferita va curata con lo stesso medicamento. Calma gl’impeti più violenti con applicazioni di dolcezza. In ogni occasione sii prudente come il serpente e semplice come la colomba (cfr. Mt 10,16). Sii composto di corpo e di spirito, per poter trattare con saggezza le cose visibili e pregare che ti siano manifestate quelle invisibili, affinché nulla ti manchi e ti sia concesso in abbondanza ogni dono spirituale. Come il nocchiero desidera venti propizi, e chi è sbattuto dalla tempesta anela al porto, così le circostanze presenti ti spingano a cercar di raggiungere Dio con i tuoi. Sii sobrio come un atleta di Dio: il premio è l’immortalità e la vita eterna, come sai benissimo. Per te io offro in sacrificio la mia vita e queste catene che tu hai baciato.",
+            "responsorio": "Responsorio (1Tm 6,11-12; 2Tm 2,10)\nR. Tendi alla giustizia, alla pietà, alla fede,alla carità, alla pazienza, alla mitezza;\n*combatti la buona battagliadella fede, per raggiungere la vita eterna.\nV. Sopporto ogni cosa per gli eletti, perchéanch’essi raggiungano la salvezza.\nR. Combatti la buona battaglia della fede, perraggiungere la vita eterna."
+        }
+    ],
+    "codice": "ordinario-viii-venerdi-i",
+    "fonte_raw": "Ordinario/08_BIEN/bien_dispari/6VEN.txt"
+}

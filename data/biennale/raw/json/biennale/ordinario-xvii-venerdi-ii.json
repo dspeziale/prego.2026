@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XVII",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "40,1-14; 42,1-6",
+            "sottotitolo": "Giobbe si sottomette alla grandezza di Dio",
+            "fonte": "Dal libro di Giobbe",
+            "testo": "Il Signore disse a Giobbe: Il censore vorrà ancora contendere con l’Onnipotente? L’accusatore di Dio risponda! Giobbe rivolto al Signore disse: Ecco, sono ben meschino: che ti posso rispondere? Mi metto la mano sulla bocca. Ho parlato una volta, ma non replicherò, ho parlato due volte, ma non continuerò. Allora il Signore rispose a Giobbe di mezzo al turbine e disse. Cingiti i fianchi come un prode: io t’interrogherò e tu mi istruirai. Oseresti proprio cancellare il mio giudizio e darmi torto per avere tu ragione? Hai tu un braccio come quello di Dio e puoi tuonare con voce pari alla sua? Ornati pure di maestà e di sublimità, rivestiti di splendore e di gloria; diffondi i furori della tua collera, mira ogni superbo e abbassalo, mira ogni superbo e umilialo, schiaccia i malvagi ovunque si trovino; nascondili nella polvere tutti insieme, rinchiudi le loro facce nel buio; anch’io ti loderò perché hai trionfato con la destra. Allora Giobbe rispose al Signore e disse: Comprendo che puoi tutto e che nessuna cosa è impossibile per te. Chi è colui che, senza aver scienza, può oscurare il tuo consiglio? Ho esposto dunque senza discernimento cose troppo superiori a me, che io non comprendo. «Ascoltami e io parlerò, io t’interrogherò e tu istruiscimi». Io ti conoscevo per sentito dire, ma ora i miei occhi ti vedono. Perciò mi ricredo e ne provo pentimento sopra polvere e cenere.",
+            "responsorio": "Responsorio (Gb 42,5-6; 40,5.4)\nR. Io ti conoscevo per sentito dire, Signore; ora i miei occhi tivedono, e mi ricredo,\n*ne provo pentimento sopra polvere e cenere.\nV. Ho parlato una volta, ma non replicherò; ho parlato due volte,ma non continuerò. Mi metto la mano sulla bocca,\nR. ne provo pentimento sopra polvere e cenere."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "N. 6",
+            "sottotitolo": "Il Signore discerne i pensieri e le intenzioni del cuore",
+            "fonte": "Dai “Trattati” di Baldovino di Canterbury, vescovo",
+            "testo": "Il Signore conosce i pensieri e le intenzioni del nostro cuore. Senza dubbio egli li conosce tutti, mentre noi conosciamo solo quelli che ci è concesso di percepire per il dono del discernimento. Il nostro spirito infatti non conosce tutto ciò che si trova nell’uomo, e riguardo ai suoi pensieri che, consapevole o meno, percepisce, non sempre intende come le cose stiano in realtà. Anche quelle cose che scopre con gli occhi della mente, non le distingue nitidamente a causa di una certa caligine che ha sempre davanti agli occhi. Spesso, infatti, o il nostro stesso giudizio o quello di altri o anche il tentatore ci presentano come buono e santo ciò che all’occhio di Dio non è per nulla degno di premio. Vi sono contraffazioni di vere virtù, come anche di vizi, che ingannano e abbagliano gli occhi della mente con immagini ingannevoli, tanto che spesso appare bene il male e male il bene. Questo fa parte della nostra miseria e della nostra ignoranza, che dobbiamo molto deplorare e molto temere Sta scritto infatti: Vi sono strade che sembrano buone all’uomo, ma che invece conducono all’abisso (cfr. Pr 16,25). Per farci evitare questo pericolo, il beato Giovanni ammonisce dicendo: «Mettete alla prova le ispirazioni, per saggiare se provengono da Dio» (1Gv 4,1). Chi mai può esaminare le ispirazioni, se vengano da Dio, se non gli è stato dato da Dio il loro discernimento, così da poter esaminare esattamente e con retto giudizio i pensieri, le disposizioni, le intenzioni dello spirito? Il discernimento infatti è come la madre di tutte le virtù ed è necessario a tutti nel guidare la vita, sia propria che altrui. E giusto il proposito di fare le cose secondo la volontà di Dio. È virtuosa l’intenzione che si dirige semplicemente verso il Signore. La nostra vita e ogni nostra azione saranno luminose solo se l’occhio sarà semplice. Ora l’occhio semplice è occhio, ed è semplice. È occhio perché vede per mezzo di un retto sentire cosa si deve fare, ed è semplice perché agisce con pia intenzione escludendo la doppiezza. Il retto sentire non cede all’errore. La pia intenzione esclude la finzione. Questo è dunque il discernimento, l’unione del retto pensiero e della virtuosa intenzione. Tutto quindi si deve fare nella luce del discernimento, come stando in Dio e sotto lo sguardo di Dio.",
+            "responsorio": "Responsorio (Cfr. Mic 6,8; Sal 36,3)\nR. Uomo, ti è stato insegnato ciò che è buono e ciò che richiedeil Signore da te.\n*Pratica la giustizia, ama la pietà, cammina umilmentecon il tuo Dio.\nV. Confida nel Signore e fa il bene; abiterai la terra e vivraisicuro.\nR. Pratica la giustizia, ama la pietà, cammina umilmente con iltuo Dio."
+        }
+    ],
+    "codice": "ordinario-xvii-venerdi-ii",
+    "fonte_raw": "Ordinario/17_BIEN/bien_pari/6VEN.txt"
+}

@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "II",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "7,14-25",
+            "sottotitolo": "Io sono di carne, venduto come schiavo del peccato",
+            "fonte": "Dalla lettera ai Romani di san Paolo, apostolo",
+            "testo": "Fratelli, sappiamo che la legge è spirituale, mentre io sono di carne, venduto come schiavo del peccato. Io non riesco a capire neppure ciò che faccio: infatti non quello che voglio io faccio, ma quello che detesto. Ora, se faccio quello che non voglio, io riconosco che la legge è buona; quindi non sono più io a farlo, ma il peccato che abita in me. Io so infatti che in me, cioè nella mia carne, non abita il bene; c’è in me il desiderio del bene, ma non la capacità di attuarlo; infatti io non compio il bene che voglio, ma il male che non voglio. Ora, se faccio quello che non voglio, non sono più io a farlo, ma il peccato che abita in me. Io trovo dunque in me questa legge: quando voglio fare il bene, il male è accanto a me. Infatti acconsento nel mio intimo alla legge di Dio, ma nelle mie membra vedo un’altra legge, che muove guerra alla legge della mia mente e mi rende schiavo della legge del peccato che è nelle mie membra. Sono uno sventurato! Chi mi libererà da questo corpo votato alla morte? Siano rese grazie a Dio per mezzo di Gesù Cristo nostro Signore! Io dunque, con la mente, servo la legge di Dio, con la carne invece la legge del peccato",
+            "responsorio": "Responsorio (Gal 5,18.22.25)\nR. Se vi lasciate guidare dallo Spirito, non siete più sotto la legge.\n*Il frutto dello Spirito è amore, gioia, pace.\nV. Se viviamo dello Spirito, camminiamo anche secondo lo Spirito.\nR. Il frutto dello Spirito è amore, gioia, pace."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Prol. 5,201-202",
+            "sottotitolo": "Dalla conoscenza di Gesù Cristo si ha la comprensione di tutta la Sacra Scrittura",
+            "fonte": "Dal “Breviloquio” di san Bonaventura, vescovo",
+            "testo": "L’origine della Sacra Scrittura non è frutto di ricerca umana, ma di rivelazione divina, che promana dal Padre della luce «dal quale ogni paternità nei cieli e sulla terra prende nome» (Ef 3,15). Dal Padre, per mezzo del Figlio suo Gesù Cristo, discende in noi lo Spirito Santo. Per mezzo dello Spirito Santo poi, che divide e distribuisce i suoi doni ai singoli secondo il suo beneplacito, ci viene data la fede, e per mezzo della fede Cristo abita nei nostri cuori (cfr. Ef 3,17). Questa è la conoscenza di Gesù Cristo, da cui hanno origine, come da una fonte, la sicurezza e l’intelligenza della verità, contenuta in tutta la Sacra Scrittura. Perciò è impossibile che uno vi si possa addentrare e conoscerla, se prima non abbia la fede che è lucerna, porta e fondamento di tutta la Sacra Scrittura. La fede infatti, lungo questo nostro pellegrinaggio, è il fondamento di tutte le conoscenze soprannaturali, è luce nel cammino e porta per introdurci dal Signore. È anche il criterio per misurare la sapienza donataci dall’alto, perché nessuno si stimi più di quanto è conveniente, ma in maniera da avere di se stessi una giusta valutazione, ciascuno secondo la misura di fede che Dio gli ha dato (cfr. Rm 12,3). Lo scopo, o meglio, il frutto della Sacra Scrittura non è uno qualsiasi, ma addirittura la pienezza della felicità eterna. Infatti la Sacra Scrittura è appunto il libro nel quale sono scritte parole di vita eterna, perché non solo crediamo, ma anche possediamo la vita eterna, in cui vedremo, ameremo e saranno colmati tutti i nostri desideri. Solo allora conosceremo «l’amore che sorpassa ogni conoscenza» e così saremo «ricolmi di tutta la pienezza di Dio» (Ef 3,19). Ora la divina Scrittura cerca di introdurci in questa pienezza, proprio secondo quanto ci ha detto l’Apostolo. Con questo scopo, con questa intenzione, deve essere studiata la Sacra Scrittura. Così va ascoltata e insegnata. Per ottenere tale frutto, per raggiungere questa meta sotto la retta guida della Scrittura, bisogna incominciare dal principio. Ossia accostarsi con fede semplice al Padre della luce e pregare con cuore umile, perché egli, per mezzo del Figlio e nello Spirito Santo, ci conceda la vera conoscenza di Gesù Cristo e, con la conoscenza, anche l’amore. Conoscendolo e amandolo, saldamente fondati nella fede e radicati nella carità, potremo sperimentare «l’ampiezza, la lunghezza, l’altezza e la profondità» (Ef 3,18) della stessa Sacra Scrittura. Potremo così giungere alla perfetta conoscenza e all’amore smisurato della beatissima Trinità, a cui tendono i desideri dei santi, e in cui si trova l’attuazione e il compimento di ogni verità e bontà.",
+            "responsorio": "Responsorio (Lc 24,27.25)\nR. Cominciando da Mosè e da tutti i profeti,\n*Gesù spiegò ai discepoliin tutte le Scritture, ciò che a lui si riferiva.\nV. Stolti e tardi di cuore nel credere alla parola dei profeti!\nR. Gesù spiegò ai discepoli in tutte le Scritture, ciò che a lui siriferiva."
+        }
+    ],
+    "codice": "ordinario-ii-sabato-i",
+    "fonte_raw": "Ordinario/02_BIEN/bien_dispari/7SAB.txt"
+}

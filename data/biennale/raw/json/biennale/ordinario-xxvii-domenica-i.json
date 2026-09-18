@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXVII",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "22,1-14",
+            "sottotitolo": "",
+            "fonte": "Dal libro del profeta Isaia",
+            "testo": "Contro la falsa sicurezza del popolo di Dio Oracolo sulla valle della Visione. Che hai tu dunque, che sei salita tutta quanta sulle terrazze, città rumorosa e tumultuante, città gaudente? I tuoi caduti non sono caduti di spada né sono morti in battaglia. Tutti i tuoi capi sono fuggiti insieme, fatti prigionieri senza un tiro d’arco; tutti i tuoi prodi sono stati catturati insieme o fuggirono lontano. Per questo dico: «Stornate lo sguardo da me, che io pianga amaramente; non cercate di consolarmi per la desolazione della figlia del mio popolo». Poiché è un giorno di panico, di distruzione e di smarrimento, voluto dal Signore, Dio degli eserciti. Nella valle della Visione un diroccare di mura, un invocare aiuto verso i monti. Gli Elamiti hanno preso la faretra; gli Aramei montano i cavalli, Kir ha tolto il fodero allo scudo. Le migliori tra le tue valli sono piene di carri; i cavalieri si sono disposti contro la porta. Così egli toglie la protezione di Giuda. Voi guardavate in quel giorno alle armi del palazzo della Foresta; le brecce della città di Davide avete visto quante fossero; avete raccolto le acque della piscina inferiore, avete contato le case di Gerusalemme e demolito le case per fortificare le mura; avete costruito un serbatoio fra i due muri per le acque della piscina vecchia; ma voi non avete guardato a chi ha fatto tutto questo né avete visto chi ha preparato ciò da tempo. Vi invitava il Signore, Dio degli eserciti, in quel giorno al pianto e al lamento, a rasarvi il capo e a vestire il sacco. Ecco invece si gode e si sta allegri, si sgozzano buoi e si scannano greggi, si mangia carne e si beve vino: «Mangiamo e beviamo, perché domani moriremo!». Ma il Signore degli eserciti si è rivelato ai miei orecchi: «Certo non sarà espiato questo vostro peccato, finché non sarete morti», dice il Signore, Dio degli eserciti.",
+            "responsorio": "Responsorio (Gl 2,12-13)\nR. Ritornate a me con tutto il cuore, condigiuni, con pianti e lamenti.\n*Laceratevi il cuore e non le vesti.\nV. Ritornate al Signore vostro Dio, perché egli èmisericordioso e benigno.\nR. Laceratevi il cuore e non le vesti."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "9,6",
+            "sottotitolo": "Il Padre domina tutte le cose",
+            "fonte": "Dalle “Omelie pasquali” di san Cirillo d’Alessandria, vescovo",
+            "testo": "«Un solo Signore, una sola fede, un solo battesimo. Un solo Dio Padre di tutti, che è al di sopra di tutti, agisce per mezzo di tutti ed è presente in tutti» (Ef 4,5-6). Dio Padre regna infatti e impera su tutte le cose e governa tutto, donando loro integralmente la vita e sostenendole, per mezzo del Figlio, nello Spirito; non come per mezzo di uno strumento, di cui potrei servirmi per un lavoro; infatti il Dio, Verbo da lui generato siede alla sua destra e partecipa dello stesso trono, e insieme con lui regna il suo Spirito. Poiché il Figlio che è la potenza e la sapienza del Padre (cfr. 1Cor 1,24), porta a compimento ogni cosa nello Spirito appunto come potenza e sapienza di lui, regge in sé tutte le cose, e Dio Padre domina su tutto. Posta dunque come fondamento nei nostri cuori prima di ogni altra cosa una fede integra e incorrotta, e poi in modo opportuno tutte quelle cose che ci renderanno beati, vale a dire ogni genere di virtù, saremo in grado di compiere anche tutte le azioni proprie di un cuore infiammato di amore divino. «La fede, se non ha le opere, è morta» (Gc 2,17) così le opere, se prima non c’è in noi la fede, non giovano per nulla alle nostre anime, come sta scritto: «Non riceve la corona se non chi ha lottato secondo le regole» (2Tm 2,5). Infatti per quanto uno sia assai versato nell’arte della lotta, per quanto anche sia ritenuto superiore agli altri per la forza, tuttavia non accade mai che lo si onori con la corona, se prima non ha sostenuto la lotta che è il motivo della gloria e non ha avuto il capo dello stadio spettatore delle azioni da lui valorosamente compiute. Lottiamo dunque alla presenza di Dio, avendo in onore la sua divina legge e dirigiamo il corso della nostra vita dove a lui meglio piacerà, soggetti dovunque al suo servizio: allora presentandoci in odore di soavità a Dio che presiede i combattimenti dei santi, ci dimostreremo infiammati di tutto ciò che è ottimo e accesi di incontenibile brama. Pensiamo poi a quella parola pronunciata da Dio: «Siate santi, perché io sono santo» (Lv 11,44); così presentiamoci a Dio come risorti dai morti, perché puri ci accolga colui che è puro: comunicando così della mistica benedizione avremo il cuore ricolmo di tutti i beni.",
+            "responsorio": "Responsorio (1Gv 3,1; cfr. 2Pt 1,4)\nR. Quale grande amore ci ha dato il Padre\n*peressere chiamati figli di Dio, e lo siamo realmente!\nV. Dio si donò per mezzo di Cristo, perchédivenissimo partecipi della natura divina,\nR. per essere chiamati figli di Dio, e lo siamorealmente!"
+        }
+    ],
+    "codice": "ordinario-xxvii-domenica-i",
+    "fonte_raw": "Ordinario/27_BIEN/bien_dispari/1DOM.txt"
+}

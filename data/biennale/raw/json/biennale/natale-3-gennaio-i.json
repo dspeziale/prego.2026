@@ -1,0 +1,29 @@
+{
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "giorno_settimana": null,
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "data": "03-01",
+    "data_estesa": "3 Gennaio",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "3,5-16",
+            "sottotitolo": "La vita dell’uomo nuovo",
+            "fonte": "Dalla lettera ai Colossesi di san Paolo, apostolo",
+            "testo": "Fratelli, mortificate quella parte di voi che appartiene alla terra: fornicazione, impurità, passioni, desideri cattivi e quella avarizia insaziabile che è idolatria, cose tutte che attirano l’ira di Dio su coloro che disobbediscono. Anche voi un tempo eravate così, quando la vostra vita era immersa in questi vizi. Ora invece deponete anche voi tutte queste cose: ira, passione, malizia, maldicenze e parole oscene dalla vostra bocca. Non mentitevi gli uni gli altri. Vi siete infatti spogliati dell’uomo vecchio con le sue azioni e avete rivestito il nuovo, che si rinnova, per una piena conoscenza, a immagine del suo Creatore. Qui non c’è più Greco o Giudeo, circoncisione o incirconcisione, barbaro o Scita, schiavo o libero, ma Cristo è tutto in tutti. Rivestitevi dunque, come eletti di Dio, santi e amati, di sentimenti di misericordia, di bontà, di umiltà, di mansuetudine, di pazienza; sopportandovi a vicenda e perdonandovi scambievolmente, se qualcuno abbia di che lamentarsi nei riguardi degli altri. Come il Signore vi ha perdonato, così fate anche voi. Al di sopra di tutto poi vi sia la carità, che è il vincolo della perfezione. E la pace di Cristo regni nei vostri cuori, perché a essa siete stati chiamati in un sol corpo. E siate riconoscenti! La parola di Cristo dimori tra voi abbondantemente; ammaestratevi e ammonitevi con ogni sapienza, cantando a Dio di cuore e con gratitudine salmi, inni e cantici spirituali.",
+            "responsorio": "Responsorio (Cfr. Gal 3,27-28)\nR. Battezzati in Cristo, ci siamo rivestiti diCristo:\n*tutti noi siamo uno, in Cristo Gesù.\nV. Non c’è più né Giudeo né Greco, né schiavo nélibero, né uomo né donna:\nR. tutti noi siamo uno, in Cristo Gesù."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "17,7-9",
+            "sottotitolo": "I due precetti dell’amore",
+            "fonte": "Dai “Trattati su Giovanni” di sant’Agostino, vescovo",
+            "testo": "È venuto il Signore, maestro di carità, pieno egli stesso di carità, a ricapitolare la parola sulla terra (cfr. Rm 9,28 Volg.), come di lui fu predetto, e ha mostrato che la Legge e i Profeti si fondano sui due precetti dell’amore. Ricordiamo insieme, fratelli, quali sono questi due precetti. Essi devono esservi ben noti e non solo venirvi in mente quando ve li richiamiamo, perché non si devono mai cancellare dai vostri cuori. Sempre, in ogni istante abbiate presente che bisogna amare Dio e il prossimo: Dio con tutto il cuore, con tutta l’anima, con tutta la mente; e il prossimo come se stessi (cfr. Mt 22,37.39). Questo dovete sempre pensare, meditare, ricordare, praticare e attuare. L’amore di Dio è il primo comandamento, ma l’amore del prossimo è primo come attuazione pratica. Colui che ti dà il comando dell’amore in questi due precetti, non ti insegna prima l’amore del prossimo e poi quello di Dio, ma viceversa. Siccome però Dio tu non lo vedi ancora, amando il prossimo acquisti il merito di vederlo; amando il prossimo purifichi l’occhio per poter vedere Dio, come chiaramente afferma Giovanni: «Chi non ama il fratello che vede, come può amare Dio che non vede?» (1Gv 4,20). Se tu sentendoti esortare ad amare Dio, mi dicessi: «Mostrami colui che devo amare, io non potrei che risponderti con Giovanni: «Dio nessuno l’ha mai visto» (Gv 1,18). ma perché tu non ti creda escluso totalmente dalla possibilità di vedere Dio, lo stesso Giovanni dice: «Dio è amore; chi sta nell’amore dimora in Dio» (1Gv 4,16). Tu dunque ama il prossimo e, guardando dentro di te donde nasca quest’amore, vedrai, per quanto ti è possibile, Dio. Comincia quindi ad amare il prossimo. Spezza il tuo pane con chi ha fame, introduci in casa i miseri senza tetto, vesti chi vedi ignudo, e non distogliere gli occhi da quelli della tua stirpe (cfr. Is 58,7). Facendo questo che cosa otterrai? «Allora la tua luce sorgerà come l’aurora» (Is 58,8). La tua luce è il tuo Dio, che è per te la luce mattutina perché lo vedrai dopo la notte di questo mondo: egli non sorge né tramonta, risplende sempre. Amando il prossimo e prendendoti cura di lui, tu cammini. E dove ti conduce il cammino se non al Signore, a colui che dobbiamo amare con tutto il cuore, con tutta l’anima, con tutta la mente? Al Signore non siamo ancora arrivati, ma il prossimo l’abbiamo sempre con noi. Aiuta dunque il prossimo con il quale cammini, per poter giungere a colui con il quale desideri rimanere.",
+            "responsorio": "Responsorio (1Gv 4,19.10-11.16)\nR. Dio ci ha amato per primo, e ha mandato il suoFiglio come vittima per i nostri peccati.\n*Se Dio ci ha amati così, anchenoi dobbiamo amarci gli uni gli altri.\nV. Abbiamo riconosciuto e creduto all’amore cheDio ha per noi.\nR. Se Dio ci ha amati così, anche noi dobbiamoamarci gli uni gli altri."
+        }
+    ],
+    "codice": "natale-3-gennaio-i",
+    "fonte_raw": "Natale/bien_dispari/0301.txt"
+}

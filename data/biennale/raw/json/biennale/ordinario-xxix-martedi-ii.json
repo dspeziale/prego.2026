@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXIX",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "29,1-13; Volg. 1-16; 31,1-4",
+            "sottotitolo": "Prestiti, elemosina e ricchezza",
+            "fonte": "Dal libro del Siracide",
+            "testo": "Chi pratica la misericordia concede prestiti al prossimo, chi lo soccorre di propria mano osserva i comandamenti. Da’ in prestito al prossimo nel tempo del bisogno, e a tua volta restituisci al prossimo nel momento fissato. Mantieni la parola e sii leale con lui, così troverai in ogni momento quanto ti occorre. Molti considerano il prestito come cosa trovata e causano fastidi a coloro che li hanno aiutati. Prima di ricevere, ognuno bacia le mani del creditore, parla con tono umile per ottenere gli averi dell’amico; ma alla scadenza cerca di guadagnare tempo, restituisce piagnistei e incolpa le circostanze. Se riesce a pagare, il creditore riceverà appena la metà, e dovrà considerarla come una cosa trovata. In caso contrario, il creditore sarà frodato dei suoi averi e avrà senza motivo un nuovo nemico, maledizione e ingiurie gli restituirà, renderà insulti invece dell’onore dovuto. Molti perciò, per tale cattiveria, rifiutan di prestare: hanno paura di perdere i beni senza ragione. Tuttavia sii longanime con il misero, e non fargli attender troppo l’elemosina. Per il comandamento soccorri il povero, secondo la sua necessità non rimandarlo a mani vuote. Perdi pure denaro per un fratello e amico, non si arrugginisca inutilmente sotto una pietra. Sfrutta le ricchezze secondo i comandi dell’Altissimo; ti saranno più utili dell’oro. Rinserra l’elemosina nei tuoi scrigni ed essa ti libererà da ogni disgrazia. Meglio di uno scudo resistente e di una lancia pesante, combatterà per te di fronte al nemico. L’insonnia per la ricchezza logora il corpo, l’affanno per essa distoglie il sonno. L’affanno della veglia tien lontano l’assopirsi, come una grave malattia bandisce il sonno. Un ricco fatica nell’accumulare ricchezze e se smette, si ingolfa nei piaceri. Un povero fatica nelle privazioni della vita e se smette, cade nell’indigenza.",
+            "responsorio": "Responsorio (Cfr. Sir 29,9.11.12; Volg. 29,12.15.14)\nR. Per il comandamento soccorri il povero, secondo la sua necessità nonrimandarlo a mani vuote.\n*Nascondi l’elemosina nel seno del povero, edessa pregherà per te contro ogni male.\nV. Sfrutta le ricchezze secondo il comando dell’Altissimo; ti sarannopiù utili dell’oro.\nR. Nascondi l’elemosina nel seno del povero, ed essa pregherà per tecontro ogni male."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "5,6.7",
+            "sottotitolo": "O magnifica eredità dei poveri!",
+            "fonte": "Dal “Discorso per la solennità di tutti i Santi” del beato Guerrico, abate",
+            "testo": "Gloriamoci, fratelli, di essere poveri per Cristo, ma cerchiamo di essere umili con Cristo. Non c’è niente di più odioso del povero superbo, niente di più miserabile: perché la povertà lo affligge ora, la superbia invece lo terrà schiavo per sempre. Al contrario il povero umile, anche se viene bruciato e purificato nella fornace della povertà esulta per il refrigerio che gli procura la ricchezza della coscienza, si consola con la promessa di una santa speranza sapendo che è suo il regno di Dio: egli sente che lo porta già in sé come in germe o in radice, ossia quale primizia dello Spirito e pegno dell’eredità eterna. Avete già gustato e visto, se non sbaglio, che buon affare avete fatto, acquistando i beni supremi in cambio di cose spregevoli e degne solo di essere gettate via. «Il regno di Dio, infatti, non è questione di cibo o di bevanda, ma è giustizia, pace e gioia nello Spirito Santo» (Rm 14,17). Se dunque sentiamo così nel nostro intimo, perché non proclamiamo con fiducia che il regno di Dio è dentro di noi? Ciò che è dentro di noi, è veramente nostro, perché nessuno può rapircelo contro la nostra volontà. O magnifica eredità dei poveri, o possesso beato degli indigenti! Non solo ci fornisci quanto ci basta ma abbondi di tutta la gloria, trabocchi di tutta la letizia, come quella «misura traboccante» che ci sarà versata nel grembo (cfr. Lc 6,38). Perciò presso di te «c’è ricchezza e onore, sicuro benessere ed equità» (Pr 8,18). Voi dunque, che siete amici della povertà e avete cara l’umiltà di spirito, avete ricevuto dalla Verità immutabile l’assicurazione del possesso del regno. Essa afferma, infatti, che questo è vostro e lo custodisce fedelmente dopo averlo riposto in voi, purché però, a vostra volta, voi custodiate fermamente sino alla fine nel vostro petto una tale speranza con l’aiuto del nostro Signore Gesù Cristo, a cui è onore e gloria per l’eternità.",
+            "responsorio": "Responsorio (Cfr. 1Sam 2,7.8; Lc 1,48)\nR. Il Signore rende povero e arricchisce, abbassa ed esalta. Sollevadalla polvere il misero, innalza il povero dalle immondizie,\n*perchésegga insieme con capi del popolo e occupi un seggio di gloria.\nV. Ha guardato l’umiltà della sua serva,\nR. perché segga insieme con i capi del popolo e occupi un seggio digloria."
+        }
+    ],
+    "codice": "ordinario-xxix-martedi-ii",
+    "fonte_raw": "Ordinario/29_BIEN/bien_pari/3MAR.txt"
+}

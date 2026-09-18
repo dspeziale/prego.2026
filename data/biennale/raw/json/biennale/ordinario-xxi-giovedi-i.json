@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXI",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "6,1-9",
+            "sottotitolo": "Doveri nella vita domestica",
+            "fonte": "Dalla lettera agli Efesini di san Paolo, apostolo",
+            "testo": "Figli, obbedite ai vostri genitori nel Signore, perché questo è giusto. Onora tuo padre e tua madre: è questo il primo comandamento associato a una promessa: perché tu sia felice e goda di una vita lunga sopra la terra. E voi, padri, non inasprite i vostri figli, ma allevateli nell’educazione e nella disciplina del Signore. Schiavi, obbedite ai vostri padroni secondo la carne con timore e tremore, con semplicità di spirito, come a Cristo, e non servendo per essere visti, come per piacere agli uomini, ma come servi di Cristo, compiendo la volontà di Dio di cuore, prestando servizio di buona voglia come al Signore e non come a uomini. Voi sapete infatti che ciascuno, sia schiavo sia libero, riceverà dal Signore secondo quello che avrà fatto di bene. Anche voi, padroni, comportatevi allo stesso modo verso di loro, mettendo da parte le minacce, sapendo che per loro come per voi c’è un solo Signore nel cielo, e che non v’è preferenza di persone presso di lui.",
+            "responsorio": "Responsorio (Cfr. 1Cor 7,22-23; Gal 3,28)\nR. Lo schiavo che è stato chiamato nel Signore, èun liberto affrancato dal Signore; chi è stato chiamato da libero, è schiavo di Cristo.\n*Siete stati comprati a caro prezzo: non fatevischiavi degli uomini!\nV. In Cristo Gesù non c’è più giudeo né greco;non c’è più schiavo né libero.\nR. Siete stati comprati a caro prezzo: non fatevischiavi degli uomini!"
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Lib. 2, Om. 1,7",
+            "sottotitolo": "La speranza dei premi celesti",
+            "fonte": "Dalle “Omelie sul profeta Ezechiele” di san Gregorio Magno, papa",
+            "testo": "Potrà essere introdotto nella città celeste solo colui che nella santa Chiesa medita le vie dei giusti per imitarle. L’essere introdotti consiste nel considerare la casa posta sopra il monte, cioè come gli eletti della santa Chiesa, giunti al culmine delle virtù, progrediscano amando. Uno infatti conduce vita matrimoniale, è contento di ciò che possiede, non si appropria delle ricchezze altrui, elargisce ai bisognosi il superfluo, non tralascia di piangere i peccati che ordinariamente si commettono nella vita quotidiana. La stessa preoccupazione della famiglia poi, è per lui motivo di turbamento e lo spinge alle lacrime. Un altro invece ha già abbandonato tutti i beni del mondo, non desidera nulla per sé, si nutre soltanto di contemplazione, piange di gioia nella speranza dei premi celesti, si priva anche di ciò che sarebbe concesso possedere ogni giorno, è tutto proteso all’incontro con Dio nel silenzio della solitudine, nessuna preoccupazione di questo mondo che passa turba il suo animo, che invece di giorno in giorno si dilata nell’attesa delle gioie del cielo. Un altro ancora ha abbandonato tutti i beni di questo mondo per volgere interamente il suo cuore alla contemplazione delle realtà celesti; tuttavia, dovendo occupare un posto di comando per l’edificazione dei fratelli, pur non cedendo al desiderio delle realtà caduche, di esse talora è costretto a occuparsi mosso dalla compassione per il suo prossimo, per venire così in aiuto a quanti sono nella necessità; a coloro che ascoltano annunzia la parola di vita, e somministra il necessario sia alle anime che ai corpi. Ed egli che, per sé, nella contemplazione vive già tutto proteso al desiderio del cielo, tuttavia per l’utilità e il bene del prossimo accetta di occuparsi con fatica delle realtà temporali. Pertanto chi nella santa Chiesa s’impegna con sollecitudine a progredire, o nella santità della vita coniugale, o nell’ascesi dei vergini e di coloro che abbandonano tutti i beni di questo mondo, o nella perfezione dei predicatori, questi è già entrato ad abitare nella città posta sul monte. Chi invece trascura di guardare alla vita dei migliori per progredire, si trova ancora al di fuori di quella casa. E se pur ammira l’onore di cui la santa Chiesa già gode nel mondo, tuttavia è come uno che guarda un edificio soltanto dall’esterno e ne resta meravigliato. E poiché pone la sua attenzione solo all’esteriore, non è ancora entrato all’interno.",
+            "responsorio": "Responsorio (Rm 8,23; 1Cr 29,15)\nR. Noi che possediamo le primizie dello Spirito;\n*gemiamo interiormente aspettando l’adozione a figli, la redenzione delnostro corpo.\nV. Noi siamo stranieri davanti a te e pellegrinicome tutti i nostri padri;\nR. gemiamo interiormente aspettando l’adozione afigli, la redenzione del nostro corpo."
+        }
+    ],
+    "codice": "ordinario-xxi-giovedi-i",
+    "fonte_raw": "Ordinario/21_BIEN/bien_dispari/5GIO.txt"
+}

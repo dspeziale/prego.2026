@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XIX",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "4,38-44; 6,1-7",
+            "sottotitolo": "I miracoli di Eliseo per i figli dei profeti",
+            "fonte": "Dal secondo libro dei Re",
+            "testo": "Eliseo tornò in Galgala. Nella regione imperversava la carestia. Mentre i figli dei profeti stavano seduti davanti a lui, egli disse al suo servo: «Metti la pentola grande e cuoci una minestra per i figli dei profeti». Uno di essi andò in campagna per cogliere erbe selvatiche e trovò una specie di vite selvatica: da essa colse zucche agresti e se ne riempì il mantello. Ritornò e gettò i frutti a pezzi nella pentola della minestra, non sapendo cosa fossero. Si versò da mangiare agli uomini, che appena assaggiata la minestra gridarono: «Nella pentola c’è la morte, uomo di Dio!». Non ne potevano mangiare. Allora Eliseo ordinò: «Portatemi della farina». Versatala nella pentola disse: «Danne da mangiare alla gente». Non c’era più nulla di cattivo nella pentola. Da Baal-Salisa venne un individuo che offrì primizie all’uomo di Dio, venti pani d’orzo e farro che aveva nella bisaccia. Eliseo disse: «Dallo da mangiare alla gente». Ma colui che serviva disse: «Come posso mettere questo davanti a cento persone?». Quegli replicò: «Dallo da mangiare alla gente. Poiché così dice il Signore: Ne mangeranno e ne avanzerà anche». Lo pose davanti a quelli, che mangiarono, e ne avanzò, secondo la parola del Signore. I figli dei profeti dissero a Eliseo: «Ecco, il luogo in cui ci raduniamo alla tua presenza è troppo stretto per noi. Andiamo fino al Giordano; là prenderemo una trave per ciascuno e ci costruiremo una residenza». Quegli rispose: «Andate!». Uno disse: «Degnati di venire anche tu con i tuoi servi». Egli rispose: «Ci verrò». E andò con loro. Giunti al Giordano, tagliarono alcuni alberi. Ora, mentre uno abbatteva un tronco, il ferro dell’ascia gli cadde in acqua. Egli gridò: «Oh, mio signore! Era stato preso in prestito!». L’uomo di Dio domandò: «Dove è caduto?». Gli mostrò il posto. Eliseo, allora, tagliò un legno e lo gettò in quel punto e il ferro venne a galla. Disse: «Prendilo!». Quegli stese la mano e lo prese.",
+            "responsorio": "Responsorio (Sir 2,13.15; Gv 4,48)\nR. Guai al cuore indolente perché non ha fede; per questo nonsarà protetto;\n*coloro che temono il Signore non disobbediscono alle sueparole.\nV. Se non vedete segni e prodigi, voi non credete.\nR. Coloro che temono il Signore non disobbediscono alle sueparole."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Lib. 5.17,3-4",
+            "sottotitolo": "L’economia della croce ci ha rivelato il Verbo a noi nascosto",
+            "fonte": "Dal trattato “Contro le eresie” di sant’Ireneo, vescovo",
+            "testo": "«Beato l’uomo a cui Dio non imputa alcun male» (Sal 31,21) mostrando in antecedenza quella remissione che si realizzerà con la sua venuta, remissione grazie alla quale annullò «il documento scritto del nostro debito, inchiodandolo alla croce» (Col 2,14); di modo che, come per un legno eravamo stati resi debitori di Dio, così per mezzo di un legno ricevessimo il condono del nostro debito. Questo è mostrato in modo significativo anche per mezzo di molti altri, come già attraverso il profeta Eliseo. Mentre infatti i profeti che erano con lui spaccavano la legna per costruire il tabernacolo, staccatasi la lama dalla scure e caduta nel Giordano, non riuscivano più a ritrovarla; giunto Eliseo ed essendogli riferito l’accaduto, gettò il legno nell’acqua; appena fatto questo, il ferro dell’accetta salì alla superficie e da qui lo ricuperarono coloro che l’avevano perduto. In questo modo mostrava il profeta che la salda Parola di Dio, persa da noi per negligenza a causa di un legno, e che non eravamo più in grado di ritrovare, l’avremmo nuovamente ricevuta per mezzo del legno. La parola di Dio è davvero simile a una scure, e di essa dice Giovanni Battista: «Già la scure è posta alla radice degli alberi» (Mt 3,10). Similmente Geremia: La parola di Dio è «come un martello che spacca la roccia» (Ger 23,29). Come dunque abbiamo detto, fu proprio un legno a svelarci nuovamente il Verbo che ci era nascosto. Come infatti l’avevamo smarrito a causa di un legno, così per mezzo di un legno fu svelato a tutti, mostrando in sé l’altezza, la lunghezza e la larghezza; e come disse qualcuno degli apostoli, riconciliò a un solo Dio i due popoli stendendo le mani (cfr. Ef 2,16): due erano le mani, e due i popoli dispersi fino agli estremi confini della terra; ma uno solo il capo che li riunisce, poiché «vi è un solo Dio, che è al di sopra di tutti, agisce per mezzo di tutti ed è presente in tutti» (Ef 4,6).",
+            "responsorio": "Responsorio (Cfr. Sap 14,5.7; 1Pt 2,24)\nR. Gli uomini affidano le loro vite anche a un minuscolo legno.\n*È benedetto il legno che produce giustizia.\nV. Egli portò i nostri peccati nel suo corpo sul legno dellacroce.\nR. È benedetto il legno che produce giustizia."
+        }
+    ],
+    "codice": "ordinario-xix-domenica-i",
+    "fonte_raw": "Ordinario/19_BIEN/bien_dispari/1DOM.txt"
+}

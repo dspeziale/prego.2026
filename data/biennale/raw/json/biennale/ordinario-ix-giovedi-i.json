@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "IX",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "4,1-12",
+            "sottotitolo": "Le radici della discordia",
+            "fonte": "Dalla lettera di san Giacomo, apostolo",
+            "testo": "Fratelli, da che cosa derivano le guerre e le liti che sono in mezzo a voi? Non vengono forse dalle vostre passioni che combattono nelle vostre membra? Bramate e non riuscite a possedere e uccidete; invidiate e non riuscite a ottenere, combattete e fate guerra! Non avete perché non chiedete; chiedete e non ottenete perché chiedete male, per spendere per i vostri piaceri. Gente infedele non sapete che amare il mondo è odiare Dio? Chi dunque vuole essere amico del mondo si rende nemico di Dio. O forse pensate che la Scrittura dichiari invano: fino alla gelosia ci ama lo Spirito che egli ha fatto abitare in noi? Ci dà anzi una grazia più grande; per questo dice: Dio resiste ai superbi; agli umili invece dà la sua grazia. Sottomettetevi dunque a Dio; resistete al diavolo, ed egli fuggirà da voi. Avvicinatevi a Dio ed egli si avvicinerà a voi. Purificate le vostre mani, o peccatori, e santificate i vostri cuori, o irresoluti. Gemete sulla vostra miseria, fate lutto e piangete; il vostro riso si muti in lutto e la vostra allegria in tristezza. Umiliatevi davanti al Signore ed egli vi esalterà. Non sparlate gli uni degli altri, fratelli. Chi sparla del fratello o giudica il fratello, parla contro la legge e giudica la legge. E se tu giudichi la legge, non sei più uno che osserva la legge, ma uno che la giudica. Ora , uno solo è legislatore e giudice. Colui che può salvare e rovinare; ma chi sei tu che ti fai giudice del tuo prossimo?",
+            "responsorio": "Responsorio (Sal 144,8; cfr. Gc 4,7.6; Gdt 9,17)\nR. Paziente e misericordioso è il Signore.\n*Sottomettiamoci dunque a Dio e attendiamo fiduciosi la salvezza cheviene da lui.\nV. Dio resiste ai superbi, agli umili invece dàla sua grazia.\nR. Sottomettiamoci dunque a Dio e attendiamofiduciosi la salvezza che viene da lui."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "N. 31",
+            "sottotitolo": "La preminenza della carità",
+            "fonte": "Dai “Discorsi” del beato Isacco della Stella, ab",
+            "testo": "Perché mai, o fratelli, siamo poco solleciti nel cercare le occasioni di salvezza vicendevole, e non ci prestiamo mutuo soccorso dove lo vediamo maggiormente necessario, portando fraternamente i pesi gli uni degli altri? Proprio di questo ci ammonisce l’Apostolo quando dice: «Portate i pesi gli uni degli altri, così adempirete la legge di Cristo» (Gal 6,2). E altrove: Sopportatevi a vicenda con amore (cfr. Ef 4,2). Questa è senza dubbio la legge di Cristo. Ciò che nel mio fratello per qualsiasi motivo – per necessità, per infermità del corpo o per leggerezza dí costumi – vedo non potersi correggere, perché non lo sopporto con pazienza? Perché non lo curo amorevolmente, come sta scritto: I loro piccoli saranno portati in braccio e accarezzati sulle ginocchia? (cfr. Is 66,12). Forse perché mi manca quella carità che tutto soffre, che è paziente nel sopportare e benigna nell’amare! Questa però è la legge di Cristo, che con la sua passione «si è caricato delle nostre sofferenze» e con la sua compassione «si è addossato i nostri dolori» (Is 53,4), amando coloro che portava e portando coloro che amava. Invece colui che attacca ostilmente il fratello in necessità, o che insidia alla sua debolezza, di qualunque genere sia, si assoggetta senza dubbio alla legge del diavolo e la mette in pratica. Usiamoci dunque comprensione e pratichiamo la fraternità, facendoci portatori delle altrui debolezze, e combattendo solo ciò che è vizio. La condotta più accetta a Dio è quella che, pur nella varietà delle forme e dello stile, segue con maggior sincerità l’amore di Dio e, per lui, l’amore del prossimo. La carità è l’unico criterio secondo cui tutto deve essere fatto o non fatto, cambiato o non cambiato. È il principio che deve dirigere ogni azione e il fine a cui deve tendere. Nulla è colpevole di ciò che è fatto veramente per la carità o da essa è ispirato. Si degni di concedercela, questa carità, colui al quale senza di essa non possiamo piacere, e senza il quale non possiamo fare assolutamente nulla, Dio che vive e regna per i secoli senza fine. Amen.",
+            "responsorio": "Responsorio (1Gv 3,11; Gal 5,14)\nR. Questo è il messaggio che avete udito fin daprincipio:\n*che ci amiamo gli uni gli altri.\nV. Tutta la legge trova la sua pienezza in unsolo precetto:\nR. che ci amiamo gli uni gli altri."
+        }
+    ],
+    "codice": "ordinario-ix-giovedi-i",
+    "fonte_raw": "Ordinario/09_BIEN/bien_dispari/5GIO.txt"
+}

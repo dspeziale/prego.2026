@@ -160,9 +160,64 @@ def test_amministrazione() -> None:
     check(client.get("/admin").status_code == 200, "/admin con sessione")
 
 
+def test_biennale_data() -> None:
+    """Ferie a data fissa: il Biennale si trova per giorno del mese."""
+    print("[biennale a data fissa]")
+    import json
+    import shutil
+    from biennale import BiennaleStore
+    from repository import LiturgiaRepository
+
+    check(BiennaleStore.date_code("Tempo di Natale", 2, 1, "I")
+          == "natale-2-gennaio-i", "codice per data con ciclo")
+    check(BiennaleStore.date_code("Avvento", 17, 12, None)
+          == "avvento-17-dicembre", "codice per data senza ciclo")
+
+    cartella = Path(__file__).resolve().parent / "_biennale_di_prova"
+    shutil.rmtree(cartella, ignore_errors=True)
+    cartella.mkdir()
+    voce = {
+        "tempo_liturgico": "Tempo di Natale", "settimana_del_tempo": None,
+        "giorno_settimana": None, "anno_liturgico": None,
+        "ciclo_biennale": "I", "data": "02-01", "data_estesa": "2 Gennaio",
+        "letture": [{"titolo": "Prima Lettura", "riferimento": "2,16-3,4",
+                     "sottotitolo": "", "fonte": "Dalla lettera ai Colossesi",
+                     "testo": "Fratelli...", "responsorio": ""}],
+        "codice": "natale-2-gennaio-i",
+    }
+    (cartella / "natale-2-gennaio-i.json").write_text(
+        json.dumps(voce, ensure_ascii=False), encoding="utf-8")
+    store = BiennaleStore(cartella)
+    repo = LiturgiaRepository(cartella, cartella, biennale_store=store)
+    metadati = {"data": "2027-01-02", "tempo_liturgico": "Tempo di Natale",
+                "giorno_settimana": "Sabato", "ciclo_biennale": "I"}
+    trovata = repo._find_biennale(metadati)
+    check(trovata is not None and trovata["codice"] == "natale-2-gennaio-i",
+          "2 gennaio trovato per data, qualunque sia il giorno della settimana")
+    check(repo._find_biennale({**metadati, "data": "2027-01-03"}) is None,
+          "3 gennaio senza voce -> nessun risultato")
+    # senza ciclo nei metadati si ripiega sulla voce generica
+    (cartella / "natale-2-gennaio.json").write_text(
+        json.dumps({**voce, "ciclo_biennale": None, "codice": "natale-2-gennaio"},
+                   ensure_ascii=False), encoding="utf-8")
+    generica = repo._find_biennale({**metadati, "ciclo_biennale": "II"})
+    check(generica is not None and generica["codice"] == "natale-2-gennaio",
+          "ciclo II senza voce propria -> voce senza ciclo")
+    sezioni = repo._biennale_sections(trovata)
+    check(sezioni and "2 Gennaio" in (sezioni[0].text or ""),
+          "intestazione con la data estesa")
+    # la form di modifica conserva la chiave per data
+    form = {"tempo_liturgico": "Tempo di Natale", "giorno_settimana": "Sabato",
+            "ciclo_biennale": "I", "data": "02-01",
+            "lettura_1_riferimento": "2,16-3,4", "lettura_1_testo": "Fratelli..."}
+    check(BiennaleStore.from_form(form)["codice"] == "natale-2-gennaio-i",
+          "from_form conserva il codice per data")
+    shutil.rmtree(cartella, ignore_errors=True)
+
+
 def main() -> int:
     for test in (test_calendario, test_cleaner, test_webapp, test_omelia,
-                 test_amministrazione):
+                 test_amministrazione, test_biennale_data):
         test()
     print(f"\nTutti i test superati ({PASSED} controlli).")
     return 0

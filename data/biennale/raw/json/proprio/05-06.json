@@ -1,0 +1,21 @@
+{
+    "data": "05-06",
+    "giorno": 5,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "5 Giugno",
+    "santo": "San Bonifacio, vescovo e martire",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "N. 78",
+            "sottotitolo": "Pastore sollecito che vigila sul gregge di Cristo",
+            "fonte": "Dalle “Lettere” di san Bonifacio, vesc. e martire",
+            "testo": "La Chiesa è come una grande nave che solca il mare del mondo. Sbattuta com’è dai diversi flutti di avversità, non si deve abbandonare, ma guidare.\nGrandi nocchieri furono i primi padri, quali Clemente e Cornelio e moltissimi altri a Roma, Cipriano a Cartagine e Atanasio ad Alessandria. Essi, al tempo degli imperatori pagani, governavano la nave di Cristo, anzi la sua carissima Sposa. Insegnarono, combatterono, faticarono e soffrirono fino a dare il loro sangue.\nAl pensiero di queste cose e di altre simili, timore e spavento mi hanno invaso e quasi mi hanno sopraffatto (cfr. Sal 54,6) le tenebre dei miei peccati. Perciò avrei voluto abbandonare del tutto il timone della Chiesa, se avessi trovato precedenti simili nei Padri o nelle Sacre Scritture. Ma non potendolo fare, l’anima mia stanca ricorre a colui che per mezzo di Salomone dice: «Confida nel Signore con tutto il cuore, e non appoggiarti sulla tua intelligenza. In tutti i tuoi passi pensa a lui ed egli appianerà i tuoi sentieri» (Pr 3,5-6). E altrove: Il nome del Signore è una torre fortissima. Il giusto vi si rifugia e sarà salvato (cfr. Pr 18,10).\nStiamo saldi nella giustizia e prepariamo le nostre anime alla tentazione per ottenere l’appoggio di Dio e diciamogli: «O Signore, tu sei stato per noi rifugio di generazione in generazione» (Sal 89,1).\nConfidiamo in lui che ha messo sulle nostre spalle questo peso. Ciò che noi da soli non siamo capaci di portare, portiamolo con il suo aiuto. Egli è onnipotente e dice: «Il mio giogo è dolce e il mio carico leggero» (Mt 11,30).\nStiamo saldi nella battaglia fino al giorno del Signore, perché ci sono venuti addosso giorni di angustia e di tribolazione. Moriamo, se Dio vorrà, per le sante leggi dei nostri padri, per poter conseguire con essi l’eredità eterna.\nNon siamo dei cani muti, non siamo spettatori silenziosi, non siamo mercenari che fuggono il lupo, ma pastori solleciti e vigilanti sul gregge di Cristo. Predichiamo i disegni di Dio ai grandi e ai piccoli, ai ricchi e ai poveri. Annunziamoli a tutti i ceti e a tutte le età finché il Signore ci darà la forza, a tempo opportuno e importuno, a quel modo che san Gregorio scrisse nella sua «Regola Pastorale».",
+            "responsorio": "Responsorio Cfr. 1Ts 2,8; Gal 4,19)\nR. Per il grande affetto che vi porto, vi avrei dato non solo il vangelo di Dio, ma la mia stessa vita: *siete diventati per me figli carissimi. Alleluia.\nV. Per voi soffro le doglie del parto, finché non sia formato Cristo in voi:\nR. siete diventati per me figli carissimi. Alleluia."
+        }
+    ],
+    "orazione": "Interceda per noi, Signore, il santo vescovo e martire Bonifacio, perché custodiamo con fierezza e professiamo con coraggio la fede che egli ha insegnato con la parola e testimoniato con il sangue. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli.",
+    "fonte_raw": "Santi/0605.txt"
+}

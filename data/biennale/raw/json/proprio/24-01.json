@@ -1,0 +1,21 @@
+{
+    "data": "24-01",
+    "giorno": 24,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "24 Gennaio",
+    "santo": "San Francesco di Sales, vescovo e dottore della Chiesa",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Parte 1, cap. 3",
+            "sottotitolo": "La devozione è possibile in ogni vocazione e professione",
+            "fonte": "Dalla “Introduzione alla vita devota” di san Francesco di Sales, vescovo",
+            "testo": "Nella creazione Dio comandò alle piante di produrre i loro frutti, ognuna «secondo la propria specie» (Gen 1,11). Lo stesso comando rivolge ai cristiani, che sono le piante vive della sua Chiesa, perché producano frutti di devozione, ognuno secondo il suo stato e la sua condizione.\nLa devozione deve essere praticata in modo diverso dal gentiluomo, dall’artigiano, dal domestico, dal principe, dalla vedova, dalla donna non sposata e da quella coniugata. Ciò non basta; bisogna anche accordare la pratica della devozione alle forze, agli impegni e ai doveri di ogni persona.\nDimmi, Filotea, sarebbe conveniente se il vescovo volesse vivere in una solitudine simile a quella dei certosini? E se le donne sposate non volessero possedere nulla come i cappuccini? Se l’artigiano passasse tutto il giorno in chiesa come il religioso e il religioso si esponesse a quasiasi incontro per servire il prossimo come è dovere del vescovo? Questa devozione non sarebbe ridicola, disordinata e inammissibile? Questo errore si verifica tuttavia molto spesso. No, Filotea, la devozione non distrugge nulla quando è sincera, ma anzi perfeziona tutti e, quando contrasta con gli impegni di qualcuno, è senza dubbio falsa.\nL’ape trae il miele dai fiori senza sciuparli, lasciandoli intatti e freschi come li ha trovati. La vera devozione fa ancora meglio, perché non solo non reca pregiudizio ad alcun tipo di vocazione o di occupazione, ma al contrario vi aggiunge bellezza e prestigio.\nTutte le pietre preziose, gettate nel miele, diventano più splendenti, ognuna secondo il proprio colore, così ogni persona si perfeziona nella sua vocazione, se l’unisce alla devozione. La cura della famiglia è resa più leggera, l’amore fra marito e moglie più sincero, il servizio del principe più fedele, e tutte le altre occupazioni più soavi e amabili.\nÈ un errore, anzi un’eresia, voler escludere l’esercizio della devozione dall’ambiente militare, dalla bottega degli artigiani, dalla corte dei principi, dalle case dei coniugati. È vero, Filotea, che la devozione puramente contemplativa, monastica e religiosa può essere vissuta solo in questi stati, ma oltre a questi tre tipi di devozione, ve ne sono molti altri capaci di rendere perfetti coloro che vivono in condizioni secolari. Perciò dovunque ci troviamo, possiamo e dobbiamo aspirare alla vita perfetta.",
+            "responsorio": "Responsorio (Cfr. Ef 4,32–5,1; Mt 11,29)\nR. Siate benevoli gli uni verso gli altri e pieni di misericordia. Perdonatevi come Dio ha perdonato a voi in Cristo; *fatevi imitatori di Dio, come figli carissimi.\nV. Prendete su di voi il mio giogo, e imparate da me, che sono mite e umile di cuore;\nR. fatevi imitatori di Dio, come figli carissimi."
+        }
+    ],
+    "orazione": "O Dio, tu hai voluto che il santo vescovo Francesco di Sales si facesse tutto a tutti nella carità apostolica: concedi anche a noi di testimoniare sempre, nel servizio dei fratelli, la dolcezza del tuo amore di Padre. Per il nostro Signore.",
+    "fonte_raw": "Santi/0124.txt"
+}

@@ -1,0 +1,30 @@
+{
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "giorno_settimana": null,
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "data": "31-12",
+    "data_estesa": "31 Dicembre",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "2,8–3,5",
+            "sottotitolo": "La Sposa cerca lo Sposo di cui ha udito la voce",
+            "fonte": "Dal Cantico dei Cantici",
+            "testo": "Una voce! Il mio diletto! Eccolo, viene saltando per i monti, balzando per le colline. Somiglia il mio diletto a un capriolo o ad un cerbiatto. Eccolo, egli sta dietro il nostro muro; guarda dalla finestra, spia attraverso le inferriate. Ora parla il mio diletto e mi dice: Alzati, amica mia, mia bella, e vieni! Perché, ecco, l’inverno è passato, è cessata la pioggia, se n’è andata; i fiori sono apparsi nei campi, il tempo del canto è tornato e la voce della tortora ancora si fa sentire, nella nostra campagna. Il fico ha messo fuori i primi frutti e le viti fiorite spandono fragranza. Alzati, amica mia, mia bella, e vieni! O mia colomba, che stai nelle fenditure della roccia, nei nascondigli dei dirupi, mostrami il tuo viso, fammi sentire la tua voce, perché la tua voce è soave, il tuo viso è leggiadro». Prendeteci le volpi, le volpi piccoline che guastano le vigne, perché le nostre vigne sono in fiore. Il mio diletto è per me e io per lui. Egli pascola il gregge fra i gigli. Prima che spiri la brezza del giorno e si allunghino le ombre, ritorna, o mio diletto, somigliante alla gazzella o al cerbiatto, sopra i monti degli aromi. Sul mio giaciglio, lungo la notte, ho cercato l’amato del mio cuore; l’ho cercato ma non l’ho trovato. «Mi alzerò e farò il giro della città; per le strade e per le piazze; voglio cercare l’amato del mio cuore». L’ho cercato ma non l’ho trovato. Mi hanno incontrato le guardie che fanno la ronda: «Avete visto l’amato del mio cuore?» Da poco le avevo oltrepassate, quando trovai l’amato del mio cuore. Lo strinsi fortemente e non lo lascerò finché non l’abbia condotto in casa di mia madre, nella stanza della mia genitrice. Io vi scongiuro, figlie di Gerusalemme, per le gazzelle e per le cerve dei campi: non destate, non scuotete dal sonno l’amata finché essa non lo voglia.",
+            "responsorio": "Responsorio (Ct 2,10.14; Sal 44,11.12)\nR. Alzati, amica mia, mia bella, e vieni!\n*La tuavoce è soave, il tuo viso è leggiadro.\nV. Ascolta, figlia, porgi l’orecchio: al repiacerà la tua bellezza.\nR. La tua voce è soave, il tuo viso è leggiadro."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "N. 5",
+            "sottotitolo": "Dio si è manifestato nella carne",
+            "fonte": "Dalle “Omelie sul Cantico dei Cantici” di san Gregorio di Nissa, vescovo",
+            "testo": "«Eccolo, viene saltellando per i monti» (Ct 2,8). Che cosa è adombrato in queste parole? Forse ciò che è rivelato nel Vangelo: il piano della manifestazione del Verbo di Dio, già precedentemente annunziato dai profeti e realizzato con l’apparizione del Signore nella carne. «Eccolo, egli sta dietro il nostro muro; guarda dalla finestra, spia attraverso le inferriate» (Ct 2,9b). La preghiera unisce a Dio la natura umana, dopo averla illuminata per mezzo dei profeti e della legge. E così nelle finestre vediamo adombrati i profeti che aprono il varco alla luce; nelle inferriate l’insieme dei precetti della legge: attraverso gli uni e gli altri entra lo splendore della vera luce. Ma la luce piena si fece quando a coloro che siedono nelle tenebre e nell’ombra della morte apparve la vera luce, per la sua unione con la natura umana. Dapprima, dunque, i raggi delle visioni profetiche, balenati all’anima e accolti nella mente attraverso le finestre e le inferriate, ci infondono il desiderio di vedere il sole a cielo aperto; subito dopo, l’oggetto del desiderio diventa realtà. «Alzati, amica mia, mia bella, e vieni, o mia colomba!» (Ct 2,13-14). Quante verità ci rivela il Verbo in queste poche parole! Vediamo il Verbo che attrae a sé la sposa di virtù in virtù, come sui gradini di una scala. Dapprima, manda un raggio della sua luce attraverso le finestre profetiche e le inferriate, cioè i precetti della legge, e la invita ad accostarsi alla luce che la rende bella come una colomba luminosa. Quando poi essa ha accolto in sé tutta la bellezza di cui è capace, di nuovo, come se finora non le avesse comunicato nessun bene, la attrae a una partecipazione più elevata, cosicché lo stato già raggiunto accende ulteriormente il suo desiderio, e per lo splendore della bellezza da cui si vede sempre sovrastata, ha la sensazione di essere appena all’inizio della salita verso Dio. Per questo, dopo averla svegliata, le dice di nuovo: Alzati; e poi ancora: Vieni. A chi infatti si è davvero alzato una volta, non mancherà certo la possibilità di alzarsi ancora, e per chi corre verso il Signore, non sarà mai del tutto compiuto il lungo e difficile cammino per giungere a lui. Bisogna sempre alzarsi e stare in ascolto, né mai desistere dal correre, anche se siamo vicini alla meta. Ogni volta che egli dice: Alzati e vieni, dà anche la grazia di salire sempre più in alto.",
+            "responsorio": "Responsorio (Sal 35,10; 1Cor 13,12)\nR. È in te la sorgente della vita.\n*Alla tua lucevediamo la luce.\nV. Ora vediamo come in uno specchio, in manieraconfusa, ma allora vedremo faccia a faccia.\nR. Alla tua luce vediamo la luce."
+        }
+    ],
+    "orazione": "Dio onnipotente ed eterno, che nella nascita del tuo Figlio hai stabilito l’inizio e la pienezza della vera fede, accogli anche noi come membra del Cristo, che compendia in sé la salvezza del mondo. Per il nostro Signore.",
+    "codice": "natale-31-dicembre-ii",
+    "fonte_raw": "Natale/bien_pari/3112.txt"
+}

@@ -1,0 +1,19 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXII",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "3,1-15",
+            "sottotitolo": "La visita del Signore in Samaria e Betel",
+            "fonte": "Dal libro del profeta Amos",
+            "testo": "Ascoltate questa parola che il Signore ha detto riguardo a voi, Israeliti, e riguardo a tutta la stirpe che ho fatto uscire dall’Egitto: «Soltanto voi ho eletto fra tutte le stirpi della terra; perciò io vi farò scontare tutte le vostre iniquità». Camminano forse due uomini insieme senza essersi messi d’accordo? Ruggisce forse il leone nella foresta, se non ha qualche preda? Il leoncello manda un grido dalla sua tana se non ha preso nulla? Cade forse l’uccello a terra, se non gli è stata tesa un’insidia? Scatta forse la tagliola dal suolo, se non ha preso qualche cosa? Risuona forse la tromba nella città, senza che il popolo si metta in allarme? Avviene forse nella città una sventura, che non sia causata dal Signore? In verità, il Signore non fa cosa alcuna senza aver rivelato il suo consiglio ai suoi servitori, i profeti. Ruggisce il leone: chi mai non trema? Il Signore Dio ha parlato: chi può non profetare? Fatelo udire nei palazzi di Asdod e nei palazzi del paese d’Egitto e dite: Adunatevi sui monti di Samaria e osservate quanti disordini sono in essa e quali violenze sono nel suo seno. Non sanno agire con rettitudine, dice il Signore, violenza e rapina accumulano nei loro palazzi. Perciò così dice il Signore Dio: Il nemico circonderà il paese, sarà abbattuta la tua potenza e i tuoi palazzi saranno saccheggiati. Così dice il Signore: Come il pastore strappa dalla bocca del leone due zampe o il lobo d’un orecchio, così scamperanno gli Israeliti che abitano a Samaria su un cantuccio di divano o su una coperta da letto. Ascoltate e attestatelo nella casa di Giacobbe, dice il Signore Dio, Dio degli eserciti: Quando farò giustizia dei misfatti d’Israele, io infierirò contro gli altari di Betel; saranno spezzati i corni dell’altare e cadranno a terra. Demolirò la casa d’inverno insieme con la casa d’estate e andranno in rovina le case d’avorio e scompariranno i grandi palazzi. Oracolo del Signore.",
+            "responsorio": "Responsorio (Am 3,8.1.2)\nR. Ruggisce il leone, chi mai non trema?\n*IlSignore Dio ha parlato: chi può non profetare?\nV. Ascoltate questa parola che il Signore hadetto riguardo a voi, Israeliti: io vi farò scontare tutte le vostre iniquità.\nR. Il Signore Dio ha parlato: chi può nonprofetare?"
+        }
+    ],
+    "codice": "ordinario-xxii-mercoledi-i",
+    "fonte_raw": "Ordinario/22_BIEN/bien_dispari/4MER.txt"
+}

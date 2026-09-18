@@ -1,0 +1,30 @@
+{
+    "tempo_liturgico": "Tempo di Natale",
+    "settimana_del_tempo": null,
+    "giorno_settimana": null,
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "data": "30-12",
+    "data_estesa": "30 Dicembre",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "2,1-7; 1,9-17",
+            "sottotitolo": "Colloquio dello Sposo e della Sposa cioè di Cristo e della Chiesa",
+            "fonte": "Dal Cantico dei Cantici",
+            "testo": "Io sono un narciso di Saron, un giglio delle valli. Come un giglio fra i cardi, così la mia amata tra le fanciulle. Come un melo tra gli alberi del bosco, il mio diletto fra i giovani. Alla sua ombra, cui anelavo, mi siedo e dolce è il suo frutto al mio palato. Mi ha introdotto nella cella del vino e il suo vessillo su di me è amore. Sostenetemi con focacce d’uva passa, rinfrancatemi con pomi, perché io sono malata d’amore. La sua sinistra è sotto il mio capo e la sua destra mi abbraccia. Io vi scongiuro, figlie di Gerusalemme, per le gazzelle o per le cerve dei campi: non destate, non scuotete dal sonno l’amata, finché essa non lo voglia. Alla cavalla del cocchio del faraone io ti assomiglio, amica mia. Belle sono le tua guance fra i pendenti, il tuo collo fra i vezzi di perle. Faremo per te pendenti d’oro, con grani d’argento. Mentre il re è nel suo recinto, il mio nardo spande il suo profumo. Il mio diletto è per me un sacchetto di mirra, riposa sul mio petto. Il mio diletto è per me un grappolo di cipro nelle vigne di Engaddi. Come sei bella, amica mia, come sei bella! I tuoi occhi sono colombe. Come sei bello, mio diletto, quanto grazioso! Anche il nostro letto è verdeggiante. Le travi della nostra casa sono i cedri, nostro soffitto sono i cipressi",
+            "responsorio": "Responsorio (Ct 2,3; Sal 15,11)\nR. Alla sua ombra cui anelavo, mi siedo.\n*Dolce èil suo frutto al mio palato.\nV. Gioia piena nella tua presenza, dolcezza senzafine alla tua destra.\nR. Dolce è il suo frutto al mio palato."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "N. 2",
+            "sottotitolo": "Come non amerò te che mi hai tanto amato?",
+            "fonte": "Dalle “Omelie sul Cantico dei Cantici” di san Gregorio di Nissa, vescovo",
+            "testo": "«Dimmi, o amore dell’anima mia, dove vai a pascolare il gregge, dove lo fai riposare al meriggio perché io non sia come vagabonda dietro i greggi dei tuoi compagni» (Ct 1,7). Dove vai a pascolare, o buon pastore, che sulle spalle reggi tutto il gregge? Non è forse, quell’unica pecorella, tutto il genere umano che ti sei posto sulle spalle? Mostrami il luogo del riposo, conducimi ai pascoli ubertosi; chiamami per nome perché io, tua pecorella, ascolti la tua voce, e, in forza della tua parola, donami l’eterna vita: rivelati, o amore dell’anima mia! Ti chiamo così, perché il tuo nome è al di sopra di ogni nome e di ogni intelligenza, e gli esseri ragionevoli non sono capaci di esprimerlo e di comprenderlo. Il tuo nome, che esprime la tua bontà, è la tenerezza dell’anima mia per te. Come non amare te che, nonostante io sia «bruna», mi hai tanto amato da dare la tua vita per le pecore che tu pascoli? Non si può concepire un amore più grande di questo: che tu abbia dato la vita in cambio della mia. Indicami, dunque, dove vai a pascolare il gregge affinché, trovati i pascoli della salvezza, io possa saziarmi del cibo celeste: chi non lo mangia, infatti, non può entrare nella vita eterna; e correndo alla sorgente, beva dell’acqua divina che tu porgi a coloro che hanno sete, acqua che sgorga dal tuo costato, dalla ferita aperta dalla lancia, acqua che, in colui che l’ha gustata, «diventa sorgente che zampilla per la vita eterna» (Gv 4,14). Se mi porti al pascolo tra le tue pecore, mi farai certamente riposare al meriggio: insieme riposeremo in una luce senz’ombra, perché sarà meriggio pieno, splendente di tutto il fulgore del sole, là dove tu fai riposare coloro che hai saziati, quando con te, nelle tue stanze, accoglierai i tuoi figli. Ma a nessuno che non sia figlio della luce, figlio del giorno, sarà concesso quel riposo meridiano. Indicami dunque – dice – dove si debba riposare e dove pascoli, qual è la via che conduce al riposo del meriggio, affinché, ignorando la verità, non mi stacchi dalla tua mano e non mi unisca ad altri greggi estranei al tuo.",
+            "responsorio": "Responsorio (Sal 41,2-3; 54,7)\nR. Come la cerva anela ai corsi d’acqua, cosìl’anima mia anela a te, o Dio.\n*L’anima mia ha sete di Dio, del Diovivente: quando verrò e vedrò il volto di Dio?\nV. Chi mi darà ali come di colomba, per volare etrovare riposo?\nR. L’anima mia ha sete di Dio, del Dio vivente:quando verrò e vedrò il volto di Dio?"
+        }
+    ],
+    "orazione": "Dio, grande e misericordioso, la nuova nascita del tuo unico Figlio nella nostra carne mortale ci liberi dalla schiavitù antica, che ci tiene sotto il giogo del peccato. Per il nostro Signore.",
+    "codice": "natale-30-dicembre-ii",
+    "fonte_raw": "Natale/bien_pari/3012.txt"
+}

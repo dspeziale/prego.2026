@@ -1,0 +1,29 @@
+{
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": null,
+    "giorno_settimana": null,
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "data": "19-12",
+    "data_estesa": "19 Dicembre",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "41,8-20",
+            "sottotitolo": "Promessa di un nuovo Esodo.",
+            "fonte": "Dal libro del profeta Isaia",
+            "testo": "Tu, Israele mio servo, tu, Giacobbe, che ho scelto, discendente di Abramo mio amico, sei tu che io ho preso dall’estremità della terra e ho chiamato dalle regioni più lontane e ti ho detto: «Mio servo tu sei, ti ho scelto, non ti ho rigettato». Non temere, perché io sono con te; non smarrirti, perché io sono il tuo Dio. Ti rendo forte e anche ti vengo in aiuto e ti sostengo con la destra vittoriosa. Ecco, saranno svergognati e confusi quanti s’infuriavano contro di te; saranno ridotti a nulla e periranno gli uomini che si opponevano a te. Cercherai, ma non troverai, coloro che litigavano con te; saranno ridotti a nulla, a zero, coloro che ti muovevano guerra. Poiché io sono il Signore tuo Dio che ti tengo per la destra e ti dico: «Non temere, io ti vengo in aiuto». Non temere, vermiciattolo di Giacobbe, larva di Israele; io vengo in tuo aiuto – oracolo del Signore –, tuo redentore è il Santo di Israele. Ecco, ti rendo come una trebbia acuminata, nuova, munita di molte punte; tu trebbierai i monti e li stritolerai, ridurrai i colli in pula. Li vaglierai e il vento li porterà via, il turbine li disperderà. Tu invece gioirai nel Signore, ti vanterai del Santo di Israele. I miseri e i poveri cercano acqua ma non ce n’è, la loro lingua è riarsa per la sete; io, il Signore, li ascolterò; io, Dio di Israele, non li abbandonerò. Farò scaturire fiumi su brulle colline, fontane in mezzo alle valli; cambierò il deserto in un lago d’acqua, la terra arida in sorgenti. Pianterò cedri nel deserto, acacie, mirti e ulivi; porrò nella steppa cipressi, olmi insieme con abeti; perché vedano e sappiano, considerino e comprendano a un tempo che questo ha fatto la mano del Signore, lo ha creato il Santo di Israele.",
+            "responsorio": "Responsorio (Mt 12,17; Is 42,1; Dt 18,15).\nR. Ecco il mio servo, nel quale mi sonocompiaciuto,\n*porrò il mio spirito sopra di lui, e annunzierà lagiustizia alle genti.\nV. Il Signore tuo Dio susciterà per te unprofeta, in mezzo a te, fra i tuoi fratelli.\nR. Porrò il mio spirito sopra di lui, eannunzierà la giustizia alle genti."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "61a, 1-3",
+            "sottotitolo": "Il Natale di Cristo Signore è vicino",
+            "fonte": "Dai “Discorsi” di san Massimo di Torino, vescovo",
+            "testo": "Anche se io tacessi, fratelli, il tempo ci avverte che il Natale di Cristo Signore è vicino; già questi ultimi giorni prevengono il mio discorso. Il mondo con le sue stesse angustie dice l’imminenza di qualche cosa che lo rinnoverà, e desidera con un’attesa impaziente che lo splendore di un sole più fulgido illumini le sue tenebre. Mentre, per la brevità delle ore, teme che il suo cammino stia per finire, con una certa qual speranza scopre che l’anno sta trasformando il suo corso. Quest’attesa della creazione persuade anche noi ad attendere il sorgere di Cristo, nuovo Sole, perché illumini le tenebre dei nostri peccati; che questo Sole di giustizia, con la forza della sua nascita, dissipi le dense nebbie delle nostre colpe e non permetta che la nostra vita si chiuda in una gretta oscurità, ma piuttosto si dilati in grazia della sua potenza. E poiché possiamo presentire il Natale del Signore dagli stessi segni della natura, facciamo anche noi quel che essa fa: come in quel giorno sulla terra comincia ad aumentare la durata della luce, così anche noi allarghiamo la misura della nostra virtù; la luce di quel giorno è comune ai poveri e ai ricchi, così anche la nostra liberalità si estenda ai viandanti e agl’indigenti; e come la terra fa retrocedere l’oscurità delle sue notti, così anche noi respingiamo le tenebre della nostra avarizia. Perciò, fratelli, mentre stiamo per accogliere il Natale del Signore, rivestiamoci di indumenti nitidi, senza macchia. Parlo della veste dell’anima, non di quella del corpo. Abbigliamoci non con abiti di seta, ma con opere sante! Le vesti sfarzose possono coprire le membra ma non adornano la coscienza ed è vergogna più grave incedere con vesti splendide mentre si agisce con sentimenti corrotti. Adorniamo prima la coscienza dell’uomo interiore, perché sia adorno anche l’abito dell’uomo esteriore; laviamo le macchie dello spirito perché rifulgano anche le vesti del corpo! A nulla vale lo splendore delle vesti se l’interno è sordido, perché se la coscienza è tenebrosa tutto il corpo è nelle tenebre. Ma noi possediamo un mezzo per cancellare le macchie della coscienza, poiché sta scritto: «Date in elemosina, ed ecco tutto per voi sarà mondo» (Lc 11,41). Buono è questo comandamento dell’elemosina, che rende operose le mani e mondo il cuore!",
+            "responsorio": "Responsorio (Cfr. Lc 19,10; Sal 79,20)\nR. Ora verrà la nostra Salvezza, il Redentoreannunziato da Gabriele e concepito da Maria;\n*il Signore viene a liberarel’uomo perduto, che egli stesso aveva plasmato.\nV. Rialzaci, Signore, Dio degli eserciti, fasplendere il tuo volto, e noi saremo salvi.\nR. Il Signore viene a liberare l’uomo perduto,che egli stesso aveva plasmato."
+        }
+    ],
+    "codice": "avvento-19-dicembre-i",
+    "fonte_raw": "Avvento/1724dic/dispari/19_dicembre.txt"
+}

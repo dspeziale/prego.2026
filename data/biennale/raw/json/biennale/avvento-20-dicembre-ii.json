@@ -1,0 +1,30 @@
+{
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": null,
+    "giorno_settimana": null,
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "data": "20-12",
+    "data_estesa": "20 Dicembre",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "48,1-11",
+            "sottotitolo": "Dio è il solo Signore del tempo futuro",
+            "fonte": "Dal libro del profeta Isaia",
+            "testo": "Ascoltate ciò, casa di Giacobbe, voi che siete chiamati Israele, e che traete origine dalla stirpe di Giuda, voi che giurate nel nome del Signore e invocate il Dio di Israele, ma senza sincerità e senza rettitudine, poiché prendete il nome dalla santa e vi appoggiate sul Dio di Israele che si chiama Signore degli eserciti. Io avevo annunziato da tempo le cose passate, erano uscite dalla mia bocca, le avevo fatte udire. D’improvviso io ho agito e sono accadute. Poiché sapevo che tu sei ostinato e che la tua cervice è una sbarra di ferro e la tua fronte è di bronzo, io te le annunziai da tempo, prima che avvenissero te le feci udire, per timore che dicessi: «Il mio idolo le ha fatte, la mia statua e il dio da me fuso le hanno ordinate». Tutto questo hai udito e visto; non vorresti testimoniarlo? Ora ti faccio udire cose nuove e segrete che tu nemmeno sospetti. Ora sono create e non da tempo; prima di oggi tu non le avevi udite, perché tu non dicessi: «Già lo sapevo». No, tu non le avevi mai udite né sapute né il tuo orecchio era già aperto da allora poiché io sapevo che sei davvero perfido e che ti si chiama sleale fin dal seno materno. Per il mio nome rinvierò il mio sdegno, per il mio onore lo frenerò a tuo riguardo, per non annientarti. Ecco, ti ho purificato per me come argento ti ho provato nel crogiuolo dell’afflizione. Per riguardo a me, per riguardo a me lo faccio; come potrei lasciar profanare il mio nome? Non cederò ad altri la mia gloria.",
+            "responsorio": "Responsorio (Cfr. Is 48,10-11; 54,8)\nR. Ti ho provato nel fuoco della sofferenza. Perme, per il mio nome io agisco:\n*non cederò ad altri la mia gloria.\nV. In un impeto di collera, per un poco ti honascosto il mio volto; ma con affetto perenne ho avuto pietà per te:\nR. non cederò ad altri la mia gloria."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "4,8-9",
+            "sottotitolo": "Tutto il mondo attende la risposta di Maria",
+            "fonte": "Dalle “Omelie sulla Madonna” di san Bernardo, abate",
+            "testo": "Hai udito, Vergine, che concepirai e partorirai un figlio; hai udito che questo avverrà non per opera di un uomo, ma per opera dello Spirito Santo. L’angelo aspetta la risposta: deve far ritorno a Dio che l’ha inviato. Aspettiamo, o Signora, una parola di compassione anche noi, noi oppressi miseramente da una sentenza di dannazione. Ecco che ti viene offerto il prezzo della nostra salvezza: se tu acconsenti, saremo subito liberati. Noi tutti fummo creati nel Verbo eterno di Dio, ma ora siamo soggetti alla morte: con la tua breve risposta possiamo essere rinnovati e richiamati in vita. Te ne supplica in pianto, Vergine pia, Adamo esule dal paradiso con la sua misera discendenza; te ne supplicano Abramo e Davide; te ne supplicano insistentemente i santi patriarchi che sono i tuoi antenati, i quali abitano anch’essi nella regione della morte. Tutto il mondo è in attesa, prostrato alle tue ginocchia: dalla tua bocca dipende la consolazione dei miseri, la redenzione dei prigionieri, la liberazione dei condannati, la salvezza di tutti i figli di Adamo, di tutto il genere umano. O Vergine, da’ presto la risposta. Rispondi sollecitamente all’angelo, anzi, attraverso l’angelo, al Signore. Rispondi la tua parola e accogli la Parola: di’ la tua parola umana e concepisci la Parola divina, emetti la parola che passa e ricevi la Parola eterna. Perché tardi? perché temi? Credi all’opera del Signore, da’ il tuo assenso ad essa, accoglila. Nella tua umiltà prendi audacia, nella tua verecondia prendi coraggio. In nessun modo devi ora, nella tua semplicità verginale, dimenticare la prudenza; ma in questa sola cosa, o Vergine prudente, non devi temere la presunzione. Perché, se nel silenzio è gradita la modestia, ora è piuttosto necessaria la pietà nella parola. Apri, o Vergine beata, il cuore alla fede, le labbra all’assenso, il grembo al Creatore. Ecco che colui al quale è volto il desiderio di tutte le genti, batte fuori alla porta. Non sia che mentre tu sei titubante, egli passi oltre e tu debba, dolente, ricominciare a cercare colui che ami. Lèvati su, corri, apri! Lèvati con la fede, corri con la devozione, apri con il tuo assenso. «Eccomi» dice, «sono la serva del Signore, avvenga di me quello che hai detto» (Lc 1,38).",
+            "responsorio": "Responsorio (Cfr. Lc 1,31.42)\nR. Accogli la parola, vergine Maria, l’annunciodell’angelo del Signore: Concepirai nel tuo grembo l’uomo-Dio.\n*Dirannodi te: Benedetta fra le donne!\nV. Partorirai un figlio, e sarai madre semprevergine.\nR. Diranno di te: Benedetta fra le donne!"
+        }
+    ],
+    "orazione": "Tu hai voluto, Padre, che all’annunzio dell’angelo la Vergine immacolata concepisse il tuo Verbo eterno, e avvolta dalla luce dello Spirito Santo divenisse tempio della nuova alleanza: fa’ che aderiamo umilmente al tuo volere, come la Vergine si affidò alla tua parola. Per il nostro Signore.",
+    "codice": "avvento-20-dicembre-ii",
+    "fonte_raw": "Avvento/1724dic/pari/20_dicembre.txt"
+}

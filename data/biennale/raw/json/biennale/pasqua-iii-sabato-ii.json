@@ -1,0 +1,28 @@
+{
+    "tempo_liturgico": "Tempo di Pasqua",
+    "settimana_del_tempo": "III",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "11,19-30",
+            "sottotitolo": "Fondazione della Chiesa di Antiochia",
+            "fonte": "Dagli Atti degli Apostoli",
+            "testo": "Quelli che erano stati dispersi dopo la persecuzione scoppiata al tempo di Stefano erano arrivati fin nella Fenicia, a Cipro e ad Antiochia e non predicavano la parola a nessuno fuorché ai Giudei. Ma alcuni fra loro, cittadini di Cipro e di Cirene, giunti ad Antiochia, cominciarono a parlare anche ai Greci, predicando la buona novella del Signore Gesù. E la mano del Signore era con loro e così un gran numero credette e si convertì al Signore. La notizia giunse agli orecchi della Chiesa di Gerusalemme, la quale mandò Barnaba ad Antiochia. Quando questi giunse e vide la grazia del Signore, si rallegrò e, da uomo virtuoso qual era e pieno di Spirito Santo e di fede, esortava tutti a perseverare con cuore risoluto nel Signore. E una folla considerevole fu condotta al Signore. Barnaba poi parti alla volta di Tarso per cercare Saulo e trovatolo lo condusse ad Antiochia. Rimasero insieme un anno intero in quella comunità e istruirono molta gente; ad Antiochia per la prima volta i discepoli furono chiamati Cristiani. In questo tempo alcuni profeti scesero ad Antiochia da Gerusalemme. E uno di loro, di nome Agabo, alzatosi in piedi, annunziò per impulso dello Spirito che sarebbe scoppiata una grave carestia su tutta la terra. Ciò che di fatto avvenne sotto l’impero di Claudio. Allora i discepoli si accordarono, ciascuno secondo quello che possedeva, di mandare un soccorso ai fratelli abitanti nella Giudea; questo fecero, indirizzandolo agli anziani, per mezzo di Barnaba e Saulo.",
+            "responsorio": "Responsorio (Cfr. At 11,20-21; 4,33)\nR. Annunziarono il Signore Gesù e la mano delSignore era con loro;\n*così un gran numero credette e si convertì alSignore, alleluia, alleluia.\nV. Con grande forza gli apostoli rendevanotestimonianza della risurrezione del Signore Gesù;\nR. così un gran numero credette e si convertì alSignore, alleluia, alleluia."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "1,7-9",
+            "sottotitolo": "",
+            "fonte": "Dal trattato “Sull’ ideale del perfetto cristiano” di san Gregorio di Nissa, vescovo",
+            "testo": "Il cristiano è un altro Cristo Paolo ha conosciuto più profondamente di tutti chi sia il Cristo e, dalle cose che sopportò egli stesso, dichiarò come deve essere colui che da Cristo riceve il nome: lo imitò infatti con tanta fedeltà da mostrare riprodotto in sé lo stesso Signore. Al punto che, per la diligentissima imitazione, trasformò talmente la sua anima nel divino modello da non sembrare più Paolo che parlava, ma Cristo, come dice egli stesso, che conosceva esattamente il bene che era in lui: «Dal momento che cercate una prova che Cristo parla in me» (2Cor 13,3), sappiate che «non sono più io che vivo, ma Cristo vive in me» (Gal 2,20). Inoltre ci ha anche scoperto quale forza abbia questo nome di Cristo, chiamando Cristo potenza e sapienza di Dio, dicendo che è pace e luce inaccessibile in cui abita Dio; è espiazione e redenzione nostra, sommo sacerdote, Pasqua e propiziazione delle anime, splendore della gloria di Dio e impronta della sua sostanza, creatore del mondo, cibo e bevanda spirituale, roccia e acqua, fondamento della fede, pietra angolare e immagine del Dio invisibile, Dio forte, capo della Chiesa suo corpo e primogenito della nuova creazione, primizia di coloro che si sono addormentati nella pace e primogenito dei morti; primogenito tra molti fratelli, mediatore tra Dio e gli uomini, Figlio unigenito coronato di gloria e di onore, Signore della gloria, principio del creato e re di giustizia, perciò re di pace, re di tutto l’universo, che possiede il primato di un regno che non si può circoscrivere. Lo chiamò con questi e altri nomi del genere, in così gran copia, che non è facile esprimerli con un semplice numero. Se poi si accostano e collegano i vari significati, essi ci rivelano la meravigliosa potenza di questo nome e ci mostrano, nella misura in cui siamo capaci di coglierla con l’anima e la mente, quella maestà di Cristo che le parole non possono spiegare. Se dunque la bontà del Signore ci ha comunicato il nome più grande e più divino che ci sia, tanto che, chiamandoci cristiani, siamo ornati col nome di Cristo, è necessario che tutti i nomi che lo definiscono si vedano espressi anche in noi, affinché non sembriamo esser falsamente chiamati cristiani, ma ne diamo testimonianza con la vita",
+            "responsorio": "Responsorio (Sal 5,12; 88,16-17)\nR. Gioiscano quanti in te si rifugiano, esultinosenza fine. Tu li proteggi e in te si allieteranno\n*quanti amano il tuonome, alleluia.\nV. Camminano, Signore, alla luce del tuo volto:esultano tutto il giorno nel tuo nome,\nR. quanti amano il tuo nome, alleluia."
+        }
+    ],
+    "orazione": "O Dio, che nell’acqua del Battesimo hai rigenerato coloro che credono in te, custodisci in noi la vita nuova, perché possiamo vincere ogni assalto del male e conservare fedelmente il dono del tuo amore. Per il nostro Signore.",
+    "codice": "pasqua-iii-sabato-ii",
+    "fonte_raw": "Pasqua/PAS03/bien_pari/7SAB.txt"
+}

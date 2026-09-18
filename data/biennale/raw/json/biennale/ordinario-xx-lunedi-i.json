@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XX",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "1,15-23",
+            "sottotitolo": "La preghiera di Paolo perché i fedeli siano illuminati",
+            "fonte": "Dalla lettera agli Efesini di san Paolo, apostolo",
+            "testo": "Fratelli, avendo avuto notizia della vostra fede nel Signore Gesù e dell’amore che avete verso tutti i santi, non cesso di render grazie per voi, ricordandovi nelle mie preghiere, perché il Dio del Signore nostro Gesù Cristo, il Padre della gloria, vi dia uno spirito di sapienza e di rivelazione per una più profonda conoscenza di lui. Possa egli davvero illuminare gli occhi della vostra mente per farvi comprendere a quale speranza vi ha chiamati, quale tesoro di gloria racchiude la sua eredità fra i santi e qual è la straordinaria grandezza della sua potenza verso di noi credenti secondo l’efficacia della sua forza che egli manifestò in Cristo, quando lo risuscitò dai morti e lo fece sedere alla sua destra nei cieli, al di sopra di ogni principato e autorità, di ogni potenza e dominazione e di ogni altro nome che si possa nominare non solo nel secolo presente ma anche in quello futuro. Tutto infatti ha sottomesso ai suoi piedi e lo ha costituito su tutte le cose a capo della Chiesa, la quale è il suo corpo, la pienezza di colui che si realizza interamente in tutte le cose",
+            "responsorio": "Responsorio (Ef 1,17.18; 1Cor 2,12)\nR. Dio vi dia uno spirito di sapienza e dirivelazione per farvi comprendere a quale speranza vi ha chiamati.\n*Equale tesoro di gloria racchiude la sua eredità fra i santi.\nV. Noi non abbiamo ricevuto lo spirito del mondo,ma lo Spirito di Dio, per conoscere tutto ciò che Dio ci ha donato.\nR. E quale tesoro di gloria racchiude la suaeredità fra i santi."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Ef 2,14",
+            "sottotitolo": "",
+            "fonte": "Dal trattato “L’ideale perfetto del cristiano” di san Gregorio di Nissa, vescovo. Abbiamo Cristo che è la nostra pace e la nostra luce «Egli è la nostra pace, colui che ha fatto di due un popolo solo»",
+            "testo": "Pensando che Cristo è la pace, noi dimostreremo di portare degnamente il nome di cristiani, se per mezzo di quella pace che è in noi, esprimeremo Cristo con la nostra vita. Egli uccise l’inimicizia (cfr. Ef 2,16), come dice l’Apostolo. Non dobbiamo dunque assolutamente permettere che essa riprenda vita in noi, ma mostrare chiaramente che è del tutto morta. Non risuscitiamola di nuovo dopo che è stata uccisa da Dio per la nostra salute, non adiriamoci a rovina delle nostre anime e non richiamiamo alla memoria le ingiurie subite, non commettiamo l’errore di riportare all’esistenza colei che è fortunatamente estinta. Siccome possediamo Cristo che è la pace, così uccidiamo l’inimicizia, per praticare nella nostra vita la fede in lui Egli abbatté in se stesso il muro che divideva i due uomini: ne fece uno solo, ristabilendo la pace non soltanto con quelli che ci combattono dal di fuori, ma anche con quelli che suscitano contese in noi stessi. Così la carne non potrà avere più desideri contrari allo spirito e lo spirito desideri contrari alla carne, ma la prudenza della carne sarà soggetta alla legge divina. Allora, ricostituiti in un uomo nuovo e amante della pace e, da due, fatti un uomo solo, diventeremo dimora della pace. La pace è la concordia fra due esseri contrastanti. Quindi ora che è stata eliminata la guerra interna della nostra natura, coltiviamo in noi la pace; allora noi stessi diverremo pace e dimostreremo che questo appellativo di Cristo è vero e autentico anche in noi. Cristo è la luce vera, lontana da ogni menzogna. Impariamo da questo che anche la nostra vita dev’essere illuminata dai raggi della vera luce: i raggi del sole di giustizia son le stesse virtù che splendono e ci illuminano, perché respingiamo le opere delle tenebre e camminiamo onestamente come alla luce del giorno (cfr. Rm 13,13). Detestiamo l’agire clandestino e tenebroso e operiamo tutto alla luce del giorno, e così anche noi diventeremo luce, e, com’è proprio della luce, illumineremo gli altri mediante le nostre opere buone. Cristo è la nostra santificazione, perciò asteniamoci dalle azioni e dai pensieri malvagi e impuri. Così ci mostreremo veramente partecipi del suo nome e manifesteremo la forza della santità non solo a parole, ma anche con le opere",
+            "responsorio": "Responsorio (Cfr. Lc 1,78.79)\nR. Verrà a visitarci dall’alto un sole che sorge:\n*guiderà i nostri passi sulla via della pace.\nV. Rischiarerà quelli che stanno nelle tenebre enell’ombra della morte,\nR. guiderà i nostri passi sulla via della pace."
+        }
+    ],
+    "codice": "ordinario-xx-lunedi-i",
+    "fonte_raw": "Ordinario/20_BIEN/bien_dispari/2LUN.txt"
+}

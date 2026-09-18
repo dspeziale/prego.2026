@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "IV",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "13,2-14",
+            "sottotitolo": "Consigli vari",
+            "fonte": "Dalla lettera ai Romani di san Paolo, apostolo",
+            "testo": "Fratelli, ciascuno stia sottomesso alle autorità costituite; poiché non c’è autorità se non da Dio e quelle che esistono sono stabilite da Dio. Quindi chi si oppone all’autorità, si oppone all’ordine stabilito da Dio. E quelli che si oppongono si attireranno addosso la condanna. I governanti infatti non sono da temere quando si fa il bene, ma quando si fa il male. Vuoi non aver da temere l’autorità? Fa’ il bene e ne avrai lode, poiché essa è al servizio di Dio per il tuo bene. Ma se fai il male, allora temi, perché non invano essa porta la spada; è infatti al servizio di Dio per la giusta condanna di chi opera il male. Perciò è necessario stare sottomessi, non solo per timore della punizione, ma anche per ragioni di coscienza. Per questo dunque dovete pagare i tributi, perché quelli che sono dediti a questo compito sono funzionari di Dio. Rendete a ciascuno ciò che gli è dovuto: a chi il tributo, il tributo; a chi le tasse le tasse; a chi il timore il timore; a chi il rispetto il rispetto. Non abbiate alcun debito con nessuno, se non quello di un amore vicendevole; perché chi ama il suo simile ha adempiuto la legge. Infatti il precetto: Non commettere adulterio, non uccidere, non rubare, non desiderare e qualsiasi altro comandamento, si riassume in queste parole: Amerai il prossimo tuo come te stesso. L’amore non fa nessun male al prossimo: pieno compimento della legge è l’amore. Questo voi farete, consapevoli del momento: è ormai tempo di svegliarvi dal sonno, perché la nostra salvezza è più vicina ora di quando diventammo credenti. La notte è avanzata, il giorno è vicino. Gettiamo via perciò le opere delle tenebre e indossiamo le armi della luce. Comportiamoci onestamente, come in pieno giorno: non in mezzo a gozzoviglie e ubriachezze, non fra impurità e licenze, non in contese e gelosie. Rivestitevi invece del Signore Gesù Cristo e non seguite la carne nei suoi desideri.",
+            "responsorio": "Responsorio (Rm 13,8; Gal 5,14)\nR. Non abbiate alcun debito con nessuno, se non quello di un amorevicendevole.\n*Chi ama il suo simile ha adempiuto la legge.\nV. Tutta la legge infatti trova la sua pienezza in un solo precetto:amerai il prossimo tuo come te stesso.\nR. Chi ama il suo simile ha adempiuto la legge."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "1-2",
+            "sottotitolo": "Incatenato per Gesù Cristo, spero di venirvi a salutare",
+            "fonte": "Dalla “Lettera ai Romani” di sant’Ignazio di Antiochia, vescovo e martire",
+            "testo": "Ignazio, il portatore di Dio, a colei che è l’oggetto della magnifica misericordia del Padre altissimo e di Gesù Cristo suo unico figlio; alla Chiesa amata e illuminata per volontà di colui che vuole tutte le cose che sono, secondo la fede e la carità di Gesù Cristo, nostro Dio. Alla Chiesa che presiede nella capitale del territorio romano: degna di Dio, degna di venerazione, di felicità e di lode, degna di ricevere quanto desidera, degna di ogni santità, essa che presiede degnamente all’unione della carità, seguace del precetto di Cristo e insignita del nome del Padre, il mio saluto nel nome di Gesù Cristo figlio del Padre. Ai fedeli uniti corpo e anima nell’osservanza di tutti i suoi precetti, ricolmi inseparabilmente della grazia di Dio e purificati da ogni macchia, auguro la salvezza e la gioia eterna in Cristo Gesù, nostro Dio. Dopo aver tanto pregato il Signore di potere vedere i vostri volti degni di Dio, e aver perseverato nel chiedere una tale grazia per la brama di riceverla, ora, incatenato per Gesù Cristo, spero proprio di venirvi a salutare se la volontà di Dio mi renderà degno di raggiungere la meta. L’inizio è buono: possa io ottenere la grazia di ricevere senza impedimenti l’eredità che mi aspetta. Temo infatti che il vostro amore mi sia nocivo: per voi è facile ottenere ciò che volete, ma per me è difficile raggiungere Dio se voi non avete compassione di me. Non voglio che cerchiate ciò che piace agli uomini, ma ciò che piace a Dio, cui siete accetti. Né io avrò più un’occasione come questa per raggiungere Dio; né voi, col vostro silenzio, potrete mai sottoscrivere un’opera migliore. Se voi infatti tacete di me, io diventerò parola di Dio; se invece risparmierete la mia carne, di nuovo non sarò che una voce. Non offritemi più altro: che io sia immolato a Dio ora che l’altare è pronto. Solo così, uniti dall’amore in un unico coro, inneggerete al Padre in Cristo Gesù, perché Dio si è degnato di posare lo sguardo sul vescovo della Siria chiamandolo dall’oriente all’occidente. È bello tramontare al mondo per Dio, e così risorgere in lui.",
+            "responsorio": "Responsorio (Fil 1,21; Gal 6,14)\nR. Per me il vivere è Cristo e il morire un guadagno.\n*Quanto a menon ci sia altro vanto che nella croce del Signore nostro Gesù Cristo.\nV. Per mezzo della quale il mondo per me è stato crocifisso, come ioper il mondo.\nR. Quanto a me non ci sia altro vanto che nella croce del Signorenostro Gesù Cristo."
+        }
+    ],
+    "codice": "ordinario-iv-martedi-i",
+    "fonte_raw": "Ordinario/04_BIEN/bien_dispari/3MAR.txt"
+}

@@ -1,0 +1,21 @@
+{
+    "data": "03-12",
+    "giorno": 3,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "3 Dicembre",
+    "santo": "San Francesco Saverio, sacerdote",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "20 ott. 1542, 15 gen. 1544",
+            "sottotitolo": "",
+            "fonte": "Dalle “Lettere a sant’Ignazio” di san Francesco Saverio, sacerdote",
+            "testo": "Guai a me se non predicherò il vangelo!\nAbbiamo percorso i villaggi dei neòfiti, che pochi anni fa avevano ricevuto i sacramenti cristiani. Questa zona non è abitata dai Portoghesi, perché estremamente sterile e povera, e i cristiani indigeni, privi di sacerdoti, non sanno nient’altro se non che sono cristiani. Non c’è nessuno che celebri le sacre funzioni, nessuno che insegni loro il Credo, il Padre nostro, l’Ave e i Comandamenti della legge divina. Da quando dunque arrivai qui non mi sono fermato un istante; percorro con assiduità i villaggi, amministro il battesimo ai bambini, i quali, come si dice, non sapevano distinguere la destra dalla sinistra. I fanciulli poi non mi lasciano né dire l’Ufficio divino, né prendere cibo, né riposare fino a che non ho loro insegnato qualche preghiera; allora ho cominciato a capire che a loro appartiene il regno dei cieli.\nPerciò, non potendo senza empietà respingere una domanda così giusta, a cominciare dalla confessione del Padre, del Figlio e dello Spirito Santo, insegnavo loro il Simbolo apostolico, il Padre nostro e l’Ave Maria. Mi sono accorto che sono molto intelligenti e, se ci fosse qualcuno a istruirli nella legge cristiana, non dubito che diventerebbero ottimi cristiani.\nMoltissimi, in questi luoghi, non si fanno ora cristiani solamente perché manca chi li faccia cristiani. Molto spesso mi viene in mente di percorrere le Università d’Europa, specialmente quella di Parigi, e di mettermi a gridare queste parole: Ahimé, quale gran numero di anime, per colpa vostra, viene escluso dal cielo e cacciato all’inferno!\nOh! se costoro, come si occupano di lettere, così si dessero pensiero anche di questo, onde poter rendere conto a Dio della scienza e dei talenti ricevuti! In verità moltissimi di costoro, turbati a questo pensiero, dandosi alla meditazione delle cose divine, si disporrebbero ad ascoltare quanto il Signore dice al loro cuore, e, messe da parte le loro brame e gli affari umani, si metterebbero totalmente a disposizione della volontà di Dio. Griderebbero certo dal profondo del loro cuore: «Signore, eccomi; che cosa vuoi che io faccia?» (At 9,10; 22,10). Mandami dove vuoi, magari anche in India.",
+            "responsorio": "Responsorio (Cfr. Lc 10,2; At 1,8)\nR. La messe è molta, gli operai sono pochi; *pregate il padrone della messe, perché mandi operai nel suo campo.\nV. Riceverete la forza dello Spirito Santo che scenderà su di voi, e mi sarete testimoni sino agli estremi confini della terra.\nR. Pregate il padrone della messe, perché mandi operai nel suo campo."
+        }
+    ],
+    "orazione": "O Dio, che hai chiamato molti popoli dell’Oriente alla luce del Vangelo con la predicazione apostolica di san Francesco Saverio, fa’ che ogni comunità cristiana arda dello stesso fervore missionario, perché su tutta la terra la santa Chiesa si allieti di nuovi figli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli.",
+    "fonte_raw": "Santi/1203.txt"
+}

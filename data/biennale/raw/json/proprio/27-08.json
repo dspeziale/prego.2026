@@ -1,0 +1,37 @@
+{
+    "data": "27-08",
+    "giorno": 27,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "27 Agosto",
+    "santo": "Santa Monica",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Prima Lettura (oppure)",
+            "riferimento": "Col 3,1-17",
+            "sottotitolo": "Testo non riportato nella fonte (rimando a pagina)",
+            "fonte": "",
+            "testo": "",
+            "responsorio": ""
+        },
+        {
+            "titolo": "Prima Lettura (oppure)",
+            "riferimento": "Rm 12,1-21",
+            "sottotitolo": "Testo non riportato nella fonte (rimando a pagina)",
+            "fonte": "",
+            "testo": "",
+            "responsorio": ""
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Lib. 9,10-11",
+            "sottotitolo": "Cerchiamo di arrivare alla sapienza eterna",
+            "fonte": "Dalle “Confessioni” di sant’Agostino, vescovo",
+            "testo": "Era ormai vicino il giorno in cui ella sarebbe uscita da questa vita, giorno che tu conoscevi mentre noi lo ignoravamo. Per tua disposizione misteriosa e provvidenziale avvenne una volta che io e lei ce ne stessimo soli, appoggiati al davanzale di una finestra che dava sul giardino interno della casa che ci ospitava, là presso Ostia, dove noi lontani dal frastuono della gente, dopo la fatica del lungo viaggio, ci stavamo preparando ad imbarcarci.\nParlavamo soli con grande dolcezza e, dimentichi del passato, ci protendevamo verso il futuro, cercando di conoscere alla luce della Verità presente che sei tu, la condizione eterna dei santi, quella vita cioè che occhio non vide, né orecchio udì, né mai entrò in cuor d’uomo (cfr. 1Cor 2,9). Ce ne stavamo con la bocca anelante verso l’acqua che emana dalla tua sorgente, da quella sorgente di vita che si trova presso di te. Dicevo cose del genere, anche se non proprio in tal modo e con queste precise parole. Tuttavia, Signore, tu sai che in quel giorno, mentre così parlavamo e, tra una parola e l’altra, questo mondo con tutti i suoi piaceri perdeva ai nostri occhi ogni suo richiamo, mia madre mi disse: «Figlio, quanto a me non provo ormai più alcuna attrattiva per questa vita. Non so che cosa io stia a fare ancora quaggiù e perché mi trovi qui. Questo mondo non è più oggetto di desideri per me. C’era un solo motivo per cui desideravo rimanere ancora un poco in questa vita: vederti cristiano cattolico, prima di morire. Dio mi ha esaudito oltre ogni mia aspettativa, mi ha concesso di vederti al suo servizio e affrancato dalle aspirazioni di felicità terrene. Che sto a fare qui?».\nNon ricordo bene che cosa io le abbia risposto in proposito. Intanto nel giro di cinque giorni o poco più si mise a letto con la febbre. Durante la malattia un giorno ebbe uno svenimento e per un po’ di tempo perdette i sensi. Noi accorremmo, ma essa riprese prontamente la conoscenza, guardò me e mio fratello in piedi presso di lei, e disse, come cercando qualcosa: «Dove ero»?\nQuindi, vedendoci sconvolti per il dolore, disse: «Seppellirete qui vostra madre». Io tacevo con un nodo alla gola e cercavo di trattenere le lacrime. Mio fratello invece, disse qualche parola per esprimere che desiderava vederla chiudere gli occhi in patria e non in terra straniera. Al sentirlo fece un cenno di disapprovazione per ciò che aveva detto. Quindi rivolgendosi a me disse: «Senti che cosa dice?». E poco dopo a tutti e due: «Seppellirete questo corpo, disse, dove meglio vi piacerà; non voglio che ve ne diate pena. Soltanto di questo vi prego, che dovunque vi troverete, vi ricordiate di me all’altare del Signore».\nQuando ebbe espresso come poté, questo desiderio, tacque. Intanto il male si aggravava ed essa continuava a soffrire.\nIn capo a nove giorni della sua malattia, l’anno cinquantaseiesimo della sua vita, e trentesimo della mia, quell’anima benedetta e santa se ne partì da questa terra.",
+            "responsorio": "Responsorio (Cfr. 1Cor 7,29.30.31; 2,12)\nR. Il tempo è breve; ormai chi è nella gioia, viva come non godesse; chi è immerso in questo mondo, come non vi fosse:\n*passa presto la scena di questo mondo.\nV. Noi non abbiamo ricevuto lo spirito del mondo:\nR. passa presto la scena di questo mondo."
+        }
+    ],
+    "orazione": "O Dio, consolatore degli afflitti, che hai esaudito le pie lacrime di santa Monica con la conversione del figlio Agostino, per la loro comune preghiera, donaci una viva contrizione dei nostri peccati, perché gustiamo la dolcezza del tuo perdono. Per il nostro Signore.",
+    "fonte_raw": "Santi/0827.txt"
+}

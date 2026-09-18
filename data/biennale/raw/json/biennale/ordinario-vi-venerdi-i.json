@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "VI",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "9,19-27",
+            "sottotitolo": "Il buon esempio di Paolo",
+            "fonte": "Dalla prima lettera ai Corinzi di san Paolo, apostolo",
+            "testo": "Fratelli, pur essendo libero da tutti, mi sono fatto servo di tutti per guadagnarne il maggior numero: mi sono fatto Giudeo con i Giudei, per guadagnare i Giudei; con coloro che sono sotto la legge sono diventato come uno che è sotto la legge, pur non essendo sotto la legge, allo scopo di guadagnare coloro che sono sotto la legge. Con coloro che non hanno legge sono diventato come uno che è senza legge, pur non essendo senza la legge di Dio, anzi essendo nella legge di Cristo, per guadagnare coloro che sono senza legge. Mi sono fatto debole con i deboli, per guadagnare i deboli; mi sono fatto tutto a tutti, per salvare ad ogni costo qualcuno. Tutto io faccio per il vangelo, per diventarne partecipe con loro. Non sapete che nelle corse allo stadio tutti corrono, ma uno solo conquista il premio? Correte anche voi in modo da conquistarlo! Però ogni atleta è temperante in tutto; essi lo fanno per ottenere una corona corruttibile, noi invece una incorruttibile. Io dunque corro, ma non come chi è senza meta; faccio il pugilato, ma non come chi batte l’aria, anzi tratto duramente il mio corpo e lo trascino in schiavitù perché non succeda che dopo aver predicato agli altri, venga io stesso squalificato.",
+            "responsorio": "Responsorio (1Cor 9,19.22; cfr. Sir 24,32)\nR. Pur essendo libero da tutti mi sono fatto servo di tutti, perguadagnarne il maggior numero.\n*Mi sono fatto tutto a tutti, per salvarea ogni costo qualcuno.\nV. Vedete che non ho lavorato solo per me, ma per quanti cercano laverità.\nR. Mi sono fatto tutto a tutti, per salvare a ogni costo qualcuno."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Tratt. 12",
+            "sottotitolo": "Siate servi dei servi",
+            "fonte": "Dal trattato “Ai Sacerdoti” di Baldovino di Canterbury, vescovo",
+            "testo": "Voi, capi e pastori di anime, tra le altre cose da fare, riflettete soprattutto quanto sia difficile reggere le anime, adattarsi all’indole di ciascuna, conformarsi a tutte in modo tale che non ci sia nessuna differenza tra voi e i servi, anche se siete a capo di tutti. Per questo, colui che è più grande tra voi, per adattarsi al più piccolo, non esita a farsi chiamare servo dei servi di Dio. L’Apostolo ci mostra il dovere di questo servizio quando dice: «Pur essendo libero da tutti, mi sono fatto servo di tutti per guadagnarne il maggior numero» (1Cor 9,19). Come bisogna fare lo vediamo anche in quello che sta scritto: «Quanto più sei grande, tanto più umìliati» (Sir 3,18). Ogni dignità non è degna di tal nome se disdegna le cose umili. L’umiltà è fonte e custodia dell’autorità. Coloro che esercitano l’autorità cerchino dunque di mostrarsi umili in ogni cosa, a esempio di Cristo, maestro di umiltà; il quale, da Signore si fece servo e, pur essendo il primo, volle mostrarsi l’ultimo, al punto di inginocchiarsi ai piedi dei discepoli. Col forte esempio della sua umiltà, Cristo vi spinge alle cose umili, fino a essere servi anche dei servi. Perciò «abbiate in voi gli stessi sentimenti che furono in Cristo Gesù, il quale pur essendo di natura divina, spogliò se stesso assumendo la condizione di servo» (Fil 2,5-7). E anche se siete dèi (cfr. Sal 81,6), umiliatevi e assumete la condizione di servi, divenendo intanto uomini per gli uomini, deboli per i deboli, e prendete su di voi le necessità e infermità di tutti, come Paolo che dice: «Chi è debole, che anch’io non lo sia? Chi riceve scandalo, che io non ne frema?» (2Cor 11,29). Bisogna che voi soffriate più di tutti, perché è per tutti che soffrite. Se amate Cristo, amate anche la giustizia. Egli infatti «per opera di Dio è stato fatto per noi sapienza e giustizia» (1Cor 1,30) quando, pur non conoscendo peccato, si fece per noi peccato, perché noi diventassimo in lui grazia di Dio (cfr. 1Cor 5,21). Cristo si è fatto vittima per il peccato, e, come buon pastore, ha dato la vita per le sue pecore, «lasciando a voi l’esempio perché ne seguiate le orme» (1Pt 2,21). Col suo sangue Cristo si acquistò la Chiesa e, per mostrare l’eccesso dell’amore con cui l’amava, lo sparse per lei e così diffuse la carità. Pagata a tal prezzo, così cara, così amata, l’ha raccomandata a voi, a voi affidata, fidandosi di voi, affinché per mezzo vostro possa confidare in lei il cuore del suo sposo (cfr. Pr 31,11). Perciò, nella stessa misura in cui amate Cristo ed egli può confidare in voi, custodite la sua sposa nella fede, gelosi di lei, non per voi ma per lui, per presentarla «quale vergine casta» (2Cor 11,2) al suo sposo Cristo, nostro Signore, che al di sopra di tutto è Dio benedetto nei secoli. Amen.",
+            "responsorio": "Responsorio (Sir 32,12; Mc 9,35)\nR. Ti hanno messo a capo? Non esaltarti:\n*Comportati con gli altri comeuno di loro: pensa a loro.\nV. Se uno vuol essere il primo, sia l’ultimo di tutti e il servo ditutti.\nR. Comportati con gli altri come uno di loro: pensa a loro."
+        }
+    ],
+    "codice": "ordinario-vi-venerdi-i",
+    "fonte_raw": "Ordinario/06_BIEN/bien_dispari/6VEN.txt"
+}

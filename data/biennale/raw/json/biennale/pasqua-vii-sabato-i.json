@@ -1,0 +1,19 @@
+{
+    "tempo_liturgico": "Tempo di Pasqua",
+    "settimana_del_tempo": "VII",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "2,1",
+            "sottotitolo": "",
+            "fonte": "Dalla “Seconda Omelia sulla Pentecoste” di san Giovanni Crisostomo, vescovo",
+            "testo": "La potenza dello Spirito Santo Dilettissimi, nessuna espressione umana può far comprendere quanto grandi sono i doni che Dio, pieno di bontà, oggi ci elargisce. Perciò, tutti uniti, gioiamo esultanti di letizia e lodiamo il nostro Dio; la festività di questo giorno infatti deve riunire tutto il popolo al completo. Come nella natura le stagioni si succedono le une alle altre, così nella Chiesa del Signore le solennità si succedono alle solennità trasmettendoci successivamente i vari misteri. Dopo aver celebrato la festa della Passione, della Risurrezione e dell’Ascensione al cielo di nostro Signore, oggi siamo giunti all’apice delle grazie, all’attuazione delle promesse del Signore. Se me ne vado, aveva detto, non vi lascerò orfani, ma manderò a voi il Consolatore (cfr. Gv 14,18; 16,7). Vedete quanta sollecitudine? Vedete quale ineffabile bontà? Pochi giorni fa ascese al cielo, per ricevere il suo trono regale e riprendere il suo posto alla destra del Padre; e oggi fa scendere a noi lo Spirito Santo, e con lui fa traboccare su noi dal cielo beni ineffabili. Quali grazie che operano la nostra salvezza non ci sono elargite dallo Spirito Santo? Per suo mezzo siamo liberati dalla schiavitù e chiamati alla libertà di figli dopo aver deposto il pesante e odioso fardello dei nostri peccati. Per lo Spirito Santo vediamo assemblee di sacerdoti e possediamo schiere di dottori; da questa sorgente scaturiscono doni di rivelazioni e grazie di guarigioni, rimedi salutari, e infine da lì provengono tutti quei carismi che decorano la Chiesa di Dio. È quello che Paolo proclama con queste parole: «Tutte queste cose è l’unico e il medesimo Spirito che le opera, distribuendole a ciascuno come vuole» (1Cor 12,11). Come vuole, dice, non come gli è comandato; distribuendo, non distribuito; per propria autorità, non soggetto a un’autorità. È chiaro che Paolo attribuisce allo Spirito Santo la stessa potestà del Padre. Come dice del Padre: «Uno solo è Dio che opera tutto in tutti» (1Cor 12,6), così dice dello Spirito Santo: «Tutte queste cose è l’unico e il medesimo Spirito che le opera, distribuendole a ciascuno come vuole». Non vedete nello Spirito Santo una perfetta potestà? Poiché infatti una sola è la loro natura, senza dubbio una sola è la loro autorità; e come è uguale l’onore e la maestà, così una sola è la forza e la potenza. Per mezzo dello Spirito Santo otteniamo la remissione dei peccati; per lui ci purifichiamo da tutte le colpe; per il dono della sua presenza da uomini diventiamo angeli: giungiamo per grazia non a essere trasformati nella natura, ma ciò che è molto più mirabile, pur rimanendo nella natura umana, a una consuetudine di vita angelica. Tale è il potere dello Spirito Santo",
+            "responsorio": "Responsorio (Cfr. 1Cor 12,28.11; Sap 7,16)\nR. Alcuni Dio li ha posti nella Chiesa comeapostoli, altri come profeti, altri come maestri; poi vengono i miracoli, poi i doni di far guarigioni, alleluia.\n*Tutto opera l’unico e medesimoSpirito. Alleluia.\nV. In suo potere siamo noi e le nostre parole,ogni intelligenza e ogni nostra abilità.\nR. Tutto opera l’unico e medesimo Spirito.Alleluia."
+        }
+    ],
+    "codice": "pasqua-vii-sabato-i",
+    "fonte_raw": "Pasqua/PAS07/bien_dispari/7SAB.txt"
+}

@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Quaresima",
+    "settimana_del_tempo": "V",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "11,32-40",
+            "sottotitolo": "Esempi dei santi dell’Antico Testamento",
+            "fonte": "Dalla lettera agli Ebrei",
+            "testo": "Fratelli, che dirò ancora? Mi mancherebbe il tempo, se volessi narrare di Gedeone, di Barak, di Sansone, di Iefte, di Davide, di Samuele e dei profeti, i quali per fede conquistarono regni, esercitarono la giustizia, conseguirono le promesse, chiusero le fauci dei leoni, spensero la violenza del fuoco, scamparono al taglio della spada, trassero forza dalla loro debolezza, divennero forti in guerra, respinsero invasioni di stranieri. Alcune donne riebbero per risurrezione i loro morti. Altri poi furono torturati, non accettando la liberazione loro offerta, per ottenere una migliore risurrezione. Altri, infine, subirono scherni e flagelli, catene e prigionia. Furono lapidati, torturati, segati, furono uccisi di spada, andarono in giro coperti di pelli di pecora e di capra, bisognosi, tribolati, maltrattati – di loro il mondo non era degno! – andarono vagando per i deserti, sui monti, tra le caverne e le spelonche della terra. Eppure, tutti costoro, pur avendo ricevuto per la loro fede una buona testimonianza, non conseguirono la promessa, avendo Dio predisposto qualcosa di meglio per noi, perché essi non ottenessero la perfezione senza di noi.",
+            "responsorio": "Responsorio (1Mac 2,51; Eb 6,12)\nR. Ricordate le gesta compiute dai nostri padri ai loro tempi,\n*ene trarrete gloria insigne e nome eterno.\nV. Non diventate pigri, ma piuttosto imitatori di coloro che conla fede e la perseveranza divengono eredi delle promesse,\nR. e ne trarrete gloria insigne e nome eterno."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "C. 15,35",
+            "sottotitolo": "Unica è la morte al mondo e unica la risurrezione dei morti",
+            "fonte": "Dal trattato “Sullo Spirito Santo” di san Basilio Magno, vescovo",
+            "testo": "L’economia di salvezza di Dio, nostro salvatore, consiste nel rialzare l’uomo dalle sue cadute e nel farlo ritornare alla intimità divina, liberandolo dall’alienazione a cui l’aveva portato la disobbedienza. La venuta di Cristo nella carne, gli esempi di vita evangelica, le sofferenze, la croce, la sepoltura, la risurrezione sono per la salvezza dell’uomo perché abbia di nuovo, mediante l’imitazione di Cristo, l’adozione a figlio di cui era dotato all’inizio. Per l’autenticità della vita cristiana è dunque necessario imitare non solo i suoi esempi di dolcezza, di umiltà e di pazienza manifestati durante la vita, ma anche la sua stessa morte. Lo dice san Paolo, imitatore di Cristo: “diventandogli conforme nella morte, con la speranza di giungere alla risurrezione dai morti” (Fil 3,10-11). Ma come possiamo renderci conformi alla morte di lui? Facendoci conseppellire con lui per mezzo del battesimo. Qual è allora il modo della sepoltura e quale il frutto della sua imitazione? Prima di tutto è necessario interrompere il modo di vivere di prima. Ma nessuno può arrivare a tanto se non rinasce di nuovo, secondo le parole del Signore. La rigenerazione infatti, come emerge dalla parola stessa, è l’inizio di una seconda vita. Perciò, prima di iniziare una seconda vita, bisogna porre fine alla prima. A coloro che sono arrivati alla fine del giro nello stadio, si dà un po’ di sosta e di riposo prima di far loro iniziare un altro giro. Così anche nel mutamento di vita appare necessario che la morte si interponga tra la prima e la seconda vita, e che questa morte costituisca la fine della condizione precedente e l’inizio di quella futura. E come dobbiamo morire, cioè compiere la discesa agli inferi? Imitando la sepoltura di Cristo per mezzo del battesimo. Infatti i corpi di coloro che vengono battezzati, in certo modo sono sepolti nell’acqua. Perciò il battesimo significa in maniera arcana la deposizione delle opere della carne, secondo quello che dice l’Apostolo: “In lui voi siete stati anche circoncisi, di una circoncisione però non fatta da mano d’uomo, mediante la spogliazione del nostro corpo di carne, ma della vera circoncisione di Cristo. Con lui infatti siete stati sepolti insieme nel battesimo” (Col 2,11-12). E il battesimo, in certo qual modo, lava l’anima dalle brutture che si accumulano su di essa a causa delle tendenze della carne, secondo quanto sta scritto: “Lavami e sarò più bianco della neve” (Sal 50,9). Per questo motivo noi conosciamo un unico battesimo di salvezza, dal momento che unica è la morte al mondo e unica la risurrezione dai morti, delle quali cose è figura il battesimo.",
+            "responsorio": "Responsorio (Cfr. Mc 14,36.38)\nR. Nell’orto del Getsemani, Gesù pregava: Abbà, Padre! Tutto èpossibile a te, allontana da me questo calice!\n*Però non ciò che voglioio, ma ciò che vuoi tu. Sia fatta la tua volontà.\nV. Lo spirito è pronto, ma la carne è debole:\nR. però non ciò che voglio io, ma ciò che vuoi tu. Sia fatta latua volontà."
+        }
+    ],
+    "codice": "quaresima-v-mercoledi-i",
+    "fonte_raw": "Quaresima/QUA05/bien_dispari/4MER.txt"
+}

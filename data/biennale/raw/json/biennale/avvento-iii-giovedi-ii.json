@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "III",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "32,15–33,6",
+            "sottotitolo": "Vedrà la salvezza chi spera nel Signore",
+            "fonte": "Dal libro del profeta Isaia",
+            "testo": "In quei giorni, in noi sarà infuso uno spirito dall’alto; allora il deserto diventerà un giardino e il giardino sarà considerato una selva. Nel deserto prenderà dimora il diritto e la giustizia regnerà nel giardino. Effetto della giustizia sarà la pace, frutto del diritto una perenne sicurezza. Il mio popolo abiterà in una dimora di pace, in abitazioni tranquille, in luoghi sicuri, anche se la selva cadrà e la città sarà sprofondata. Beati voi! Seminerete in riva a tutti i ruscelli e lascerete in libertà buoi e asini. Guai a te, che devasti e non sei stato devastato, che saccheggi e non sei stato saccheggiato: sarai devastato, quando avrai finito di devastare, ti saccheggeranno, quando avrai finito di saccheggiare. Signore, pietà di noi, in te speriamo; sii il nostro braccio ogni mattina, nostra salvezza nel tempo dell’angoscia. Al sentore della tua minaccia fuggono i popoli, quando ti levi si disperdono le nazioni. Si ammucchia la preda come si ammucchiano le cavallette, vi si precipita sopra come vi si precipitano le locuste. Eccelso è il Signore poiché dimora lassù; egli riempie Sion di diritto e di giustizia. C’è sicurezza nelle sue leggi, ricchezze salutari sono sapienza e scienza; il timore di Dio è il suo tesoro.",
+            "responsorio": "Responsorio (Is 32,18.17; Gv 14,27)\nR. Il mio popolo abiterà in una dimora serena, inabitazioni tranquille:\n*frutto della giustizia sarà la pace.\nV. Vi do la mia pace: non sia turbato il vostrocuore e non abbia timore:\nR. frutto della giustizia sarà la pace."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "3-4",
+            "sottotitolo": "",
+            "fonte": "Dalla Costituzione dogmatica “Dei Verbum” del Concilio Vaticano II sulla divina Rivelazione",
+            "testo": "Cristo completa la rivelazione Dio, creando e conservando per mezzo del suo Verbo tutte le cose, offre agli uomini nella creazione una perenne testimonianza di sé, e inoltre, volendo aprire la via della salvezza soprannaturale, fin dal principio manifestò se stesso ai progenitori. Dopo la loro caduta, con la promessa della redenzione li risollevò alla speranza della salvezza, ed ebbe cura del genere umano per dare la vita eterna a tutti coloro che, con la perseveranza della buone opere, cercano la salvezza. A suo tempo chiamò Abramo, per fare di lui un grande popolo, al quale, dopo i patriarchi, insegnò per mezzo di Mosè e dei profeti a riconoscere lui come il solo Dio vivo e vero, Padre provvido e giusto Giudice, e ad attendere il promesso Salvatore, preparando così attraverso i secoli la via al vangelo. Ma Dio, dopo aver parlato «molte volte e in diversi modi per mezzo dei profeti, ultimamente, in questi giorni, ha parlato a noi per mezzo del Figlio» (Eb 1,1-2). Mandò infatti il Figlio suo, ossia il Verbo eterno, che illumina tutti gli uomini, perché abitasse fra gli uomini e ad essi rivelasse i segreti di Dio. Gesù Cristo dunque, il Verbo fatto carne, mandato come uomo agli uomini, «proferisce le parole di Dio» (Gv 3,34) e compie l’opera della salvezza che il Padre, con tutta la sua presenza e con la manifestazione di sé, con le parole e con le opere, con i segni e con i miracoli, ma specialmente con la sua morte e la gloriosa risurrezione dai morti, infine con l’invio dello Spirito Santo, porta a compimento la rivelazione, e la conferma con la divina testimonianza che Dio è con noi, per liberarci dalle tenebre del peccato e della morte e risuscitarci alla vita eterna. L’economia cristiana, dunque, in quanto è alleanza nuova e definitiva, non passerà mai più, e non è da attendersi alcun’altra pubblica rivelazione prima della manifestazione gloriosa del Signore nostro Gesù Cristo",
+            "responsorio": "Responsorio (Is 30,20-21; Dt 18,15)\nR. I tuoi occhi vedranno il tuo maestro,\n*i tuoiorecchi sentiranno la parola: Questa è la strada, percorretela.\nV. Il Signore tuo Dio susciterà per te un profetadalla tua gente, fra i tuoi fratelli;\nR. i tuoi orecchi sentiranno la parola: Questa èla strada, percorretela."
+        }
+    ],
+    "codice": "avvento-iii-giovedi-ii",
+    "fonte_raw": "Avvento/AVV03/bien_pari/5GIO.txt"
+}

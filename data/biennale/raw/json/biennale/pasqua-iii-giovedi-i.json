@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo di Pasqua",
+    "settimana_del_tempo": "III",
+    "giorno_settimana": "Giovedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "9,13-21",
+            "sottotitolo": "La piaga della guerra",
+            "fonte": "Dal libro dell’Apocalisse di san Giovanni, apostolo",
+            "testo": "Io, Giovanni, vidi, e il sesto angelo suonò la tromba. Allora udii una voce dai lati dell’altare d’oro che si trova dinanzi a Dio. E diceva al sesto angelo che aveva la tromba: «Sciogli i quattro angeli incatenati sul gran fiume Eufrate». Furono sciolti i quattro angeli pronti per l’ora, il giorno, il mese e l’anno per sterminare un terzo dell’umanità. Il numero delle truppe di cavalleria era duecento milioni; ne intesi il numero. Così mi apparvero i cavalli e i cavalieri: questi avevano corazze di fuoco, di giacinto, di zolfo. Le teste dei cavalli erano come le teste dei leoni e dalla loro bocca usciva fuoco, fumo e zolfo. Da questo triplice flagello, dal fuoco, dal fumo e dallo zolfo che usciva dalla loro bocca, fu ucciso un terzo dell’umanità. La potenza dei cavalli infatti sta nella loro bocca e nelle loro code; le loro code sono simili a serpenti, hanno teste e con esse nuocciono. Il resto dell’umanità che non perì a causa di questi flagelli, non rinunziò alle opere delle sue mani; non cessò di prestar culto ai demòni e agli idoli d’oro, d’argento, di bronzo, di pietra e di legno, che non possono né vedere, né udire, né camminare (cfr. Sal 113b,4-7); non rinunziò nemmeno agli omicidi, né alle stregonerie, né alla fornicazione, né alle ruberie.",
+            "responsorio": "Responsorio (Cfr. At 17,30.31; Gl 1,13.14)\nR. Dio ordina a tutti gli uomini di tutti iluoghi di ravvedersi.\n*Egli ha stabilito un giorno per giudicare la terracon giustizia, alleluia.\nV. Ministri di Dio, adunate tutti gli abitantidella regione, e gridate al Signore.\nR. Egli ha stabilito un giorno per giudicare laterra con giustizia, alleluia."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Lib. 5,2,2-3",
+            "sottotitolo": "L’Eucaristia pegno di risurrezione",
+            "fonte": "Dal trattato “Contro le eresie” di sant’Ireneo, vescovo",
+            "testo": "Se la carne non viene salvata, allora né il Signore ci ha redenti col suo sangue, né il calice dell’Eucaristia è la comunione del suo sangue, né il pane che spezziamo è la comunione del suo corpo. Il sangue infatti non viene se non dalle vene e dalla carne e da tutta la sostanza dell’uomo nella quale veramente si è incarnato il Verbo di Dio. Ci ha redenti con il suo sangue, come dice anche l’Apostolo: in lui abbiamo la redenzione e la remissione dei peccati per mezzo del suo sangue (cfr. Ef 1,7). Noi siamo sue membra, ma siamo nutriti dalle cose create, che egli stesso mette a nostra disposizione, facendo sorgere il suo sole e cadere la pioggia come vuole. Questo calice, che viene dalla creazione, egli ha dichiarato che è il suo sangue, con cui alimenta il nostro sangue. Così pure questo pane, che viene dalla creazione, egli ha assicurato che è il suo corpo con cui nutre i nostri corpi. Il vino mescolato nel calice e il pane confezionato ricevono la parola di Dio e diventano Eucaristia, cioè corpo e sangue di Cristo. Da essi è alimentata e prende consistenza la sostanza della nostra carne. E allora come possono alcuni affermare che la carne non è capace di ricevere il dono di Dio, cioè la vita eterna, quando viene nutrita dal sangue e dal corpo di Cristo, al quale appartiene come parte delle sue membra? Lo dice l’Apostolo nella lettera agli Efesini: «Siamo membra del suo corpo» (Ef 5,30), della sua carne e delle sue ossa (cfr. Gen 2,23); e queste cose non le dice di un uomo spirituale e invisibile – uno spirito infatti non ha né ossa né carne (cfr. Lc 24,39) – ma di un uomo vero, che consta di carne, nervi e ossa, e che viene alimentato dal calice che è il sangue di Cristo e sostenuto dal pane, che è il corpo di Cristo. Il tralcio della vite, piantato in terra porta frutto a suo tempo, e il grano di frumento caduto nella terra, e in essa dissolto, risorge moltiplicato per virtù dello Spirito di Dio, che abbraccia ogni cosa. Tutto questo poi dalla Sapienza è messo a disposizione dell’uomo e, ricevendo la parola di Dio, diventa Eucaristia, cioè corpo e sangue di Cristo. Così anche i nostri corpi, nutriti dall’Eucaristia, deposti nella terra e andati in dissoluzione, risorgeranno a suo tempo, perché il Verbo dona loro la risurrezione, a gloria di Dio Padre. Egli circonda di immortalità questo corpo mortale, e largisce gratuitamente l’incorruzione alla carne corruttibile. In questa maniera la forza di Dio si manifesta pienamente nella debolezza degli uomini.",
+            "responsorio": "Responsorio (Cfr. Gv 6,48-51)\nR. Io sono il pane della vita. I vostri padrihanno mangiato la manna nel deserto e sono morti; questo è il pane che discende dal cielo:\n*chi ne mangia non può morire, alleluia.\nV. Io sono il pane vivo, disceso dal cielo. Seuno mangia di questo pane vivrà in eterno;\nR. chi ne mangia non può morire, alleluia."
+        }
+    ],
+    "codice": "pasqua-iii-giovedi-i",
+    "fonte_raw": "Pasqua/PAS03/bien_dispari/5GIO.txt"
+}

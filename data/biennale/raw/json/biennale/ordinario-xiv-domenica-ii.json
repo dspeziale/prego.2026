@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XIV",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "1,1-7.20-32",
+            "sottotitolo": "",
+            "fonte": "Dal libro dei Proverbi",
+            "testo": "Esortazione a ricercare la Sapienza Proverbi di Salomone, figlio di Davide, re d’Israele, per conoscere la sapienza e la disciplina, per capire i detti profondi, per acquistare un’istruzione illuminata, equità, giustizia e rettitudine, per dare agli inesperti l’accortezza, ai giovani conoscenza e riflessione. Ascolti il saggio e aumenterà il sapere, e l’uomo accorto acquisterà il dono del consiglio, per comprendere proverbi e allegorie, le massime dei saggi e i loro enigmi. Il timore del Signore è il principio della scienza; gli stolti disprezzano la sapienza e l’istruzione. La sapienza grida per le strade nelle piazze fa udire la voce; dall’alto delle mura essa chiama, pronunzia i suoi detti alle porte della città: «Fino a quando, o inesperti, amerete l’inesperienza e i beffardi si compiaceranno delle loro beffe e gli sciocchi avranno in odio la scienza? Volgetevi alle mie esortazioni: ecco, io effonderò il mio spirito su di voi e vi manifesterò le mie parole. Poiché vi ho chiamato e avete rifiutato, ho steso la mano e nessuno ci ha fatto attenzione; avete trascurato ogni mio consiglio e la mia esortazione non avete accolto; anch’io riderò delle vostre sventure, mi farò beffe quando su di voi verrà la paura, quando come una tempesta vi piomberà addosso il terrore, quando la disgrazia vi raggiungerà come un uragano, quando vi colpirà l’angoscia e la tribolazione. Allora mi invocheranno, ma io non risponderò, mi cercheranno, ma non mi troveranno. Poiché hanno odiato la sapienza e non hanno amato il timore del Signore; non hanno accettato il mio consiglio e hanno disprezzato tutte le mie esortazioni; mangeranno il frutto della loro condotta, si sazieranno dei risultati delle loro decisioni. Sì, lo sbandamento degli inesperti li ucciderà e la spensieratezza degli sciocchi li farà perire; ma chi ascolta me vivrà tranquillo e sicuro dal timore del male».",
+            "responsorio": "Responsorio (1Cor 3,18-19; 1,23.24)\nR. Se qualcuno tra voi si crede un sapiente inquesto mondo, si faccia stolto per diventare sapiente:\n*la sapienza diquesto mondo è stoltezza davanti a Dio.\nV. Noi predichiamo Cristo crocifisso, potenza diDio e sapienza di Dio:\nR. la sapienza di questo mondo è stoltezzadavanti a Dio."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "1,18-19",
+            "sottotitolo": "La parola di Dio è sorgente inesauribile di vita",
+            "fonte": "Dai “Commenti sul Diatessaron” di sant’Efrem, diacono",
+            "testo": "Chi è capace di comprendere, Signore, tutta la ricchezza di una sola delle tue parole? È molto più ciò che ci sfugge di quanto riusciamo a comprendere. Siamo proprio come gli assetati che bevono a una fonte. La tua parola offre molti aspetti diversi, come numerose sono le prospettive di coloro che la studiano. Il Signore ha colorato la sua parola di bellezze svariate, perché coloro che la scrutano possano contemplare ciò che preferiscono. Ha nascosto nella sua parola tutti i tesori, perché ciascuno di noi trovi una ricchezza in ciò che contempla. La sua parola è un albero di vita che, da ogni parte, ti porge dei frutti benedetti. Essa è come quella roccia aperta nel deserto, che divenne per ogni uomo da ogni parte, una bevanda spirituale. Essi mangiarono, dice l’Apostolo, un cibo spirituale e bevvero una bevanda spirituale (cfr. 1Cor 10,2). Colui al quale tocca una di queste ricchezze non creda che non vi sia altro nella parola di Dio oltre ciò che egli ha trovato. Si renda conto piuttosto che egli non è stato capace di scoprirvi se non una sola cosa fra molte altre. Dopo essersi arricchito della parola, non creda che questa venga da ciò impoverita. Incapace di esaurirne la ricchezza, renda grazie per l’immensità di essa. Rallégrati perché sei stato saziato, ma non rattristarti per il fatto che la ricchezza della parola ti supera. Colui che ha sete è lieto di bere, ma non si rattrista perché non riesce a prosciugare la fonte. È meglio che la fonte soddisfi la tua sete, piuttosto che la sete esaurisca la fonte. Se la tua sete è spenta senza che la fonte sia inaridita, potrai bervi di nuovo ogni volta che ne avrai bisogno. Se invece saziandoti seccassi la sorgente, la tua vittoria sarebbe la tua sciagura. Ringrazia per quanto hai ricevuto e non mormorare per ciò che resta inutilizzato. Quello che hai preso o portato via è cosa tua, ma quello che resta è ancora tua eredità. Ciò che non hai potuto ricevere subito a causa della tua debolezza, ricevilo in altri momenti con la tua perseveranza. Non avere l’impudenza di voler prendere in un sol colpo ciò che non può essere prelevato se non a più riprese, e non allontanarti da ciò che potresti ricevere solo un po’ alla volta.",
+            "responsorio": "Responsorio (1Pt 1,25; Bar 4,1)\nR. La parola del Signore rimane in eterno:\n*èquesto il vangelo che vi è stato annunziato.\nV. Questo è il libro dei decreti di Dio, la leggeche sussiste nei secoli; quanti si attengono ad essa avranno la vita:\nR. è questo il vangelo che vi è stato annunziato."
+        }
+    ],
+    "codice": "ordinario-xiv-domenica-ii",
+    "fonte_raw": "Ordinario/14_BIEN/bien_pari/1DOM.txt"
+}

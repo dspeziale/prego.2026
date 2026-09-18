@@ -1,0 +1,21 @@
+{
+    "data": "07-12",
+    "giorno": 7,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "7 Dicembre",
+    "santo": "Sant’Ambrogio, vescovo e dottore della Chiesa",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "2,1-2.4-5",
+            "sottotitolo": "La grazia delle tue parole conquisti il popolo",
+            "fonte": "Dalle “Lettere” di sant’Ambrogio, vescovo",
+            "testo": "Hai ricevuto il sacerdozio e, stando a poppa della Chiesa, tu guidi la nave sui flutti. Tieni saldo il timone della fede in modo che le violente tempeste di questo mondo non possano turbare il suo corso. Il mare è davvero grande, sconfinato; ma non aver paura, perché «È lui che l’ha fondata sui mari, e sui fiumi l’ha stabilita» (Sal 23,2).\nPerciò non senza motivo, fra le tante correnti del mondo, la Chiesa resta immobile, costruita sulla pietra apostolica, e rimane sul suo fondamento incrollabile contro l’infuriare del mare in tempesta. È battuta dalle onde ma non è scossa e, sebbene di frequente gli elementi di questo mondo infrangendosi echeggino con grande fragore, essa ha tuttavia un porto sicurissimo di salvezza dove accogliere chi è affaticato. Se tuttavia essa è sbattuta dai flutti sul mare, pure sui fiumi corre, su quei fiumi soprattutto di cui è detto: I fiumi hanno innalzato la loro voce (cfr. Sal 92,3). Vi sono infatti fiumi che sgorgano dal cuore di colui che è stato dissetato da Cristo e ha ricevuto lo Spirito di Dio. Questi fiumi, quando ridondano di grazia spirituale, alzano la loro voce.\nVi è poi un fiume che si riversa sui suoi santi come un torrente. Chiunque abbia ricevuto dalla pienezza di questo fiume, come l’evangelista Giovanni, come Pietro e Paolo, alza la sua voce; e come gli apostoli hanno diffuso la voce della predicazione evangelica con festoso annunzio fino ai confini della terra, così anche questo fiume incomincia ad annunziare il Signore. Ricevilo dunque da Cristo, quell’acqua che loda il Signore. Raccogli da più luoghi l’acqua che lasciano cadere le nubi dei profeti. Chi raccoglie acqua dalle montagne e le convoglia verso di sé, o attinge alle sorgenti, lui pure, come le nubi, la riversa su altri. Riempine dunque il fondo della tua anima, perché il tuo terreno sia innaffiato e irrigato da proprie sorgenti. Si riempie chi legge molto e penetra il senso di ciò che legge; e chi si è riempito può irrigare altri. La Scrittura dice: «Se le nubi sono piene di acqua, la rovesciano sopra la terra» (Qo 11,3).\nI tuoi sermoni siano fluenti, puri, cristallini, sì che il tuo insegnamento morale suoni dolce alle orecchie della gente e la grazia delle tue parole conquisti gli ascoltatori perché ti seguano docilmente dove tu li conduci. Il tuo dire sia pieno di sapienza. Anche Salomone afferma: Le labbra del sapiente sono le armi della Sapienza, e altrove: Le tue labbra siano ben aderenti all’idea: vale a dire, l’esposizione dei tuoi discorsi sia lucida, splenda chiaro il senso senza bisogno di spiegazioni aggiunte; il tuo discorso si sappia sostenere e difendere da se stesso e non esca da te parola vana o priva di senso.",
+            "responsorio": "Responsorio (2Tm 4,2; Sir 48,4-8)\nR. Annunzia il vangelo, insisti in ogni occasione, ammonisci, rimprovera, esorta *con grande pazienza e dottrina.\nV. Chi può vantarsi di esserti uguale? Tu hai consacrato i re e li hai indotti a penitenza\nR. con grande pazienza e dottrina."
+        }
+    ],
+    "orazione": "O Dio, che nel vescovo sant’Ambrogio ci hai dato un insigne maestro della fede cattolica e un esempio di apostolica fortezza, suscita nella Chiesa uomini secondo il tuo cuore, che la guidino con coraggio e sapienza. Per il nostro Signore.",
+    "fonte_raw": "Santi/1207.txt"
+}

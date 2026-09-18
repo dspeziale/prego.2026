@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXV",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "7,1-17",
+            "sottotitolo": "Il segno dell’Emmanuele nell’imminenza della guerra",
+            "fonte": "Dal libro del profeta Isaia",
+            "testo": "Nei giorni di Acaz figlio di Iotam, figlio di Ozia, re di Giuda, Rezin re di Aram e Pekach figlio di Romelia, re di Israele, marciarono contro Gerusalemme per muovere guerra, ma non riuscirono a espugnarla. Fu dunque annunziato alla casa di Davide: «Gli Aramei si sono accampati in Èfraim». Allora u suo cuore e il cuore del suo popolo si agitarono, come si agitano i rami del bosco per il vento. Il Signore disse a Isaia: «Va’ incontro ad Acaz, tu e tuo figlio Seariasub, fino al termine del canale della piscina superiore sulla strada del campo del lavandaio. Tu gli dirai: Fa’ attenzione e sta’ tranquillo, non temere e il tuo cuore non si abbatta per quei due avanzi di tizzoni fumosi, per la collera di Rezin degli Aramei e del figlio di Romelia. Poiché gli Aramei, Èfraim e il figlio di Romelia hanno tramato il male contro di te, dicendo: Saliamo contro Giuda, devastiamolo e occupiamolo, e vi metteremo come re il figlio di Tabeel. Così dice il Signore Dio: Ciò non avverrà e non sarà! Perché capitale di Aram è Damasco e capo di Damasco è Rezin. Capitale di Èfraim è Samaria e capo di Samaria il figlio di Romelia. Ancora sessantacinque anni ed Èfraim cesserà di essere un popolo. Ma se non crederete, non avrete stabilità». Il Signore parlò ancora ad Acaz dicendo: «Chiedi un segno dal Signore tuo Dio, dal profondo degli inferi oppure lassù in alto». Ma Acaz rispose: «Non lo chiederò, non voglio tentare il Signore». Allora Isaia disse: «Ascoltate, casa di Davide! Non vi basta di stancare la pazienza degli uomini, perché ora vogliate stancare anche quella del mio Dio? Pertanto il Signore stesso vi darà un segno. Ecco: la vergine concepirà e partorirà un figlio, che chiamerà Emmanuele. Egli mangerà panna e miele finché non imparerà a rigettare il male e a scegliere il bene. Poiché prima ancora che il bimbo impari a rigettare il male e a scegliere il bene, sarà abbandonato il paese di cui temi i due re. Il Signore manderà su di te, sul tuo popolo e sulla casa di tuo padre giorni quali non vennero da quando Èfraim si staccò da Giuda: manderà il re di Assiria»",
+            "responsorio": "Responsorio (Cfr. Is 7,14; Mt 1,21; Lc 1,30.31)\nR. Ecco: la vergine concepirà e partorirà unfiglio.\n*Questi si chiamerà Emmanuele, Dio-con-noi.\nV. Non temere, Maria: concepirai un figlio, e lodarai alla luce.\nR. Questi si chiamerà Emmanuele, Dio-con-noi."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "2,1-2.4",
+            "sottotitolo": "Preparata dall’Altissimo, prefigurata dai padri",
+            "fonte": "Dalla “Omelia in lode della Vergine Madre” di san Bernardo, abate",
+            "testo": "A Dio conveniva una natività di questo genere: che non nascesse se non dalla Vergine; anche alla Vergine si addiceva un parto tale: che non generasse se non Dio. Perciò il creatore degli uomini, che stava per nascere dall’uomo per diventare uomo, dovette scegliere tra tutte le donne, anzi creare una tale madre, quale sapeva convenire a sé e che gli sarebbe piaciuta. Volle dunque che fosse una vergine. Lui immacolato volle nascere dall’Immacolata, perché avrebbe dovuto lavare le macchie di tutti. Lui mite e umile di cuore volle venire da una madre piena di mitezza e di umiltà, perché doveva offrirsi a ognuno come modello di tali virtù, utili, anzi necessarie per la salvezza. Concesse il dono della maternità alla Vergine, lui che le aveva ispirato il voto della verginità e l’aveva arricchita dei meriti dell’umiltà. Altrimenti come avrebbe potuto l’angelo proclamarla piena di grazia, se avesse avuto qualcosa anche piccola che non fosse dalla grazia? Ella che stava per concepire il Santo dei santi ed era in procinto di darlo alla luce, perché fosse santa nel corpo, ricevette il dono della verginità, e, perché lo fosse anche nella mente, ricevette quello dell’umiltà. La Vergine di stirpe regale, ornata di gemme di santità e splendente della doppia bellezza della mente e del corpo, conosciuta nelle sedi celesti per le sue doti e la sua bellezza, richiamò sopra di sé lo sguardo dei cittadini del cielo e attirò sulla sua persona l’occhio del Re, che la fece oggetto della sua scelta e destinataria del messaggio angelico «Fu mandato l’angelo», dice, «a una vergine» (Lc 1,26.27): vergine nel corpo, vergine nell’anima, vergine per voto, vergine insomma quale la descrive l’Apostolo, santa nell’anima e nel corpo; e non scoperta di recente né per caso, ma eletta dall’eternità, conosciuta in antecedenza dall’Altissimo e preparata per lui, custodita dagli angeli, prefigurata dai padri, promessa dai profeti.",
+            "responsorio": "Responsorio (Cfr. Lc 1,35; Sal 44,11.12)\nR. Lo Spirito Santo scenderà su di te, Maria, sute stenderà la sua ombra la potenza dell’Altissimo.\n*Colui che nascerà date sarà il Santo, il Figlio di Dio.\nV. Ascolta, figlia, e guarda: al re piacerà latua bellezza.\nR. Colui che nascerà da te sarà il Santo, ilFiglio di Dio."
+        }
+    ],
+    "codice": "ordinario-xxv-mercoledi-i",
+    "fonte_raw": "Ordinario/25_BIEN/bien_dispari/4MER.txt"
+}

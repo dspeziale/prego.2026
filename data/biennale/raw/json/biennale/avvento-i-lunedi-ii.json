@@ -1,0 +1,28 @@
+{
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "I",
+    "giorno_settimana": "Lunedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "1,21-27; 2,1-5",
+            "sottotitolo": "Giudizio e salvezza per Sion, centro del regno escatologico",
+            "fonte": "Dal libro del profeta Isaia",
+            "testo": "Come mai è diventata una prostituta la città fedele? Era piena di rettitudine, la giustizia vi dimorava; ora invece è piena di assassini! Il tuo argento è diventato scoria, il tuo vino migliore è diluito con acqua. I tuoi capi sono ribelli e complici di ladri; tutti sono bramosi di regali, ricercano mance, non rendono giustizia all’orfano e la causa della vedova fino a loro non giunge. Perciò, oracolo del Signore, Dio degli eserciti, il Potente di Israele: «Ah, esigerò soddisfazioni dai miei avversari, mi vendicherò dei miei nemici. Stenderò la mano su di te, purificherò nel crogiuolo le tue scorie, eliminerò da te tutto il piombo. Renderò i tuoi giudici come una volta, i tuoi consiglieri come al principio. Dopo, sarai chiamata città della giustizia, città fedele». Sion sarà riscattata con la giustizia, i suoi convertiti con la rettitudine. Ciò che Isaia, figlio di Amoz, vide riguardo a Giuda e a Gerusalemme. Alla fine dei giorni, il monte del tempio del Signore sarà eretto sulla cima dei monti e sarà più alto dei colli; ad esso affluiranno tutte le genti. Verranno molti popoli e diranno: «Venite, saliamo sul monte del Signore, al tempio del Dio di Giacobbe, perché ci indichi le sue vie e possiamo camminare per i suoi sentieri». Poiché da Sion uscirà la legge e da Gerusalemme la parola del Signore. Egli sarà giudice fra le genti e sarà arbitro fra molti popoli. Forgeranno le loro spade in vomeri, le loro lance in falci; un popolo non alzerà più la spada contro un altro popolo, non si eserciteranno più nell’arte della guerra. Casa di Giacobbe, vieni, camminiamo nella luce del Signore.",
+            "responsorio": "Responsorio (Mi 4,2; Gv 4,25)\nR. Venite, saliamo al monte del Signore e al tempio del Dio diGiacobbe: egli ci indicherà le sue vie,\n*e cammineranno per i suoisentieri.\nV. Deve venire il Messia cioè il Cristo: quando verrà, ci annunzieràogni cosa;\nR. e cammineremo per i suoi sentieri."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "sopra l’Avv.: testo originale",
+            "sottotitolo": "Il tempo d’Avvento",
+            "fonte": "Dalle “Lettere pastorali” di san Carlo Borromeo, vescovo",
+            "testo": "«Eccovi, amatissimi figliuoli, quel tempo così celebre e solenne. Tempo, come dice lo Spirito Santo, favorevole. Tempo di salute, di pace e di riconciliazione. Tempo, che come fu con tanti sospiri sommamente desiderato da quelli antichi patriarchi e santi profeti, come all’ultimo, con allegrezza grande, veduto da quel giusto Simeone, come sempre solennemente celebrato dalla santa Chiesa, così ha da essere da noi piamente santificato, con lodare e ringraziare perpetuamente il Padre eterno della sua infinita misericordia nel mistero di questo tempo, cioè nella venuta del suo unigenito Figliuolo, che per smisurato amore verso di noi peccatori, egli mandò per liberarci dalla tirannide del demonio, per invitarci al cielo, per comunicarci i secreti celesti, per dimostrarci la verità, per insegnarci i costumi, per seminare in noi le virtù, per arricchirci dei tesori della sua grazia e per farci figliuoli suoi, eredi e possessori della vita eterna. Questo mistero mentre ogni anno la Chiesa celebra, ella ci ammonisce a tener perpetua memoria di così gran carità usataci dal misericordioso Dio; e insieme ci insegna che la venuta del Signore non fu solamente per quelli, che avanti o che allora si trovarono nel mondo quando egli venne, ma la virtù d’essa resta sempre per beneficio di tutti noi ancora, se per mezzo della santa fede e dei divini sacramenti vorremo ricevere la grazia che ci ha portata, e secondo quella ordinare la vita nostra sotto la sua obbedienza. Vuole ancora che intendiamo, che sì come egli venne una volta in carne al mondo, così, se per noi non resta, è per venire ogn’ora, anzi in ogni momento, ad abitare spiritualmente nell’anime nostre, con abbondanti doni. Perciò la Chiesa, come madre pia e zelante della nostra salute, in occasione di questo sacro tempo, con inni, cantici e altre voci dello Spirito Santo, e misteriosi riti, ci istruisce perché riconosciamo il beneficio con animo grato e lo riceviamo con frutto e procuriamo di fare alla venuta del Signore nei cuori nostri non minor preparazione di quella che faremmo s’egli avesse a venire di presente al mondo; né minore di quella che perciò fecero già i santi Padri del Vecchio Testamento, e che con parole e esempi loro insegnarono a noi ancora di fare».",
+            "responsorio": "Responsorio (Cfr. Gl 2,15; Is 62,11; Ger 4,5)\nR. Suonate la tromba nella città di Dio, convocate un’adunanza solenne,radunate il popolo, e dite:\n*Ecco, viene Dio, il nostro Salvatore.\nV. Annunziatelo, fatelo sapere, gridate a piena voce:\nR. Ecco, viene Dio, il nostro Salvatore."
+        }
+    ],
+    "orazione": "Il tuo aiuto, o Padre, ci renda perseveranti nel bene in attesa del Cristo, tuo Figlio; quando egli verrà e busserà alla porta ci trovi vigilanti nella preghiera ed esultanti nella lode. Per il nostro Signore.",
+    "codice": "avvento-i-lunedi-ii",
+    "fonte_raw": "Avvento/AVV01/bien_pari/2LUN.txt"
+}

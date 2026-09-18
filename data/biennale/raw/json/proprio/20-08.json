@@ -1,0 +1,37 @@
+{
+    "data": "20-08",
+    "giorno": 20,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "20 Agosto",
+    "santo": "San Bernardo, abate e dottore della Chiesa",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Prima Lettura (oppure)",
+            "riferimento": "Sir 39,1c-10",
+            "sottotitolo": "Testo non riportato nella fonte (rimando a pagina)",
+            "fonte": "",
+            "testo": "",
+            "responsorio": ""
+        },
+        {
+            "titolo": "Prima Lettura (oppure)",
+            "riferimento": "Fil 3,7–4,1.4-9",
+            "sottotitolo": "Testo non riportato nella fonte (rimando a pagina)",
+            "fonte": "",
+            "testo": "",
+            "responsorio": ""
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "83,4-6",
+            "sottotitolo": "Amo perché amo, amo per amare",
+            "fonte": "Dai “Discorsi sul Cantico dei Cantici” di san Bernardo, abate",
+            "testo": "L’amore è sufficiente per se stesso, piace per se stesso e in ragione di sé. È a se stesso merito e premio. L’amore non cerca ragioni, non cerca vantaggi all’infuori di sé. Il suo vantaggio sta nell’esistere. Amo perché amo, amo per amare. Grande cosa è l’amore se si rifà al suo principio, se ricondotto alla sua origine, se riportato alla sua sorgente. Di là sempre prende alimento per continuare a scorrere. L’amore è il solo tra tutti i moti dell’anima, tra i sentimenti e gli affetti, con cui la creatura possa corrispondere al Creatore, anche se non alla pari; l’unico con il quale possa contraccambiare il prossimo e, in questo caso, certo alla pari. Infatti quando Dio ama, altro non desidera che essere amato. Non per altro ama, se non per essere amato, sapendo che coloro che l’ameranno si beeranno di questo stesso amore. L’amore dello Sposo, anzi lo Sposo-amore cerca soltanto il ricambio dell’amore e la fedeltà. Sia perciò lecito all’amata di riamare. Perché la sposa, e la sposa dell’Amore non dovrebbe amare? Perché non dovrebbe essere amato l’Amore?\nGiustamente, rinunziando a tutti gli altri suoi affetti, attende tutta e solo all’Amore, ella che nel ricambiare l’amore mira a uguagliarlo. Si obietterà, però, che, anche se la sposa si sarà tutta trasformata nell’Amore, non potrà mai raggiungere il livello della fonte perenne dell’amore. È certo che non potranno mai essere equiparati l’amante e l’Amore, l’anima e il Verbo, la sposa e lo Sposo, il Creatore e la creatura. La sorgente, infatti, dà sempre molto più di quanto basti all’assetato.\nMa che importa tutto questo? Cesserà forse e svanirà del tutto il desiderio della sposa che attende il momento delle nozze, cesserà la brama di chi sospira, l’ardore di chi ama, la fiducia di chi pregusta, perché non è capace di correre alla pari con un gigante, gareggiare in dolcezza col miele, in mitezza con l’agnello, in candore con il giglio, in splendore con il sole, in carità con colui che è l’Amore? No certo. Sebbene infatti la creatura ami meno, perché è inferiore, se tuttavia ama con tutta se stessa, non le resta nulla da aggiungere. Nulla manca dove c’è tutto. Perciò per lei amare così è aver celebrato le nozze, poiché non può amare così ed essere poco amata. Il matrimonio completo e perfetto sta nel consenso dei due; a meno che uno dubiti che l’anima sia amata dal Verbo, e prima e di più.",
+            "responsorio": "Responsorio (Cfr. Sal 30,20; 35,9)\nR. Quanto è grande, Signore, la tua dolcezza,\n*che hai riservato per coloro che ti temono.\nV. Si saziano dell’abbondanza della tua casa, li disseti al torrente delle tue delizie\nR. che hai riservato per coloro che ti temono."
+        }
+    ],
+    "orazione": "O Dio, che hai suscitato nella tua Chiesa san Bernardo abate, come lampada che arde e risplende, fa’ che, per sua intercessione, camminiamo sempre con lo stesso fervore di spirito, come figli della luce. Per il nostro Signore.",
+    "fonte_raw": "Santi/0820.txt"
+}

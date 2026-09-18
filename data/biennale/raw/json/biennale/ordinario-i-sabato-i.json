@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "I",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "3,21-31",
+            "sottotitolo": "La giustizia di Dio per mezzo della fede",
+            "fonte": "Dalla lettera ai Romani di san Paolo, apostolo",
+            "testo": "Ora, indipendentemente dalla legge, si è manifestata la giustizia di Dio, testimoniata dalla legge e dai profeti; giustizia di Dio per mezzo della fede in Gesù Cristo, per tutti quelli che credono. E non c’è distinzione: tutti hanno peccato e sono privi della gloria di Dio, ma sono giustificati gratuitamente per la sua grazia, in virtù della redenzione realizzata da Cristo Gesù. Dio lo ha prestabilito a servire come strumento di espiazione per mezzo della fede, nel suo sangue, al fine di manifestare la sua giustizia, dopo la tolleranza usata verso i peccati passati, nel tempo della divina pazienza. Egli manifesta la sua giustizia nel tempo presente, per essere giusto e giustificare chi ha fede in Gesù. Dove sta dunque il vanto? Esso è stato escluso! Da quale legge? Da quella delle opere? No, ma dalla legge della fede. Noi riteniamo infatti che l’uomo è giustificato per la fede, indipendentemente dalle opere della legge. Forse Dio è Dio soltanto dei Giudei? Non lo è anche dei pagani? Certo, anche dei pagani! Poiché non c’è che un solo Dio, il quale giustificherà per la fede i circoncisi, e per mezzo della fede anche i non circoncisi. Togliamo dunque ogni valore alla legge mediante la fede? Nient’affatto, anzi confermiamo la legge.",
+            "responsorio": "Responsorio (Rm 3,24.25; 5,10)\nR. Siamo giustificati gratuitamente per la grazia di Dio in virtù dellaredenzione realizzata da Cristo Gesù.\n*Dio lo ha prestabilito a servirecome strumento di espiazione per mezzo della fede, nel suo sangue.\nV. Quando eravamo nemici, siamo stati riconciliati con Dio per mezzodella morte del Figlio suo.\nR. Dio lo ha prestabilito a servire come strumento di espiazione permezzo della fede, nel suo sangue."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Disc. 1,14-15",
+            "sottotitolo": "Il Signore ci ha istruiti per mezzo della legge e dei profeti, del vangelo e degli apostoli",
+            "fonte": "Dal “Commento sul salmo 118” di sant’Ambrogio, vescovo",
+            "testo": "«Tu hai dato i tuoi precetti perché siano osservati fedelmente. Siano diritte le mie vie, nel custodire i tuoi decreti. Allora non dovrò arrossire se avrò obbedito ai tuoi comandi» (Sal 118,4-6). Non solo, dice il salmista, tu hai dato i tuoi precetti: ma aggiunge: li hai dati perché siano osservati fedelmente. Quando li diedi questi precetti? A Adamo, nel paradiso, ordinò di osservare i suoi precetti, ma forse non aggiunse l’ordine di custodirli fedelmente; e per questo egli cadde, lasciandosi sedurre dalle parole della donna e tentare dal serpente: pensò che, derogando solo in parte da quanto gli era stato ordinato, la colpa non sarebbe stata poi così grave. Una volta uscito dalla via dei comandamenti, però, l’abbandonò del tutto, rimase spoglio di ogni bene e si vide nudo. Perciò il Signore, visto che Adamo pur trovandosi nel paradiso era caduto, tu esorta per mezzo della legge, dei profeti e del vangelo a osservare fedelmente i precetti del Signore tuo Dio. Di ogni parola infondata, dice, renderai conto (cfr. Mt 12,36). Non ti illudere: di ciascun precetto non cadrà uno iota o un apice. Non ti allontanare dalla via: se a malapena riesci a difenderti dai ladri quando procedi lungo la via, come te la caverai se te ne sarai allontanato? Siano diritte le tue vie e, perché tu possa avanzare con sicurezza, prega il Signore che ti indichi lui la strada. «Ho sperato: ho sperato nel Signore, e ha dato ascolto al mio grido; i miei piedi ha stabilito sulla roccia, ha reso sicuri i miei passi» (Sal 39,2.3). Prega dunque anche tu, perché il Signore diriga il cammino della tua mente in modo che possa osservare la legge del Signore. Non dovrai arrossire se terrai fissi gli occhi nella sua legge. Arrossisti una volta in Adamo ed Eva: allora ti accorgesti della tua nudità, ti ricopristi di foglie perché ti vergognavi, ti sottraesti alla vista di Dio, rosso di vergogna, tanto che Dio ti chiese: «Adamo, dove sei?» (Gen 3,9). Quello che disse a lui lo dice anche a te: Adamo, infatti, significa uomo. Quindi: Dove sei, uomo? E Adamo rispose: Ero nudo, avevo vergogna e non ho osato presentarmi al tuo cospetto. Osserviamo allora i precetti del Signore per non rimanere confusi anche noi, osserviamoli interamente: se uno, infatti, osserva un comandamento e ne trascura un altro, non gli serve a nulla.",
+            "responsorio": "Responsorio (Cfr. Tb 4,19; 14,8 – Volg. 4,20.21; 14,10.11)\nR. In ogni circostanza benedici il Signore e domandagli che ti siaguida nelle tue vie\n*e in lui si fondino tutti i tuoi disegni.\nV. Studiati di fare ciò che a lui piace, nella verità e con tutte le tueforze,\nR. e in lui si fondino tutti i tuoi disegni."
+        }
+    ],
+    "codice": "ordinario-i-sabato-i",
+    "fonte_raw": "Ordinario/01_BIEN/bien_dispari/7SAB.txt"
+}

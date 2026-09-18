@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Avvento",
+    "settimana_del_tempo": "III",
+    "giorno_settimana": "Sabato",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "29,1-8",
+            "sottotitolo": "Il Signore giudicherà severamente Gerusalemme, poi si farà suo difensore",
+            "fonte": "Dal libro del profeta Isaia",
+            "testo": "Guai ad Arièl, ad Arièl, città dove pose il campo Davide! Aggiungete anno ad anno, si avvicendino i cicli festivi. Io metterò alle strette Arièl, ci saranno gemiti e lamenti. Tu sarai per me come un vero Arièl, io mi accamperò come Davide contro di te e ti circonderò di trincee, innalzerò contro di te un vallo. Allora prostrata parlerai da terra e dalla polvere saliranno fioche le tue parole; sembrerà di un fantasma la tua voce dalla terra, e dalla polvere la tua parola risuonerà come bisbiglio. Sarà come polvere fine la massa dei tuoi oppressori e come pula dispersa la massa dei tuoi tiranni. Ma d’improvviso, subito, dal Signore degli eserciti sarai visitata con tuoni, rimbombi e rumore assordante, con uragano e tempesta e fiamma di fuoco divoratore. E sarà come un sogno, come una visione notturna, la massa di tutte le nazioni che marciano su Arièl, di quanti la attaccano e delle macchine poste contro di essa. Avverrà come quando un affamato sogna di mangiare, ma si sveglia con lo stomaco vuoto; come quando un assetato sogna di bere, ma si sveglia stanco e con la gola riarsa: così succederà alla folla di tutte le nazioni che marciano contro il monte Sion.",
+            "responsorio": "Responsorio (Cfr. Is 54,4; 29,6.7)\nR. Non temere, Gerusalemme: non dovrai piùarrossire,\n*quando verrà a visitarti il Signore, Dio dell’universo.\nV. Svaniranno come un sogno notturno le nazioniche ti assalivano,\nR. quando verrà a visitarti il Signore, Diodell’universo."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "N. 51",
+            "sottotitolo": "Maria e la Chiesa",
+            "fonte": "Dai “Discorsi” del beato Isacco della Stella, abate",
+            "testo": "Il Figlio di Dio è il primogenito tra molti fratelli; unico per natura, mediante la grazia si è associato molti, perché siano uno solo con lui. Infatti «a quanti l’hanno accolto, ha dato il potere di diventare figli di Dio» (Gv 1,12). Divenuto perciò figlio dell’uomo, ha fatto diventare figli di Dio molti. Se ne è dunque associati molti, lui che è unico nel suo amore e nel suo potere; ed essi, pur essendo molti per generazione carnale, sono con lui uno solo per la rigenerazione divina. Il Cristo è unico, perché Capo e corpo formano un tutt’uno. Il Cristo è unico perché è figlio di un unico Dio in cielo e di un’unica madre in terra. Si hanno contemporaneamente molti figli e un solo figlio. Come infatti Capo e membra sono insieme un solo figlio e molti figli, così Maria e la Chiesa sono una sola e più madri, una sola e più vergini. Ambedue madri, ambedue vergini, ambedue concepiscono per opera dello Spirito Santo senza concupiscenza, ambedue danno al Padre figli senza peccato. Maria senza alcun peccato ha generato al corpo il Capo, la Chiesa nella remissione di tutti i peccati ha partorito al Capo il corpo. Tutt’e due sono madri di Cristo, ma nessuna delle due genera il tutto senza l’altra. Perciò giustamente nelle Scritture divinamente ispirate quel ch’è detto in generale della vergine madre Chiesa, s’intende singolarmente della vergine madre Maria; e quel che si dice in modo speciale della vergine madre Maria, va riferito in generale alla vergine madre Chiesa; e quanto si dice di una delle due, può essere inteso indifferentemente dell’una e dell’altra. Anche la singola anima fedele può essere considerata come sposa del Verbo di Dio, madre, figlia e sorella di Cristo, vergine e feconda. Vien detto dunque in generale per la Chiesa, in modo speciale per Maria, in particolare anche per l’anima fedele, dalla stessa Sapienza di Dio che è il Verbo del Padre: Fra tutti questi cercai un luogo di riposo e nell’eredità del Signore mi stabilii (cfr. Sir 24,7.12). Eredità del Signore in modo universale è la Chiesa, in modo speciale Maria, in modo particolare ogni anima fedele. Nel tabernacolo del grembo di Maria Cristo dimorò nove mesi; nel tabernacolo della fede della Chiesa sino alla fine del mondo; nella conoscenza e nell’amore dell’anima fedele per l’eternità.",
+            "responsorio": "Responsorio (Lv 26,11-12; 2Cor 6,16)\nR. Ristabilirò la mia dimora in mezzo a voi e nonvi respingerò; camminerò in mezzo a voi,\n*sarò vostro Dio e voi sarete ilmio popolo.\nV. Voi siete il tempio del Dio vivo, dice il Signore;\nR. sarò vostro Dio e voi sarete il mio popolo."
+        }
+    ],
+    "codice": "avvento-iii-sabato-ii",
+    "fonte_raw": "Avvento/AVV03/bien_pari/7SAB.txt"
+}

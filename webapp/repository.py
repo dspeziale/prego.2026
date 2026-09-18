@@ -448,6 +448,21 @@ class LiturgiaRepository:
         """
         if self._biennale_store is None:
             return None
+        # Prima le ferie a data fissa (17-24 dicembre e Tempo di Natale):
+        # le loro letture sono proprie del giorno del mese, non della
+        # settimana. Con il ciclo dell'anno, poi senza.
+        try:
+            day = date.fromisoformat(metadata.get("data") or "")
+        except ValueError:
+            day = None
+        if day is not None and metadata.get("tempo_liturgico"):
+            for cycle in (metadata.get("ciclo_biennale") or "", ""):
+                code = BiennaleStore.date_code(
+                    metadata["tempo_liturgico"], day.day, day.month, cycle
+                )
+                entry = self._biennale_store.load(code)
+                if entry:
+                    return entry
         base = {
             "tempo_liturgico": metadata.get("tempo_liturgico") or "",
             "settimana_del_tempo": metadata.get("settimana_del_tempo") or "",
@@ -494,6 +509,7 @@ class LiturgiaRepository:
     def _biennale_sections(self, entry: Dict[str, Any]) -> List[HourSection]:
         """Sezioni del Biennale nel layout delle ore."""
         header = " · ".join(part for part in (
+            entry.get("data_estesa"),
             entry.get("settimana_del_tempo"),
             re.sub(r"^Tempo (di )?", "", entry.get("tempo_liturgico") or ""),
             entry.get("giorno_settimana"),

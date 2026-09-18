@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "IV",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "15,14-32",
+            "sottotitolo": "Ministero di Paolo",
+            "fonte": "Dalla lettera ai Romani di san Paolo, apostolo",
+            "testo": "Fratelli miei, sono anch’io convinto, per quel che vi riguarda, che voi pure siete pieni di bontà, colmi di ogni conoscenza e capaci di correggervi l’uno l’altro. Tuttavia vi ho scritto con un po’ di audacia, in qualche parte, come per ricordarvi quello che già sapete, a causa della grazia che mi è stata concessa da parte di Dio di essere un ministro di Gesù Cristo tra i pagani, esercitando l’ufficio sacro del vangelo di Dio perché i pagani divengano una oblazione gradita, santificata dallo Spirito Santo. Questo è in realtà il mio vanto in Gesù Cristo di fronte a Dio; non oserei infatti parlare di ciò che Cristo non avesse operato per mezzo mio per condurre i pagani all’obbedienza, con parole e opere, con la potenza di segni e di prodigi, con la potenza dello Spirito. Così da Gerusalemme e dintorni fino all’Illiria, ho portato a termine la predicazione del vangelo di Cristo. Ma mi sono fatto un punto di onore di non annunziare il vangelo se non dove ancora non era giunto il nome di Cristo, per non costruire su un fondamento altrui, ma come sta scritto: Lo vedranno coloro ai quali non era stato annunziato e coloro che non ne avevano udito parlare, comprenderanno. Per questo appunto fui impedito più volte di venire da voi. Ora però, non trovando più un campo d’azione in queste regioni e avendo già da parecchi anni un vivo desiderio di venire da voi, quando andrò in Spagna spero, passando, di vedervi e di esser da voi aiutato per recarmi in quella regione, dopo avere goduto un poco della vostra presenza. Per il momento vado a Gerusalemme, a rendere un servizio a quella comunità; la Macedonia e l’Acaia infatti hanno voluto fare una colletta a favore dei poveri che sono nella comunità di Gerusalemme. L’hanno voluto perché sono ad essi debitori: infatti, avendo i pagani partecipato ai loro beni spirituali, sono in debito di rendere un servizio sacro nelle loro necessità materiali. Fatto questo e presentato ufficialmente ad essi questo frutto, andrò in Spagna passando da voi. E so che, giungendo presso di voi, verrò con la pienezza della benedizione di Cristo. Vi esorto perciò, fratelli, per il Signore nostro Gesù Cristo e l’amore dello Spirito, a lottare con me nelle preghiere che rivolgete per me a Dio, perché io sia liberato dagli infedeli della Giudea e il mio servizio a Gerusalemme torni gradito a quella comunità, sicché io possa venire da voi nella gioia, se così vuole Dio, e riposarmi in mezzo a voi. Il Dio della pace sia con tutti voi. Amen.",
+            "responsorio": "Responsorio (Rm 15,15.16; 1,9)\nR. Mi è stata concessa la grazia da parte di Dio di essere unministro di Gesù Cristo tra i pagani, esercitando l’ufficio sacro del vangelo di Dio,\n*perché i pagani divengano un’oblazione gradita,santificata dallo Spirito Santo.\nV. A Dio Padre rendo culto nel mio spirito annunziando il vangelodel Figlio suo,\nR. perché i pagani divengano un’oblazione gradita, santificata dalloSpirito Santo."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "7-8",
+            "sottotitolo": "Vivo nella brama di morire",
+            "fonte": "Dalla “Lettera ai Romani” di sant’Ignazio di Antiochia, vescovo e martire",
+            "testo": "Il principe di questo mondo vuole rovinarmi, corrompendo la mia volontà rivolta a Dio. Nessuno di voi, perciò, lo aiuti: tenete piuttosto le mie parti, cioè quelle di Dio. Non abbiate Gesù Cristo sulle labbra e il mondo nel cuore. Non dimori tra voi l’invidia. E anche se quando sarò là vi dovessi supplicare, non mi date retta: credete piuttosto a ciò che vi scrivo ora. Vi scrivo infatti nella pienezza della mia vita, mentre bramo di morire. Il mio amore è crocifisso, e non vi e più in me un fuoco di concupiscenza terrena, ma un acqua viva che mormora in me e dall’intimo mi dice: Vieni al Padre! Non gusto più il cibo corruttibile né i piaceri di questo mondo. Voglio il pane di Dio, che è la carne di Gesù Cristo della stirpe di Davide; ho sete del suo sangue, che è amore incorruttibile. Non voglio più vivere secondo gli uomini. E questo avverrà, se voi lo vorrete. Vogliatelo, vi prego, e sarete da lui amati. Ve lo chiedo con poche parole: credetemi! Gesù Cristo vi farà capire chiaramente che vi dico la verità: egli è la bocca della verità, attraverso il quale il Padre veramente ci ha parlato. Pregate per me, perché possa raggiungerlo. Non vi ho scritto secondo la carne, ma secondo lo Spirito di Dio. Se soffrirò il martirio mi avrete amato; se sarò respinto mi avrete odiato.",
+            "responsorio": "Responsorio (Col 1,24.29)\nR. Sono lieto delle sofferenze;\n*e completo nella mia carne quelloche manca ai patimenti di Cristo, a favore del suo corpo che è la Chiesa.\nV. Mi affatico e lotto con la forza che viene da lui e che agisce inme con potenza;\nR. e completo nella mia carne quello che manca ai patimenti diCristo, a favore del suo corpo che è la Chiesa."
+        }
+    ],
+    "codice": "ordinario-iv-venerdi-i",
+    "fonte_raw": "Ordinario/04_BIEN/bien_dispari/6VEN.txt"
+}

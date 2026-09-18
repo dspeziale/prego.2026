@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "X",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "1,1-11",
+            "sottotitolo": "Saluto e rendimento di grazie",
+            "fonte": "Dalla lettera ai Filippesi di san Paolo, apostolo",
+            "testo": "Paolo e Timoteo, servi di Cristo Gesù, a tutti i santi in Cristo Gesù che sono a Filippi, con i vescovi e i diaconi. Grazia a voi e pace da Dio, Padre nostro, e dal Signore Gesù Cristo. Ringrazio il mio Dio ogni volta ch’io mi ricordo di voi, pregando sempre con gioia per voi in ogni mia preghiera, a motivo della vostra cooperazione alla diffusione del vangelo dal primo giorno fino al presente, e sono persuaso che colui che ha iniziato in voi quest’opera buona, la porterà a compimento fino al giorno di Cristo Gesù. È giusto, del resto, che io pensi questo di tutti voi, perché vi porto nel cuore, voi che siete tutti partecipi della grazia che mi è stata concessa, sia nelle catene, sia nella difesa e nel consolidamento del vangelo. Infatti Dio mi è testimonio del profondo affetto che ho per tutti voi nell’amore di Cristo Gesù. E perciò prega che la vostra carità si arricchisca sempre più in conoscenza e in ogni genere di discernimento, perché possiate distinguere sempre il meglio ed essere integri e irreprensibili per il giorno di Cristo, ricolmi di quei frutti di giustizia che si ottengono per mezzo di Gesù Cristo, a gloria e lode di Dio.",
+            "responsorio": "Responsorio (Cfr. Fil 1,9.10.6)\nR. La vostra carità si arricchisca sempre più inconoscenza e in discernimento,\n*perché possiate distinguere il meglio edessere integri e irreprensibili.\nV. Colui che ha iniziato in voi quest’operabuona, la porterà a compimento fino al giorno di Cristo Gesù,\nR. perché possiate distinguere meglio ed essereintegri e irreprensibili."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Cc 1,1–2,3",
+            "sottotitolo": "Foste salvati gratuitamente",
+            "fonte": "Dalla “Lettera ai Filippesi” di san Policarpo, vescovo e martire",
+            "testo": "Policarpo e i presbiteri, che sono con lui, alla Chiesa di Dio che risiede come pellegrina in Filippi: la misericordia e la pace di Dio onnipotente e di Gesù Cristo nostro salvatore siano in abbondanza su di voi. Prendo parte vivamente alla vostra gioia nel Signore nostro Gesù Cristo perché avete praticato la parola della carità più autentica. Infatti avete aiutato nel loro cammino i santi avvinti da catene, catene che sono veri monili e gioielli per coloro che furono scelti da Dio e dal Signore nostro. Gioisco perché la salda radice della vostra fede, che vi fu annunziata fin dal principio, sussiste fino al presente e porta frutti in Gesù Cristo nostro Signore. Egli per i nostri peccati accettò di giungere fino alla morte, ma «Dio lo ha risuscitato sciogliendolo dalle angosce della morte» (At 2,24), e in lui, senza vederlo, credete con una gioia indicibile e gloriosa (cfr. 1Pt 1,8), alla quale molti vorrebbero partecipare; e sapete bene che siete stati salvati per grazia, non per le vostre opere, ma per la volontà di Dio mediante Gesù Cristo (cfr. Ef 2,8-9). «Perciò dopo aver preparato la vostra mente all’azione» (1Pt 1,13), «servite Dio con timore» (Sal 2,11) e nella verità, lasciando da parte le chiacchiere inutili e gli errori grossolani e credendo in colui che ha risuscitato nostro Signore Gesù Cristo dai morti e gli ha dato gloria (cfr. 1Pt 1,21), facendolo sedere alla propria destra. A lui sono sottomesse tutte le cose nei cieli e sulla terra, a lui obbedisce ogni vivente. Egli verrà a giudicare i vivi e i morti e Dio chiederà conto del suo sangue a quanti rifiutano di credergli. Colui che lo ha risuscitato dai morti, risusciterà anche noi, se compiremo la sua volontà, se cammineremo secondo i suoi comandi e ameremo ciò che egli amò, astenendoci da ogni specie di ingiustizia, inganno, avarizia, calunnia, falsa testimonianza, «non rendendo male per male, né ingiuria per ingiuria» (1Pt 3,9), colpo per colpo, maledizione per maledizione, memori dell’insegnamento del Signore che disse: Non giudicate per non esser giudicati; perdonate e vi sarà perdonato; siate misericordiosi per ricevere misericordia; con la misura con cui misurate, sarà misurato a voi (cfr. Mt 7,1; Lc 6,36-38) e: Beati i poveri e i perseguitati per causa della giustizia, perché di essi è il regno dei cieli (cfr. Mt 5,3.10).",
+            "responsorio": "Responsorio (2Tm 1,9; Sal 113b,1)\nR. Dio ci ha salvati e ci ha chiamati con unavocazione santa, non in base alle nostre opere, ma secondo il suo disegno di grazia;\n*grazia che ci è stata data in Cristo Gesù fin dall’inizio deitempi.\nV. Non a noi, Signore, non a noi, ma al tuo nomedà gloria, per la tua fedeltà, per la tua grazia;\nR. grazia che ci è stata data in Cristo Gesù findall’inizio dei tempi."
+        }
+    ],
+    "codice": "ordinario-x-domenica-ii",
+    "fonte_raw": "Ordinario/10_BIEN/bien_pari/1DOM.txt"
+}

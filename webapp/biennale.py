@@ -27,6 +27,11 @@ YEARS = ("A", "B", "C", "A/B/C")
 
 CYCLES = ("I", "II")
 
+MONTHS_IT = (
+    "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
+    "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre",
+)
+
 ROMAN_WEEKS = (
     "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
     "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX",
@@ -66,6 +71,16 @@ class BiennaleStore:
             _slug(entry.get("anno_liturgico") or ""),
             _slug(entry.get("ciclo_biennale") or ""),
         ]
+        return "-".join(part for part in parts if part)
+
+    @staticmethod
+    def date_code(season: str, day: int, month: int, cycle: Optional[str]) -> str:
+        """Slug delle ferie a data fissa (17-24 dicembre, Tempo di Natale).
+
+        Es. 'natale-2-gennaio-i', 'avvento-17-dicembre-ii': le letture di
+        quei giorni sono proprie della data, non della settimana.
+        """
+        parts = [_slug(season), str(day), _slug(MONTHS_IT[month - 1]), _slug(cycle or "")]
         return "-".join(part for part in parts if part)
 
     @staticmethod
@@ -160,6 +175,18 @@ class BiennaleStore:
             }
             if reading["riferimento"] or reading["testo"]:
                 entry["letture"].append(reading)
+        # voce a data fissa (campo nascosto della form di modifica): il
+        # codice resta quello per data, così il file non cambia nome
+        date_match = re.fullmatch(r"(\d{2})-(\d{2})", (form.get("data") or "").strip())
+        if date_match:
+            day, month = int(date_match.group(1)), int(date_match.group(2))
+            if 1 <= day <= 31 and 1 <= month <= 12:
+                entry["data"] = f"{day:02d}-{month:02d}"
+                entry["data_estesa"] = f"{day} {MONTHS_IT[month - 1]}"
+                entry["codice"] = BiennaleStore.date_code(
+                    season, day, month, entry["ciclo_biennale"]
+                )
+                return entry
         entry["codice"] = BiennaleStore.code(entry)
         if not BiennaleStore.is_valid_code(entry["codice"]):
             raise ValueError("Impossibile generare il nome del file.")

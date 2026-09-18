@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXI",
+    "giorno_settimana": "Martedì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "5,8-21",
+            "sottotitolo": "Camminate come figli della luce",
+            "fonte": "Dalla lettera agli Efesini di san Paolo, apostolo",
+            "testo": "Fratelli, se un tempo eravate tenebra, ora siete luce nel Signore. Comportatevi perciò come i figli della luce; il frutto della luce consiste in ogni bontà, giustizia e verità. Cercate ciò che è gradito al Signore, e non partecipate alle opere infruttuose delle tenebre, ma piuttosto condannatele apertamente, poiché di quanto viene fatto da costoro in segreto è vergognoso perfino parlare. Tutte queste cose che vengono apertamente condannate sono rivelate dalla luce, perché tutto quello che si manifesta è luce. Per questo sta scritto: «Svegliati, o tu che dormi, destati dai morti e Cristo ti illuminerà». Vigilate dunque attentamente sulla vostra condotta, comportandovi non da stolti, ma da uomini saggi; profittando del tempo presente, perché i giorni sono cattivi. Non siate perciò inconsiderati, ma sappiate comprendere la volontà di Dio. E non ubriacatevi di vino, il quale porta alla sfrenatezza, ma siate ricolmi dello Spirito intrattenendovi a vicenda con salmi, inni, cantici spirituali, cantando e inneggiando al Signore con tutto il vostro cuore, rendendo continuamente grazie per ogni cosa a Dio Padre, nel nome del Signore nostro Gesù Cristo. Siate sottomessi gli uni agli altri nel timore di Cristo.",
+            "responsorio": "Responsorio (Ef 5,8-9; Mt 5,14.16)\nR. Voi siete luce nel Signore: comportatevi comei figli della luce.\n*Il frutto della luce consiste in ogni bontà,giustizia e verità.\nV. Voi siete la luce del mondo. Risplenda lavostra luce davanti agli uomini.\nR. Il frutto della luce consiste in ogni bontà,giustizia e verità."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "13-14",
+            "sottotitolo": "Quando si salmodia, tutti devono salmodiare",
+            "fonte": "Dal trattato “Il bene della salmodia” di Niceta di Reims, vescovo",
+            "testo": "Carissimi, salmodiamo con animo intento e mente vigile, come ci esorta il salmista dicendo: «Dio è re di tutta la terra, cantate inni con arte» (Sal 46,7); in modo che il salmo sia recitato non solo con lo «spirito», cioè con il suono della voce, ma anche con la «mente» (cfr. 1Cor 14,15) meditando interiormente ciò che salmodiamo, affinché la mente, dominata da pensieri estranei, non abbia ad affaticarsi senza frutto. Tutto dev’essere celebrato stando alla presenza di Dio, e non con la preoccupazione di piacere agli uomini o a se stessi. Abbiamo un esempio di questa consonanza della voce in quei tre beatissimi fanciulli dei quali ci parla il libro di Daniele, quando dice: «Allora quei tre giovani, a una sola voce, si misero a lodare, a glorificare, a benedire Dio nella fornace dicendo: Benedetto sei tu, Signore, Dio dei padri nostri (Dn 3,51-52). Vedi come ci viene insegnato che i tre lodavano il Signore a una sola voce, affinché noi tutti pure esprimiamo all’unanimità lo stesso sentire con la stessa modulazione di voce. Perciò quando si salmodia, tutti devono salmodiare; quando si prega, tutti devono pregare, quando viene proclamata la lettura, fatto silenzio, tutti insieme ascoltino, e non accada che mentre il lettore proclama la lettura un altro disturbi pregando ad alta voce. Se poi tu dovessi arrivare durante la lettura, compiuta l’adorazione a Dio e il segno della croce, disponiti con sollecitudine all’ascolto. Ti è dato il tempo della preghiera quando tutti preghiamo, e ti è ancora dato tutte le volte che vorrai pregare privatamente: però per pregare non perdere la lettura, perché questa non puoi averla a tua disposizione sempre e nel modo che vuoi, mentre la possibilità di pregare è sempre alla tua portata. E non credere che sia di poca utilità l’ascolto della sacra lettura: infatti la stessa preghiera si arricchisce, poiché la mente, nutrita dalle realtà divine ascoltate, procede con maggior facilità. Infatti Maria, che lasciata la sorella Marta , stando seduta ai piedi di Gesù più attentamente ne ascoltava la parola, «si è scelta la parte migliore» (cfr. Lc 10,39.42), come ha confermato il Signore. Perciò il diacono proclama a chiara voce ammonendo tutti perché nella preghiera, nelle prostrazioni, nella salmodia, come nell’ascolto delle sacre letture, conservino l’unità; il Signore ama infatti coloro che sono unanimi, e li fa abitare nella sua casa (cfr. Sal 67,7 Volg.).",
+            "responsorio": "Responsorio (Sal 137,1-2; 117,28)\nR. A te voglio cantare davanti agli angeli, miprostro verso il tuo tempio santo.\n*Rendo grazie al tuo nome, Signore.\nV. Sei tu il mio Dio e ti rendo grazie, sei ilmio Dio e ti esalto.\nR. Rendo grazie al tuo nome, Signore."
+        }
+    ],
+    "codice": "ordinario-xxi-martedi-i",
+    "fonte_raw": "Ordinario/21_BIEN/bien_dispari/3MAR.txt"
+}

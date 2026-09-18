@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XVIII",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "3,1–4,8 - Volg. 2,28–3,8",
+            "sottotitolo": "Il giudizio finale",
+            "fonte": "Dal libro del profeta Gioele",
+            "testo": "Io effonderò il mio spirito sopra ogni uomo e diverranno profeti i vostri figli e le vostre figlie; i vostri anziani faranno sogni, i vostri giovani avranno visioni. Anche sopra gli schiavi e sulle schiave, in quei giorni, effonderò i1 mio spirito. Farò prodigi nel cielo e sulla terra, sangue e fuoco e colonne di fumo. Il sole si cambierà in tenebre e la luna in sangue, prima che venga il giorno del Signore, grande e terribile. Chiunque invocherà il nome del Signore sarà salvato, poiché sul monte Sion e in Gerusalemme vi sarà la salvezza, come ha detto il Signore, anche per i superstiti che il Signore avrà chiamato. Poiché, ecco, in quei giorni e in quel tempo, quando avrò fatto tornare i prigionieri di Giuda e Gerusalemme, riunirò tutte le nazioni e le farò scendere nella valle di Giòsafat, e là verrò a giudizio con loro per il mio popolo Israele, mia eredità, che essi hanno disperso fra le genti dividendosi poi la mia terra. Hanno tirato a sorte il mio popolo e hanno dato un fanciullo in cambio di una prostituta, han venduto una fanciulla in cambio di vino e hanno bevuto. Anche voi, Tiro e Sidone, e voi tutte contrade della Filistea, che siete per me? Vorreste prendervi la rivincita e vendicarvi di me? Io ben presto farò ricadere sul vostro capo il male che avete fatto. Voi infatti avete rubato il mio oro e il mio argento, avete portato nei vostri templi i miei tesori preziosi; avete venduto ai Greci i figli di Giuda e i figli di Gerusalemme per mandarli lontano dalla loro patria. Ecco, io li richiamo dalle città, dal luogo dove voi li avete venduti e farò ricadere sulle vostre teste il male che avete fatto. Venderò i vostri figli e le vostre figlie, per mezzo dei figli di Giuda, i quali li venderanno ai Sabei, un popolo lontano. Il Signore ha parlato.",
+            "responsorio": "Responsorio (Gl 3,2-3.5 - Volg. 2,29.30.32)\nR. Sopra gli schiavi e sulle schiave, in quei giorni effonderò ilmio spirito; farò prodigi nel cielo e sulla terra.\n*Chiunque invocherà ilnome del Signore sarà salvato.\nV. Sul monte Sion e in Gerusalemme vi sarà la salvezza, anche peri superstiti che il Signore avrà chiamato.\nR. Chiunque invocherà il nome del Signore sarà salvato."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "",
+            "sottotitolo": "",
+            "fonte": "Dal “Discorso sul battesimo” di san Gregorio di Nissa, v. «Venite, benedetti del Padre mio, ricevete in eredità il regno preparato per voi fin dalla fondazione del mondo»",
+            "testo": "Colui che ha ricevuto il lavacro della rigenerazione, è come una recluta appena inquadrata nell’esercito, che non ha ancora compiuto gesti valorosi o eroici, degni di un vero soldato. Allo stesso modo dunque che uno non si ritiene un uomo forte per aver indossato cintura e mantello, né si presenta confidenzialmente al re per parlargli come fosse uno della famiglia, né gli chiede ricompense che si danno a coloro che si sono affaticati e comportati valorosamente: così anche tu ricevuta la grazia, non credere di poter vivere coi giusti e di ricevere la loro eredità se non affronterai prima molti pericoli per la fede, se non avrai dichiarato guerra alla carne e con essa non avrai resistito al demonio e a tutte le seduzioni degli spiriti cattivi. Anzi, se ci pare meglio, prendiamo le stesse parole del Signore, che saranno proferite nel comune giudizio, e insegnano esattamente ciò che propongono: «Venite, benedetti del Padre mio, ricevete in eredità il regno preparato per voi fin dalla fondazione del mondo» (Mt 25,34). Per qual motivo? Non perché siete stati rivestiti di incorruttibilità né perché avete lavato i vostri peccati, ma perché avete operato rettamente nella carità. E subito segue l’elenco di coloro che sono stati nutriti, dissetati, rivestiti. A ragione il giudice, che non può essere ingannato, giudica così. La grazia infatti è un dono di Dio. Ora, si è giustamente onorati per il comportamento della propria vita; ma per la grazia ricevuta nessuno chiede ricompensa, anzi si sente debitore. Perciò, illuminati dal battesimo, dobbiamo gratitudine a chi ci ha beneficati. E la nostra gratitudine verso Dio si dimostra con la bontà che abbiamo per i nostri simili, col prenderci cura della nostra salvezza e della virtù. Abbandonate dunque la vostra stolta opinione, voi che vi appellate al battesimo negli ultimi istanti della vita; e sappiate che la fede richiede come sorella la speranza, la quale nasce da una vita vissuta nella carità. Per suo mezzo diventiamo degni, per volontà e opera di Dio: a lui l’adorazione ora e sempre, nei secoli dei secoli. Amen.",
+            "responsorio": "Responsorio (Mt 16,27; 2Ts 1,10)\nR. Il Figlio dell’uomo verrà nella gloria del Padre suo, con isuoi angeli,\n*e renderà a ciascuno secondo le sue azioni.\nV. Egli verrà per essere glorificato nei suoi santi ed esserericonosciuto mirabile in tutti quelli che avranno creduto;\nR. e renderà a ciascuno secondo le sue azioni."
+        }
+    ],
+    "codice": "ordinario-xviii-mercoledi-ii",
+    "fonte_raw": "Ordinario/18_BIEN/bien_pari/4MER.txt"
+}

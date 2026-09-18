@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXVIII",
+    "giorno_settimana": "Venerdì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "17,13-27; Volg. 17,13-31",
+            "sottotitolo": "Esortazione a convertirsi",
+            "fonte": "Dal libro del Siracide",
+            "testo": "Le vie degli uomini sono sempre davanti a lui, non restano nascoste ai suoi occhi. Su ogni popolo mise un capo, ma Israele è la porzione del Signore. Tutte le loro opere sono davanti a lui come il sole, i suoi occhi osservano sempre la loro condotta. A lui non sono nascoste le loro ingiustizie, tutti i loro peccati sono davanti al Signore. La beneficenza dell’uomo è per lui come un sigillo, egli serberà la generosità come la propria pupilla. Alla fine si leverà e renderà loro la ricompensa, riverserà su di loro il contraccambio. Ma a chi si pente egli offre il ritorno, consola quanti vengono meno nella pazienza. Ritorna al Signore e cessa di peccare, prega davanti a lui e cessa di offendere. Fa’ ritorno all’Altissimo e volta le spalle all’ingiustizia; detesta interamente l’iniquità. Negli inferi infatti chi loderà l’Altissimo, al posto dei viventi e di quanti gli rendono lode? Da un morto, che non è più, la riconoscenza si perde, chi è vivo e sano loda il Signore. Quanto è grande la misericordia del Signore, il suo perdono per quanti si convertono a lui! L’uomo non può avere tutto, poiché un figlio dell’uomo non è immortale. Che c’è di più luminoso del sole? Anch’esso scompare. Così carne e sangue pensano al male. Esso sorveglia le schiere delle altezze celesti, ma gli uomini sono tutti terra e cenere.",
+            "responsorio": "Responsorio (Cfr. Sir 17,13.24.15)\nR. Le vie degli uomini sono sempre davanti a Dio, non restano nascosteai suoi occhi.\n*Quanto è grande la misericordia del Signore, il suoperdono per quanti si convertono a lui!\nV. Tutte le loro opere sono davanti a lui come il sole, i suoi occhiosservano sempre la loro condotta.\nR. Quanto è grande la misericordia del Signore, il suo perdono perquanti si convertono a lui!"
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "C. 10",
+            "sottotitolo": "L’uomo immortale è uno stupendo inno a gloria di Dio",
+            "fonte": "Dalla “Esortazione ai pagani” di Clemente Alessandrino",
+            "testo": "«Si ravvivi il cuore di chi cerca Dio» (Sal 68,33). Chi cerca Dio si prende cura della propria salvezza. L’hai trovato? Possiedi la vita. Cerchiamolo dunque, per avere la vita. Il compenso di averlo trovato è la vita presso di lui. «Gioia e allegrezza grande per quelli che ti cercano; dicano sempre: Dio è grande» (Sal 69,5). Uno stupendo inno a gloria di Dio è l’uomo immortale, che è fondato sulla giustizia e porta scolpite nel suo cuore le sentenze della verità. E in realtà dove si può iscrivere la giustizia, se non in un cuore saggio? Dove la carità. Dove il pudore? Dove la mansuetudine? Coloro i cui cuori furono segnati con questi divini sigilli penso che abbiano raggiunto la sublime meta della sapienza, per essere di lì lanciati in tutti i casi della vita. Quella stessa sapienza può anche essere considerata come un sicuro porto di salvezza. Per essa sono buoni padri per i figli coloro che hanno trovato misericordia presso il Padre, sono buoni mariti per le mogli gli uomini che si ricordano dello Sposo, infine sono buoni padroni per i loro servi quelli che sono stati liberati dalla più grave delle schiavitù. E voi, che avete sciupato tanto tempo nell’empietà, non vi vergognate di essere diventati più irragionevoli degli animali privi di ragione? Siete stati infatti bambini, poi adolescenti, poi giovani e infine uomini, ma buoni mai. Abbiate almeno rispetto per la vecchiaia, ora che siete avviati al tramonto della vita. Ravvedetevi in quest’ultimo scorcio della vostra esistenza e confessate a Dio, in maniera che la fine della vita vi procuri un inizio di salvezza. In realtà i cibi più dolci ci fanno piacere e sono preferiti da noi per le attrattive del gusto insite in essi; e tuttavia sono quelli amari, che feriscono e irritano il palato, a curarci e restituirci la salute, anzi l’amarezza del medicamento fortifica e irrobustisce le persone delicate di stomaco. Allo stesso modo l’abitudine ci piace e ci solletica, ma è quella che ci precipita nel baratro. Quella invece che porta in cielo è la verità, che in un primo momento è più aspra, ma poi è «ottima nutrice di giovani» (Omero, Odissea V, 27); essa è un grave e decoroso senato, pieno di saggezza. Non è di difficile accesso, né tale che gli uomini non possano raggiungerla; ma è vicinissima, dimora nella nostra casa e, come accenna simbolicamente quell’uomo adorno di ogni sapienza che fu Mosè, risiede nelle nostre membra e cioè nelle mani, nella bocca e nel cuore (cfr. Dt 30,14). Questa espressione è un autentico simbolo della verità, perché per compierla completamente ci vogliono tre requisiti: la riflessione, l’azione e la preghiera.",
+            "responsorio": "Responsorio (Cfr. Sap 7,30; 8,1; At 15,18)\nR. La sapienza non è mai sopraffatta dalla malvagità.\n*Si estende conpotenza da un’estremità all’altra del mondo.\nV. Dio conosce la sua opera dall’eternità.\nR. Si estende con potenza da un’estremità all’altra del mondo."
+        }
+    ],
+    "codice": "ordinario-xxviii-venerdi-ii",
+    "fonte_raw": "Ordinario/28_BIEN/bien_pari/6VEN.txt"
+}

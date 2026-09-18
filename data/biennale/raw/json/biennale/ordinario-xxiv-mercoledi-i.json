@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "XXIV",
+    "giorno_settimana": "Mercoledì",
+    "anno_liturgico": null,
+    "ciclo_biennale": "I",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "11,1-9; Volg. 1b-11",
+            "sottotitolo": "La misericordia di Dio non viene meno",
+            "fonte": "Dal libro del profeta Osea",
+            "testo": "Così dice il Signore: «Quando Israele era giovinetto, io l’ho amato e dall’Egitto ho chiamato mio figlio. Ma più li chiamavo, più si allontanavano da me; immolavano vittime ai Baal, agli idoli bruciavano incensi. Ad Èfraim io insegnavo a camminare tenendolo per mano, ma essi non compresero che avevo cura di loro. Io li traevo con legami di bontà, con vincoli d’amore; ero per loro come chi solleva un bimbo alla sua guancia; mi chinavo su di lui per dargli da mangiare. Ritornerà al paese d’Egitto, Assur sarà il suo re, perché non hanno voluto convertirsi. La spada farà strage nelle loro città, sterminerà i loro figli, demolirà le loro fortezze. Il mio popolo è duro a convertirsi: chiamato a guardare in alto nessuno sa sollevare lo sguardo. Come potrei abbandonarti, Èfraim, come consegnarti ad altri, Israele? Come potrei trattarti al pari di Adma, ridurti allo stato di Zeboim? Il mio cuore si commuove dentro di me, il mio intimo freme di compassione. Non darò sfogo all’ardore della mia ira, non tornerò a distruggere Èfraim, perché sono Dio e non uomo; sono il Santo in mezzo a te e non verrò nella mia ira. Seguiranno il Signore ed egli ruggirà come un leone: quando ruggirà, accorreranno i suoi figli dall’occidente, accorreranno come uccelli dall’Egitto, come colombe dall’Assiria e li farò abitare nelle loro case. Oracolo del Signore».",
+            "responsorio": "Responsorio (Os 11,8.9; Ger 31,3)\nR. Il mio cuore si commuove dentro di me, il miointimo freme di compassione, dice il Signore.\n*Non darò sfogo all’ardoredella mia ira, perché sono Dio e non uomo.\nV. Ti ho amato di amore eterno, per questo ticonservo ancora pietà.\nR. Non darò sfogo all’ardore della mia ira,perché sono Dio e non uomo."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "C. 13",
+            "sottotitolo": "Dio abisso di carità",
+            "fonte": "Dal “Dialogo della Divina Provvidenza” di santa Caterina da Siena, vergine",
+            "testo": "Signore mio dolcissimo, volgi l’occhio della tua misericordia sopra il popolo tuo e sul corpo mistico della santa Chiesa. Tu sarai glorificato assai più perdonando e dando la luce dell’intelletto a molti, che non ricevendo l’omaggio da una sola creatura miserabile, quale sono io, che tanto t’ho offeso e sono stata causa e strumento di tanti mali. Che avverrebbe di me se vedessi me viva, e morto il tuo popolo? Che avverrebbe se, per i miei peccati e quelli delle altre creature, dovessi vedere nelle tenebre la Chiesa, tua Sposa diletta, che è nata per essere luce? Ti chiedo, dunque, misericordia per il tuo popolo in nome della carità increata che mosse te medesimo a creare l’uomo a tua immagine e somiglianza. Quale fu la ragione che tu ponessi l’uomo in tanta dignità? Certo l’amore inestimabile col quale hai guardato in te medesimo la tua creatura e ti sei innamorato di lei. Ma poi per il peccato commesso perdette quella sublimità alla quale l’avevi elevata. Tu, mosso da quel medesimo fuoco col quale ci hai creati, hai voluto offrire al genere umano il mezzo per riconciliarsi con te. Per questo ci hai dato il Verbo, tuo unico Figlio. Egli fu il mediatore tra te e noi. Egli fu nostra giustizia, che punì sopra di sé le nostre ingiustizie. Ubbidì al comando che tu, Eterno Padre, gli desti quando lo rivestisti della nostra umanità. O abisso di carità! Qual cuore non si sentirà gonfio di commozione al vedere tanta altezza discesa a tanta bassezza, cioè alla condizione della nostra umanità? Noi siamo immagine tua, e tu immagine nostra per l’unione che hai stabilito fra te e l’uomo, velando la divinità eterna con la povera nube dell’umanità corrotta di Adamo. Quale il motivo? Certo l’amore. Per questo amore ineffabile ti prego e ti sollecito a usare misericordia alle tue creature.",
+            "responsorio": "Responsorio (Sal 100,1-3)\nR. Amore e giustizia voglio cantare, vogliocantare inni a te, o Signore.\n*Camminerò con cuore integro, dentro la miacasa.\nV. Agirò con saggezza nella via dell’innocenza:quando verrai a me?\nR. Camminerò con cuore integro dentro la mia casa."
+        }
+    ],
+    "codice": "ordinario-xxiv-mercoledi-i",
+    "fonte_raw": "Ordinario/24_BIEN/bien_dispari/4MER.txt"
+}

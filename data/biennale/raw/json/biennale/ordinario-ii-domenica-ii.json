@@ -1,0 +1,27 @@
+{
+    "tempo_liturgico": "Tempo Ordinario",
+    "settimana_del_tempo": "II",
+    "giorno_settimana": "Domenica",
+    "anno_liturgico": null,
+    "ciclo_biennale": "II",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "9,1-17",
+            "sottotitolo": "Il patto di Dio con Noè e la sua discendenza",
+            "fonte": "Dal libro della Genesi",
+            "testo": "Dio benedisse Noè e i suoi figli e disse loro: «Siate fecondi e moltiplicatevi e riempite la terra. Il timore e il terrore di voi sia in tutte le bestie selvatiche e in tutto il bestiame e in tutti gli uccelli del cielo. Quanto striscia sul suolo e tutti i pesci del mare sono messi in vostro potere. Quanto si muove e ha vita vi servirà di cibo: vi do tutto questo, come già le verdi erbe. Soltanto non mangerete la carne con la sua vita, cioè il suo sangue. Del sangue vostro anzi, ossia della vostra vita, io domanderò conto; ne domanderò conto ad ogni essere vivente e domanderò conto della vita dell’uomo all’uomo, a ognuno di suo fratello. Chi sparge il sangue dell’uomo dall’uomo il suo sangue sarà sparso, perché ad immagine di Dio Egli ha fatto l’uomo. E voi siate fecondi e moltiplicatevi, siate numerosi sulla terra e dominatela». Dio disse a Noè e ai suoi figli con lui: «Quanto a me, ecco io stabilisco la mia alleanza con voi e con i vostri discendenti dopo di voi; con ogni essere vivente che è con voi, uccelli, bestiame e bestie selvatiche, con tutti gli animali che sono usciti dall’arca. Io stabilisco la mia alleanza con voi: non sarà più distrutto nessun vivente dalle acque del diluvio, né più il diluvio devasterà la terra». Dio disse: «Questo è il segno dell’alleanza, che io pongo tra me e voi e tra ogni essere vivente che è con voi per le generazioni eterne. Il mio arco pongo sulle nubi ed esso sarà il segno dell’alleanza tra me e la terra. Quando radunerò le nubi sulla terra e apparirà l’arco sulle nubi, ricorderò la mia alleanza che è tra me e voi e tra ogni essere che vive in ogni carne e non ci saranno più le acque per il diluvio, per distruggere ogni carne. L’arco sarà sulle nubi e io lo guarderò per ricordare l’alleanza eterna tra Dio e ogni essere che vive in ogni carne che è sulla terra». Disse Dio a Noè: «Questo è il segno dell’alleanza che io ho stabilito tra me e ogni carne che è sulla terra». I figli di Noè che uscirono dall’arca furono Sem, Cam e Iafet; Cam è il padre di Canaan. Questi tre sono i figli di Noè e da questi fu popolata tutta la terra.",
+            "responsorio": "Responsorio (Cfr. Is 54,9.10)\nR. Come ai giorni di Noè giurai che non avrei più riversato leacque sulla terra, così ora giuro di non più adirarmi con te,\n*névacillerà la mia alleanza di pace.\nV. Anche se i monti si spostassero e i colli vacillassero, mai siallontanerà da te il mio affetto,\nR. né vacillerà la mia alleanza di pace."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "1,1",
+            "sottotitolo": "Grazia a voi e pace da parte di Dio onnipotente",
+            "fonte": "Inizio della “Lettera ai Corinzi” di san Clemente I, papa e martire",
+            "testo": "La Chiesa di Dio, pellegrina in Roma, alla Chiesa di Dio che è pellegrina in Corinto, a coloro che sono stati santificati nella volontà divina per mezzo del Signore nostro Gesù Cristo. Grazia e pace da parte di Dio onnipotente si moltiplichino su di voi per mezzo di Gesù Cristo. A causa delle improvvise sventure e delle continue avversità che ci sono capitate, riteniamo di aver tardato troppo, carissimi, a interessarci dei problemi che si agitano tra voi, cioè all’empia e odiosa sedizione, che non si addice affatto agli eletti di Dio, suscitata da alcuni uomini temerari e spregiudicati, fino a tal punto di insolenza da avvilire il vostro nome onorato e illustre, degno di essere amato da tutti. Chi infatti, che sia stato ospite presso di voi, non ha sperimentato la vostra fede salda e adorna di ogni virtù? Chi non ha ammirato la vostra sobria e modesta pietà verso Cristo e non ha celebrato lo splendore del vostro generoso senso di ospitalità, stimando beata la vostra perfetta e sicura scienza di Dio? Tutto è stato fatto da voi senza preferenza di persone, e procedeste nella legge di Dio sottomessi ai vostri capi, tributando il debito onore agli anziani costituiti tra voi. Ai giovani raccomandavate la moderazione e l’onestà; alle donne, di agire sempre con coscienza inattaccabile, onesta, pura, amando sinceramente il marito, e insegnavate loro ad amministrare con serietà la casa, fedeli alla regola della sottomissione e comportandosi con assoluta onestà.",
+            "responsorio": "Responsorio (Cfr. Ger 6,16; 7,3)\nR. Fermatevi nelle strade e guardate dove sta la strada buona eprendetela\n*così troverete pace per le anime vostre.\nV. Dice il Signore: Migliorate la vostra condotta e le vostreazioni e io abiterò con voi:\nR. così troverete pace per le anime vostre."
+        }
+    ],
+    "codice": "ordinario-ii-domenica-ii",
+    "fonte_raw": "Ordinario/02_BIEN/bien_pari/1DOM.txt"
+}
