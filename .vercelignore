@@ -1,4 +1,5 @@
 data/output
+data/biennale/raw
 android
 __pycache__
 *.pyc
