@@ -1,0 +1,58 @@
+{
+    "data": "24-02",
+    "giorno": 24,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "24 febbraio",
+    "principali": [
+        {
+            "nome": "Sant'Etelberto",
+            "qualifica": "Re del Kent",
+            "descrizione": "Il pagano Etelberto sposò Berta, principessa dei Franchi, consentendole di professare la sua religione e, primo dei sovrani anglosassoni, fu convertito da Agostino di Centerbury inviato dal Papa Gregorio...",
+            "url": "https://www.santodelgiorno.it/sant-etelberto/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Sergio di Cesarea",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-sergio-di-cesarea/"
+        },
+        {
+            "nome": "Beato Tommaso Maria Fusco",
+            "qualifica": "Presbitero",
+            "url": "https://www.santodelgiorno.it/beato-tommaso-mario-fusco/"
+        },
+        {
+            "nome": "Beato Costanzo Servoli da Fabriano",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-costanzo-servoli-da-fabriano/"
+        },
+        {
+            "nome": "Beata Giuseppa Naval Girbès",
+            "qualifica": "Laica",
+            "url": "https://www.santodelgiorno.it/beata-giuseppa-naval-girbes/"
+        },
+        {
+            "nome": "Beata Ascensione del Cuore di Gesù",
+            "qualifica": "Cofondatrice",
+            "url": "https://www.santodelgiorno.it/beata-ascensione-del-cuore-di-gesu/"
+        },
+        {
+            "nome": "Sant'Evezio di Nicomedia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Marco De' Marconi",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Modesto di Treviri",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/24/febbraio/"
+}

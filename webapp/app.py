@@ -28,6 +28,7 @@ from downloads import DownloadStore
 from proprio import ProprioStore
 from repository import MONTHS_IT, WEEKDAYS_SHORT_IT, LiturgiaRepository
 from runner import CollectorRunner
+from santi import SantiStore
 from users import UserStore
 from youtube import YouTubeClient
 
@@ -136,7 +137,8 @@ def create_app(output_dir: Optional[Path] = None,
             "app_version": values.get("version", "1.0"),
         }
 
-    views_core.register(app, repository, youtube)
+    santi_store = SantiStore(PROJECT_ROOT / values.get("santi_output", "data/santi"))
+    views_core.register(app, repository, youtube, santi_store)
     views_auth.register(app, user_store)
     views_proprio.register(app, proprio_store, login_required,
                            reject_if_read_only)

@@ -1,0 +1,58 @@
+{
+    "data": "14-06",
+    "giorno": 14,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "14 giugno",
+    "principali": [
+        {
+            "nome": "Sant'Eliseo",
+            "qualifica": "Profeta",
+            "descrizione": "La fonte per ricostruirne la vita è «il ciclo di Eliseo» che include anche narrazioni relative alle guerre di Israele contro Damasco e Moab e notizie sui contemporanei re di Giuda. Il...",
+            "url": "https://www.santodelgiorno.it/sant-eliseo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Metodio",
+            "qualifica": "Patriarca di Costantinopoli",
+            "url": "https://www.santodelgiorno.it/san-metodio-di-costantinopoli/"
+        },
+        {
+            "nome": "San Fortunato di Napoli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-fortunato-di-napoli/"
+        },
+        {
+            "nome": "Santi Anastasio, Felice e Digna",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eterio di Vienne",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Proto di Aquileia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Valerio e Rufino",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Fiorenzo di Bastia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Marco di Eca",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/14/giugno/"
+}

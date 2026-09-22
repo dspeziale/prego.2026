@@ -1,0 +1,108 @@
+{
+    "data": "11-10",
+    "giorno": 11,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "11 ottobre",
+    "principali": [
+        {
+            "nome": "San Giovanni XXIII",
+            "qualifica": "Papa",
+            "descrizione": "Figlioli... tornando a casa, troverete i bambini, date loro una carezza e dite: questa è la carezza del papa. Troverete, forse, qualche lacrima da asciugare. Abbiate per chi soffre una parola di conforto. Dite che il papa è con loro...",
+            "url": "https://www.santodelgiorno.it/san-giovanni-xxiii/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Alessandro Sauli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-alessandro-sauli/"
+        },
+        {
+            "nome": "San Filippo Diacono",
+            "qualifica": "Evangelista",
+            "url": "https://www.santodelgiorno.it/san-filippo-diacono/"
+        },
+        {
+            "nome": "San Firmino di Uzes",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-firmino-di-uzes/"
+        },
+        {
+            "nome": "Santa Maria Soledad Torres Acosta",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-maria-soledad-torres-acosta/"
+        },
+        {
+            "nome": "San Bruno I di Colonia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-bruno-i-di-colonia/"
+        },
+        {
+            "nome": "San Gummario",
+            "qualifica": "Devoto del Signore",
+            "url": "https://www.santodelgiorno.it/san-gummario/"
+        },
+        {
+            "nome": "Beato Giacomo Griesinger da Ulma",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-griesinger-da-ulma/"
+        },
+        {
+            "nome": "San Meinardo di Riga",
+            "qualifica": "Primo vescovo della Lettonia",
+            "url": "https://www.santodelgiorno.it/san-meinardo-di-riga/"
+        },
+        {
+            "nome": "San Cainnech",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-cainnech/"
+        },
+        {
+            "nome": "Sant'Anastasio",
+            "qualifica": "Apocrisario",
+            "url": null
+        },
+        {
+            "nome": "Beato Angelo (Angel) Ramos Velazquez",
+            "qualifica": "Coadiutore salesiano, martire",
+            "url": null
+        },
+        {
+            "nome": "San Gaudenzio (Razdim)",
+            "qualifica": "Arcivescovo di Gnesna",
+            "url": null
+        },
+        {
+            "nome": "Santi Nicasio, Quirino, Scubicolo e Pienza",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Le Tuy",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Santino di Verdun",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Sarmatas",
+            "qualifica": "Martire in Egitto",
+            "url": null
+        },
+        {
+            "nome": "Santi Taraco, Probo e Andronico",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Madonna di Tessara",
+            "qualifica": "Dedicazione",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/11/ottobre/"
+}

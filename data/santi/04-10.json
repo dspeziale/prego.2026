@@ -1,0 +1,58 @@
+{
+    "data": "04-10",
+    "giorno": 4,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "4 ottobre",
+    "principali": [
+        {
+            "nome": "San Francesco d'Assisi",
+            "qualifica": "Patrono d'Italia",
+            "descrizione": "S. Francesco nacque ad Assisi il 26 settembre dell'anno 1182 da Pietro Bernardone e da madonna Pica, ricchi commercianti. La sua nascita fu circondata da avvenimenti misteriosi: un mendicante, presentatosi...",
+            "url": "https://www.santodelgiorno.it/san-francesco-d-assisi/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Petronio di Bologna",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-petronio-di-bologna/"
+        },
+        {
+            "nome": "San Quintino",
+            "qualifica": "Martire, venerato a Meaux",
+            "url": "https://www.santodelgiorno.it/san-quintino/"
+        },
+        {
+            "nome": "Beato Francesco Saverio Seelos",
+            "qualifica": "Sacerdote redentorista",
+            "url": "https://www.santodelgiorno.it/beato-francesco-saverio-seelos/"
+        },
+        {
+            "nome": "Beato Alfredo Pellicer Munoz",
+            "qualifica": "Religioso e martire",
+            "url": "https://www.santodelgiorno.it/beato-alfredo-pellicer-munoz/"
+        },
+        {
+            "nome": "Beato Giuseppe Canet Giner",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-canet-giner/"
+        },
+        {
+            "nome": "Beato Enrico Morant Pellicer",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-enrico-morant-pellicer/"
+        },
+        {
+            "nome": "Sant'Aurea di Parigi",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/sant-aurea-di-parigi/"
+        },
+        {
+            "nome": "Madonna del Pilastrello",
+            "qualifica": "Appellativo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/04/ottobre/"
+}

@@ -1,0 +1,73 @@
+{
+    "data": "29-01",
+    "giorno": 29,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "29 gennaio",
+    "principali": [
+        {
+            "nome": "San Costanzo di Perugia",
+            "qualifica": "Vescovo e martire",
+            "descrizione": "Costanzo visse nel II secolo, era un giovane cristiano che si distingueva fin da subito nella Chiesa perugina per il suo zelo e per la sua generosità verso i poveri unita ad una grande severità verso se...",
+            "url": "https://www.santodelgiorno.it/san-costanzo-di-perugia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Papia e Mauro",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-papia-e-mauro/"
+        },
+        {
+            "nome": "Beata Villana Delle Botti",
+            "qualifica": "Madre di famiglia e terziaria",
+            "url": "https://www.santodelgiorno.it/beata-villana-delle-botti/"
+        },
+        {
+            "nome": "Beata Boleslava Maria Lament",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-boleslava-maria-lament/"
+        },
+        {
+            "nome": "San Gildas di Rhuys",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-gildas-di-rhuys/"
+        },
+        {
+            "nome": "San Sulpizio Severo",
+            "qualifica": "Vescovo di Bourges",
+            "url": "https://www.santodelgiorno.it/san-sulpizio-severo/"
+        },
+        {
+            "nome": "Sant'Afraate",
+            "qualifica": "Anacoreta",
+            "url": "https://www.santodelgiorno.it/sant-afraate/"
+        },
+        {
+            "nome": "Santa Sabrina",
+            "qualifica": "Vergine di Troyes",
+            "url": "https://www.santodelgiorno.it/santa-sabrina/"
+        },
+        {
+            "nome": "Santi Gioventino e Massimino",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Sarbelio e Bebaia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Valerio di Treviri",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Orsio",
+            "qualifica": "Pellegrino",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/29/gennaio/"
+}

@@ -1,0 +1,78 @@
+{
+    "data": "06-03",
+    "giorno": 6,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "6 marzo",
+    "principali": [
+        {
+            "nome": "Santa Rosa da Viterbo",
+            "qualifica": "Vergine",
+            "descrizione": "Nel XIII secolo la Chiesa fu travagliata da gravi eresie, guerre e turbolenze. Anche Viterbo si trovava in condizioni molto difficili: eretici e increduli si diffondevano nella città e molti cristiani...",
+            "url": "https://www.santodelgiorno.it/beata-rosa-da-viterbo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Coletta Boylet",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-coletta-boylet/"
+        },
+        {
+            "nome": "San Marciano di Tortona",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-marciano-di-tortona/"
+        },
+        {
+            "nome": "San Giuliano di Toledo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giuliano-di-toledo/"
+        },
+        {
+            "nome": "Santi Quarantadue martiri di Siria",
+            "qualifica": "Martiri di Amorio",
+            "url": "https://www.santodelgiorno.it/santi-quarantadue-martiri-di-siria/"
+        },
+        {
+            "nome": "San Fridolino",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-fridolino/"
+        },
+        {
+            "nome": "San Crodegango di Metz",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-crodegando-di-metz/"
+        },
+        {
+            "nome": "Sant'Ollegario di Tarragona",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-ollegario-di-tarragon/"
+        },
+        {
+            "nome": "Sant'Evagrio di Costantinopoli",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Quiriaco (Ciriaco) di Treviri",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Vittore e compagni",
+            "qualifica": "Martiri di Nicomedia",
+            "url": null
+        },
+        {
+            "nome": "Sant'Agnese",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ezio di Amorio",
+            "qualifica": "Uno dei quarantadue martiri di Siria",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/06/marzo/"
+}

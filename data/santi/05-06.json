@@ -1,0 +1,73 @@
+{
+    "data": "05-06",
+    "giorno": 5,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "5 giugno",
+    "principali": [
+        {
+            "nome": "San Bonifacio",
+            "qualifica": "Vescovo e martire",
+            "descrizione": "S. Bonifacio nacque in Inghilterra verso l'anno 680. Educato nella religione cristiana, fin dalla più tenera età mostrò grande amore verso Dio e di Lui parlava con grande gusto. Due...",
+            "url": "https://www.santodelgiorno.it/san-bonifacio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Franco da Assergi",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-franco-da-assergi/"
+        },
+        {
+            "nome": "San Doroteo di Tiro",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-doroteo-di-tiro/"
+        },
+        {
+            "nome": "Sant'Illidio di Clermont",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-illidio-di-clermont/"
+        },
+        {
+            "nome": "Santi Domenico Toai e Domenico Huyen",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Eobano, Adelario e nove compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eutichio di Como",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Luca Vu Ba Loan",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Marciano, Nicandro, Apollonio e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Spanò (Spina)",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Sancio",
+            "qualifica": "Martire di Cordova",
+            "url": null
+        },
+        {
+            "nome": "Santi Giusto e Clemente",
+            "qualifica": "Vescovo e Presbitero",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/05/giugno/"
+}

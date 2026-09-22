@@ -1,0 +1,113 @@
+{
+    "data": "30-08",
+    "giorno": 30,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "30 agosto",
+    "principali": [
+        {
+            "nome": "Santi Felice e Adautto",
+            "qualifica": "Martiri",
+            "descrizione": "In una sua poesia, papa Damaso ricorda Felice e Adautto come martiri cui era prestato un culto nel luogo della loro sepoltura; il Martirologio Geronimiano (e poi altri testi) ne ricordano la memoria al...",
+            "url": "https://www.santodelgiorno.it/santi-felice-e-adautto/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Madonna della Cintura",
+            "qualifica": "Devozione alla Sacra Cintola",
+            "url": "https://www.santodelgiorno.it/madonna-della-cintura/"
+        },
+        {
+            "nome": "San Fiacrio (Fiacre)",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-fiacrio/"
+        },
+        {
+            "nome": "Beato Alfredo Ildefonso Schuster",
+            "qualifica": "Cardinale arcivescovo di Milano",
+            "url": "https://www.santodelgiorno.it/beato-alfredo-ildefonso-schuster/"
+        },
+        {
+            "nome": "Santa Margherita Ward",
+            "qualifica": "Martire in Inghilterra",
+            "url": "https://www.santodelgiorno.it/santa-margherita-ward/"
+        },
+        {
+            "nome": "San Pammachio di Roma",
+            "qualifica": "Insigne uomo di fede",
+            "url": "https://www.santodelgiorno.it/san-pammachio-di-roma/"
+        },
+        {
+            "nome": "Beato Giovanni Giovenale Ancina",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-giovenale-ancina/"
+        },
+        {
+            "nome": "San Pietro l'eremita",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-pietro-l-eremita/"
+        },
+        {
+            "nome": "San Bononio",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-bononio/"
+        },
+        {
+            "nome": "Beato Gioacchino da Albocacer",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-gioacchino-da-albocacer/"
+        },
+        {
+            "nome": "San Fantino il Giovane",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-fantino-il-giovane/"
+        },
+        {
+            "nome": "Beata Maria Rafols",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-rafols/"
+        },
+        {
+            "nome": "Sant'Agilo",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Beati Diego Ventaja Milan e Emanuele Medina Olmos",
+            "qualifica": "Vescovi e martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri della Colonia Suffetana",
+            "qualifica": "Cristiani",
+            "url": null
+        },
+        {
+            "nome": "Beato Riccardo",
+            "qualifica": "Premostratense",
+            "url": null
+        },
+        {
+            "nome": "Beato Vincenzo Mattia Cabanes Badenas",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Eugenio Fermo Luciano e Saveriano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Novello",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Maria Santissima di Siponto",
+            "qualifica": "Dedicazione",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/30/agosto/"
+}

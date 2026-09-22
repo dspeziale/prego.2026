@@ -1,0 +1,88 @@
+{
+    "data": "31-05",
+    "giorno": 31,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "31 maggio",
+    "principali": [
+        {
+            "nome": "Santissima Trinità",
+            "qualifica": "Il Padre il Figlio e lo Spirito Santo",
+            "descrizione": "La Chiesa, dopo aver stabilite diverse feste che onorano le singole Persone della Santissima Trinità, ne fissò pure una in onore delle Tre Persone. Questa festa fu istituita nei primi secoli...",
+            "url": "https://www.santodelgiorno.it/santissima-trinita/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Visitazione della Beata Vergine Maria",
+            "qualifica": "Visita di Maria a Elisabetta",
+            "url": "https://www.santodelgiorno.it/visitazione-della-beata-vergine-maria/"
+        },
+        {
+            "nome": "Santa Camilla Battista da Varano",
+            "qualifica": "Clarissa Francescana",
+            "url": "https://www.santodelgiorno.it/santa-camilla-battista-da-varano/"
+        },
+        {
+            "nome": "Santa Petronilla",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-petronilla/"
+        },
+        {
+            "nome": "San Felice da Nicosia",
+            "qualifica": "Religioso Cappuccino",
+            "url": "https://www.santodelgiorno.it/san-felice-da-nicosia/"
+        },
+        {
+            "nome": "Santi Canzio, Canziano e Canzianilla",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-canzio-canziano-e-canzianilla/"
+        },
+        {
+            "nome": "Beato Giacomo da Venezia",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-da-venezia/"
+        },
+        {
+            "nome": "Sant'Ermia di Comana",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Mariano da Roccacasale",
+            "qualifica": "Francescano",
+            "url": null
+        },
+        {
+            "nome": "Beato Nicolas Barrè",
+            "qualifica": "Religioso, fondatore",
+            "url": null
+        },
+        {
+            "nome": "San Noè Mawaggali",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Robert Thorpe e Tommaso Watkinson",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Silvio di Tolosa",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Vitale di Assisi",
+            "qualifica": "Monaco eremita",
+            "url": null
+        },
+        {
+            "nome": "Sant'Onorio di Casalvieri",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/31/maggio/"
+}

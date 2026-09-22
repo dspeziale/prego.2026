@@ -1,0 +1,88 @@
+{
+    "data": "04-09",
+    "giorno": 4,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "4 settembre",
+    "principali": [
+        {
+            "nome": "Santa Rosalia",
+            "qualifica": "Vergine, eremita di Palermo",
+            "descrizione": "Nacque da Sinibaldo, signore di Quisquina e discendente del re Carlo Magno. I genitori si preoccuparono di educare la fanciulla nei principi cristiani. E la piccola Rosalia corrispose alle cure dei genitori...",
+            "url": "https://www.santodelgiorno.it/santa-rosalia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Traslazione di Santa Rosa da Viterbo",
+            "qualifica": "Trasferimento al Monastero della Clarisse",
+            "url": "https://www.santodelgiorno.it/traslazione-di-santa-rosa-da-viterbo/"
+        },
+        {
+            "nome": "San Mosè",
+            "qualifica": "Profeta",
+            "url": "https://www.santodelgiorno.it/san-mose/"
+        },
+        {
+            "nome": "Sant'Ida di Herzfeld",
+            "qualifica": "Vedova",
+            "url": "https://www.santodelgiorno.it/sant-ida-di-herzfeld/"
+        },
+        {
+            "nome": "Beata Caterina Mattei da Racconigi",
+            "qualifica": "Domenicana",
+            "url": "https://www.santodelgiorno.it/beata-caterina-mattei-da-racconigi/"
+        },
+        {
+            "nome": "San Marcello di Chalon-sur-Saone",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-marcello-di-chalon-sur-saone/"
+        },
+        {
+            "nome": "San Bonifacio I",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-bonifacio-i/"
+        },
+        {
+            "nome": "Sant'Irmengarda di Suchteln",
+            "qualifica": "Contessa di Süchteln",
+            "url": "https://www.santodelgiorno.it/sant-irmengarda-di-suchteln/"
+        },
+        {
+            "nome": "Beata Maria di S. Cecilia Romana",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-maria-di-s-cecilia-romana/"
+        },
+        {
+            "nome": "Beato Bernardo da Lugar Nuevo de Fenollet",
+            "qualifica": "Religioso e martire",
+            "url": "https://www.santodelgiorno.it/beato-bernardo-da-lugar-nuevo-de-fenollet/"
+        },
+        {
+            "nome": "Beato Francesco Sendra Ivars",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-francesco-sendra-ivars/"
+        },
+        {
+            "nome": "San Fredardo di Mende",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-fredardo-di-mende/"
+        },
+        {
+            "nome": "San Caletrico di Chartres",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-caletrico-di-chartres/"
+        },
+        {
+            "nome": "Beato Giuseppe Pasquale Carda Saporta",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Scipione Gerolamo Brigeat de Lambert",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/04/settembre/"
+}

@@ -1,0 +1,83 @@
+{
+    "data": "05-08",
+    "giorno": 5,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "5 agosto",
+    "principali": [
+        {
+            "nome": "Santa Maria della Neve",
+            "qualifica": "Dedicazione della basilica di Santa Maria Maggiore",
+            "descrizione": "La Madonna apparve in sogno ad un nobile patrizio di nome Giovanni indicandogli di costruire una chiesa nel luogo in cui avrebbe trovato la neve il mattino seguente.",
+            "url": "https://www.santodelgiorno.it/santa-maria-della-neve/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Emidio",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-emidio/"
+        },
+        {
+            "nome": "Sant'Osvaldo di Northumbria",
+            "qualifica": "Re e martire",
+            "url": "https://www.santodelgiorno.it/sant-osvaldo-di-northumbria/"
+        },
+        {
+            "nome": "Sara Mariucci",
+            "qualifica": "Testimone di fede",
+            "url": "https://www.santodelgiorno.it/sara-mariucci/"
+        },
+        {
+            "nome": "Santa Margherita la Scalza",
+            "qualifica": "Vedova",
+            "url": "https://www.santodelgiorno.it/santa-margherita-la-scalza/"
+        },
+        {
+            "nome": "Santa Nonna",
+            "qualifica": "Sposa",
+            "url": "https://www.santodelgiorno.it/santa-nonna/"
+        },
+        {
+            "nome": "San Cassiano di Autun",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Federico Janssoone",
+            "qualifica": "",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco (Cecco) da Pesaro",
+            "qualifica": "Francescano",
+            "url": null
+        },
+        {
+            "nome": "San Memmio",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Paride",
+            "qualifica": "Vescovo di Teano",
+            "url": null
+        },
+        {
+            "nome": "Beato Pietro Michele Noël",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Venanzio di Viviers",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Viatore",
+            "qualifica": "Eremita",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/05/agosto/"
+}

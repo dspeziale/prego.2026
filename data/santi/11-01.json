@@ -1,0 +1,93 @@
+{
+    "data": "11-01",
+    "giorno": 11,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "11 gennaio",
+    "principali": [
+        {
+            "nome": "Battesimo di Gesù",
+            "qualifica": "Gesù è dichiarato Figlio di Dio",
+            "descrizione": "Gesù Cristo, giunto all'età di trent'anni, prima di ritirarsi nel deserto per passare quaranta giorni e quaranta notti in digiuno, si recò alla riva del fiume Giordano, dove si trovava...",
+            "url": "https://www.santodelgiorno.it/battesimo-di-gesu/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santo Bambino di Praga",
+            "qualifica": "Statuetta lignea",
+            "url": "https://www.santodelgiorno.it/santo-bambino-di-praga/"
+        },
+        {
+            "nome": "Sant'Igino",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/sant-igino/"
+        },
+        {
+            "nome": "Santa Liberata",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-liberata-martire/"
+        },
+        {
+            "nome": "San Tommaso Placidi da Cori",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-tommaso-placidi-da-cori/"
+        },
+        {
+            "nome": "San Leucio di Brindisi",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-leucio-di-brindisi/"
+        },
+        {
+            "nome": "San Paolino d'Aquileia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-paolino-d-aquileia/"
+        },
+        {
+            "nome": "Sant'Onorata",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/sant-onorata-di-pavia/"
+        },
+        {
+            "nome": "San Teodosio il Cenobiarca",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-teodosio-il-cenobiarca/"
+        },
+        {
+            "nome": "Beato Bernardo Scammacca",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-bernardo-scammacca/"
+        },
+        {
+            "nome": "San Tipasio di Tigava",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-tipasio-di-tigava/"
+        },
+        {
+            "nome": "Beato Francesco (Franciszek) Rogaczewski",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo (William) Carter",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Pietro, detto Apselamo o Balsamo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Salvio",
+            "qualifica": "Martire in Africa",
+            "url": null
+        },
+        {
+            "nome": "San Vitale da Gaza",
+            "qualifica": "Monaco",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/11/gennaio/"
+}

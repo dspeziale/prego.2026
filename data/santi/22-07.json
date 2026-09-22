@@ -1,0 +1,88 @@
+{
+    "data": "22-07",
+    "giorno": 22,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "22 luglio",
+    "principali": [
+        {
+            "nome": "Santa Maria Maddalena",
+            "qualifica": "Discepola del Signore",
+            "descrizione": "Maria, soprannominata Maddalena dal castello di Magdala, località situata nella costa occidentale del lago di Tiberiad, ove nacque. Peccò molto nella sua giovinezza, ma illuminata dalla divina...",
+            "url": "https://www.santodelgiorno.it/santa-maria-maddalena/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Agostino da Biella",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-agostino-da-biella/"
+        },
+        {
+            "nome": "San Vandregisilo",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-vandregisilo/"
+        },
+        {
+            "nome": "Sant'Anastasio",
+            "qualifica": "Apocrisario",
+            "url": null
+        },
+        {
+            "nome": "San Cirillo di Antiochia, Andrea e compagni",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Filippo Evans",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giacomo Lombardie",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Lloyd",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Girolamo di Pavia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Gualtero (Gualtiero)",
+            "qualifica": "Venerato a Lodi",
+            "url": null
+        },
+        {
+            "nome": "Santa Maria Wang Lizhi",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri Massulitani",
+            "qualifica": "Religiosi",
+            "url": null
+        },
+        {
+            "nome": "San Meneleo di Menat",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Platone di Ancira",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Anna Wang, Lucia Wang e Andrea Wang",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/22/luglio/"
+}

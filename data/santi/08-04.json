@@ -1,0 +1,78 @@
+{
+    "data": "08-04",
+    "giorno": 8,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "8 aprile",
+    "principali": [
+        {
+            "nome": "San Dionigi di Corinto",
+            "qualifica": "Vescovo",
+            "descrizione": "Fu nominato vescovo di Corinto, la sua città. Le poche notizie sulla sua vita sono tramandate da Girolamo e soprattutto da Eusebio di Cesarea, il quale ha conservato frammenti interessanti di otto...",
+            "url": "https://www.santodelgiorno.it/san-dionigi-di-corinto/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Giulia Billiart",
+            "qualifica": "Suora",
+            "url": "https://www.santodelgiorno.it/santa-giulia-billiart/"
+        },
+        {
+            "nome": "Sant'Amanzio di Como",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-amanzio-dicomo/"
+        },
+        {
+            "nome": "Beato Giuliano di Sant'Agostino",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-giuliano-di-sant-agostino/"
+        },
+        {
+            "nome": "Beato Augusto Czartoryski",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-augusto-czartoryski/"
+        },
+        {
+            "nome": "San Dionigi di Alessandria",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-dionigi-di-alessandria/"
+        },
+        {
+            "nome": "Sant'Agabo",
+            "qualifica": "Profeta",
+            "url": "https://www.santodelgiorno.it/sant-agabo-profeta/"
+        },
+        {
+            "nome": "Beato Clemente da Osimo",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-clemente-da-osimo/"
+        },
+        {
+            "nome": "Beato Domenico del SS. Sacramento",
+            "qualifica": "Sacerdote Trinitario",
+            "url": "https://www.santodelgiorno.it/beato-domenico-del-ss-sacramento/"
+        },
+        {
+            "nome": "San Walter di San Martino di Pontoise",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-walter-di-san-martino-di-pontoise/"
+        },
+        {
+            "nome": "Santi Erodione, Asincrito e Flegone",
+            "qualifica": "Discepoli di San Paolo",
+            "url": null
+        },
+        {
+            "nome": "Santi Timoteo, Diogene, Macario e Massimo",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Alberto di Gerusalemme",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/08/aprile/"
+}

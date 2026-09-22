@@ -1,0 +1,98 @@
+{
+    "data": "24-08",
+    "giorno": 24,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "24 agosto",
+    "principali": [
+        {
+            "nome": "San Bartolomeo",
+            "qualifica": "Apostolo",
+            "descrizione": "L'apostolo S. Bartolomeo era galileo e probabilmente pescatore come la maggior parte degli Apostoli. Scelto da Gesù, Natanaele, il suo nome originario, ebbe anch'egli la felice sorte di nutrire...",
+            "url": "https://www.santodelgiorno.it/san-bartolomeo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Maria Michela del SS. Sacramento",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-maria-michela-del-ss-sacramento/"
+        },
+        {
+            "nome": "Sant'Emilia de Vialar",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/sant-emilia-de-vialar/"
+        },
+        {
+            "nome": "Santa Giovanna Antida Thouret",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-giovanna-antida-thouret/"
+        },
+        {
+            "nome": "Beata Maria Incarnazione del Cuore di Gesù",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-incarnazione-del-cuore-di-gesu/"
+        },
+        {
+            "nome": "Sant'Audoeno",
+            "qualifica": "Vescovo di Rouen",
+            "url": "https://www.santodelgiorno.it/sant-audoeno/"
+        },
+        {
+            "nome": "Beato Jarogniew Wojciechowski",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-jarogniew-wojciechowski/"
+        },
+        {
+            "nome": "Beato Massimiliano Binkiewicz",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-massimiliano-binkiewicz/"
+        },
+        {
+            "nome": "Beato Miroslav Bulesic",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-miroslav-bulesic/"
+        },
+        {
+            "nome": "Beato Edoardo Klinik",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-edoardo-klinik/"
+        },
+        {
+            "nome": "Beato Francesco Kesi",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-francesco-kesi/"
+        },
+        {
+            "nome": "Beato Edoardo Kazmierski",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-edoardo-kazmierski/"
+        },
+        {
+            "nome": "Beato Czeslaw Jozwiak",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-czeslaw-jozwiak/"
+        },
+        {
+            "nome": "Beato Andrea Fardeau",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Giorgio il Limniota",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "San Taziano (Tazione) di Claudiopoli",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Tolomeo e Romano",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/24/agosto/"
+}

@@ -1,0 +1,98 @@
+{
+    "data": "11-08",
+    "giorno": 11,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "11 agosto",
+    "principali": [
+        {
+            "nome": "Santa Chiara",
+            "qualifica": "Vergine",
+            "descrizione": "Nacque Chiara nell'anno 1194 da nobili e ricchi genitori in Assisi, e fin da giovanetta dimostrò una grande pietà e devozione. In quegli anni la fama del suo concittadino Francesco cominciava...",
+            "url": "https://www.santodelgiorno.it/santa-chiara/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Filomena di Roma",
+            "qualifica": "Principessa, vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-filomena-di-roma/"
+        },
+        {
+            "nome": "Santa Susanna di Roma",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-susanna-di-roma/"
+        },
+        {
+            "nome": "San Tiburzio",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-tiburzio-martire-di-roma/"
+        },
+        {
+            "nome": "Sant'Alessandro il Carbonaio",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-alessandro-il-carbonaio/"
+        },
+        {
+            "nome": "Sant'Equizio",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-equizio/"
+        },
+        {
+            "nome": "San Gaugerico di Cambrai",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gaugerico-di-cambrai/"
+        },
+        {
+            "nome": "San Rufino di Assisi",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-rufino-di-assisi/"
+        },
+        {
+            "nome": "Beato Maurizio Tornay",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-maurizio-tornay/"
+        },
+        {
+            "nome": "San Taurino di Evreux",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-taurino-di-evreux/"
+        },
+        {
+            "nome": "Santa Attratta",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "San Cassiano di Benevento",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Giorgio Rehm",
+            "qualifica": "Domenicano",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni Sandys, Stefano Rowsham e Guglielmo Lampley",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Michele (Miguel) Domingo Cendra",
+            "qualifica": "Salesiano, martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Raffale Alonso Gutierrez e Carlo Diaz Gandia",
+            "qualifica": "Padri di famiglia, martiri",
+            "url": null
+        },
+        {
+            "nome": "Santa Rusticola di Arles",
+            "qualifica": "Badessa",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/11/agosto/"
+}

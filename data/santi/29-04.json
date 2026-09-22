@@ -1,0 +1,53 @@
+{
+    "data": "29-04",
+    "giorno": 29,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "29 aprile",
+    "principali": [
+        {
+            "nome": "Santa Caterina da Siena",
+            "qualifica": "Vergine e dottore della Chiesa, patrona d'Italia",
+            "descrizione": "Il Signore è solito servirsi di umili e deboli creature per operare cose grandi: si servì di Ester per liberare il suo popolo dalla morte, di Giuditta per abbattere l'invitto Oloferne, si servì di Maria SS. per compiere la Redenzione, si servì di S. Caterina da Siena per dare la pace alla Chiesa e ai popoli del suo tempo.",
+            "url": "https://www.santodelgiorno.it/santa-caterina-da-siena/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Ugo di Cluny",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-ugo-di-cluny/"
+        },
+        {
+            "nome": "San Severo di Napoli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-severo-di-napoli/"
+        },
+        {
+            "nome": "Sant'Acardo",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Sant'Antonio Kim Song-u",
+            "qualifica": "Catechista e martire",
+            "url": null
+        },
+        {
+            "nome": "San Cristino",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Tichico",
+            "qualifica": "Discepolo di san Paolo",
+            "url": null
+        },
+        {
+            "nome": "San Torpete (Torpes, Torpè)",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/29/aprile/"
+}

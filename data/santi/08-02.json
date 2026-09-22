@@ -1,0 +1,83 @@
+{
+    "data": "08-02",
+    "giorno": 8,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "8 febbraio",
+    "principali": [
+        {
+            "nome": "San Girolamo Emiliani",
+            "qualifica": "Fondatore",
+            "descrizione": "Dalla nobile famiglia degli Emiliani, nasceva in Venezia nel 1486 S. Girolamo. L'infanzia e la giovinezza sua ci sono quasi totalmente ignote e solo nel 1511, quand'ormai ha trent'anni, lo troviamo capitano...",
+            "url": "https://www.santodelgiorno.it/san-girolamo-emiliano/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Giuseppina Bakhita",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-giuseppina-bakhita/"
+        },
+        {
+            "nome": "Beata Speranza di Gesù",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-speranza-di-gesu/"
+        },
+        {
+            "nome": "Beata Giuseppina Gabriella Bonino",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-giuseppina-gabriella-bonino/"
+        },
+        {
+            "nome": "Santa Quinta (Cointa) d'Alessandria",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-quinta/"
+        },
+        {
+            "nome": "Santo Stefano di Muret",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/santo-stefano-di-muret/"
+        },
+        {
+            "nome": "San Paolo di Verdun",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-paolo-di-verdun/"
+        },
+        {
+            "nome": "Beato Pietro Igneo",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/beato-pietro-igneo/"
+        },
+        {
+            "nome": "Sant'Invenzio",
+            "qualifica": "Vescovo di Pavia",
+            "url": "https://www.santodelgiorno.it/sant-invenzio-di-pavia/"
+        },
+        {
+            "nome": "San Nicezio di Besancon",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-nicezio-di-besancon/"
+        },
+        {
+            "nome": "San Giacuto",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri Costantinopolitani",
+            "qualifica": "Monaci",
+            "url": null
+        },
+        {
+            "nome": "Sant'Onorato di Milano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Michele Febres Cordero",
+            "qualifica": "Lasalliano",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/08/febbraio/"
+}

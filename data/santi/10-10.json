@@ -1,0 +1,108 @@
+{
+    "data": "10-10",
+    "giorno": 10,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "10 ottobre",
+    "principali": [
+        {
+            "nome": "San Daniele Comboni",
+            "qualifica": "Vescovo",
+            "descrizione": "Dopo anni di oblio, nell'Ottocento le terre africane furono percorse da esploratori, mercanti e agenti commerciali delle potenze europee. Con loro viaggiavano spesso dei missionari desiderosi di portare...",
+            "url": "https://www.santodelgiorno.it/san-daniele-comboni/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Daniele Fasanella e compagni",
+            "qualifica": "Martiri a Ceuta",
+            "url": "https://www.santodelgiorno.it/san-daniele-e-compagni/"
+        },
+        {
+            "nome": "Santa Tanca",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-tanca/"
+        },
+        {
+            "nome": "Beata Angela Maria Truszkowska",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-angela-maria-truszkowska/"
+        },
+        {
+            "nome": "San Paolino di York",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-paolino-di-york/"
+        },
+        {
+            "nome": "San Cerbonio di Populonia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-cerbonio-di-populonia/"
+        },
+        {
+            "nome": "San Gereone e Compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/san-gereone-e-compagni/"
+        },
+        {
+            "nome": "San Chiaro di Nantes",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-chiaro-di-nantes/"
+        },
+        {
+            "nome": "Santa Telchilde",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-telchilde/"
+        },
+        {
+            "nome": "San Pinito di Cnosso",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-pinito-di-cnosso/"
+        },
+        {
+            "nome": "Santi Cassio e Fiorenzo",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Edoardo Detkens",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Eulampio ed Eulampia",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni di Bridligton",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Beato Leone Wetmanski",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria dello Sposalizio (Maria Caterina Irigoyen Echegaray)",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "Santi Vittore e Malloso",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Corpi Santi",
+            "qualifica": "Reliquie di santi martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Probo e Celestina",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/10/ottobre/"
+}

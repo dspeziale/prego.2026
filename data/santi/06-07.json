@@ -1,0 +1,93 @@
+{
+    "data": "06-07",
+    "giorno": 6,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "6 luglio",
+    "principali": [
+        {
+            "nome": "Santa Maria Goretti",
+            "qualifica": "Vergine e martire",
+            "descrizione": "Il 16 ottobre 1890 a Corinaldo la terzogenita Maria veniva a rallegrare con i suoi vagiti la povera e laboriosa famiglia dei coniugi Goretti. Ebbe una buona e cristiana educazione dai genitori esemplari...",
+            "url": "https://www.santodelgiorno.it/santa-maria-goretti/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Domenica di Tropea",
+            "qualifica": "Venerata a Tropea",
+            "url": "https://www.santodelgiorno.it/santa-domenica-di-tropea/"
+        },
+        {
+            "nome": "Beata Maria Teresa Ledochowska",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-maria-teresa-ledochowska/"
+        },
+        {
+            "nome": "Santa Sexburga",
+            "qualifica": "Regina del Kent, badessa",
+            "url": "https://www.santodelgiorno.it/santa-sexburga/"
+        },
+        {
+            "nome": "San Sisoes il Grande",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-sisoes-il-grande/"
+        },
+        {
+            "nome": "San Palladio",
+            "qualifica": "Vescovo degli Scoti",
+            "url": "https://www.santodelgiorno.it/san-palladio/"
+        },
+        {
+            "nome": "Beato Agostino Giuseppe (Elia) Desgardin",
+            "qualifica": "Monaco e martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Darerca (Monenna) di Killeavy",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "San Giusto di Condat",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "San Goar",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria Rosa (Susanna Agata de Loye)",
+            "qualifica": "Benedettina, martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Nazaria Ignazia March Mesa",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Wang-Tsong-Loung",
+            "qualifica": "Martire in Cina",
+            "url": null
+        },
+        {
+            "nome": "San Romolo di Fiesole",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Tommaso Alfield",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Madonna della Vittoria",
+            "qualifica": "La vittoria di Fornovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/06/luglio/"
+}

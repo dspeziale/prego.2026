@@ -1,0 +1,93 @@
+{
+    "data": "02-07",
+    "giorno": 2,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "2 luglio",
+    "principali": [
+        {
+            "nome": "San Bernardino Realino",
+            "qualifica": "Sacerdote",
+            "descrizione": "Nacque a Carpi, ridente cittadina del Modenese, nel 1530 da Francesco Realino e da Elisabetta Bellentoni. La madre si premurò di dare al suo Bernardino una buona educazione. Gli insegnò a...",
+            "url": "https://www.santodelgiorno.it/san-bernardino-realino/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Madonna delle Grazie",
+            "qualifica": "Colei che porta la Grazia per eccellenza",
+            "url": "https://www.santodelgiorno.it/madonna-delle-grazie/"
+        },
+        {
+            "nome": "Santi Processo e Martiniano",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-processo-e-martiniano/"
+        },
+        {
+            "nome": "Beato Pietro di Lussemburgo",
+            "qualifica": "Vescovo di Metz",
+            "url": "https://www.santodelgiorno.it/beato-pietro-di-lussemburgo/"
+        },
+        {
+            "nome": "San Swithun di Winchester",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-swithun-di-winchester/"
+        },
+        {
+            "nome": "Beato Pietro Becchetti da Fabriano",
+            "qualifica": "Sacerdote agostiniano",
+            "url": "https://www.santodelgiorno.it/beato-pietro-becchetti-da-fabriano/"
+        },
+        {
+            "nome": "Santa Monegonda",
+            "qualifica": "Venerata a Tours",
+            "url": "https://www.santodelgiorno.it/santa-monegonda/"
+        },
+        {
+            "nome": "Madonna della Bruna",
+            "qualifica": "Patrona di Matera",
+            "url": "https://www.santodelgiorno.it/madonna-della-bruna/"
+        },
+        {
+            "nome": "Beata Eugenia Joubert",
+            "qualifica": "Suora francese",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Becchetti da Fabriano",
+            "qualifica": "Sacerdote agostiniano",
+            "url": null
+        },
+        {
+            "nome": "Santi Liberato, Bonifacio, Servio, Rustico, Rogato, Settimo e Massimo",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Lidano da Sezze",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Madonna Stella del Mare",
+            "qualifica": "Appellativo",
+            "url": null
+        },
+        {
+            "nome": "Nostra Signora del Boschetto",
+            "qualifica": "Apparizione",
+            "url": null
+        },
+        {
+            "nome": "San Felice",
+            "qualifica": "Martire venerato a Cervara di Roma",
+            "url": null
+        },
+        {
+            "nome": "Nostro Signora dell'Orto",
+            "qualifica": "Appellativo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/02/luglio/"
+}

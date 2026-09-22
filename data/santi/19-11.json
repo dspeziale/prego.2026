@@ -1,0 +1,78 @@
+{
+    "data": "19-11",
+    "giorno": 19,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "19 novembre",
+    "principali": [
+        {
+            "nome": "Santa Matilde di Hackeborn",
+            "qualifica": "Monaca",
+            "descrizione": "Matilde di Hackeborn fu una monaca dell'abbazia di Helfta, la sua esperienza mistica venne raccolta nel Liber Gratiae specialis. Fu una confidente di una promessa della Madonna. Matilde nacque tra il 1240...",
+            "url": "https://www.santodelgiorno.it/santa-matilde-di-hackerborn/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Fausto di Alessandria",
+            "qualifica": "Diacono e martire",
+            "url": "https://www.santodelgiorno.it/san-fausto-di-alessandria/"
+        },
+        {
+            "nome": "Sante Quaranta Donne Martiri di Eraclea con Annone diacono",
+            "qualifica": "Vergini e vedove",
+            "url": "https://www.santodelgiorno.it/sante-quaranta-donne-martiri-di-eraclea-con-annone-diacono/"
+        },
+        {
+            "nome": "Servo di Dio Dolindo Ruotolo",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/dolindo-ruotolo/"
+        },
+        {
+            "nome": "Sant'Abdia",
+            "qualifica": "Profeta",
+            "url": "https://www.santodelgiorno.it/sant-abdia/"
+        },
+        {
+            "nome": "Beati Eliseo Garcia e Alessandro Planas Sauri",
+            "qualifica": "Salesiani, martiri",
+            "url": "https://www.santodelgiorno.it/beati-eliseo-garcia-e-alessandro-planas-sauri/"
+        },
+        {
+            "nome": "Beato Giacomo Benfatti di Mantova",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-benfatti-di-mantova/"
+        },
+        {
+            "nome": "San Barlaam di Antiochia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-barlaam-di-antiochia/"
+        },
+        {
+            "nome": "Beata Armida Barelli",
+            "qualifica": "Terziaria francescana e cofondatrice",
+            "url": "https://www.santodelgiorno.it/beata-armida-barelli/"
+        },
+        {
+            "nome": "Sant'Eudone",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Massimo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Severino, Essuperio e Feliciano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Simone",
+            "qualifica": "Abate in Calabria",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/19/novembre/"
+}

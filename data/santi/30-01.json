@@ -1,0 +1,123 @@
+{
+    "data": "30-01",
+    "giorno": 30,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "30 gennaio",
+    "principali": [
+        {
+            "nome": "Santa Martina",
+            "qualifica": "Martire",
+            "descrizione": "Questa santa Vergine romana discendeva da celebre famiglia consolare. Rimasta orfana ancora in tenera età, si dedicò con tutto l’ardore della sua anima giovanile alle opere della cristiana...",
+            "url": "https://www.santodelgiorno.it/santa-martina/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Savina",
+            "qualifica": "Matrona",
+            "url": "https://www.santodelgiorno.it/santa-savina/"
+        },
+        {
+            "nome": "Santa Giacinta Marescotti",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/santa-giacinta-marescotti/"
+        },
+        {
+            "nome": "San David Galvan Bermudez",
+            "qualifica": "Martire Messicano",
+            "url": "https://www.santodelgiorno.it/san-david-galvan-bermudez/"
+        },
+        {
+            "nome": "Beata Carmela Garcia Moyon",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beata-carmela-garcia-moyon/"
+        },
+        {
+            "nome": "Beato Sebastiano Valfrè",
+            "qualifica": "Sacerdote oratoriano",
+            "url": "https://www.santodelgiorno.it/beato-sebastiano-valfre/"
+        },
+        {
+            "nome": "Santa Batilde",
+            "qualifica": "Regina dei Franchi",
+            "url": "https://www.santodelgiorno.it/santa-batilde/"
+        },
+        {
+            "nome": "Santa Aldegonda",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-aldegonda/"
+        },
+        {
+            "nome": "Beato Columba Giuseppe Marmion",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/beato-columba-giuseppe-marmion/"
+        },
+        {
+            "nome": "San Teofilo il Giovane",
+            "qualifica": "Soldato e martire",
+            "url": "https://www.santodelgiorno.it/san-teofilo-il-giovane/"
+        },
+        {
+            "nome": "Beato Bronislao Bonaventura Markiewicz",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-bronislao-bonaventura-markiewicz/"
+        },
+        {
+            "nome": "Sant'Adelelmo di Burgos",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-adelelmo-di-burgos/"
+        },
+        {
+            "nome": "Beato Sigismondo Pisarski",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-sigismondo-pisarski/"
+        },
+        {
+            "nome": "San Muziano Maria Wiaux",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/san-muziano-maria-wiaux/"
+        },
+        {
+            "nome": "Sant'Armentario di Pavia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Barsimeo (Barsamya)",
+            "qualifica": "Vescovo di Edessa",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco Taylor",
+            "qualifica": "Sindaco di Dublino, martire",
+            "url": null
+        },
+        {
+            "nome": "San Khuong (Tommaso)",
+            "qualifica": "Sacerdote, martire nel Tonchino",
+            "url": null
+        },
+        {
+            "nome": "San Mattia",
+            "qualifica": "Vescovo di Gerusalemme",
+            "url": null
+        },
+        {
+            "nome": "San Paolo Ho Hyob",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Pellegrino",
+            "qualifica": "Vescovo di Triocala",
+            "url": null
+        },
+        {
+            "nome": "Santa Serena di Spoleto",
+            "qualifica": "Vedova e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/30/gennaio/"
+}

@@ -1,0 +1,103 @@
+{
+    "data": "31-07",
+    "giorno": 31,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "31 luglio",
+    "principali": [
+        {
+            "nome": "Sant'Ignazio di Loyola",
+            "qualifica": "Fondatore della Compagnia di Gesù",
+            "descrizione": "Nacque nel castello di Loyola, nei Paesi Baschi spagnoli, da una nobile famiglia, l’anno 1491. Dopo aver trascorso qualche tempo alla corte dei re cattolici, si arruolò nell’esercito...",
+            "url": "https://www.santodelgiorno.it/sant-ignazio-di-loyola/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Giustino De Jacobis",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giustino-de-jacobis/"
+        },
+        {
+            "nome": "San Calimero di Milano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Democrito, Secondo e Dionigi",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Dionigi Vicente Ramos e Francesco Remon Jativa",
+            "qualifica": "Francescani, martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Elena (Elin) di Skovde",
+            "qualifica": "Vedova e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Everardo Hanse",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Fabio il Vessilifero",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco (Franciszek) Stryjas",
+            "qualifica": "Padre di famiglia, martire",
+            "url": null
+        },
+        {
+            "nome": "San Germano d'Auxerre",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giacomo (Jaime) Buch Canals",
+            "qualifica": "Coadiutore salesiano, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Colombini",
+            "qualifica": "Fondatore dei Gesuati",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Francesco Jarrige de la Morelie du Breuil",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Girolamo Michele Calmell",
+            "qualifica": "Mercedario",
+            "url": null
+        },
+        {
+            "nome": "Beato Michele (Michal) Ozieblowski",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Pietro Doan Cong Quy e Emanuele Phung",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Tertullino",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Zdenka Cecilia Schelingova",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/31/luglio/"
+}

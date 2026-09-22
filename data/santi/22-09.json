@@ -1,0 +1,128 @@
+{
+    "data": "22-09",
+    "giorno": 22,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "22 settembre",
+    "principali": [
+        {
+            "nome": "San Maurizio",
+            "qualifica": "Martire della Legione Tebea",
+            "descrizione": "Durante l'impero di Diocleziano e Massimiano, fra le legioni romane ve n'era una chiamata « Legione Tebea ». Era composta di 6600 uomini, tutti cristiani, pieni di tanta fede e tanta piet&agrave...",
+            "url": "https://www.santodelgiorno.it/san-maurizio-candido-essuperio-vittore-e-compagni/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Ignazio da Santhià",
+            "qualifica": "Sacerdote cappuccino",
+            "url": "https://www.santodelgiorno.it/sant-ignazio-da-santhia/"
+        },
+        {
+            "nome": "Santa Salaberga",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-salaberga/"
+        },
+        {
+            "nome": "Sant'Emmerano di Ratisbona",
+            "qualifica": "Abate e martire",
+            "url": "https://www.santodelgiorno.it/sant-emmerano-di-ratisbona/"
+        },
+        {
+            "nome": "Santa Basilia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Carlo Navarro",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Emerita",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Fiorenzo",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Beato Germano Gozalvo Andreu",
+            "qualifica": "Sacerdote e Martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Giuseppa Moscardo Montalba",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Marchandon",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Innocenzo e Vitale",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Laudo di Coutances",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria della Purificazione Vidal Pastor",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Ottone di Frisinga",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Paolo Chong Ha-sang e Agostino Yu Chin-gil",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Settimio di Jesi",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Silvano di Levroux",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Beato Vincenzo Pelufo Corts",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Vincenzo Sicluna Hernandez",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Madonna dell'Olmitello",
+            "qualifica": "Apparizione",
+            "url": null
+        },
+        {
+            "nome": "San Candido",
+            "qualifica": "Martire della Legione Tebea",
+            "url": null
+        },
+        {
+            "nome": "Sant'Esuperio",
+            "qualifica": "Martire della Legione Tebea",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/22/settembre/"
+}

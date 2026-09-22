@@ -1,0 +1,113 @@
+{
+    "data": "18-04",
+    "giorno": 18,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "18 aprile",
+    "principali": [
+        {
+            "nome": "San Galdino",
+            "qualifica": "Vescovo",
+            "descrizione": "Nel 1162 Federico Barbarossa, Imperatore di Germania, saccheggia Milano. È il periodo in cui nelle città italiane si sono costituiti i Liberi Comuni e contro queste autonomie lotta appunto il Barbarossa...",
+            "url": "https://www.santodelgiorno.it/san-galdino/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Maria dell'Incarnazione",
+            "qualifica": "Carmelitana",
+            "url": "https://www.santodelgiorno.it/beata-maria-dell-incarnazione/"
+        },
+        {
+            "nome": "San Calogero di Brescia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-calogero-di-brescia/"
+        },
+        {
+            "nome": "Beata Savina Petrilli",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-savina-petrilli/"
+        },
+        {
+            "nome": "Sant'Ursmaro",
+            "qualifica": "Vescovo-abate di Lobbes",
+            "url": "https://www.santodelgiorno.it/sant-ursmaro/"
+        },
+        {
+            "nome": "Beato Andrea Hibernon",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-andrea-hibernon/"
+        },
+        {
+            "nome": "Beato Idesbaldo delle Dune",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/beato-idesbaldo-delle-dune/"
+        },
+        {
+            "nome": "San Láisren",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-laisren/"
+        },
+        {
+            "nome": "Beato Andrea da Montereale",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Sant'Antusa di Costantinopoli",
+            "qualifica": "Vergine, principessa imperiale",
+            "url": null
+        },
+        {
+            "nome": "Sant'Atanasia di Egina",
+            "qualifica": "Vedova",
+            "url": null
+        },
+        {
+            "nome": "Santi Eleuterio ed Anzia",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Ermogene ed Elpidio",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eusebio di Fano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Isauro",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Moreau",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Perfetto di Cordova",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Pusicio",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Romano (Roman) Archutowski",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Amadio Amidei",
+            "qualifica": "Fondatore",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/18/aprile/"
+}

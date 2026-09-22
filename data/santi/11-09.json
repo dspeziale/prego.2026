@@ -1,0 +1,113 @@
+{
+    "data": "11-09",
+    "giorno": 11,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "11 settembre",
+    "principali": [
+        {
+            "nome": "Santi Proto e Giacinto",
+            "qualifica": "Martiri di Roma",
+            "descrizione": "Martiri, santi (epoca incerta). L'esistenza di questi due martiri romani è storicamente provata dal fatto che già nel IV secolo papa Damaso aveva composto una iscrizione per il loro sepolcro...",
+            "url": "https://www.santodelgiorno.it/santi-proto-e-giacinto/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Felice, Regola ed Essuperanzio",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santi-felice-regola-essuperanzio/"
+        },
+        {
+            "nome": "San Giovanni Gabriele Perboyre",
+            "qualifica": "Sacerdote vincenziano, martire",
+            "url": "https://www.santodelgiorno.it/san-giovanni-gabriele-perboyre/"
+        },
+        {
+            "nome": "Beato Bonaventura da Barcellona",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-bonaventura-da-barcellona/"
+        },
+        {
+            "nome": "Sant'Elia Speleota",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-elia-speleota/"
+        },
+        {
+            "nome": "San Daniele di Bangor",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-daniele-di-bangor/"
+        },
+        {
+            "nome": "San Pafnuzio",
+            "qualifica": "Vescovo in Egitto",
+            "url": "https://www.santodelgiorno.it/san-pafnuzio/"
+        },
+        {
+            "nome": "San Paziente di Lione",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-paziente-di-lione/"
+        },
+        {
+            "nome": "Santa Noiala",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-noiala/"
+        },
+        {
+            "nome": "Laura Degan",
+            "qualifica": "Fanciulla",
+            "url": "https://www.santodelgiorno.it/laura-degan/"
+        },
+        {
+            "nome": "Beata Maria Celeste del Santissimo Salvatore",
+            "qualifica": "Vergine, fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-celeste-del-santissimo-salvatore/"
+        },
+        {
+            "nome": "Beato Giuseppe Maria Segura Penades",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-maria-segura-penades/"
+        },
+        {
+            "nome": "Beato Pietro de Alcantara",
+            "qualifica": "Religioso e martire",
+            "url": "https://www.santodelgiorno.it/beato-pietro-de-alcantara/"
+        },
+        {
+            "nome": "Beato Francesco Mayaudon",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-francesco-mayaudon/"
+        },
+        {
+            "nome": "San Sacerdote di Lione",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-sacerdote-di-lione/"
+        },
+        {
+            "nome": "Sant'Adelfio di Remiremont",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Beati Gaspare Koteda, Francesco Takeya e Pietro Shichiemon",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Leudino di Toul",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Matteo e Gusmeo",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Fausto e Felice",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/11/settembre/"
+}

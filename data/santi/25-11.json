@@ -1,0 +1,68 @@
+{
+    "data": "25-11",
+    "giorno": 25,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "25 novembre",
+    "principali": [
+        {
+            "nome": "Santa Caterina d'Alessandria",
+            "qualifica": "Martire",
+            "descrizione": "Nata da stirpe reale, fu dotata dalla natura di un ingegno e di una bellezza così rara, che era stimata la più fortunata giovane della città. Istruita in tutte le scienze, ma soprattutto...",
+            "url": "https://www.santodelgiorno.it/santa-caterina-d-alessandria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Beatrice di Ornacieu",
+            "qualifica": "Vergine e monaca certosina",
+            "url": "https://www.santodelgiorno.it/beata-beatrice-di-ornacieu/"
+        },
+        {
+            "nome": "San Mercurio di Cesarea di Cappadocia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-mercurio-di-cesarea-di-cappadocia/"
+        },
+        {
+            "nome": "Santi Pietro d'Alessandria e compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-pietro-d-alessandria-e-compagni/"
+        },
+        {
+            "nome": "Beata Elisabetta Achler di Reute",
+            "qualifica": "Vergine, terziaria francescana",
+            "url": "https://www.santodelgiorno.it/beata-elisabetta-achler-di-reute/"
+        },
+        {
+            "nome": "San Mosè di Roma",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-mose-di-roma/"
+        },
+        {
+            "nome": "Venerabile Margherita Occhiena",
+            "qualifica": "Madre di Don Bosco",
+            "url": "https://www.santodelgiorno.it/margherita-occhiena/"
+        },
+        {
+            "nome": "Beati Giacinto Serrano Lopez e Giacomo Meseguer Burillo",
+            "qualifica": "Sacerdoti domenicani, martiri",
+            "url": null
+        },
+        {
+            "nome": "San Marcolo",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Maurino",
+            "qualifica": "Venerato ad Auch",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Yi Ho-yong",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/25/novembre/"
+}

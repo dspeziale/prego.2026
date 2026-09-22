@@ -1,0 +1,123 @@
+{
+    "data": "20-07",
+    "giorno": 20,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "20 luglio",
+    "principali": [
+        {
+            "nome": "Sant'Elia",
+            "qualifica": "Profeta",
+            "descrizione": "Elia, insieme a Eliseo e Samuele, è uno dei più grandi profeti d’azione (distinti dai profeti scrittori come Isaia, Geremia, Ezechiele e Daniele, che hanno lasciato scritti inclusi...",
+            "url": "https://www.santodelgiorno.it/sant-elia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Apollinare di Ravenna",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-apollinare-di-ravenna/"
+        },
+        {
+            "nome": "Santa Margherita d'Antiochia",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-margherita-d-antiochia-di-pisidia/"
+        },
+        {
+            "nome": "Transito di San Giuseppe",
+            "qualifica": "Patrono dei morenti e della Buona Morte",
+            "url": "https://www.santodelgiorno.it/transito-di-san-giuseppe/"
+        },
+        {
+            "nome": "Sant'Aurelio di Cartagine",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-aurelio-di-cartagine/"
+        },
+        {
+            "nome": "Beato Giuseppe Barsabba il Giusto",
+            "qualifica": "Discepolo del signore",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-barsabba-il-giusto/"
+        },
+        {
+            "nome": "Beato Luigi Novarese",
+            "qualifica": "Presbitero",
+            "url": "https://www.santodelgiorno.it/beato-luigi-novarese/"
+        },
+        {
+            "nome": "San Giuseppe Maria Diaz Sanjurjo",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-maria-diaz-sanjurjo/"
+        },
+        {
+            "nome": "San Vulmaro",
+            "qualifica": "Presbitero",
+            "url": "https://www.santodelgiorno.it/san-vulmaro/"
+        },
+        {
+            "nome": "Servo di Dio Manuel Foderà",
+            "qualifica": "Fanciullo",
+            "url": "https://www.santodelgiorno.it/servo-di-dio-manuel-fodera/"
+        },
+        {
+            "nome": "Beato Bernardo di Hildesheim",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beata Francisca del S. Cuore di Gesù Aldea Araujo",
+            "qualifica": "Suora, martire in Spagna",
+            "url": null
+        },
+        {
+            "nome": "San Frumenzio",
+            "qualifica": "Vescovo in Etiopia",
+            "url": null
+        },
+        {
+            "nome": "San Leone Ignazio (Léon-Ignace) Mangin",
+            "qualifica": "Gesuita martire in Cina",
+            "url": null
+        },
+        {
+            "nome": "Santa Maria Fu Guilin",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sante Maria Zhao Guozhi, Rosa Zhao e Maria Zhao",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Seul",
+            "qualifica": "Religiosi",
+            "url": null
+        },
+        {
+            "nome": "San Paolo (Paul) Denn",
+            "qualifica": "Gesuita martire in Cina",
+            "url": null
+        },
+        {
+            "nome": "San Paolo di Cordova",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Zhou Rixin",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Rita Dolores Pujalte Sanchez",
+            "qualifica": "Suora, martire in Spagna",
+            "url": null
+        },
+        {
+            "nome": "San Xi Guigi",
+            "qualifica": "Martire in Cina",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/20/luglio/"
+}

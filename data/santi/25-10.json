@@ -1,0 +1,98 @@
+{
+    "data": "25-10",
+    "giorno": 25,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "25 ottobre",
+    "principali": [
+        {
+            "nome": "Santi Crisante e Daria",
+            "qualifica": "Martiri",
+            "descrizione": "Crisante e Daria erano due nobili sposi romani ricchi di doti naturali e di ricchezze. Conosciuta la religione cristiana, il marito ebbe cura di istruire anche la sua sposa Daria e questa, abbracciata...",
+            "url": "https://www.santodelgiorno.it/santi-crisanto-e-daria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Crispino e Crispiniano di Soissons",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/san-crispino-e-crispiniano/"
+        },
+        {
+            "nome": "Beato Carlo Gnocchi",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-carlo-gnocchi/"
+        },
+        {
+            "nome": "San Gaudenzio di Brescia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gaudenzio-di-brescia/"
+        },
+        {
+            "nome": "San Bernardo Calvò",
+            "qualifica": "Vescovo di Vich",
+            "url": "https://www.santodelgiorno.it/san-bernardo-calvo/"
+        },
+        {
+            "nome": "Beato Taddeo Machar",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-taddeo-machar/"
+        },
+        {
+            "nome": "San Miniato di Firenze",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-miniato-di-firenze/"
+        },
+        {
+            "nome": "Beato Bernardo di San Giuseppe",
+            "qualifica": "Mercedario",
+            "url": null
+        },
+        {
+            "nome": "San Frontone di Perigueux",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Frutto",
+            "qualifica": "Eremita a Segovia",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ilaro (Ilario) di Javols",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria Teresa Ferragud Roig e 4 figlie suore",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Martirio e Marciano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Mauro di Pecs",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Riccardo (Recaredi) Centelles Abad",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Gavino",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Teodosio, Lucio, Marco, Pietro e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/25/ottobre/"
+}

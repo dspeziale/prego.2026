@@ -1,0 +1,78 @@
+{
+    "data": "11-02",
+    "giorno": 11,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "11 febbraio",
+    "principali": [
+        {
+            "nome": "Beata Vergine Maria di Lourdes",
+            "qualifica": "Apparizione",
+            "descrizione": "A Lourdes una cittadina nel sud-ovest della Francia la Madonna apparve alla giovane pastorella Bernadette Soubirous l'11 febbraio 1858.",
+            "url": "https://www.santodelgiorno.it/beata-vergine-maria-di-lourdes/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Elisa (Eloisa, lat. Helvisa)",
+            "qualifica": "Reclusa",
+            "url": "https://www.santodelgiorno.it/santa-elisa-eloisa/"
+        },
+        {
+            "nome": "San Pasquale I",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-pasquale-i/"
+        },
+        {
+            "nome": "San Pedro De Jesus Maldonado Lucero",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-pedro-de-jesus-maldonado-lucero/"
+        },
+        {
+            "nome": "Santa Sotere",
+            "qualifica": "Vergine e Martire",
+            "url": "https://www.santodelgiorno.it/santa-sotere/"
+        },
+        {
+            "nome": "Beato Tobia (Francesco) Borras Romeu",
+            "qualifica": "Religioso e martire",
+            "url": "https://www.santodelgiorno.it/beato-tobia-francesco-borras-romeu/"
+        },
+        {
+            "nome": "San Gregorio II",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-gregorio-ii/"
+        },
+        {
+            "nome": "San Severino di Agaune",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-severino-di-agaune/"
+        },
+        {
+            "nome": "Sant'Ardagno (Ardano)",
+            "qualifica": "Abate di Tournus",
+            "url": null
+        },
+        {
+            "nome": "San Castrense (Castrese) di Sessa",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri della Numidia",
+            "qualifica": "Cristiani",
+            "url": null
+        },
+        {
+            "nome": "San Secondino",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Dante",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/11/febbraio/"
+}

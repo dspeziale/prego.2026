@@ -91,6 +91,12 @@ class SyncManager(private val context: Context) {
                 File(pagesDir, "mese/$yearMonth.html"),
             )
         }
+        // Santi del giorno: una pagina per giornata, legata al giorno del
+        // mese e quindi stabile. Si scarica solo se manca (o con "tutto").
+        giorni.forEach { iso ->
+            val dest = File(pagesDir, "santi/$iso.html")
+            if (force || !dest.isFile) page("/santi/$iso", dest)
+        }
         giorni.forEach { iso ->
             val dest = File(pagesDir, "giorno/$iso.html")
             if (force || !dest.isFile || iso >= recentFrom) {

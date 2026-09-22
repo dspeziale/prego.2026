@@ -1,0 +1,108 @@
+{
+    "data": "04-07",
+    "giorno": 4,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "4 luglio",
+    "principali": [
+        {
+            "nome": "Sant'Elisabetta del Portogallo",
+            "qualifica": "Regina",
+            "descrizione": "Nacque l’anno 1271 da Pietro III, re di Aragona, e da Costanza, figlia di Manfredi, re di Sicilia. Le fu imposto il nome di Elisabetta in memoria di Santa Elisabetta regina d’Ungheria, sua...",
+            "url": "https://www.santodelgiorno.it/sant-elisabetta-di-portogallo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Pier Ggiorgio Frassati",
+            "qualifica": "Terziario domenicano",
+            "url": "https://www.santodelgiorno.it/beato-piergiorgio-frassati/"
+        },
+        {
+            "nome": "Sant'Ulrico di Augusta",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-ulrico-di-augusta/"
+        },
+        {
+            "nome": "Sant'Andrea di Creta",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-andrea-di-creta/"
+        },
+        {
+            "nome": "Santa Berta di Blangy",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-berta-di-blangy/"
+        },
+        {
+            "nome": "San Lauriano",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-lauriano/"
+        },
+        {
+            "nome": "Sant'Alberto Quadrelli da Rivolta",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Antonio Daniel",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Bonifacio di Savoia",
+            "qualifica": "Monaco certosino e arcivescovo di Canterbury",
+            "url": null
+        },
+        {
+            "nome": "Beata Caterina Jarrige",
+            "qualifica": "Domenicana",
+            "url": null
+        },
+        {
+            "nome": "San Cesidio Giacomantonio",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Fiorenzo di Cahors",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Giocondiano",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni da Vespignano",
+            "qualifica": "Popolano fiorentino",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni detto Cornelio, Tommaso Bosgrave, Giovanni Carey e Patrizio Salmon",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Kowalski",
+            "qualifica": "Sacerdote salesiano, martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Guglielmo Andleby, Enrico Abbot, Tommaso Warcop ed Eduardo Fulthorp",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Valentino",
+            "qualifica": "Sacerdote ed eremita",
+            "url": null
+        },
+        {
+            "nome": "Madonna del Rifugio",
+            "qualifica": "",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/04/luglio/"
+}

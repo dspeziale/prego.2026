@@ -1,0 +1,123 @@
+{
+    "data": "01-01",
+    "giorno": 1,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "1 gennaio",
+    "principali": [
+        {
+            "nome": "Maria Santissima Madre di Dio",
+            "qualifica": "Divina Maternità di Maria",
+            "descrizione": "Questa festa fu istituita dal Sommo Pontefice Pio XI nel 1931, in occasione del XV Centenario del Concilio di Efeso, con l’Enciclica Lux Veritatis. Gesù nacque da una Vergine senza concorso...",
+            "url": "https://www.santodelgiorno.it/maria-santissima-madre-di-dio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Vincenzo Maria Strambi",
+            "qualifica": "Vescovo, passionista",
+            "url": "https://www.santodelgiorno.it/san-vincenzo-strambi/"
+        },
+        {
+            "nome": "San Giustino di Chieti",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giustino-di-chieti/"
+        },
+        {
+            "nome": "San Giuseppe Maria Tomasi",
+            "qualifica": "Cardinale, teatino",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-maria-tomasi/"
+        },
+        {
+            "nome": "San Davide III il Restauratore",
+            "qualifica": "Re di Georgia",
+            "url": "https://www.santodelgiorno.it/san-davide-iii-il-restauratore/"
+        },
+        {
+            "nome": "San Fulgenzio di Ruspe",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-fulgenzio-di-ruspe/"
+        },
+        {
+            "nome": "Beato Ugolino da Gualdo Cattaneo",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/beato-ugolino-da-gualdo-cattaneo/"
+        },
+        {
+            "nome": "Santa Zdislava",
+            "qualifica": "Madre di famiglia",
+            "url": "https://www.santodelgiorno.it/santa-zdislava/"
+        },
+        {
+            "nome": "Sant'Odilone di Cluny",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-odilone-di-cluny/"
+        },
+        {
+            "nome": "San Sigismondo Gorazdowski",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-sigismondo-gorazdowski/"
+        },
+        {
+            "nome": "San Guglielmo di Volpiano",
+            "qualifica": "Abate di S. Benigno di Digione",
+            "url": "https://www.santodelgiorno.it/san-guglielmo-di-volpiano/"
+        },
+        {
+            "nome": "Sant'Eugendo",
+            "qualifica": "Abate di Condat",
+            "url": "https://www.santodelgiorno.it/sant-eugendo/"
+        },
+        {
+            "nome": "Beato Valentino Paquay",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-valentino-paquay/"
+        },
+        {
+            "nome": "Sant'Almachio",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Caterina Solaguti",
+            "qualifica": "Vergine mercedaria",
+            "url": null
+        },
+        {
+            "nome": "San Chiaro",
+            "qualifica": "Abate di S. Marcello di Vienne",
+            "url": null
+        },
+        {
+            "nome": "San Frodoberto",
+            "qualifica": "Abate di Moutier-La Celle",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni Battista e Renato Lego",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni da Montecorvino",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Luigi (Lojze) Grozde",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Mariano (Marian) Konopinski",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Bonfiglio Monaldi",
+            "qualifica": "Fondatore",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/01/gennaio/"
+}

@@ -1,0 +1,68 @@
+{
+    "data": "08-12",
+    "giorno": 8,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "8 dicembre",
+    "principali": [
+        {
+            "nome": "Immacolata Concezione della Beata Vergine Maria",
+            "qualifica": "La purezza dal peccato originale",
+            "descrizione": "Nel paradiso terrestre Iddio Padre, nell'atto di scacciare Eva, preannunzió la nascita di una donna che avrebbe schiacciato la testa al serpente e colla sua concezione senza macchia avrebbe riparato...",
+            "url": "https://www.santodelgiorno.it/immacolata-concezione-della-beata-vergine-maria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Narcisa di Gesù Martillo y Moràn",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-narcisa-di-gesu-martillo-y-moran/"
+        },
+        {
+            "nome": "San Natale Chabanel",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-natale-chabanel/"
+        },
+        {
+            "nome": "Beato Luigi Liguda",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/beato-luigi-liguda/"
+        },
+        {
+            "nome": "Sant'Eutichiano",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/sant-eutichiano/"
+        },
+        {
+            "nome": "San Patapio",
+            "qualifica": "Eremita a Costantinopoli",
+            "url": "https://www.santodelgiorno.it/san-patapio/"
+        },
+        {
+            "nome": "San Teobaldo di Marly",
+            "qualifica": "Abate dei Vaux-de-Cernay",
+            "url": "https://www.santodelgiorno.it/san-teobaldo-di-marly/"
+        },
+        {
+            "nome": "San Romarico",
+            "qualifica": "Abate ven. a Remiremont",
+            "url": "https://www.santodelgiorno.it/san-romarico/"
+        },
+        {
+            "nome": "Sant'Eucario di Treviri",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Maria (José Maria) Zabal Blasco",
+            "qualifica": "Padre di famiglia, martire",
+            "url": null
+        },
+        {
+            "nome": "San Macario di Alessandria",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/08/dicembre/"
+}

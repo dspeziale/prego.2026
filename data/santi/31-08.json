@@ -1,0 +1,58 @@
+{
+    "data": "31-08",
+    "giorno": 31,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "31 agosto",
+    "principali": [
+        {
+            "nome": "San Raimondo Nonnato",
+            "qualifica": "Religioso",
+            "descrizione": "S. Raimondo, soprannominato Nonnato (non nato) perchè venuto alla luce mediante operazione medica dopo la morte della madre, nacque nella Catalogna l'anno 1204 da nobile famiglia. Suo padre, dopo...",
+            "url": "https://www.santodelgiorno.it/san-raimondo-nonnato/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Giuseppe d'Arimatea e Nicodemo",
+            "qualifica": "Discepoli di Gesù",
+            "url": "https://www.santodelgiorno.it/santi-giuseppe-d-arimatea-e-nicodemo/"
+        },
+        {
+            "nome": "Beato Andrea Dotti",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-andrea-dotti/"
+        },
+        {
+            "nome": "San Paolino di Treviri",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-paolino-di-treviri/"
+        },
+        {
+            "nome": "Sant'Aidano di Lindisfarne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-aidano-di-lindisfarne/"
+        },
+        {
+            "nome": "Sant'Aristide Marciano",
+            "qualifica": "Apologista",
+            "url": "https://www.santodelgiorno.it/sant-aristide-marciano/"
+        },
+        {
+            "nome": "San Bonagiunta Manetti",
+            "qualifica": "Fondatore",
+            "url": "https://www.santodelgiorno.it/san-bonagiunta-manetti/"
+        },
+        {
+            "nome": "San Cesidio e compagni",
+            "qualifica": "Martiri a Trasacco",
+            "url": null
+        },
+        {
+            "nome": "Beati Edmigio Primo Rodriguez, Amalio Zariquiegui Mendoza e Valerio Bernardo Herrero Martínez",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/31/agosto/"
+}

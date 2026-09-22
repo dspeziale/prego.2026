@@ -1,0 +1,118 @@
+{
+    "data": "17-10",
+    "giorno": 17,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "17 ottobre",
+    "principali": [
+        {
+            "nome": "Sant'Ignazio di Antiochia",
+            "qualifica": "Vescovo e martire",
+            "descrizione": "Ignazio, soprannominato Teoforo (portatore di Dio), abbracciò la fede per opera degli Apostoli e in particolare di San Giovanni, di cui fu discepolo prediletto. Ricevuta la sacra ordinazione, si...",
+            "url": "https://www.santodelgiorno.it/sant-ignazio-di-antiochia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Riccardo Gwyn",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-riccardo-gwyn/"
+        },
+        {
+            "nome": "Beato Contardo Ferrini",
+            "qualifica": "Laico",
+            "url": "https://www.santodelgiorno.it/beato-contardo-ferrini/"
+        },
+        {
+            "nome": "San Giovanni Nano",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-giovanni-nano/"
+        },
+        {
+            "nome": "San Fiorenzo di Orange",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-fiorenzo-di-orange/"
+        },
+        {
+            "nome": "Sant'Osea",
+            "qualifica": "Profeta",
+            "url": "https://www.santodelgiorno.it/sant-osea/"
+        },
+        {
+            "nome": "Beato Baldassarre Ravaschieri da Chiavari",
+            "qualifica": "Sacerdote francescano",
+            "url": "https://www.santodelgiorno.it/beato-baldassarre-ravaschieri-da-chiavari/"
+        },
+        {
+            "nome": "Beato Pietro della Natività di Maria",
+            "qualifica": "Scolopio",
+            "url": "https://www.santodelgiorno.it/beato-pietro-della-nativita-di-maria/"
+        },
+        {
+            "nome": "Santi Rufo e Zosimo",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-rufo-e-zosimo/"
+        },
+        {
+            "nome": "Beato Gilberto di Citeaux",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/beato-gilberto-di-citeaux/"
+        },
+        {
+            "nome": "San Dulcidio",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-dulcidio/"
+        },
+        {
+            "nome": "Beata Vergine Maria della Provvidenza",
+            "qualifica": "",
+            "url": null
+        },
+        {
+            "nome": "Beato Fedele Fuidio Rodriguez",
+            "qualifica": "Marianista, Martire Spagnolo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giacomo Burin",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Isidoro Gagelin",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beate Maria Natalia di S. Ludovico (Maria Ludovica Giuseppa) Vanot e 4 compagne",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri Bolitani (Volitani)",
+            "qualifica": "Religiosi",
+            "url": null
+        },
+        {
+            "nome": "Beato Raimondo Stefano Bou Pascual",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Tarsila Cordoba Belda",
+            "qualifica": "Vedova, martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Josesse, Traiano e Baranclate",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Catervo",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/17/ottobre/"
+}

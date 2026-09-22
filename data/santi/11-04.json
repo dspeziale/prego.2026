@@ -1,0 +1,83 @@
+{
+    "data": "11-04",
+    "giorno": 11,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "11 aprile",
+    "principali": [
+        {
+            "nome": "Santa Gemma Galgani",
+            "qualifica": "Vergine",
+            "descrizione": "Gemma Galgani nacque a Camigliano di Lucca il 12 marzo 1878 da Enrico Galgani e da Aurelia Landi, ambedue ferventi cristiani. La buona madre sembrava che presentisse la sua vicina morte e perciò quando...",
+            "url": "https://www.santodelgiorno.it/santa-gemma-galgani/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santo Stanislao",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/santo-stanislao/"
+        },
+        {
+            "nome": "San Barsanofio",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-barsanofio/"
+        },
+        {
+            "nome": "Sant'Elena Guerra",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-elena-guerra/"
+        },
+        {
+            "nome": "Beato Angelo da Chivasso",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-angelo-da-chivasso/"
+        },
+        {
+            "nome": "Beato Lanuino",
+            "qualifica": "Monaco certosino",
+            "url": "https://www.santodelgiorno.it/beato-lanuino/"
+        },
+        {
+            "nome": "Sant'Antipa di Pergamo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Domnione (Donnione) di Salona",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Filippo di Gortina",
+            "qualifica": "Vescovo a Creta",
+            "url": null
+        },
+        {
+            "nome": "Beato Giorgio Gervase",
+            "qualifica": "Sacerdote benedettino, martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Isacco di Monteluco",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Beati Paolo e Giacomo",
+            "qualifica": "Cavalieri mercedari",
+            "url": null
+        },
+        {
+            "nome": "Beata Sancia del Portogallo",
+            "qualifica": "Principessa, vergine",
+            "url": null
+        },
+        {
+            "nome": "Beato Sinforiano Felice (Symforian Feliks) Ducki",
+            "qualifica": "Religioso e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/11/aprile/"
+}

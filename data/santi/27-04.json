@@ -1,0 +1,93 @@
+{
+    "data": "27-04",
+    "giorno": 27,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "27 aprile",
+    "principali": [
+        {
+            "nome": "Santa Zita",
+            "qualifica": "Vergine",
+            "descrizione": "Nel linguaggio medievale, « zita » equivaleva a quella che, nei dialetti toscani, è ancora detta « cita » o « citta ». Voleva dire cioè « ragazza...",
+            "url": "https://www.santodelgiorno.it/santa-zita/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Madonna di Montserrat",
+            "qualifica": "Apparizione",
+            "url": "https://www.santodelgiorno.it/madonna-di-montserrat/"
+        },
+        {
+            "nome": "San Simeone di Gerusalemme",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-simeone-di-gerusalemme/"
+        },
+        {
+            "nome": "Beato Giacomo da Bitetto",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-da-bitetto/"
+        },
+        {
+            "nome": "Beata Osanna di Cattaro",
+            "qualifica": "Domenicana",
+            "url": "https://www.santodelgiorno.it/beata-osanna-di-cattaro/"
+        },
+        {
+            "nome": "San Pietro Armengol",
+            "qualifica": "Mercedario",
+            "url": "https://www.santodelgiorno.it/san-pietro-armengol/"
+        },
+        {
+            "nome": "Madonna di Pietraquaria",
+            "qualifica": "Apparizione",
+            "url": "https://www.santodelgiorno.it/madonna-di-pietraquaria/"
+        },
+        {
+            "nome": "San Giovanni di Catari",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Liberale",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Lorenzo Nguyen Van Huong",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria Antonia Bandrés y Elósegui",
+            "qualifica": "Religiosa",
+            "url": null
+        },
+        {
+            "nome": "San Mawgan (o Magaldo)",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Nicola Roland",
+            "qualifica": "Fondatore",
+            "url": null
+        },
+        {
+            "nome": "San Pollione di Cibali",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Teodoro",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Santa Maria del Campo",
+            "qualifica": "Dedicazione",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/27/aprile/"
+}

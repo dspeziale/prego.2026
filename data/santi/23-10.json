@@ -1,0 +1,118 @@
+{
+    "data": "23-10",
+    "giorno": 23,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "23 ottobre",
+    "principali": [
+        {
+            "nome": "San Giovanni da Capestrano",
+            "qualifica": "Sacerdote",
+            "descrizione": "Coloro i quali dicono che i sacerdoti, i religiosi e le suore sono gente inutile, hanno in questo Santo una solenne smentita. Giovanni da Capestrano fu prete, religioso, apostolo, guerriero e accorto diplomatico...",
+            "url": "https://www.santodelgiorno.it/san-giovanni-da-capestrano/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Severino Boezio",
+            "qualifica": "Filosofo e martire",
+            "url": "https://www.santodelgiorno.it/san-severino-boezio/"
+        },
+        {
+            "nome": "Sant'Ignazio",
+            "qualifica": "Patriarca di Costantinopoli",
+            "url": "https://www.santodelgiorno.it/sant-ignazio-di-costantinopoli/"
+        },
+        {
+            "nome": "Beato Giovanni Bono",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-bono/"
+        },
+        {
+            "nome": "Beato Giovanni Angelo Porro",
+            "qualifica": "Servita",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-angelo-porro/"
+        },
+        {
+            "nome": "Sant'Allucio di Campugliano in Valdinievole",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/sant-allucio-di-campugliano-in-valdinievole/"
+        },
+        {
+            "nome": "Santi Servando e Germano",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-servando-e-germano/"
+        },
+        {
+            "nome": "San Severino di Colonia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-severino-di-colonia/"
+        },
+        {
+            "nome": "Beato Arnoldo Rèche",
+            "qualifica": "Fratello delle Scuole Cristiane",
+            "url": "https://www.santodelgiorno.it/beato-arnoldo-reche/"
+        },
+        {
+            "nome": "San Teodoreto di Antiochia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-teodoreto-di-antiochia/"
+        },
+        {
+            "nome": "Beati Ambrogio Leone Lorente Vicente, Fiorenzo Martino Ibanez Lazaro ed Onorato Andrea Zorraquino He",
+            "qualifica": "Religiosi e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Benedetto di Poitiers",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Sant'Elfleda (Etelfleda) di Ramsey",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni di Siracusa",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Giovanni e Giacomo",
+            "qualifica": "Martiri in Persia",
+            "url": null
+        },
+        {
+            "nome": "Beati Ildefonso Garcia, Giustino Cuesta e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Leonardo Olivera Buera",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beate Maria Clotilde Angela di S. Francesco Borgia (Clotilde Giuseppa) Paillot e 5 compagne",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Paolo Tong Viet Buong",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Romano di Rouen",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Tommaso Thwing",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/23/ottobre/"
+}

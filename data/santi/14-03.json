@@ -1,0 +1,58 @@
+{
+    "data": "14-03",
+    "giorno": 14,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "14 marzo",
+    "principali": [
+        {
+            "nome": "Santa Matilde di Germania",
+            "qualifica": "Regina",
+            "descrizione": "Di principesca famiglia, nacque S. Matilde nella Sassonia. I cristiani genitori, consci della vanità delle grandezze umane, affidarono la fanciulla all'abadessa di Erfurt, perché la educasse...",
+            "url": "https://www.santodelgiorno.it/santa-matilde-di-germania/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Giacomo Cusmano",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-cusmano/"
+        },
+        {
+            "nome": "Santa Paolina",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/santa-paolina/"
+        },
+        {
+            "nome": "Beata Eva da Cornillion",
+            "qualifica": "Reclusa di s. Martino di Liegi",
+            "url": "https://www.santodelgiorno.it/beata-eva-da-cornillion/"
+        },
+        {
+            "nome": "Sant'Alessandro di Pidna",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Lazzaro di Milano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Leobino di Chartres",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Leone",
+            "qualifica": "Vescovo e martire a Roma",
+            "url": null
+        },
+        {
+            "nome": "Placido Riccardo",
+            "qualifica": "Beato",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/14/marzo/"
+}

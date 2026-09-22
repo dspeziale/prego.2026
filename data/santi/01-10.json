@@ -1,0 +1,98 @@
+{
+    "data": "01-10",
+    "giorno": 1,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "1 ottobre",
+    "principali": [
+        {
+            "nome": "Santa Teresa di Lisieux",
+            "qualifica": "Vergine e dottore della Chiesa",
+            "descrizione": "Il 2 gennaio 1873, verso mezzanotte, la casa di Giuseppe Stanislao Martin e di Zelia Guerin fu rallegrata da un nuovo olezzante fiorellino: Maria Teresa, che univasi a completare il mazzo di fiori di quei...",
+            "url": "https://www.santodelgiorno.it/santa-teresa-di-gesu-bambino/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Romano il Melode",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/san-romano-il-melode/"
+        },
+        {
+            "nome": "Beato Luigi Monti",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-luigi-monti/"
+        },
+        {
+            "nome": "San Bavone di Gand",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-bavone-di-gand/"
+        },
+        {
+            "nome": "Beato Alvaro Sanjuan Canet",
+            "qualifica": "Sacerdote salesiano e martire",
+            "url": "https://www.santodelgiorno.it/beato-alvaro-sanjuan-canet/"
+        },
+        {
+            "nome": "Beato Antonio Rewera",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-antonio-rewera/"
+        },
+        {
+            "nome": "San Nicezio di Treviri",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-nicezio-di-treviri/"
+        },
+        {
+            "nome": "San Vasnulfo (Vasnolfo)",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-vasnulfo/"
+        },
+        {
+            "nome": "Beati Edoardo Campion, Roberto Wilcox, Cristoforo Buxton e Roberto Widmerpool",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beata Fiorenza Caerols Martinez",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Gaspare Hikojiro ed Andrea Yoshida",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Robinson",
+            "qualifica": "Padre di famiglia, sacerdote, martire",
+            "url": null
+        },
+        {
+            "nome": "San Piatone (Piato) di Tournai",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Rodolfo Crockett ed Edoardo James",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Verissimo, Massima e Giulia",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Geraldo Edwards",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Remigio di Reims",
+            "qualifica": "Arcivescovo della Chiesa cattolica",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/01/ottobre/"
+}

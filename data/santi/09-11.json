@@ -1,0 +1,83 @@
+{
+    "data": "09-11",
+    "giorno": 9,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "9 novembre",
+    "principali": [
+        {
+            "nome": "Dedicazione della Basilica Lateranense",
+            "qualifica": "Dedicazione a San Giovanni Battista",
+            "descrizione": "Fin dall’antichità più remota si solevano consacrare a Dio con particolare solennità i luoghi destinati al culto divino. Questo fatto si riscontra nella storia di tutti i popoli...",
+            "url": "https://www.santodelgiorno.it/dedicazione-della-basilica-lateranense/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Elisabetta della Trinità",
+            "qualifica": "Carmelitana",
+            "url": "https://www.santodelgiorno.it/santa-elisabetta-della-trinita/"
+        },
+        {
+            "nome": "Sant'Agrippino di Napoli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-agrippino-di-napoli/"
+        },
+        {
+            "nome": "Beato Gabriele Ferretti",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-gabriele-ferretti/"
+        },
+        {
+            "nome": "Beata Giovanna di Signa",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-giovanna-di-signa/"
+        },
+        {
+            "nome": "Beato Grazia da Cattaro",
+            "qualifica": "Religioso agostiniano",
+            "url": "https://www.santodelgiorno.it/beato-grazia-da-cattaro/"
+        },
+        {
+            "nome": "Beato Ludovico Morbioli",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/beato-ludovico-morbioli/"
+        },
+        {
+            "nome": "San Vitone di Verdun",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-vitone-di-verdun/"
+        },
+        {
+            "nome": "Beato Enrico (Henryk) Hlebowicz",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Sante Eustolia e Sopatra",
+            "qualifica": "Monache",
+            "url": null
+        },
+        {
+            "nome": "San Giorgio",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giorgio Napper",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Teodoro",
+            "qualifica": "Martire venerato a Rastiglione",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ursino (Orsino) di Bourges",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/09/novembre/"
+}

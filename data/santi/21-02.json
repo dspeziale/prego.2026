@@ -1,0 +1,58 @@
+{
+    "data": "21-02",
+    "giorno": 21,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "21 febbraio",
+    "principali": [
+        {
+            "nome": "Sant'Eleonora",
+            "qualifica": "Regina d'Inghilterra",
+            "descrizione": "Eleonora nacque nel 1222 da Beatrice di Savoia e Raimondo Berengario IV, il nonno era il Beato Umberto III conte di Savoia, primo santo di Casa Savoia. Eleonora era una donna di grande pietà e cultura...",
+            "url": "https://www.santodelgiorno.it/sant-eleonora/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Pier Damiani",
+            "qualifica": "Vescovo e dottore della Chiesa",
+            "url": "https://www.santodelgiorno.it/san-pier-damiani/"
+        },
+        {
+            "nome": "San Roberto Southwell",
+            "qualifica": "Sacerdote gesuita, martire",
+            "url": "https://www.santodelgiorno.it/san-roberto-southwell/"
+        },
+        {
+            "nome": "Beata Maria Enrichetta Dominici",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-maria-enrichetta-dominici/"
+        },
+        {
+            "nome": "San Natale Pinot",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-natale-pinot/"
+        },
+        {
+            "nome": "Santi Germano e Randoaldo",
+            "qualifica": "Abate e monaco",
+            "url": "https://www.santodelgiorno.it/santi-germano-e-randoaldo/"
+        },
+        {
+            "nome": "Sant'Eustazio di Antiochia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eustazio/"
+        },
+        {
+            "nome": "Beato Tommaso Pormort",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-tommaso-pormort/"
+        },
+        {
+            "nome": "San Paterio di Brescia",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/21/febbraio/"
+}

@@ -1,0 +1,68 @@
+{
+    "data": "23-06",
+    "giorno": 23,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "23 giugno",
+    "principali": [
+        {
+            "nome": "San Lanfranco Beccari",
+            "qualifica": "Vescovo di Pavia",
+            "descrizione": "Nato appunto a Pavia nella nobile famiglia Beccari (o de Beccaria) nei primi decenni del sec. XII, Lanfranco fu consacrato Vescovo della sua città da Papa Alessandro III. La ricostruzione della...",
+            "url": "https://www.santodelgiorno.it/san-lanfranco-beccari/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Giuseppe Cafasso",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-cafasso/"
+        },
+        {
+            "nome": "Beata Maria di Oignies",
+            "qualifica": "Fondatrice delle Beghine",
+            "url": "https://www.santodelgiorno.it/beata-maria-di-oignies/"
+        },
+        {
+            "nome": "Sant'Eteldreda di Ely",
+            "qualifica": "Regina di Northumbria",
+            "url": "https://www.santodelgiorno.it/sant-eteldreda-di-ely/"
+        },
+        {
+            "nome": "Santa Agrippina",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-agrippina/"
+        },
+        {
+            "nome": "San Bili (Bilio)",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Nicomedia",
+            "qualifica": "Cristiani",
+            "url": null
+        },
+        {
+            "nome": "Beato Pietro Giacomo da Pesaro",
+            "qualifica": "Sacerdote Agostiniano",
+            "url": null
+        },
+        {
+            "nome": "Beata Raffaella Santina Cimatti",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "San Tommaso Garnet",
+            "qualifica": "Martire in Inghilterra",
+            "url": null
+        },
+        {
+            "nome": "San Valero",
+            "qualifica": "Sacerdote",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/23/giugno/"
+}

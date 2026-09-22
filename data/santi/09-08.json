@@ -1,0 +1,103 @@
+{
+    "data": "09-08",
+    "giorno": 9,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "9 agosto",
+    "principali": [
+        {
+            "nome": "Santa Teresa Benedetta della Croce",
+            "qualifica": "Martire",
+            "descrizione": "Teresa Benedetta della Croce (Edith Stein) nacque il 12 ottobre 1891, è una delle figure più straordinarie, affascinanti e complesse dello scorso secolo. Fu tra le pochissime donne del suo...",
+            "url": "https://www.santodelgiorno.it/santa-teresa-benedetta-della-croce/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Romano di Roma",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-romano/"
+        },
+        {
+            "nome": "Beato Giovanni Guarna da Salerno",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-guarna-da-salerno/"
+        },
+        {
+            "nome": "San Nateo",
+            "qualifica": "Vescovo e abate",
+            "url": "https://www.santodelgiorno.it/san-nateo/"
+        },
+        {
+            "nome": "San Falco di Palena",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-falco-di-palena/"
+        },
+        {
+            "nome": "Beato Fiorentino Felipe Naya",
+            "qualifica": "Religioso scolopio, martire",
+            "url": "https://www.santodelgiorno.it/beato-fiorentino-felipe-naya/"
+        },
+        {
+            "nome": "Beato Faustino Oteiza",
+            "qualifica": "Sacerdote scolopio, martire",
+            "url": "https://www.santodelgiorno.it/beato-faustino-oteiza/"
+        },
+        {
+            "nome": "Santa Candida Maria di Gesù Cipitria (Giovanna Giuseppa Cipitria y Barriola)",
+            "qualifica": "Fondatrice",
+            "url": null
+        },
+        {
+            "nome": "Beato Claudio Richard",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Feidlimid (Fedlimino)",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Fermo e Rustico",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Germano da Carcagente (José Maria Garrigues Hernandez)",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni da Fermo",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo Plaza Hernandez",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Costantinopoli",
+            "qualifica": "Cristiani",
+            "url": null
+        },
+        {
+            "nome": "Beato Riccardo Bere",
+            "qualifica": "Sacerdote certosino, martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Ruben di Gesù Lopez Aguilar e sei compagni",
+            "qualifica": "Religiosi e martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Secondiano, Marcelliano e Veriano",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/09/agosto/"
+}

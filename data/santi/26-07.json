@@ -1,0 +1,118 @@
+{
+    "data": "26-07",
+    "giorno": 26,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "26 luglio",
+    "principali": [
+        {
+            "nome": "Santi Anna e Gioacchino",
+            "qualifica": "Genitori della Vergine Maria",
+            "descrizione": "S. Anna nacque a Betlemme in umile dimora, e fu predestinata da Dio ad andare sposa a Gioachino. Entrambi erano della stirpe di David. I due sposi scelti dal Cielo a darci l'Immacolata da tanti anni sospiravano...",
+            "url": "https://www.santodelgiorno.it/santi-anna-e-gioacchino/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Bartolomea Capitanio",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-bartolomea-capitanio/"
+        },
+        {
+            "nome": "San Tito Brandsma",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-tito-brandsma/"
+        },
+        {
+            "nome": "Beato Giovanni Ingram",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-ingram/"
+        },
+        {
+            "nome": "Beato Giorgio Swallowell",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-giorgio-swallowell/"
+        },
+        {
+            "nome": "Caterina Maria Sudrio",
+            "qualifica": "Testimone di fede",
+            "url": "https://www.santodelgiorno.it/caterina-maria-sudrio/"
+        },
+        {
+            "nome": "Beato Ugo de Actis",
+            "qualifica": "Monaco silvestrino",
+            "url": "https://www.santodelgiorno.it/beato-ugo-de-actis/"
+        },
+        {
+            "nome": "Beato Andrea di Phu Yen",
+            "qualifica": "Proto-martire del Vietnam",
+            "url": null
+        },
+        {
+            "nome": "Sant'Austindo",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beata Camilla Gentili di Rovellone",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Edoardo Twing",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Erasto",
+            "qualifica": "Collaboratore di San Paolo",
+            "url": null
+        },
+        {
+            "nome": "Beati Evangelista e Pellegrino",
+            "qualifica": "Sacerdoti",
+            "url": null
+        },
+        {
+            "nome": "San Giorgio Preca",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo Webster",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Marcello Gaucherio Labigne de Reignefort e Pietro Giuseppe Le Groing de La Romagère",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beate Maria Margherita di S. Agostino Bonnet e 4 compagne",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Roberto Nutter",
+            "qualifica": "Domenicano",
+            "url": null
+        },
+        {
+            "nome": "San Simeone di Polirone",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Beati Vincenzo Pinilla ed Emanuele Martin Sierra",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Olimpio",
+            "qualifica": "Martire a Roma",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/26/luglio/"
+}

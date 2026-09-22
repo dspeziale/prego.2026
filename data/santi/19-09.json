@@ -1,0 +1,128 @@
+{
+    "data": "19-09",
+    "giorno": 19,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "19 settembre",
+    "principali": [
+        {
+            "nome": "San Gennaro",
+            "qualifica": "Vescovo e martire",
+            "descrizione": "S. Gennaro nacque nella seconda metà del secolo III molto probabilmente a Benevento anche se alcune fonti dicono che sia venuto alla luce a Napoli. Di famiglia nobile e molto cristiano, predilesse...",
+            "url": "https://www.santodelgiorno.it/san-gennaro/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Madonna de La Salette",
+            "qualifica": "",
+            "url": "https://www.santodelgiorno.it/madonna-de-la-salette/"
+        },
+        {
+            "nome": "San Mariano di Evaux",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-mariano-di-evaux/"
+        },
+        {
+            "nome": "Sant'Emilia Maria Guglielma de Rodat",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/sant-emilia-maria-guglielma-de-rodat/"
+        },
+        {
+            "nome": "Santa Maria de Cervellon",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-maria-de-cervellon/"
+        },
+        {
+            "nome": "San Teodoro di Canterbury",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-teodoro-di-canterbury/"
+        },
+        {
+            "nome": "Santa Pomposa di Cordova",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-pomposa-di-cordova/"
+        },
+        {
+            "nome": "Sant'Alfonso de Orozco",
+            "qualifica": "Sacerdote agostiniano",
+            "url": "https://www.santodelgiorno.it/sant-alfonso-de-orozco/"
+        },
+        {
+            "nome": "San Lamberto di Frisinga",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-lamberto-di-frisinga/"
+        },
+        {
+            "nome": "Sant'Abbone (o Goerico) di Metz",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-abbone-o-goerico-di-metz/"
+        },
+        {
+            "nome": "San Sequano",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-sequano/"
+        },
+        {
+            "nome": "Sant'Arnolfo di Gap",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Carlo Hyon Song-mun",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Ciriaco di Buonvicino",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eustochio di Tours",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beata Francesca Cuallado Baixauli",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giacinto Hoyuelos Gonzalez",
+            "qualifica": "Religioso e martire",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni di Spoleto",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beate Maria di Gesù de la Yglesia de Varo e Maria Addolorata e Consolata Aguiar-Mella y Diaz",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Peleo, Nilo, Elia, Patermuzio e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Teodoro di Verona",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Trofimo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Felice e Costanza",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/19/settembre/"
+}

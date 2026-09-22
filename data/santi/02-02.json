@@ -1,0 +1,88 @@
+{
+    "data": "02-02",
+    "giorno": 2,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "2 febbraio",
+    "principali": [
+        {
+            "nome": "Presentazione del Signore",
+            "qualifica": "Candelora",
+            "descrizione": "Presentazione del Signore (Festa della Candelora) simbolo di Cristo luce per illuminare le genti, anche detta della Purificazione di Maria.",
+            "url": "https://www.santodelgiorno.it/presentazione-del-signore/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Caterina de' Ricci",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-caterina-de-ricci/"
+        },
+        {
+            "nome": "San Nicola da Longobardi",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/san-nicola-da-longobardi/"
+        },
+        {
+            "nome": "Beato Andrea Carlo Ferrari",
+            "qualifica": "Arcivescovo",
+            "url": "https://www.santodelgiorno.it/beato-andrea-carlo-ferrari/"
+        },
+        {
+            "nome": "San Giovanni Teofane Venard",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-giovanni-teofane-venard/"
+        },
+        {
+            "nome": "Beato Simone Fidati da Cascia",
+            "qualifica": "Agostiniano",
+            "url": "https://www.santodelgiorno.it/beato-simone-fidati-da-cascia/"
+        },
+        {
+            "nome": "Santa Giovanna di Lestonnac",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/santa-giovanna-di-lestonnac/"
+        },
+        {
+            "nome": "Santa Maria Domenica Mantovani",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-domenica-mantovani/"
+        },
+        {
+            "nome": "Santa Maria Caterina Kasper",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-maria-caterina-kasper/"
+        },
+        {
+            "nome": "Beato Pietro da Ruffia",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-pietro-da-ruffia/"
+        },
+        {
+            "nome": "Beato Stefano Bellesini",
+            "qualifica": "Presbitero agostiniano",
+            "url": "https://www.santodelgiorno.it/beato-stefano-bellesini/"
+        },
+        {
+            "nome": "San Lorenzo di Canterbury",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-lorenzo-di-canterbury/"
+        },
+        {
+            "nome": "San Burcardo di Würzburg",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-burcardo-di-wurzburg/"
+        },
+        {
+            "nome": "San Flosculo (Floscolo) di Orleans",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Madonna delle Fratte",
+            "qualifica": "Apparizione",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/02/febbraio/"
+}

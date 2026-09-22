@@ -1,0 +1,78 @@
+{
+    "data": "05-07",
+    "giorno": 5,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "5 luglio",
+    "principali": [
+        {
+            "nome": "Sant'Antonio Maria Zaccaria",
+            "qualifica": "Sacerdote",
+            "descrizione": "San Antonio Maria Zaccaria nacque a Cremona sulla fine dell’anno 1502. Compì i primi studi nella sua città, poi si recò a Padova per studiare filosofia e medicina. La sua scienza fu...",
+            "url": "https://www.santodelgiorno.it/sant-antonio-maria-zaccaria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Filomena",
+            "qualifica": "Venerata a Sanseverino Marche",
+            "url": "https://www.santodelgiorno.it/sant-filomena-di-san-severino-marche/"
+        },
+        {
+            "nome": "Sant'Atanasio l'Atonita",
+            "qualifica": "Egúmeno",
+            "url": "https://www.santodelgiorno.it/sant-atanasio-l-atonita/"
+        },
+        {
+            "nome": "Sant'Atanasio di Gerusalemme",
+            "qualifica": "Diacono e martire",
+            "url": "https://www.santodelgiorno.it/sant-atanasio-di-gerusalemme/"
+        },
+        {
+            "nome": "Santa Ciprilla di Cirene",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Domezio il Medico",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Beati Giorgio Nichols, Riccardo Yaxley, Tommaso Belson e Humphred Pritchard",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santa Marta",
+            "qualifica": "Madre di San Simeone Stilita il Giovane",
+            "url": null
+        },
+        {
+            "nome": "Beati Matteo Lambert, Roberto Meyler, Edoardo Cheevers e Patrizio Cavanagh",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santo Stefano di Nicea",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Sante Teresa Chen Jinxie e Rosa Chen Aixie",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Tommaso di Terreti",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Santo Stefano di Calagonis",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/05/luglio/"
+}

@@ -1,0 +1,93 @@
+{
+    "data": "12-10",
+    "giorno": 12,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "12 ottobre",
+    "principali": [
+        {
+            "nome": "San Carlo Acutis",
+            "qualifica": "Adolescente",
+            "descrizione": "Carlo Acutis nacque a Londra il 3 maggio 1991 da Andrea Acutis e Antonia Salzano, milanesi provvisoriamente in città per lavoro. Carlo fin da piccolo manifesta un'indole particolarmente devota tanto...",
+            "url": "https://www.santodelgiorno.it/beato-carlo-acutis/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Serafino da Montegranaro",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/san-serafino-da-montegranaro/"
+        },
+        {
+            "nome": "Nostra Signora del Pilar",
+            "qualifica": "Protettrice degli ispanici",
+            "url": "https://www.santodelgiorno.it/nostra-signora-del-pilar/"
+        },
+        {
+            "nome": "Nostra Signora Aparecida",
+            "qualifica": "Il miracolo dei pesci",
+            "url": "https://www.santodelgiorno.it/nostra-signora-aparecida/"
+        },
+        {
+            "nome": "San Massimiliano di Celeia",
+            "qualifica": "Arcivescovo di Lorch",
+            "url": "https://www.santodelgiorno.it/san-massimiliano-di-celeia/"
+        },
+        {
+            "nome": "Santi Felice, Cipriano e 4964 compagni",
+            "qualifica": "Martiri d'Africa",
+            "url": "https://www.santodelgiorno.it/santi-felice-cipriano-e-4964-compagni/"
+        },
+        {
+            "nome": "San Felice IV",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-felice-iv/"
+        },
+        {
+            "nome": "Santi Domnina (Donnina) di Anazarbo e Donnino",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Edisto",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Gonzalez Huguet",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Opilio (Opilione) di Piacenza",
+            "qualifica": "Diacono",
+            "url": null
+        },
+        {
+            "nome": "Beato Pacifico da Valencia (Pedro Salcedo Puchades)",
+            "qualifica": "Religioso e martire",
+            "url": null
+        },
+        {
+            "nome": "San Rodobaldo II (Cipolla) di Pavia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Romano (Roman) Sitko",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Tommaso Bullaker",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Zopito",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/12/ottobre/"
+}

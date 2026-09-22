@@ -1,0 +1,68 @@
+{
+    "data": "16-03",
+    "giorno": 16,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "16 marzo",
+    "principali": [
+        {
+            "nome": "Sant'Eriberto di Colonia",
+            "qualifica": "Vescovo",
+            "descrizione": "Quando si è detto che Eriberto fu consacrato Vescovo di Colonia nel 999 si è già detto molto. Si era alla vigilia di quel Mille, che si annunziava pieno di spavento, per la creduta fine del mondo. Su quel...",
+            "url": "https://www.santodelgiorno.it/sant-eriberto-di-colonia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Benedetta di Assisi",
+            "qualifica": "Clarissa",
+            "url": "https://www.santodelgiorno.it/beata-benedetta-di-assisi/"
+        },
+        {
+            "nome": "San Giovanni de Brebeuf",
+            "qualifica": "Gesuita, martire in Canada",
+            "url": "https://www.santodelgiorno.it/san-giovanni-de-brebeuf/"
+        },
+        {
+            "nome": "Sant'Eusebia",
+            "qualifica": "Badessa di Hamay",
+            "url": "https://www.santodelgiorno.it/sant-eusebia-di-hamay/"
+        },
+        {
+            "nome": "Beato Giovanni Cacciafronte de Sordi",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-de-sordi/"
+        },
+        {
+            "nome": "Beato Eriberto di Namur",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni Amias e Roberto Dalby",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Giuliano di Anazarbo",
+            "qualifica": "Martire venerato a Rimini",
+            "url": null
+        },
+        {
+            "nome": "Santi Ilario e Taziano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Papas",
+            "qualifica": "Martire in Licaonia",
+            "url": null
+        },
+        {
+            "nome": "Beato Torello da Poppi",
+            "qualifica": "Eremita",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/16/marzo/"
+}

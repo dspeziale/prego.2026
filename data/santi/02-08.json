@@ -1,0 +1,93 @@
+{
+    "data": "02-08",
+    "giorno": 2,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "2 agosto",
+    "principali": [
+        {
+            "nome": "Santa Maria degli Angeli",
+            "qualifica": "Il perdono di Assisi",
+            "descrizione": "La Madonna apparve seduta alla destra di Gesù Cristo e circondata da angeli la quale gli chiese in che modo poter esaudire il desiderio di San Francesco: mandare tutti in paradiso.",
+            "url": "https://www.santodelgiorno.it/santa-maria-degli-angeli/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Eusebio di Vercelli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eusebio-di-vercelli/"
+        },
+        {
+            "nome": "San Pietro Giuliano Eymard",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-pietro-eymard/"
+        },
+        {
+            "nome": "Santo Stefano I",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/santo-stefano-i/"
+        },
+        {
+            "nome": "Beata Giovanna d'Aza",
+            "qualifica": "Madre di S. Domenico",
+            "url": "https://www.santodelgiorno.it/beata-giovanna-d-aza/"
+        },
+        {
+            "nome": "San Giustino Maria Russolillo",
+            "qualifica": "Sacerdote e fondatore",
+            "url": "https://www.santodelgiorno.it/san-giustino-maria-russolillo/"
+        },
+        {
+            "nome": "Beato Zeffirino Gimenez Malla",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-zeffirino-gimenez-malla/"
+        },
+        {
+            "nome": "San Betario di Chartres",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santa Centolla",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Filippo di Gesù Munarriz Azcona, Giovanni Diaz Nosti e Leonzio Perez Ramos",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco Calvo Burillo",
+            "qualifica": "Sacerdote domenicano, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco Tomas Serer",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Massimo di Padova",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Pietro di Osma",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Rutilio",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Sereno di Marsiglia",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/02/agosto/"
+}

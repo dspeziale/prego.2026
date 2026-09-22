@@ -1,0 +1,78 @@
+{
+    "data": "04-06",
+    "giorno": 4,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "4 giugno",
+    "principali": [
+        {
+            "nome": "San Francesco Caracciolo",
+            "qualifica": "Sacerdote",
+            "descrizione": "Come già nell'Antico Testamento, cosi nel Nuovo, Dio non tralascia mai di suscitare, secondo le necessità della Chiesa, uomini eminenti per santità, zelo e dottrina. Uno di questi...",
+            "url": "https://www.santodelgiorno.it/san-francesco-caracciolo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Quirino di Siscia",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-quirino/"
+        },
+        {
+            "nome": "San Petroc",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-petroc/"
+        },
+        {
+            "nome": "San Metrofane di Bisanzio",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-metrofane-di-bisanzio/"
+        },
+        {
+            "nome": "Sant'Ottato di Milevi",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-ottato-di-milevi/"
+        },
+        {
+            "nome": "San Filippo Smaldone",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-filippo-smaldone/"
+        },
+        {
+            "nome": "Salus Populi Romani",
+            "qualifica": "Icona Mariana",
+            "url": "https://www.santodelgiorno.it/salus-populi-romani/"
+        },
+        {
+            "nome": "Beato Antonio Zawistowski e Stanislao Starowieyski",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Gualterio",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Santi Nicola e Trano",
+            "qualifica": "Anacoreti",
+            "url": null
+        },
+        {
+            "nome": "Beato Pacifico Ramati da Cerano",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Quirino di Tivoli",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Isabella",
+            "qualifica": "Suora Clarissa",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/04/giugno/"
+}

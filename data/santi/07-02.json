@@ -1,0 +1,148 @@
+{
+    "data": "07-02",
+    "giorno": 7,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "7 febbraio",
+    "principali": [
+        {
+            "nome": "San Riccardo",
+            "qualifica": "Re degli Inglesi",
+            "descrizione": "Il santo di oggi non fu realmente re ed è sconosciuto anche il suo vero nome. Nome e titolo derivano dal racconto che si narra a Eichstätt in Baviera nel X secolo e a Lucca nel XII secolo a causa della...",
+            "url": "https://www.santodelgiorno.it/san-riccardo-re/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Romualdo",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-romualdo/"
+        },
+        {
+            "nome": "Beato Pio IX (Giovanni Maria Mastai Ferretti)",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/beato-pio-ix/"
+        },
+        {
+            "nome": "Sant'Egidio Maria di San Giuseppe",
+            "qualifica": "Professo Frate Minore",
+            "url": "https://www.santodelgiorno.it/sant-egidio-maria-di-san-giuseppe/"
+        },
+        {
+            "nome": "Beata Anna Maria Adorni",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-anna-maria-adorni/"
+        },
+        {
+            "nome": "San Massimo di Nola",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-massimo-di-nola/"
+        },
+        {
+            "nome": "Beata Eugenia Smet (Maria della Provvidenza)",
+            "qualifica": "Religiosa francese",
+            "url": "https://www.santodelgiorno.it/beata-eugenia-smet/"
+        },
+        {
+            "nome": "Beato Antonio Vici da Stroncone",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-antonio-vici-da-stroncone/"
+        },
+        {
+            "nome": "San Luca il Giovane",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-luca-il-giovane/"
+        },
+        {
+            "nome": "Beato Filippo Ripoll Morata",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-filippo-ripoll-morata/"
+        },
+        {
+            "nome": "Beato Adalberto Nierychlewski",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-adalberto-nierychlewski/"
+        },
+        {
+            "nome": "Beata Rosalia Rendu",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-rosalia-rendu/"
+        },
+        {
+            "nome": "San Mosè I",
+            "qualifica": "Eremita e vescovo dei Saraceni",
+            "url": "https://www.santodelgiorno.it/san-mose-i/"
+        },
+        {
+            "nome": "Beato Rizzierio della Muccia",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-rizzierio-della-muccia/"
+        },
+        {
+            "nome": "Beato Anselmo Polanco Fontecha",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/beato-anselmo-polanco-fontecha/"
+        },
+        {
+            "nome": "Beati Giacomo Sales e Guglielmo Saltemouche",
+            "qualifica": "Gesuiti, martiri",
+            "url": "https://www.santodelgiorno.it/beati-giacomo-sales-e-guglielmo-saltemouche/"
+        },
+        {
+            "nome": "Beato Pietro Verhun",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-pietro-verhun/"
+        },
+        {
+            "nome": "Beato Tommaso Sherwood",
+            "qualifica": "Martire in Inghilterra",
+            "url": "https://www.santodelgiorno.it/beato-tommaso-sherwood/"
+        },
+        {
+            "nome": "San Giovanni da Triora",
+            "qualifica": "Presbitero e missionario",
+            "url": null
+        },
+        {
+            "nome": "Santa Giuliana",
+            "qualifica": "Vedova",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo di Morgex",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo Saultemouche",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo Zucchi",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Lorenzo Maiorano",
+            "qualifica": "Vescovo di Siponto",
+            "url": null
+        },
+        {
+            "nome": "San Partenio",
+            "qualifica": "Vescovo di Lampsaco",
+            "url": null
+        },
+        {
+            "nome": "San Patendo",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Anna Katharina Emmerick",
+            "qualifica": "Vergine",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/07/febbraio/"
+}

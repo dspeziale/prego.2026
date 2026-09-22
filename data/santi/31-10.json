@@ -1,0 +1,73 @@
+{
+    "data": "31-10",
+    "giorno": 31,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "31 ottobre",
+    "principali": [
+        {
+            "nome": "Santa Lucilla di Roma",
+            "qualifica": "Vergine e martire",
+            "descrizione": "Lucilla nacque all'alba dell'Era Cristiana, quando chi portava la luce della nuova fede veniva perseguitato da coloro che l'avrebbero voluta spegnere, convertendo il nome di Lucilla in quello di Crepusca...",
+            "url": "https://www.santodelgiorno.it/santa-liucilla-di-roma/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Maria dell'Immacolata Concezione",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-maria-dell-immacolata-concezione/"
+        },
+        {
+            "nome": "San Volfango di Ratisbona",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-volfango-di-ratisbona/"
+        },
+        {
+            "nome": "Sant'Alfonso Rodriguez",
+            "qualifica": "Vedovo, Religioso gesuita",
+            "url": "https://www.santodelgiorno.it/sant-alfonso-rodriguez/"
+        },
+        {
+            "nome": "San Quintino di Vermand",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-quintino-di-vermand/"
+        },
+        {
+            "nome": "Beato Tommaso Bellacci da Firenze",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-tommaso-bellacci-da-firenze/"
+        },
+        {
+            "nome": "Beato Leone Nowakowski",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-leone-nowakowski/"
+        },
+        {
+            "nome": "Beato Domenico Collins",
+            "qualifica": "Religioso gesuita, martire",
+            "url": "https://www.santodelgiorno.it/beato-domenico-collins/"
+        },
+        {
+            "nome": "Beato Cristoforo di Romagna",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-cristoforo-di-romagna/"
+        },
+        {
+            "nome": "San Foillano di Fosses",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-foillano-di-fosses/"
+        },
+        {
+            "nome": "Sant'Antonino di Milano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Epimaco (Epimachio) di Melusio",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/31/ottobre/"
+}

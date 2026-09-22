@@ -1,0 +1,113 @@
+{
+    "data": "25-05",
+    "giorno": 25,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "25 maggio",
+    "principali": [
+        {
+            "nome": "Maria Madre della Chiesa",
+            "qualifica": "Madre dei fedeli e dei pastori della Chiesa",
+            "descrizione": "Il giorno 11 febbraio 2018 su volontà di Papa Francesco la Congregazione per il Culto Divino e la Disciplina dei Sacramenti ha iscritto nel Calendario romano generale, al lunedì dopo Pentecoste...",
+            "url": "https://www.santodelgiorno.it/maria-madre-della-chiesa/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Beda il Venerabile",
+            "qualifica": "Sacerdote e dottore della Chiesa",
+            "url": "https://www.santodelgiorno.it/san-beda-il-venerabile/"
+        },
+        {
+            "nome": "Santa Maria Maddalena de' Pazzi",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-maria-maddalena-de-pazzi/"
+        },
+        {
+            "nome": "San Gregorio VII",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-gregorio-vii/"
+        },
+        {
+            "nome": "Santa Maddalena Sofia Barat",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-maddalena-sofia-barat/"
+        },
+        {
+            "nome": "San Cristoforo Magallanes Jara",
+            "qualifica": "Martire Messicano",
+            "url": "https://www.santodelgiorno.it/san-cristoforo-magallanes-jara/"
+        },
+        {
+            "nome": "San Dionigi di Milano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-dionigi-di-milano/"
+        },
+        {
+            "nome": "Sant'Aldelmo",
+            "qualifica": "Abate e vescovo",
+            "url": "https://www.santodelgiorno.it/sant-aldelmo/"
+        },
+        {
+            "nome": "San Zanobi",
+            "qualifica": "Vescovo di Firenze",
+            "url": "https://www.santodelgiorno.it/san-zanobi-di-firenze/"
+        },
+        {
+            "nome": "Beato Giacomo Filippo Bertoni",
+            "qualifica": "Servita",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-filippo-bertoni/"
+        },
+        {
+            "nome": "Beato Gerardo Mecatti",
+            "qualifica": "Terziario francescano, Cavaliere di Malta",
+            "url": "https://www.santodelgiorno.it/beato-gerardo-mecatti/"
+        },
+        {
+            "nome": "San Gerio",
+            "qualifica": "Venerato a Montesanto",
+            "url": "https://www.santodelgiorno.it/san-gerio/"
+        },
+        {
+            "nome": "Beato Nicola Cehelskyj",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-nicola-cehelskyj/"
+        },
+        {
+            "nome": "Sant'Agostino Caloca Cortes",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Canio (Canione) di Atella",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Dionigi Ssebuggwawo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Leone di Mantenay",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Doan Van Van",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Madonna del Calanco",
+            "qualifica": "Miracolo",
+            "url": null
+        },
+        {
+            "nome": "San Gennadio",
+            "qualifica": "Monaco benedettino",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/25/maggio/"
+}

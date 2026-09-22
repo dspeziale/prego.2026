@@ -102,6 +102,8 @@ class LocalRouter(private val context: Context) {
             path == "/" -> home()
             path.startsWith("/giorno/") ->
                 page("giorno/${path.removePrefix("/giorno/")}.html")
+            path.startsWith("/santi/") ->
+                page("santi/${path.removePrefix("/santi/")}.html")
             path == "/mese/corrente" -> currentMonth()
             path == "/about" -> page("about.html")
             path.startsWith("/static/") -> static(path.removePrefix("/static/"))

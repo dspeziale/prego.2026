@@ -1,0 +1,113 @@
+{
+    "data": "29-09",
+    "giorno": 29,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "29 settembre",
+    "principali": [
+        {
+            "nome": "Santi Michele, Gabriele e Raffaele",
+            "qualifica": "Arcangeli",
+            "descrizione": "I Santi Arcangeli altissime gerarchie angeliche con specifici compiti: Michele Chi è come Dio?, Gabriele Fortezza di Dio, e Raffaele Medicina di Dio.",
+            "url": "https://www.santodelgiorno.it/santi-michele-gabriele-e-raffaele/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Renato Goupil",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-renato-goupil/"
+        },
+        {
+            "nome": "Beato Nicola da Forca Palena",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-nicola-da-forca-palena/"
+        },
+        {
+            "nome": "San Ciriaco (Quiriaco)",
+            "qualifica": "Anacoreta",
+            "url": "https://www.santodelgiorno.it/san-ciriaco-quiriaco/"
+        },
+        {
+            "nome": "San Maurizio di Langonnet",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-maurizio-di-langonnet/"
+        },
+        {
+            "nome": "Beato Giacomo Mestre Iborra",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-mestre-iborra/"
+        },
+        {
+            "nome": "San Giovanni da Dukla",
+            "qualifica": "Francescano polacco",
+            "url": "https://www.santodelgiorno.it/san-giovanni-da-dukla/"
+        },
+        {
+            "nome": "San Ludwino (Liudvino) di Treviri",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-ludwino-liudvino-di-treviri/"
+        },
+        {
+            "nome": "Beato Carlo di Blois",
+            "qualifica": "Duca di Bretagna",
+            "url": "https://www.santodelgiorno.it/beato-carlo-di-blois/"
+        },
+        {
+            "nome": "Servo di Dio Carlo Grisolia",
+            "qualifica": "Giovane focolarino",
+            "url": "https://www.santodelgiorno.it/servo-di-dio-carlo-grisolia/"
+        },
+        {
+            "nome": "Sant'Alarico (Adelrico)",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Beato Dario Hernandez Morato",
+            "qualifica": "Sacerdote gesuita, martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eutichio",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Francisco de Paula Castello y Aleu",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Fraterno di Auxerre",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni di Montmirail",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Santi Michele di Aozaraza, Guglielmo Courtet, Vincenzo Shiwozuka, Lazzaro di Kyoto e Lorenzo Ruiz",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Paolo Bori Puig e Vincenzo Sales Genovés",
+            "qualifica": "Gesuiti, martiri",
+            "url": null
+        },
+        {
+            "nome": "Sante Ripsima, Gaiana e compagne",
+            "qualifica": "Martiri in Armenia",
+            "url": null
+        },
+        {
+            "nome": "Santo Stefano del Lupo",
+            "qualifica": "Monaco",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/29/settembre/"
+}

@@ -1,0 +1,73 @@
+{
+    "data": "05-04",
+    "giorno": 5,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "5 aprile",
+    "principali": [
+        {
+            "nome": "Domenica di Pasqua",
+            "qualifica": "Risurrezione del Signore",
+            "descrizione": "Cristo è risorto e questo giorno sarà senza più tramonto.",
+            "url": "https://www.santodelgiorno.it/pasqua-di-risurrezione-del-signore/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Vincenzo Ferreri",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-vincenzo-ferreri/"
+        },
+        {
+            "nome": "Sant'Irene di Salonicco",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-irene-di-salonicco/"
+        },
+        {
+            "nome": "Santa Giuliana di Cornillon",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-giuliana-di-cornillon/"
+        },
+        {
+            "nome": "Santa Maria Crescentia Höss",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-maria-crescentia-hoss/"
+        },
+        {
+            "nome": "San Geraldo di Sauve-Majeure",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-geraldo-di-sauve-majeure/"
+        },
+        {
+            "nome": "Sant'Alberto di Montecorvino",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santa Caterina Thomas",
+            "qualifica": "Religiosa",
+            "url": null
+        },
+        {
+            "nome": "Santa Ferbuta",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Arbal",
+            "qualifica": "Cristiani",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Persia",
+            "qualifica": "Cristiani",
+            "url": null
+        },
+        {
+            "nome": "Beata Diana Giuntini",
+            "qualifica": "Vergine e benefattrice",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/05/aprile/"
+}

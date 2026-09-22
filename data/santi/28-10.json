@@ -1,0 +1,98 @@
+{
+    "data": "28-10",
+    "giorno": 28,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "28 ottobre",
+    "principali": [
+        {
+            "nome": "Santi Simone e Giuda",
+            "qualifica": "Apostoli",
+            "descrizione": "S. Simone fu soprannominato Cananeo o Zelote per distinguerlo da S. Pietro e da S. Simone, che succedette a S. Giacomo il Minore nella sede vescovile di Gerusalemme... continua S. Giuda, soprannominato...",
+            "url": "https://www.santodelgiorno.it/santi-simone-e-giuda/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Fedele di Como",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-fedele-di-como/"
+        },
+        {
+            "nome": "San Ferruccio di Magonza",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-ferruccio-di-magonza/"
+        },
+        {
+            "nome": "Santi Vincenzo, Sabina e Cristeta",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-vincenzo-sabina-e-cristeta/"
+        },
+        {
+            "nome": "San Rodrigo Aguilar Aleman",
+            "qualifica": "Martire Messicano",
+            "url": "https://www.santodelgiorno.it/san-rodrigo-aguilar-aleman/"
+        },
+        {
+            "nome": "Santi Domenicani in Cina",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-domenicani-in-cina/"
+        },
+        {
+            "nome": "San Giovanni Dat",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-giovanni-dat/"
+        },
+        {
+            "nome": "San Salvio di Amiens",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-salvio-di-amiens/"
+        },
+        {
+            "nome": "San Farone di Meaux",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-farone-di-meaux/"
+        },
+        {
+            "nome": "San Francesco Diaz del Rincón",
+            "qualifica": "Domenicano, martire",
+            "url": null
+        },
+        {
+            "nome": "San Genesio di Thiers",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Germano di Talloires",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Gioacchino Royo Perez",
+            "qualifica": "Martire in Cina",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Alcober",
+            "qualifica": "Domenicano, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Ruiz Bruixola",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Salvatore Damiano (Salvador Damian) Enguix Garès",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Francesco Serrano",
+            "qualifica": "Vescovo domenicano, martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/28/ottobre/"
+}

@@ -1,0 +1,53 @@
+{
+    "data": "22-12",
+    "giorno": 22,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "22 dicembre",
+    "principali": [
+        {
+            "nome": "Santa Francesca Saverio Cabrini",
+            "qualifica": "Vergine",
+            "descrizione": "Nella luminosa mattinata del 15 luglio 1850, uno stuolo di colombe apparve nel cielo di Sant’Angelo Lodigiano, piccolo paese dell’ubertosa pianura lombarda. Volteggiò sulla casa dei...",
+            "url": "https://www.santodelgiorno.it/santa-francesca-saverio-cabrini/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Cheremone di Nilopoli e compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-cheremone-di-nilopoli-e-compagni/"
+        },
+        {
+            "nome": "Beato Tommaso Holland",
+            "qualifica": "Sacerdote gesuita, martire",
+            "url": "https://www.santodelgiorno.it/beato-tommaso-holland/"
+        },
+        {
+            "nome": "San Flaviano",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-flaviano-martire/"
+        },
+        {
+            "nome": "Sant'Ischirione di Alessandria",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Rhaitu",
+            "qualifica": "Religiosi",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Via Labicana",
+            "qualifica": "Religiosi",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ungero di Utrecht",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/22/dicembre/"
+}

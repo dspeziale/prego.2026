@@ -1,0 +1,98 @@
+{
+    "data": "03-02",
+    "giorno": 3,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "3 febbraio",
+    "principali": [
+        {
+            "nome": "San Biagio",
+            "qualifica": "Vescovo e martire",
+            "descrizione": "S. Biagio nacque a Sebaste nell'Armenia. Passò la giovinezza fra gli studi, dedicandosi in modo particolare alla medicina. Al letto dei sofferenti curava le infermità del corpo, e con la...",
+            "url": "https://www.santodelgiorno.it/san-biagio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant’Oscar",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-oscar/"
+        },
+        {
+            "nome": "San Simeone il Vecchio",
+            "qualifica": "Primo anziano giusto e pio",
+            "url": "https://www.santodelgiorno.it/san-simeone-il-vecchio/"
+        },
+        {
+            "nome": "Santa Maria Anna Rivier",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-anna-rivier/"
+        },
+        {
+            "nome": "Beata Maria Elena Stollenwerk",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-elena-stollenwerk/"
+        },
+        {
+            "nome": "Santa Maria di Sant'Ignazio",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/santa-maria-di-sant-ignazio/"
+        },
+        {
+            "nome": "Santa Berlinda di Meerbeke",
+            "qualifica": "Benedettina",
+            "url": "https://www.santodelgiorno.it/santa-berlinda-di-meerbeke/"
+        },
+        {
+            "nome": "Santa Vereburga",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-vereburga/"
+        },
+        {
+            "nome": "Sant'Adelino di Celles",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Sant'Anna",
+            "qualifica": "Vedova e profetessa",
+            "url": null
+        },
+        {
+            "nome": "San Celerino di Cartagine",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Elinando",
+            "qualifica": "Monaco a Froidmont",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Nelson",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Leonio",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Lupicino",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Remedio di Gap",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Tigrido (Teridio) di Gap",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/03/febbraio/"
+}

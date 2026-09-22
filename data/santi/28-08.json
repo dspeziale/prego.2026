@@ -1,0 +1,118 @@
+{
+    "data": "28-08",
+    "giorno": 28,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "28 agosto",
+    "principali": [
+        {
+            "nome": "Sant'Agostino",
+            "qualifica": "Vescovo e dottore della Chiesa",
+            "descrizione": "Agostino nacque a Tagaste in Africa da famiglia benestante. Il padre, Patrizio, era pagano, ma sua madre Monica era un'ardente cristiana...",
+            "url": "https://www.santodelgiorno.it/sant-agostino/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Ermete",
+            "qualifica": "Martire a Roma",
+            "url": "https://www.santodelgiorno.it/sant-ermete/"
+        },
+        {
+            "nome": "San Pelagio",
+            "qualifica": "Martire venerato a Costanza",
+            "url": "https://www.santodelgiorno.it/san-pelagio/"
+        },
+        {
+            "nome": "Sant'Alessandro I di Costantinopoli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-alessandro-i-di-costantinopoli/"
+        },
+        {
+            "nome": "San Giuliano di Brioude",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-giuliano-di-brioude/"
+        },
+        {
+            "nome": "San Mosè l'Etiope",
+            "qualifica": "Anacoreta",
+            "url": "https://www.santodelgiorno.it/san-mose-l-etiope/"
+        },
+        {
+            "nome": "Santa Gioacchina De Vedruna",
+            "qualifica": "Vedova e fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-gioacchina-de-vedruna/"
+        },
+        {
+            "nome": "San Ginepro Serra",
+            "qualifica": "Francescano, Apostolo della California",
+            "url": "https://www.santodelgiorno.it/beato-ginepro-serra/"
+        },
+        {
+            "nome": "Santa Fiorentina",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-fiorentina/"
+        },
+        {
+            "nome": "San Bibiano di Saintes",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-bibiano-di-saintes/"
+        },
+        {
+            "nome": "Maria Santissima del Pozzo",
+            "qualifica": "Venerata a Capurso",
+            "url": "https://www.santodelgiorno.it/maria-santissima-del-pozzo/"
+        },
+        {
+            "nome": "Beato Alfonso Maria dello Spirito Santo",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-alfonso-maria-dello-spirito-santo/"
+        },
+        {
+            "nome": "Beato Angelo da Pesche d'Isernia",
+            "qualifica": "Laico francescano",
+            "url": "https://www.santodelgiorno.it/beato-angelo-da-pesche-d-isernia/"
+        },
+        {
+            "nome": "San Vicinio di Sarsina",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-vicinio-di-sarsina/"
+        },
+        {
+            "nome": "Beato Aurelio da Vinalesa",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-aurelio-da-vinalesa/"
+        },
+        {
+            "nome": "Beato Carlo Arnaldo Hanus",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-carlo-arnaldo-hanus/"
+        },
+        {
+            "nome": "Sant'Edmondo Arrowsmith",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-edmondo-arrowsmith/"
+        },
+        {
+            "nome": "Santa Zelia Guérin",
+            "qualifica": "Madre di S. Teresa di Gesù Bambino",
+            "url": "https://www.santodelgiorno.it/santi-luigi-martin-e-zelia-guerin/"
+        },
+        {
+            "nome": "Beati Giovanni Battista Faubel Cano e Arturo Ros Montalt",
+            "qualifica": "Padri di famiglia, martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Guglielmo Dean e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Restituto di Cartagine",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/28/agosto/"
+}

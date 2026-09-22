@@ -1,0 +1,98 @@
+{
+    "data": "28-07",
+    "giorno": 28,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "28 luglio",
+    "principali": [
+        {
+            "nome": "Santi Nazario e Celso",
+            "qualifica": "Martiri",
+            "descrizione": "S. Nazario ebbe la fortuna di avere una piissima madre per nome Perpetua la quale era stata ammaestrata nella fede da S. Pietro, o almeno da alcuni dei suoi primi discepoli. Benchè suo marito, che occupava...",
+            "url": "https://www.santodelgiorno.it/santi-nazario-e-celso/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Vittore I",
+            "qualifica": "Papa e martire",
+            "url": "https://www.santodelgiorno.it/san-vittore-i/"
+        },
+        {
+            "nome": "Sant'Alfonsa dell'Immacolata Concezione",
+            "qualifica": "Clarissa dell'India",
+            "url": "https://www.santodelgiorno.it/sant-alfonsa-dell-immacolata-concezione/"
+        },
+        {
+            "nome": "San Sansone",
+            "qualifica": "Abate e vescovo di Dol",
+            "url": "https://www.santodelgiorno.it/san-sansone-di-dol/"
+        },
+        {
+            "nome": "San Melchiorre Garcia Sanpedro",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-melchiorre-garcia-sanpedro/"
+        },
+        {
+            "nome": "San Botvido di Svezia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-botvido-di-svezia/"
+        },
+        {
+            "nome": "Sant'Acacio (Acazio) di Mileto",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Arduino di Ceprano",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Cameliano di Troyes",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Davide Carlos",
+            "qualifica": "Fratello Scolopio, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Emanuele Segura",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Giacomo Ilario (Emanuele) Barbal Cosàn",
+            "qualifica": "Religioso martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Giuseppe Caselles Moncho e Giuseppe Castell Camps",
+            "qualifica": "Sacerdoti salesiani e martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri della Tebaide d'Egitto",
+            "qualifica": "Cristiani",
+            "url": null
+        },
+        {
+            "nome": "San Pedro Poveda Castroverde",
+            "qualifica": "Fondatore, martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Procoro, Nicanore, Timone, Parmenas e Nicola",
+            "qualifica": "Diaconi",
+            "url": null
+        },
+        {
+            "nome": "San Nazario",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/28/luglio/"
+}

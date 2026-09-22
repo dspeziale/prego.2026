@@ -1,0 +1,83 @@
+{
+    "data": "28-03",
+    "giorno": 28,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "28 marzo",
+    "principali": [
+        {
+            "nome": "Santo Stefano Harding",
+            "qualifica": "Abate",
+            "descrizione": "Stefano Harding nacque nel 1059, da una nobile famiglia sassone dal nome Harding, a Merriot, nei dintorni di Sherborne, nell'Inghilterra Meridionale. Viaggiò molto e fin dalla più tenera...",
+            "url": "https://www.santodelgiorno.it/santo-stefano-harding/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Renata Maria Feillatreau",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beata-renata-maria-feillatreau/"
+        },
+        {
+            "nome": "Beata Giovanna Maria de Maillé",
+            "qualifica": "Vedova",
+            "url": "https://www.santodelgiorno.it/beata-giovanna-maria-de-maille/"
+        },
+        {
+            "nome": "San Gontranno",
+            "qualifica": "Re dei Franchi",
+            "url": "https://www.santodelgiorno.it/san-gontranno/"
+        },
+        {
+            "nome": "San Giuseppe Sebastiano Pelczar",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-sebastiano-pelczar/"
+        },
+        {
+            "nome": "Beato Antonio (Patrizi) da Monticiano",
+            "qualifica": "Eremita agostiniano",
+            "url": null
+        },
+        {
+            "nome": "San Castore di Tarso",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Cirillo di Eliopoli",
+            "qualifica": "Diacono e martire",
+            "url": null
+        },
+        {
+            "nome": "San Cono (Conone) di Naso",
+            "qualifica": "Monaco basiliano",
+            "url": null
+        },
+        {
+            "nome": "Beato Cristoforo Wharton",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ilarione di Pelecete",
+            "qualifica": "Egumeno (Abate)",
+            "url": null
+        },
+        {
+            "nome": "Santi Prisco, Malco e Alessandro",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Proterio",
+            "qualifica": "Patriarca di Alessandria",
+            "url": null
+        },
+        {
+            "nome": "Beato Venturino di Bergamo",
+            "qualifica": "",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/28/marzo/"
+}

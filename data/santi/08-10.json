@@ -1,0 +1,48 @@
+{
+    "data": "08-10",
+    "giorno": 8,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "8 ottobre",
+    "principali": [
+        {
+            "nome": "Santa Pelagia di Antiochia",
+            "qualifica": "Penitente",
+            "descrizione": "La Penitenza di Pelagia, così come la possiamo ricostruire dai manoscritti greci e dalle traduzioni, è un racconto edificante ma assai ben condotto, una sorta di dramma spirituale la cui...",
+            "url": "https://www.santodelgiorno.it/santa-pelagia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Ugo da Genova",
+            "qualifica": "Religioso dell'Ordine di Malta",
+            "url": "https://www.santodelgiorno.it/sant-ugo-da-genova/"
+        },
+        {
+            "nome": "Santa Reparata di Cesarea di Palestina",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-reparata/"
+        },
+        {
+            "nome": "San Felice di Como",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-felice-di-como/"
+        },
+        {
+            "nome": "Sant'Evodio di Rouen",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-evodio-di-rouen/"
+        },
+        {
+            "nome": "Beati Giovanni Adams, Roberto Dibdale e Giovanni Lowe",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santa Ragenfreda (Ragenfrida)",
+            "qualifica": "Badessa",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/08/ottobre/"
+}

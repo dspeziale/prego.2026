@@ -1,0 +1,68 @@
+{
+    "data": "09-09",
+    "giorno": 9,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "9 settembre",
+    "principali": [
+        {
+            "nome": "San Pietro Claver",
+            "qualifica": "Sacerdote",
+            "descrizione": "Nato da Pietro ed Anna Claver l'anno 1585 a Verdù in Spagna, il nostro Santo fin dai primi anni fu educato cristianamente. Inviato a Barcellona per gli studi fu ammesso dal Vescovo fra i suoi chierici...",
+            "url": "https://www.santodelgiorno.it/san-pietro-claver/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Federico Ozanam",
+            "qualifica": "Fondatore",
+            "url": "https://www.santodelgiorno.it/beato-federico-ozanam/"
+        },
+        {
+            "nome": "San Gorgonio di Roma",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-gorgonio-di-roma/"
+        },
+        {
+            "nome": "Beata Maria (Emma) Euthymia Uffing",
+            "qualifica": "",
+            "url": "https://www.santodelgiorno.it/beata-maria-emma-euthymia-uffing/"
+        },
+        {
+            "nome": "Beata Maria de la Cabeza",
+            "qualifica": "Moglie di s. Isidoro l'agricoltore",
+            "url": "https://www.santodelgiorno.it/beata-maria-de-la-cabeza/"
+        },
+        {
+            "nome": "Beato Giacomo Desiderio Laval",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-desiderio-laval/"
+        },
+        {
+            "nome": "Beato Francesco Garate",
+            "qualifica": "Professo gesuita",
+            "url": "https://www.santodelgiorno.it/beato-francesco-garate/"
+        },
+        {
+            "nome": "San Ciarano il Giovane",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-ciarano-il-giovane/"
+        },
+        {
+            "nome": "Beato Pierre Bonhomme",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-pierre-bonhomme/"
+        },
+        {
+            "nome": "Santi Giacinto, Alessandro e Tiburzio",
+            "qualifica": "Martiri in Sabina",
+            "url": null
+        },
+        {
+            "nome": "Beato Giorgio Douglas",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/09/settembre/"
+}

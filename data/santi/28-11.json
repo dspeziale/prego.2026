@@ -1,0 +1,68 @@
+{
+    "data": "28-11",
+    "giorno": 28,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "28 novembre",
+    "principali": [
+        {
+            "nome": "San Giacomo della Marca",
+            "qualifica": "Religioso e sacerdote",
+            "descrizione": "S. Giacomo della Marca nacque a Monteprandone, in provincia di Ascoli Piceno, da poveri genitori. Studiò in varie città delle Marche e dell’Umbria e divenne maestro di scuola. Ingresso...",
+            "url": "https://www.santodelgiorno.it/san-giacomo-della-marca/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Caterina Labouré",
+            "qualifica": "Veggente",
+            "url": "https://www.santodelgiorno.it/santa-caterina-laboure/"
+        },
+        {
+            "nome": "San Rufo",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-rufo-martire/"
+        },
+        {
+            "nome": "Santo Stefano il Giovane",
+            "qualifica": "Monaco orientale, martire",
+            "url": "https://www.santodelgiorno.it/santo-stefano-il-giovane/"
+        },
+        {
+            "nome": "Beati Giovanni Gesù Adradas Gonzalo e 14 compagni",
+            "qualifica": "Religiosi e martiri",
+            "url": "https://www.santodelgiorno.it/beati-giovanni-gesu-adradas-gonzalo-e-14-compagni/"
+        },
+        {
+            "nome": "Sant'Irenarco",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-irenarco-martire/"
+        },
+        {
+            "nome": "Sant'Andrea Tran Van Trong",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giacomo Thompson",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Luigi Campos Gorriz",
+            "qualifica": "Padre di famiglia, martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Papiniano di Vita, Mansueto di Uruci e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santa Teodora di Rossano",
+            "qualifica": "Badessa",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/28/novembre/"
+}

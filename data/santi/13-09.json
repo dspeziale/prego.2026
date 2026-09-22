@@ -1,0 +1,93 @@
+{
+    "data": "13-09",
+    "giorno": 13,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "13 settembre",
+    "principali": [
+        {
+            "nome": "San Giovanni Crisostomo",
+            "qualifica": "Vescovo e dottore della Chiesa",
+            "descrizione": "Giovanni soprannominato Crisostomo, o bocca d'oro, per la sua meravigliosa eloquenza, nacque in Antiochia. In giovanissima età fu privato del padre. Gli rimase la santa genitrice che ad altro non pensò...",
+            "url": "https://www.santodelgiorno.it/san-giovanni-crisostomo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Maurilio di Angers",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-maurilio-di-angers/"
+        },
+        {
+            "nome": "Beata Maria di Gesù",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-maria-di-gesu/"
+        },
+        {
+            "nome": "San Marcellino di Cartagine",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-marcellino-di-cartagine/"
+        },
+        {
+            "nome": "Sant'Amato di Remiremont",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-amato-di-remiremont/"
+        },
+        {
+            "nome": "Sant'Amato di Sens",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-amato-di-sens/"
+        },
+        {
+            "nome": "San Venerio",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-venerio-eremita/"
+        },
+        {
+            "nome": "Beato Aurelio Maria",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-aurelio-maria/"
+        },
+        {
+            "nome": "San Bernardo",
+            "qualifica": "Pellegrino",
+            "url": null
+        },
+        {
+            "nome": "Beato Claudio Dumonet",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Dedicazione delle basiliche di Gerusalemme",
+            "qualifica": "Basilica del Santo Sepolcro",
+            "url": null
+        },
+        {
+            "nome": "Sant'Emiliano di Valence",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Giuliano",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Litorio di Tours",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santa Giustina",
+            "qualifica": "Vergine e martire venerata a Bellusco",
+            "url": null
+        },
+        {
+            "nome": "Madonna della Salesea",
+            "qualifica": "Dedicazione",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/13/settembre/"
+}

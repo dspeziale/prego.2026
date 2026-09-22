@@ -1,0 +1,123 @@
+{
+    "data": "03-06",
+    "giorno": 3,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "3 giugno",
+    "principali": [
+        {
+            "nome": "Santi Carlo Lwanga e 12 compagni",
+            "qualifica": "Martiri",
+            "descrizione": "Carlo Lwanga nacque nel 1865 nel Regno di Buganda, un territorio che oggi occupa la parte centrale e meridionale dell'Uganda. Appartenente al clan Ngabi, Lwanga fu convertito al cattolicesimo dai Missionari...",
+            "url": "https://www.santodelgiorno.it/san-carlo-lwanga-dodici-compagni/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Clotilde",
+            "qualifica": "Regina dei Franchi",
+            "url": "https://www.santodelgiorno.it/santa-clotilde/"
+        },
+        {
+            "nome": "San Kevin",
+            "qualifica": "Abate di Glendalough",
+            "url": "https://www.santodelgiorno.it/san-kevin/"
+        },
+        {
+            "nome": "San Giovanni Grande",
+            "qualifica": "Il Peccatore",
+            "url": "https://www.santodelgiorno.it/san-giovanni-grande/"
+        },
+        {
+            "nome": "Beato Diego Oddi",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-diego-oddi/"
+        },
+        {
+            "nome": "Sant'Isacco di Cordova",
+            "qualifica": "Monaco e martire",
+            "url": "https://www.santodelgiorno.it/sant-isacco-di-cordova/"
+        },
+        {
+            "nome": "San Morando",
+            "qualifica": "Monaco in Alsazia",
+            "url": "https://www.santodelgiorno.it/san-morando/"
+        },
+        {
+            "nome": "San Genesio di Clermont",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-genesio-di-clermont/"
+        },
+        {
+            "nome": "San Lifardo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-lifardo/"
+        },
+        {
+            "nome": "San Cecilio di Cartagine",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-cecilio-di-cartagine/"
+        },
+        {
+            "nome": "San Cono di Teggiano",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-cono-di-teggiano/"
+        },
+        {
+            "nome": "Santa Oliva di Anagni",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/santa-oliva-di-anagni/"
+        },
+        {
+            "nome": "Beato Giovanni da Salazar",
+            "qualifica": "Martire mercedario",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-da-salazar/"
+        },
+        {
+            "nome": "Santi Lorentino e Pergentino",
+            "qualifica": "Protomartiri aretini",
+            "url": "https://www.santodelgiorno.it/santi-lorentino-e-pergentino/"
+        },
+        {
+            "nome": "Beato Andrea Caccioli da Spello",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-andrea-caccioli-da-spello/"
+        },
+        {
+            "nome": "Sant'Adamo di Guglionesi",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/sant-adamo-di-guglionesi/"
+        },
+        {
+            "nome": "San Davino Armeno",
+            "qualifica": "Venerato a Lucca",
+            "url": "https://www.santodelgiorno.it/san-davino-armeno/"
+        },
+        {
+            "nome": "Beato Carlo Renato Collas du Bignon",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco Ingleby",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ilario di Carcassonne",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Dong",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Madonna della Lettera",
+            "qualifica": "Appellativo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/03/giugno/"
+}

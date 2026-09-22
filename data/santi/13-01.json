@@ -1,0 +1,78 @@
+{
+    "data": "13-01",
+    "giorno": 13,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "13 gennaio",
+    "principali": [
+        {
+            "nome": "Sant'Ilario di Poitiers",
+            "qualifica": "Vescovo e dottore della Chiesa",
+            "descrizione": "Ilario nacque a Poitiers, in seno al paganesimo, da una delle più illustri famiglie di Francia. Ecco come avvenne la sua conversione. Si pose un giorno a leggere la Sacra Bibbia, e giunto alle parole...",
+            "url": "https://www.santodelgiorno.it/sant-ilario-di-poitiers/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Remigio di Reims",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-remigio-di-reims/"
+        },
+        {
+            "nome": "Beata Veronica da Binasco",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-veronica-da-binasco/"
+        },
+        {
+            "nome": "Santa Ivetta di Huy",
+            "qualifica": "",
+            "url": "https://www.santodelgiorno.it/santa-ivetta-di-huy/"
+        },
+        {
+            "nome": "San Goffredo di Cappenberg",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-goffredo-di-cappenberg/"
+        },
+        {
+            "nome": "San Pietro di Capitolias",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-pietro-di-capitolias/"
+        },
+        {
+            "nome": "Sant'Agrizio di Treviri",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-agrizio-di-treviri/"
+        },
+        {
+            "nome": "San Chentingerno",
+            "qualifica": "Vescovo e abate",
+            "url": "https://www.santodelgiorno.it/san-chentingerno/"
+        },
+        {
+            "nome": "Santi Domenico e Giuseppe Pham Trong Kham e Luca Thin",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Emilio Szramek",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Ermilio e Stratonico",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Gumesindo e Servidio",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Vivenzio",
+            "qualifica": "",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/13/gennaio/"
+}

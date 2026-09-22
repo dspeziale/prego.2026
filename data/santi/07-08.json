@@ -1,0 +1,93 @@
+{
+    "data": "07-08",
+    "giorno": 7,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "7 agosto",
+    "principali": [
+        {
+            "nome": "San Gaetano Thiene",
+            "qualifica": "Sacerdote",
+            "descrizione": "Gaetano nacque a Vicenza nell'anno 1480 da pii genitori. La madre sua, Maria Porta, fin dai primi istanti della sua vita lo consacrò alla Beata Vergine e, fattolo più grandicello, gli impart&igrave...",
+            "url": "https://www.santodelgiorno.it/san-gaetano-thiene/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Alberto degli Abati",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/sant-alberto-degli-abati/"
+        },
+        {
+            "nome": "San Donato di Arezzo",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-donato-di-arezzo/"
+        },
+        {
+            "nome": "San Sisto II e compagni",
+            "qualifica": "Papa e martiri",
+            "url": "https://www.santodelgiorno.it/san-sisto-ii-e-compagni/"
+        },
+        {
+            "nome": "Santa Afra",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-afra/"
+        },
+        {
+            "nome": "San Donato di Besançon",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-donato-di-besancon/"
+        },
+        {
+            "nome": "Beati Agatangelo e Cassiano",
+            "qualifica": "Sacerdoti cappuccini, martiri",
+            "url": "https://www.santodelgiorno.it/beati-agatangelo-e-cassiano/"
+        },
+        {
+            "nome": "Beato Nicola Postgate",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-nicola-postgate/"
+        },
+        {
+            "nome": "San Vittricio di Rouen",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-vittricio-di-rouen/"
+        },
+        {
+            "nome": "San Miguel De La Mora De La Mora",
+            "qualifica": "Martire Messicano",
+            "url": "https://www.santodelgiorno.it/san-miguel-de-la-mora-de-la-mora/"
+        },
+        {
+            "nome": "Beato Giordano Forzatè",
+            "qualifica": "Abate benedettino di Padova",
+            "url": "https://www.santodelgiorno.it/beato-giordano-forzate/"
+        },
+        {
+            "nome": "Beato Edmund Bojanowski",
+            "qualifica": "Laico, fondatore",
+            "url": "https://www.santodelgiorno.it/beato-edmund-bojanowski/"
+        },
+        {
+            "nome": "Beato Vincenzo de L'Aquila",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-vincenzo-de-l-aquila/"
+        },
+        {
+            "nome": "Beato Alberto da Sassoferrato",
+            "qualifica": "Monaco camaldolese",
+            "url": null
+        },
+        {
+            "nome": "San Donaziano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beati Martino di S. Felice (Giovanni) Woodcock, Edoardo Bamber e Tommaso Whitaker",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/07/agosto/"
+}

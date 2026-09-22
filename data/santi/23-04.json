@@ -1,0 +1,63 @@
+{
+    "data": "23-04",
+    "giorno": 23,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "23 aprile",
+    "principali": [
+        {
+            "nome": "San Giorgio",
+            "qualifica": "Martire di Lydda",
+            "descrizione": "S. Giorgio visse nel III secolo, sotto l'impero di Diocleziano. Di questo Santo, tanto venerato ovunque, e specialmente in Inghilterra, si hanno poche notizie, tuttavia sappiamo che egli fu onorato in...",
+            "url": "https://www.santodelgiorno.it/san-giorgio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Maria Gabriella Sagheddu",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-maria-gabriella-sagheddu/"
+        },
+        {
+            "nome": "Sant'Adalberto di Praga",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-adalberto-di-praga/"
+        },
+        {
+            "nome": "Beata Teresa Maria della Croce",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-teresa-maria-della-croce/"
+        },
+        {
+            "nome": "Beata Elena Valentini da Udine",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-elena-valentini-da-udine/"
+        },
+        {
+            "nome": "Beato Egidio d'Assisi",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-egidio-d-assisi/"
+        },
+        {
+            "nome": "San Gerardo di Toul",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gerardo-di-toul/"
+        },
+        {
+            "nome": "Sant'Eulogio di Edessa",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Giorgio di Suelli",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Marolo di Milano",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/23/aprile/"
+}

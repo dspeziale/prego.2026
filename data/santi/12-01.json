@@ -1,0 +1,93 @@
+{
+    "data": "12-01",
+    "giorno": 12,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "12 gennaio",
+    "principali": [
+        {
+            "nome": "San Bernardo da Corleone",
+            "qualifica": "Religioso",
+            "descrizione": "Il suo vero nome era Filippo Latini, nacque a Corleone in Sicilia da una famiglia di calzolai molto religiosi, tanto che nel paese erano conosciuti come “la casa dei santi”. Lavorava come calzolaio ed...",
+            "url": "https://www.santodelgiorno.it/san-bernardo-da-corleone/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Antonio Maria Pucci",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/sant-antonio-maria-pucci/"
+        },
+        {
+            "nome": "Santa Margherita Bourgeoys",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-margherita-bourgeoys/"
+        },
+        {
+            "nome": "Sant'Arcadio di Mauritania",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-arcadio-di-mauritania/"
+        },
+        {
+            "nome": "Santa Cesaria di Arles",
+            "qualifica": "Sorella di S. Cesario",
+            "url": "https://www.santodelgiorno.it/santa-cesaria-di-arles/"
+        },
+        {
+            "nome": "San Benedetto Biscop",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-benedetto-biscop/"
+        },
+        {
+            "nome": "Sant'Aelredo di Rievaulx",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-aelredo-di-rievaulx/"
+        },
+        {
+            "nome": "Santi Tigrio ed Eutropio",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-tigrio-ed-eutropio/"
+        },
+        {
+            "nome": "Beato Pier Francesco Jamet",
+            "qualifica": "Fondatore francese",
+            "url": "https://www.santodelgiorno.it/beato-pier-francesco-jamet/"
+        },
+        {
+            "nome": "San Vittoriano di Asàn",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-vittoriano-di-asan/"
+        },
+        {
+            "nome": "Beato Antonio (Antoine) Fournier",
+            "qualifica": "Padre di famiglia, martire",
+            "url": null
+        },
+        {
+            "nome": "San Ferreolo di Grenoble",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Martino di Leon (di Santa Croce)",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Beato Nicola Bunkerd Kitbamrung",
+            "qualifica": "Sacerdote thailandese, martire",
+            "url": null
+        },
+        {
+            "nome": "San Modesto",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Anselmo",
+            "qualifica": "Martire di Brescia",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/12/gennaio/"
+}

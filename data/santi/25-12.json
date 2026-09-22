@@ -1,0 +1,63 @@
+{
+    "data": "25-12",
+    "giorno": 25,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "25 dicembre",
+    "principali": [
+        {
+            "nome": "Natale del Signore",
+            "qualifica": "Nascita di Gesù",
+            "descrizione": "Oggi si apre il cielo, si squarciano le nubi e appare l’Emmanuele, Dio con noi. L’Eterno Padre lo aveva promesso, lo vaticinarono i profeti e per quattromila anni lo sospirarono i giusti. La...",
+            "url": "https://www.santodelgiorno.it/natale-del-signore/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Gesù di Nazareth",
+            "qualifica": "Dio che si fa uomo",
+            "url": "https://www.santodelgiorno.it/gesu-di-nazareth/"
+        },
+        {
+            "nome": "Sant'Anastasia di Sirmio",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-anastasia-di-sirmio/"
+        },
+        {
+            "nome": "Sant'Eugenia di Roma",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-eugenia-di-roma/"
+        },
+        {
+            "nome": "Sant'Alberto Chmielowski",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/sant-alberto-chmielowski/"
+        },
+        {
+            "nome": "Beata Maria degli Apostoli",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-maria-degli-apostoli/"
+        },
+        {
+            "nome": "San Pietro il Venerabile",
+            "qualifica": "Abate di Cluny",
+            "url": "https://www.santodelgiorno.it/san-pietro-il-venerabile/"
+        },
+        {
+            "nome": "Beato Michele Nakashima",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-michele-nakashima/"
+        },
+        {
+            "nome": "Beato Bentivoglio de Bonis",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-bentivoglio-de-bonis/"
+        },
+        {
+            "nome": "Santi Giovino e Basileo",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/25/dicembre/"
+}

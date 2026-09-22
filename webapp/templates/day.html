@@ -96,6 +96,9 @@
        onclick="var t = document.getElementById('santoTabLink'); if (t) { t.click(); } return false;">
         {{ record.metadata["santo_del_giorno"] }}</a>
     {% endif %}
+    <a class="badge-day badge-day-color" style="background: var(--lit-red)"
+       href="{{ url_for('santi', iso=record.iso) }}"
+       title="Tutti i santi e beati di questo giorno">Santi</a>
 </div>
 
 <div class="row">

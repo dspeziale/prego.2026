@@ -1,0 +1,68 @@
+{
+    "data": "09-12",
+    "giorno": 9,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "9 dicembre",
+    "principali": [
+        {
+            "nome": "San Siro di Pavia",
+            "qualifica": "Vescovo",
+            "descrizione": "S. Siro della Palestina, era stato ammaestrato e innalzato a ministro del Signore dai discepoli degli Apostoli. Preso seco il santo giovane luvenzio, mosse per l'Italia, evangelizzando ovunque, e sostò...",
+            "url": "https://www.santodelgiorno.it/san-siro-di-pavia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Juan Diego Cuauhtlatoatzin",
+            "qualifica": "Veggente di Guadalupe",
+            "url": "https://www.santodelgiorno.it/san-juan-diego-cuauhtlatoatzin/"
+        },
+        {
+            "nome": "Beato Bernardo di Gesù Silvestrelli",
+            "qualifica": "Passionista",
+            "url": "https://www.santodelgiorno.it/beato-bernardo-di-gesu-silvestrelli/"
+        },
+        {
+            "nome": "Santa Gorgonia",
+            "qualifica": "Sorella di San Gregorio N.",
+            "url": "https://www.santodelgiorno.it/santa-gorgonia/"
+        },
+        {
+            "nome": "San Pietro Fourier",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-pietro-fourier/"
+        },
+        {
+            "nome": "Santa Leocadia di Toledo",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-leocadia-di-toledo/"
+        },
+        {
+            "nome": "Santa Valeria di Limoges",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-valeria-di-limoges/"
+        },
+        {
+            "nome": "Beato Liborio Wagner",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-liborio-wagner/"
+        },
+        {
+            "nome": "San Cipriano di Genouillac",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Ferrer Esteve",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Riccardo de los Rios Fabregat, Giuliano Rodriguez Sanchez e Giuseppe Gimene",
+            "qualifica": "Sacerdoti salesiani e martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/09/dicembre/"
+}

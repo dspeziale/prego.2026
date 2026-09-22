@@ -1,0 +1,78 @@
+{
+    "data": "14-08",
+    "giorno": 14,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "14 agosto",
+    "principali": [
+        {
+            "nome": "San Massimiliano Maria Kolbe",
+            "qualifica": "Sacerdote e martire",
+            "descrizione": "Padre Kolbe è l'eroico frate francescano conventuale che nel campo di concentramento di Auschwitz offrì la propria vita per salvare quella di un padre di famiglia, Francesco Gajowniczek...",
+            "url": "https://www.santodelgiorno.it/san-massimiliano-maria-kolbe/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Alfredo di Hildesheim",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-alfredo/"
+        },
+        {
+            "nome": "Beato Sante Brancorsini da Urbino",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-sante-brancorsini-da-urbino/"
+        },
+        {
+            "nome": "Beata Elisabetta Renzi",
+            "qualifica": "Vergine e Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-elisabetta-renzi/"
+        },
+        {
+            "nome": "Sant'Eusebio di Roma",
+            "qualifica": "Prete",
+            "url": "https://www.santodelgiorno.it/sant-eusebio-di-roma/"
+        },
+        {
+            "nome": "San Marcello di Apamea",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-marcello-di-apamea/"
+        },
+        {
+            "nome": "Sant'Arnolfo di Soissons",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-arnolfo-di-soissons/"
+        },
+        {
+            "nome": "San Fachtna (o Fachanano)",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-fachtna/"
+        },
+        {
+            "nome": "Santi Martiri d'Otranto",
+            "qualifica": "Religiosi",
+            "url": "https://www.santodelgiorno.it/santo-martiri-d-otranto/"
+        },
+        {
+            "nome": "Beato Vincenzo Rubiols Castellò",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-vincenzo-rubiols-castello/"
+        },
+        {
+            "nome": "Beato Felice Yuste Cava",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-felice-yuste-cava/"
+        },
+        {
+            "nome": "Santi Domenico Ibanez de Erquicia e Francesco Shoyemon",
+            "qualifica": "Martiri domenicani",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ursicino",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/14/agosto/"
+}

@@ -1,0 +1,113 @@
+{
+    "data": "01-08",
+    "giorno": 1,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "1 agosto",
+    "principali": [
+        {
+            "nome": "Sant'Alfonso Maria de' Liguori",
+            "qualifica": "Vescovo e dottore della Chiesa",
+            "descrizione": "Nacque il 27 settembre del 1696 a Napoli dalla nobile famiglia De' Liguori. Ricevette dai suoi buoni genitori un'educazione santa ed energica, a cui il piccolo Alfonso non mancò di corrispondere...",
+            "url": "https://www.santodelgiorno.it/sant-alfonso-maria-de-liguori/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Pietro Favre",
+            "qualifica": "Gesuita",
+            "url": "https://www.santodelgiorno.it/san-pietro-favre/"
+        },
+        {
+            "nome": "San Pietro in Vincoli",
+            "qualifica": "Dedicazione",
+            "url": "https://www.santodelgiorno.it/san-pietro-in-vincoli/"
+        },
+        {
+            "nome": "Beato Giovanni Bufalari da Rieti",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-bufalari-da-rieti/"
+        },
+        {
+            "nome": "Sant'Etelvoldo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-etelvoldo/"
+        },
+        {
+            "nome": "Sant'Essuperio di Bayeux",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-essuperio-di-bayeux/"
+        },
+        {
+            "nome": "Beato Alessio Sobaszek",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Benvenuto Maria da Dos Hermanas (Giuseppe de Miguel Arahal)",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Buono",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Domenico Nguyen Van Hanh (Dieu) e Bernardo Vu Van Due",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Emerico di Quart",
+            "qualifica": "Vescovo di Aosta",
+            "url": null
+        },
+        {
+            "nome": "San Felice di Gerona",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Friardo e Secondello",
+            "qualifica": "Eremiti",
+            "url": null
+        },
+        {
+            "nome": "San Gionato",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Leo (Leone) di Montefeltro",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Maccabei, Sette fratelli",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria Stella del SS. Sacramento (Adelaide) Mardosewicz e 10 compagne",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Severo",
+            "qualifica": "Venerato presso Auch",
+            "url": null
+        },
+        {
+            "nome": "Beato Tommaso Welbourne",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Secondino",
+            "qualifica": "Maritre",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/01/agosto/"
+}

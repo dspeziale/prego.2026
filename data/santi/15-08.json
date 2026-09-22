@@ -1,0 +1,148 @@
+{
+    "data": "15-08",
+    "giorno": 15,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "15 agosto",
+    "principali": [
+        {
+            "nome": "Assunzione della Beata Vergine Maria",
+            "qualifica": "Maria assunta in cielo",
+            "descrizione": "Gesù salendo al cielo aveva lasciato la sua Madre a guida della Chiesa nascente perchè fosse a tutti di conforto. La lasciò fin tanto che la vide necessaria a guidare e raddolcire...",
+            "url": "https://www.santodelgiorno.it/assunzione-della-beata-vergine-maria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Alfredo di Hildesheim",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-alfredo/"
+        },
+        {
+            "nome": "San Giacinto Odrovaz",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/san-giacinto/"
+        },
+        {
+            "nome": "San Tarcisio di Roma",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-tarcisio-di-roma/"
+        },
+        {
+            "nome": "San Stanislao Kostka",
+            "qualifica": "Novizio gesuita",
+            "url": "https://www.santodelgiorno.it/san-stanislao-kostka/"
+        },
+        {
+            "nome": "Beato Isidoro Bakanja",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-isidoro-bakanja/"
+        },
+        {
+            "nome": "San Simpliciano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-simpliciano/"
+        },
+        {
+            "nome": "Sant'Alipio di Tagaste",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-alipio-di-tagaste/"
+        },
+        {
+            "nome": "Beato Claudio Granzotto",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-claudio-granzotto/"
+        },
+        {
+            "nome": "San Luis Batis Sainz",
+            "qualifica": "Martire Messicano",
+            "url": "https://www.santodelgiorno.it/san-luis-batis-sainz/"
+        },
+        {
+            "nome": "San David Roldan Lara",
+            "qualifica": "Martire Messicano",
+            "url": "https://www.santodelgiorno.it/san-david-roldan-lara/"
+        },
+        {
+            "nome": "Beata Giuliana Puricelli da Busto Arsizio",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-giuliana-puricelli-da-busto-arsizio/"
+        },
+        {
+            "nome": "Beato Giuseppe Maria Peris Polo",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-maria-peris-polo/"
+        },
+        {
+            "nome": "Beata Maria Sagrario di S. Luigi Moragas Cantarero",
+            "qualifica": "Carmelitana scalza, martire",
+            "url": "https://www.santodelgiorno.it/beata-maria-sagrario-di-s-luigi-moragas-cantarero/"
+        },
+        {
+            "nome": "Beati Ludovico Masferrer Vila",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beati-ludovico-masferrer-vila/"
+        },
+        {
+            "nome": "Beato Vicente Soler",
+            "qualifica": "Agostiniano Recolletto, martire",
+            "url": "https://www.santodelgiorno.it/beato-vicente-soler/"
+        },
+        {
+            "nome": "Sant'Emanuele Morales",
+            "qualifica": "Martire Messicano",
+            "url": "https://www.santodelgiorno.it/sant-emanuele-morales/"
+        },
+        {
+            "nome": "Beato Pio Alberto Del Corona",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-pio-alberto-del-corona/"
+        },
+        {
+            "nome": "Beato Carmelo Sastre Sastre",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-carmelo-sastre-sastre/"
+        },
+        {
+            "nome": "Beato Aimone Taparelli",
+            "qualifica": "Sacerdote domenicano",
+            "url": "https://www.santodelgiorno.it/beato-aimone-taparelli/"
+        },
+        {
+            "nome": "San Salvador Lara Puente",
+            "qualifica": "Martire Messicano",
+            "url": "https://www.santodelgiorno.it/san-salvador-lara-puente/"
+        },
+        {
+            "nome": "Beato Domenico Maria da Alboraya (Agostino Hurtado Soler)",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giacomo (Jaime) Bonet Nadal",
+            "qualifica": "Sacerdote salesiano e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Stratone, Filippo ed Eutichiano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Madonna di Pugliano",
+            "qualifica": "Appellativo",
+            "url": null
+        },
+        {
+            "nome": "Madonna del Balzo",
+            "qualifica": "Appellativo",
+            "url": null
+        },
+        {
+            "nome": "Madonna dell'Olio",
+            "qualifica": "Appellativo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/15/agosto/"
+}

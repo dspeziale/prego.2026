@@ -1,0 +1,133 @@
+{
+    "data": "25-07",
+    "giorno": 25,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "25 luglio",
+    "principali": [
+        {
+            "nome": "San Giacomo il Maggiore",
+            "qualifica": "Apostolo",
+            "descrizione": "San Giacomo il Maggiore fu uno dei dodici Apostoli. Poiché i Samaritani non vollero accogliere i discepoli mandati da Gesù, Giacomo, con il fratello Giovanni, si rivolse al Maestro dicendo...",
+            "url": "https://www.santodelgiorno.it/san-giacomo-il-maggiore/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Cristoforo",
+            "qualifica": "Martire in Licia",
+            "url": "https://www.santodelgiorno.it/san-cristoforo/"
+        },
+        {
+            "nome": "Santi Valentina, Tea e Paolo",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-valentina-tea-e-paolo/"
+        },
+        {
+            "nome": "Beato Pietro Berno da Ascona",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-pietro-berno-da-ascona/"
+        },
+        {
+            "nome": "San Cucufate (Cugat)",
+            "qualifica": "Martire a Barcellona",
+            "url": "https://www.santodelgiorno.it/san-cucufate/"
+        },
+        {
+            "nome": "Sant'Olimpiade",
+            "qualifica": "Vedova",
+            "url": "https://www.santodelgiorno.it/sant-olimpiade/"
+        },
+        {
+            "nome": "Beato Rodolfo Acquaviva",
+            "qualifica": "Gesuita, martire",
+            "url": "https://www.santodelgiorno.it/beato-rodolfo-acquaviva/"
+        },
+        {
+            "nome": "Beato Antonio Lucci",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-antonio-lucci/"
+        },
+        {
+            "nome": "Beato Pietro da Mogliano",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-pietro-da-mogliano/"
+        },
+        {
+            "nome": "Beato Giovanni Soreth",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-soreth/"
+        },
+        {
+            "nome": "San Magnerico di Treviri",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-magnerico-di-treviri/"
+        },
+        {
+            "nome": "Santi Banto e Beato",
+            "qualifica": "Eremiti",
+            "url": null
+        },
+        {
+            "nome": "Beata Carmen Sallés Barangueras",
+            "qualifica": "Fondatrice",
+            "url": null
+        },
+        {
+            "nome": "Beati Deogratias Palacios, Leone Inchausti, Giuseppe Rada, Giuliano Moreno e Giuseppe Riccardo Díez",
+            "qualifica": "Martiri di Granada",
+            "url": null
+        },
+        {
+            "nome": "Beato Dionisio (Dionigi) Pamplona",
+            "qualifica": "Scolopio, martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Glodesinda",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria Teresa di Gesù Bambino (Mieczyslawa Kowalska)",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Martiri di Toledo",
+            "qualifica": "Religiosi",
+            "url": null
+        },
+        {
+            "nome": "Beati Martiri di Urda",
+            "qualifica": "Religiosi",
+            "url": null
+        },
+        {
+            "nome": "Beato Michel-Louis Brulard",
+            "qualifica": "Carmelitano, martire della Rivoluzione France",
+            "url": null
+        },
+        {
+            "nome": "San Teodemiro di Cordova",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Alfonso Pacheco",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Antonio Francisco",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco Aranha",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/25/luglio/"
+}

@@ -1,0 +1,153 @@
+{
+    "data": "08-09",
+    "giorno": 8,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "8 settembre",
+    "principali": [
+        {
+            "nome": "Natività della Beata Vergine Maria",
+            "qualifica": "Nascita della SS. Vergine",
+            "descrizione": "I fortunati genitori di Maria furono S. Gioachino e S. Anna. La nascita della SS. Vergine fu preannunziata fin dall'inizio quando il Signore promise all'umanità decaduta un'altra donna che avrebbe...",
+            "url": "https://www.santodelgiorno.it/nativita-della-beata-vergine-maria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Sergio I",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-sergio-primo/"
+        },
+        {
+            "nome": "Beata Serafina Sforza",
+            "qualifica": "Clarissa",
+            "url": "https://www.santodelgiorno.it/beata-serafina-sforza/"
+        },
+        {
+            "nome": "Sant'Isacco",
+            "qualifica": "Vescovo in Armenia",
+            "url": "https://www.santodelgiorno.it/sant-isacco/"
+        },
+        {
+            "nome": "San Tommaso da Villanova",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-tommaso-da-villanova/"
+        },
+        {
+            "nome": "Sant'Adriano",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-adriano-di-nicomedia/"
+        },
+        {
+            "nome": "San Corbiniano",
+            "qualifica": "Vescovo, missionario in Baviera",
+            "url": "https://www.santodelgiorno.it/san-corbiniano/"
+        },
+        {
+            "nome": "San Pietro di Chavanon",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-pietro-di-chavanon/"
+        },
+        {
+            "nome": "Santa Celestina",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-celestina/"
+        },
+        {
+            "nome": "Beato Ismaele Escrihuela Esteve",
+            "qualifica": "Padre di famiglia, martire",
+            "url": "https://www.santodelgiorno.it/beato-ismaele-escrihuela-esteve/"
+        },
+        {
+            "nome": "Beato Adamo Bargielski",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-adamo-bargielski/"
+        },
+        {
+            "nome": "Beato Ladislao Bladzinski",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-ladislao-bladzinski/"
+        },
+        {
+            "nome": "Beato Marino Blanes Giner",
+            "qualifica": "Padre di famiglia, martire",
+            "url": "https://www.santodelgiorno.it/beato-marino-blanes-giner/"
+        },
+        {
+            "nome": "Beato Domenico Castellet",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-domenico-castellet/"
+        },
+        {
+            "nome": "Beato Pasquale Fortuno Almela",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-pasquale-fortuno-almela/"
+        },
+        {
+            "nome": "Beato Antonio da San Bonaventura",
+            "qualifica": "Sacerdote francescano, martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Fausto, Dio (Divo) e Ammonio",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beate Giuseppa di S. Giovanni di Dio Ruano Garcia e Maria Addolorata di S. Eulalia Puig Bonany",
+            "qualifica": "Vergini e martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Giuseppe Cecilio (Bonifacio) Rodriguez Gonzalez, Teodomiro Gioacchino (Adriano) Sainz ed Evenz",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Tommaso Palaser, Giovanni Norton e Giovanni Talbot",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Madonna di Monserrato",
+            "qualifica": "Appellativo",
+            "url": null
+        },
+        {
+            "nome": "Madonna della Serra",
+            "qualifica": "Appellativo",
+            "url": null
+        },
+        {
+            "nome": "Madonna della Scala",
+            "qualifica": "Appellativo",
+            "url": null
+        },
+        {
+            "nome": "Maria SS. Incoronata dell'Olmo",
+            "qualifica": "Dedicazione",
+            "url": null
+        },
+        {
+            "nome": "Madonna di Ripalta",
+            "qualifica": "Dedicazione",
+            "url": null
+        },
+        {
+            "nome": "Santa Maria della Pietra",
+            "qualifica": "Appellativo",
+            "url": null
+        },
+        {
+            "nome": "Santi Giusto e Aurelio",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Madonna dell'Alemanna",
+            "qualifica": "Miracolo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/08/settembre/"
+}

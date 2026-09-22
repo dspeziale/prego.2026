@@ -1,0 +1,88 @@
+{
+    "data": "25-02",
+    "giorno": 25,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "25 febbraio",
+    "principali": [
+        {
+            "nome": "San Gerlando di Agrigento",
+            "qualifica": "Vescovo",
+            "descrizione": "Al vescovo Gerlando si deve la riorganizzazione della diocesi di Agrigento dopo la lunga occupazione musulmana che durò dall'829 al 1086. Nominato primicerio della Schola cantorunt della chiesa...",
+            "url": "https://www.santodelgiorno.it/san-gerlando-di-agrigento/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Romeo",
+            "qualifica": "Carmelitano di Lucca",
+            "url": "https://www.santodelgiorno.it/san-romeo/"
+        },
+        {
+            "nome": "Beato Domenico Lentini",
+            "qualifica": "Presbitero",
+            "url": "https://www.santodelgiorno.it/beato-domenico-lentini/"
+        },
+        {
+            "nome": "Santi Luigi Versiglia e Callisto Caravario",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/santi-luigi-versiglia-e-callisto-caravario/"
+        },
+        {
+            "nome": "San Cesario di Nazianzo",
+            "qualifica": "Medico",
+            "url": "https://www.santodelgiorno.it/san-cesario-di-nazianzo/"
+        },
+        {
+            "nome": "Santa Valburga",
+            "qualifica": "Badessa di Heidenheim",
+            "url": "https://www.santodelgiorno.it/santa-valburga/"
+        },
+        {
+            "nome": "San Turibio Romo Gonzalez",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-turibio-romo-gonzalez/"
+        },
+        {
+            "nome": "Beata Maria Ludovica (Antonina) De Angelis",
+            "qualifica": "Missionaria",
+            "url": "https://www.santodelgiorno.it/beata-maria-ludovica-de-angelis/"
+        },
+        {
+            "nome": "Beato Sebastiano di Aparicio",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-sebastiano-di-aparicio/"
+        },
+        {
+            "nome": "Beato Avertano di Lucca",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-avertano-di-lucca/"
+        },
+        {
+            "nome": "Sant'Aldetrude",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "San Lorenzo Bai Xiaoman",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria Adeodata Pisani",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "Beato Roberto d'Arbrissel",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Santi Giusto e Donato",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/25/febbraio/"
+}

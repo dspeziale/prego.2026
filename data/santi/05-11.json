@@ -1,0 +1,113 @@
+{
+    "data": "05-11",
+    "giorno": 5,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "5 novembre",
+    "principali": [
+        {
+            "nome": "San Guido Maria Conforti",
+            "qualifica": "Fondatore dei Miss. Saveriani",
+            "descrizione": "Dalla sua aveva una volontà di ferro, una passione travolgente per la diffusione del Vangelo e tanti sogni che illuminavano le sue giornate, ma non la salute. Nelle sue condizioni soffriva di epilessia...",
+            "url": "https://www.santodelgiorno.it/san-guido-maria-conforti/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Zaccaria ed Elisabetta",
+            "qualifica": "Genitori di San Giovanni Battista",
+            "url": "https://www.santodelgiorno.it/santi-zaccaria-ed-elisabetta/"
+        },
+        {
+            "nome": "Santa Comasia",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-comasia/"
+        },
+        {
+            "nome": "San Donnino",
+            "qualifica": "Martire a Cesarea di Palestina",
+            "url": "https://www.santodelgiorno.it/san-donnino-martire-a-cesarea/"
+        },
+        {
+            "nome": "Beata Maria Carmela Viel Ferrando",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/beata-maria-carmela-viel-ferrando/"
+        },
+        {
+            "nome": "Santa Bertilla",
+            "qualifica": "Badessa di Chelles",
+            "url": "https://www.santodelgiorno.it/santa-bertilla-badessa-di-chelles/"
+        },
+        {
+            "nome": "Beato Bernardo Lichtenberg",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-bernardo-lichtenberg/"
+        },
+        {
+            "nome": "San Domenico Mau",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-domenico-mau/"
+        },
+        {
+            "nome": "Beato Gregorio Lakota",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/beato-gregorio-lakota/"
+        },
+        {
+            "nome": "Santi Teotimo, Filoteo, Timoteo e Aussenzio",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-teotimo-filoteo-timoteo-e-aussenzio/"
+        },
+        {
+            "nome": "Beato Gomidas Kaumurdjian (Keumurgian)",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-gomidas-kaumurdjian/"
+        },
+        {
+            "nome": "Sante Reliquie",
+            "qualifica": "I corpi di Martiri e Santi che vivono con Cristo",
+            "url": "https://www.santodelgiorno.it/sante-reliquie/"
+        },
+        {
+            "nome": "Marco Gallo",
+            "qualifica": "Testimone di fede",
+            "url": "https://www.santodelgiorno.it/marco-gallo/"
+        },
+        {
+            "nome": "San Fibizio (Fibicio) di Treviri",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Geraldo di Beziers",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Antonio Burro Mas",
+            "qualifica": "Religioso e martire",
+            "url": null
+        },
+        {
+            "nome": "San Guetnoco",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Marco di Atina",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Marco di Troia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santa Trofimena",
+            "qualifica": "Vergine e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/05/novembre/"
+}

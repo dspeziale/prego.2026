@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% block title %}Santi del {{ record.day.day }} {{ months_it[record.day.month - 1] }} — Prego{% endblock %}
+{% block page_title %}Santi del {{ record.day.day }} {{ months_it[record.day.month - 1] }}{% endblock %}
+
+{% block header_actions %}
+<a class="btn btn-outline-primary" href="{{ url_for('day_view', iso=record.iso) }}">
+    <i class="fas fa-arrow-left"></i> {{ record.iso }}
+</a>
+{% endblock %}
+
+{% block content %}
+{% if not santi %}
+<div class="alert alert-warning">
+    <i class="fas fa-triangle-exclamation"></i>
+    Elenco dei santi non disponibile per questa data.
+</div>
+{% else %}
+
+{% for santo in santi.principali %}
+<div class="card card-primary card-outline">
+    <div class="card-header">
+        <h3 class="card-title section-title text-primary">
+            {{ santo.nome }}
+        </h3>
+    </div>
+    <div class="card-body">
+        {% if santo.qualifica %}
+        <p class="text-muted mb-2"><em>{{ santo.qualifica }}</em></p>
+        {% endif %}
+        {% if santo.descrizione %}
+        <p class="liturgical-text mb-2">{{ santo.descrizione }}</p>
+        {% endif %}
+        {% if santo.url %}
+        <a href="{{ santo.url }}" target="_blank" rel="noopener" class="text-nowrap">
+            Agiografia completa <i class="fas fa-external-link-alt fa-xs"></i>
+        </a>
+        {% endif %}
+    </div>
+</div>
+{% endfor %}
+
+<div class="card card-outline card-primary">
+    <div class="card-header">
+        <h3 class="card-title section-title text-primary">
+            Altri santi e beati del {{ record.day.day }} {{ months_it[record.day.month - 1] }}
+        </h3>
+    </div>
+    <div class="card-body p-0">
+        {% if santi.altri %}
+        <ul class="list-group list-group-flush">
+            {% for santo in santi.altri %}
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+                <div>
+                    <strong>{{ santo.nome }}</strong>
+                    {% if santo.qualifica %}
+                    <div class="text-muted small">{{ santo.qualifica }}</div>
+                    {% endif %}
+                </div>
+                {% if santo.url %}
+                <a href="{{ santo.url }}" target="_blank" rel="noopener"
+                   class="ml-2 text-nowrap small" title="Agiografia">
+                    <i class="fas fa-external-link-alt"></i>
+                </a>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p class="text-muted p-3 mb-0">Nessun altro santo in elenco.</p>
+        {% endif %}
+    </div>
+    <div class="card-footer text-muted small">
+        Fonte:
+        <a href="{{ santi.fonte }}" target="_blank" rel="noopener">santodelgiorno.it</a>
+    </div>
+</div>
+{% endif %}
+{% endblock %}

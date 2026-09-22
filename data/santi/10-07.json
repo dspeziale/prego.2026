@@ -1,0 +1,98 @@
+{
+    "data": "10-07",
+    "giorno": 10,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "10 luglio",
+    "principali": [
+        {
+            "nome": "Sante Rufina e Seconda",
+            "qualifica": "Martiri di Roma",
+            "descrizione": "Seconda Martire, santa (sec. III). Secondo un'antica passio, redatto intorno alla metà del secolo V, Seconda subì il martirio insieme alla sorella Rufina durante la violenta persecuzione...",
+            "url": "https://www.santodelgiorno.it/sante-rufina-e-seconda/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sante Anatolia e Vittoria",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/sante-anatolia-e-vittoria/"
+        },
+        {
+            "nome": "Sant'Emanuele Ruiz",
+            "qualifica": "Martire Francescano di Damasco",
+            "url": "https://www.santodelgiorno.it/beati-emanuele-ruiz-e-compagni/"
+        },
+        {
+            "nome": "Sant'Amalberga di Maubeuge",
+            "qualifica": "Vedova e monaca",
+            "url": "https://www.santodelgiorno.it/sant-amalberga-di-maubeuge/"
+        },
+        {
+            "nome": "San Canuto IV",
+            "qualifica": "Re di Danimarca",
+            "url": "https://www.santodelgiorno.it/san-canuto-iv/"
+        },
+        {
+            "nome": "San Silvano",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-silvano/"
+        },
+        {
+            "nome": "San Pietro (Vincioli) da Perugia",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-pietro-vincioli-da-perugia/"
+        },
+        {
+            "nome": "Sant'Amalberga",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "Santa Anatolia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Antonio Nguyen Hûu (Nam) Quynh e Pietro Nguyen Khac Tu",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Apollonio di Sardi",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Bianore e Silvano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Felice, Filippo, Vitale, Marziale, Alessandro, Silano e Gennaro",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Gennaro e Marino",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Leonzio, Maurizio, Daniele, Antonio, Aniceto, Sisinno e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beate Maria Gertrude da S. Sofia de Ripert d'Alauzin e Agnese del Gesù (Silvia) de Romillon",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Pascario di Nantes",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/10/luglio/"
+}

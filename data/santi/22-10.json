@@ -1,0 +1,83 @@
+{
+    "data": "22-10",
+    "giorno": 22,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "22 ottobre",
+    "principali": [
+        {
+            "nome": "San Giovanni Paolo II",
+            "qualifica": "Papa",
+            "descrizione": "Non abbiate paura! Aprite, anzi, spalancate le porte a Cristo! Alla sua salvatrice potestà aprite i confini degli stati, i sistemi economici come quelli politici, i vasti campi di cultura, di civiltà, di sviluppo. Non abbiate paura! Cristo sa cosa è dentro l'uomo. Solo lui lo sa!",
+            "url": "https://www.santodelgiorno.it/san-giovanni-paolo-ii/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Donato di Fiesole",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-donato-di-fiesole/"
+        },
+        {
+            "nome": "San Valerio di Langres",
+            "qualifica": "Diacono e martire",
+            "url": "https://www.santodelgiorno.it/san-valerio-di-langres/"
+        },
+        {
+            "nome": "Sante Nunilone e Alodia",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/sante-nunilone-e-alodia/"
+        },
+        {
+            "nome": "San Benedetto",
+            "qualifica": "Eremita a Mezieres",
+            "url": "https://www.santodelgiorno.it/san-benedetto-eremita-a-mezieres/"
+        },
+        {
+            "nome": "Santi Filippo ed Ermete",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-filippo-ed-ermete/"
+        },
+        {
+            "nome": "Sant'Abercio di Geropoli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-abercio-di-geropoli/"
+        },
+        {
+            "nome": "San Mallone di Rouen",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-mallone-di-rouen/"
+        },
+        {
+            "nome": "San Leotaldo di Auch",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Lupenzio",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Marco di Gerusalemme",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Moderano di Berceto (Moderanno di Rennes)",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Madonna di Capo d'Orlando",
+            "qualifica": "Apparizione",
+            "url": null
+        },
+        {
+            "nome": "Beato Salvatore Lilli",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/22/ottobre/"
+}

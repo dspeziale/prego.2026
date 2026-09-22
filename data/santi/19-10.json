@@ -1,0 +1,128 @@
+{
+    "data": "19-10",
+    "giorno": 19,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "19 ottobre",
+    "principali": [
+        {
+            "nome": "San Paolo della Croce",
+            "qualifica": "Sacerdote",
+            "descrizione": "Nacque ad Ovada in Piemonte, da nobile famiglia oriunda di Castellazzo, presso Alessandria. Quando nacque, la camera si illuminò di vivissima luce, e ancora fanciullo fu dall'augusta Regina del cielo salvato...",
+            "url": "https://www.santodelgiorno.it/san-paolo-della-croce/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Laura di Cordova",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-laura/"
+        },
+        {
+            "nome": "San Gioele",
+            "qualifica": "Profeta d'Israele",
+            "url": "https://www.santodelgiorno.it/san-gioele/"
+        },
+        {
+            "nome": "Beata Agnese di Gesù di Langeac",
+            "qualifica": "Domenicana",
+            "url": "https://www.santodelgiorno.it/beata-agnese-di-gesu/"
+        },
+        {
+            "nome": "San Filippo Howard",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-filippo-howard/"
+        },
+        {
+            "nome": "Santi Tolomeo e Lucio",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-tolomeo-e-lucio/"
+        },
+        {
+            "nome": "Santa Fridesvida di Oxford",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-fridesvida-di-oxford/"
+        },
+        {
+            "nome": "Santi Giovanni de Brébeuf, Isacco Jouges e compagni",
+            "qualifica": "Martiri canadesi",
+            "url": "https://www.santodelgiorno.it/santi-giovanni-de-brebeuf-isacco-jouges-e compagni/"
+        },
+        {
+            "nome": "San Varo e compagni",
+            "qualifica": "Martiri in Egitto",
+            "url": "https://www.santodelgiorno.it/san-varo-e-compagni/"
+        },
+        {
+            "nome": "Santi Sabiniano e Potenziano",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-sabiniano-e-potenziano/"
+        },
+        {
+            "nome": "Beato Tommaso Helye",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-tommaso-helye/"
+        },
+        {
+            "nome": "Sant'Aquilino di Evreux",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-aquilino-di-evreux/"
+        },
+        {
+            "nome": "Sant'Etbino di Kildare",
+            "qualifica": "Eremita e abate",
+            "url": "https://www.santodelgiorno.it/sant-etbino-di-kildare/"
+        },
+        {
+            "nome": "San Giusto di Novalesa",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-giusto-di-novalesa/"
+        },
+        {
+            "nome": "Sant'Asterio di Ostia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni de la Lande",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Januari",
+            "qualifica": "Mercedario",
+            "url": null
+        },
+        {
+            "nome": "Santi Giusto, Flaviano e compagni",
+            "qualifica": "Monaci e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Grato di Oloron",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Luca Alonso Gorda e Matteo Kohioye",
+            "qualifica": "Martiri domenicani",
+            "url": null
+        },
+        {
+            "nome": "San Verano di Cavaillon",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Antonio Daniel",
+            "qualifica": "Missionario francese",
+            "url": null
+        },
+        {
+            "nome": "San Carlo Garnier",
+            "qualifica": "Missionario francese",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/19/ottobre/"
+}

@@ -1,0 +1,113 @@
+{
+    "data": "13-07",
+    "giorno": 13,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "13 luglio",
+    "principali": [
+        {
+            "nome": "Sant'Enrico II",
+            "qualifica": "Imperatore",
+            "descrizione": "S. Enrico nacque nel 972 da Enrico, re di Baviera e da Gisela, figlia di Corrado re di Borgogna. Ebbe ottima indole, nobili sentimenti e rara virtù: qualità che fecero di lui un imperatore...",
+            "url": "https://www.santodelgiorno.it/sant-enrico-secondo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Clelia Barbieri",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-clelia-barbieri/"
+        },
+        {
+            "nome": "San Sila",
+            "qualifica": "Discepolo degli Apostoli",
+            "url": "https://www.santodelgiorno.it/san-sila-discepolo/"
+        },
+        {
+            "nome": "Beato Giacomo da Varazze",
+            "qualifica": "Arcivescovo di Genova",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-da-varazze/"
+        },
+        {
+            "nome": "Sant'Eugenio di Cartagine",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eugenio-di-cartagine/"
+        },
+        {
+            "nome": "Beato Tommaso Tunstal",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-tommaso-tunstal/"
+        },
+        {
+            "nome": "Santa Giustina",
+            "qualifica": "Vergine e martire venerata ad Arzano",
+            "url": "https://www.santodelgiorno.it/santa-giustina/"
+        },
+        {
+            "nome": "Beato Carlos Manuel Rodríguez Santiago",
+            "qualifica": "Laico portoricano",
+            "url": "https://www.santodelgiorno.it/beato-carlos-manuel-rodriguez-santiago/"
+        },
+        {
+            "nome": "Beato Mariano di Gesù Euse Hoyos",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-mariano-di-gesu-euse-hoyos/"
+        },
+        {
+            "nome": "Sant'Emanuele Le Van Phung",
+            "qualifica": "Padre di famiglia, martire",
+            "url": "https://www.santodelgiorno.it/sant-emanuele-le-van-phung/"
+        },
+        {
+            "nome": "Sant'Esdra",
+            "qualifica": "Sacerdote dell'Antico Testamento",
+            "url": "https://www.santodelgiorno.it/sant-esdra/"
+        },
+        {
+            "nome": "San Paolo Liu Jinde",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-paolo-liu-jinde/"
+        },
+        {
+            "nome": "Santi Alessandro e trenta soldati",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Ferdinando Maria Baccilieri",
+            "qualifica": "sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Giuseppe Wang Guiji",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Ludovico Armando Giuseppe Adam e Bartolomeo Jarrige de la Morelie de Biars",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beate Maddalena della Madre di Dio (Elisabeth) Verchière e 5 compagne",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santa Mirope di Chio",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Serapione di Alessandria",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Turiano (Turiavo) di Dol",
+            "qualifica": "Abate e vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/13/luglio/"
+}

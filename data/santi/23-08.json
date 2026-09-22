@@ -1,0 +1,98 @@
+{
+    "data": "23-08",
+    "giorno": 23,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "23 agosto",
+    "principali": [
+        {
+            "nome": "Santa Rosa da Lima",
+            "qualifica": "Vergine",
+            "descrizione": "Fu il primo fiore dell'America meridionale. Nacque da ricchi genitori verso la fine del secolo XVI. Fu veramente una « rosa » che crebbe fra le spine; la vita di lei fu tutta un profumo di...",
+            "url": "https://www.santodelgiorno.it/santa-rosa-da-lima/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Claudio, Asterio e Neone",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-claudio-asterio-e-neone/"
+        },
+        {
+            "nome": "Sant'Eugenio di Ardstraw",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eugenio-di-ardstraw/"
+        },
+        {
+            "nome": "Beato Giovanni Maria della Croce",
+            "qualifica": "Dehoniano, martire",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-maria-della-croce/"
+        },
+        {
+            "nome": "San Zaccheo",
+            "qualifica": "Vescovo di Gerusalemme",
+            "url": "https://www.santodelgiorno.it/san-zaccheo/"
+        },
+        {
+            "nome": "Beati Costantino, Pietro e Raimondo",
+            "qualifica": "Gesuiti, martiri",
+            "url": "https://www.santodelgiorno.it/beati-costantino-pietro-e-raimondo/"
+        },
+        {
+            "nome": "Beato Francesco Dachtera",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-francesco-dachtera/"
+        },
+        {
+            "nome": "San Flaviano di Autun",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-flaviano-di-autun/"
+        },
+        {
+            "nome": "Sant'Archelao",
+            "qualifica": "Diacono e martire",
+            "url": "https://www.santodelgiorno.it/sant-archelao/"
+        },
+        {
+            "nome": "Santi Ciriaco, Massimo, Archelao e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Antonio di Gerace",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Beati Fiorentino Perez Romero e Urbano Emanuele Gil Saez",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Bourdon (Protasio da Sees)",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Ireneo e Abbondio",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Lupo (Luppo)",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beate Rosaria (Piera Maria Vittoria) Quintana Argos e Serafina (Emanuela Giusta) Fernandez Ibero",
+            "qualifica": "Vergini e martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Abbondio",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/23/agosto/"
+}

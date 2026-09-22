@@ -1,0 +1,103 @@
+{
+    "data": "16-05",
+    "giorno": 16,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "16 maggio",
+    "principali": [
+        {
+            "nome": "Sant'Ubaldo di Gubbio",
+            "qualifica": "Vescovo",
+            "descrizione": "Ubaldo nacque a Gubbio intorno al 1085. Orfano di entrambi i genitori, venne educato da uno zio molto religioso, il quale tuttavia ostacolò il suo progetto, manifestato quando aveva quindici anni...",
+            "url": "https://www.santodelgiorno.it/sant-ubaldo-di-gubbio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Simone Stock",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-simone-stock/"
+        },
+        {
+            "nome": "Sant'Andrea Bobola",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-andrea-bobola/"
+        },
+        {
+            "nome": "San Brendano di Clonfert",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-brendano-di-clonfert/"
+        },
+        {
+            "nome": "San Pellegrino d'Auxerre",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-pellegrino-d-auxerre/"
+        },
+        {
+            "nome": "San Possidio",
+            "qualifica": "Venerato a Mirandola",
+            "url": "https://www.santodelgiorno.it/san-possidio/"
+        },
+        {
+            "nome": "San Carantoco",
+            "qualifica": "Vescovo e abate",
+            "url": "https://www.santodelgiorno.it/san-carantoco/"
+        },
+        {
+            "nome": "Beato Adamo di Fermo",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/beato-adamo-di-fermo/"
+        },
+        {
+            "nome": "Sant'Onorato di Amiens",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-onorato-di-amiens/"
+        },
+        {
+            "nome": "Santi Abda e Ebedieso",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Felice e Gennadio",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Fidolo",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Santi Fiorenzo e Diocleziano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Germerio di Tolosa",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Michele (Michal) Wozniak",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Quarantaquattro monaci",
+            "qualifica": "Martiri di Mar Saba",
+            "url": null
+        },
+        {
+            "nome": "Beato Vitale Vladimiro (Vitalij Volodymyr) Bajrak",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Madonna di Manipuglia",
+            "qualifica": "Miracola",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/16/maggio/"
+}

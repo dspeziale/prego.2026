@@ -1,0 +1,78 @@
+{
+    "data": "23-05",
+    "giorno": 23,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "23 maggio",
+    "principali": [
+        {
+            "nome": "San Desiderio di Langres",
+            "qualifica": "Vescovo e martire",
+            "descrizione": "Desiderio nacque a Genova, nelle campagne di Bavari, nel IV secolo. Fu Vescovo di Langres, quando i feroci Vandali, barbari e Ariani, invasero la Francia. Assediata la città, i Vandali poterono...",
+            "url": "https://www.santodelgiorno.it/san-desiderio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Giovanni Battista de' Rossi",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-giovanni-battista-de-rossi/"
+        },
+        {
+            "nome": "Santi Lucio, Montano e compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-lucio-montano-e-compagni/"
+        },
+        {
+            "nome": "Sant'Efebo",
+            "qualifica": "Vescovo di Napoli",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eutizio di Norcia",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Beati Giuseppe Kurzawa e Vincenzo Matuszewski",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Guiberto di Gembloux",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Cappadocia",
+            "qualifica": "Cristiani",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Mesopotamia",
+            "qualifica": "Cristiani",
+            "url": null
+        },
+        {
+            "nome": "San Michele di Sinnada",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Onorato di Subiaco",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Siagrio di Nizza",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santo Spes",
+            "qualifica": "Abate",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/23/maggio/"
+}

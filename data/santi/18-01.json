@@ -1,0 +1,78 @@
+{
+    "data": "18-01",
+    "giorno": 18,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "18 gennaio",
+    "principali": [
+        {
+            "nome": "Santa Margherita d'Ungheria",
+            "qualifica": "Principessa e religiosa",
+            "descrizione": "Figlia del re d'Ungheria Béla IV Margherita nacque nel 1242 in Dalmazia. Sul suo Paese prolificava da alcuni mesi l'invasione mongola comandata da Bathu, nipote di Gengis Khan e i genitori trovarono...",
+            "url": "https://www.santodelgiorno.it/santa-margherita-d-ungheria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Beatrice II d'Este",
+            "qualifica": "Monaca",
+            "url": "https://www.santodelgiorno.it/beata-beatrice-ii-d-este/"
+        },
+        {
+            "nome": "Santa Prisca",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-prisca/"
+        },
+        {
+            "nome": "Beata Maria Teresa Fasce",
+            "qualifica": "Agostiniana",
+            "url": "https://www.santodelgiorno.it/beata-maria-teresa-fasce/"
+        },
+        {
+            "nome": "Beata Cristina da L'Aquila",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-cristina-da-l-aquila/"
+        },
+        {
+            "nome": "Beato Facio di Cremona",
+            "qualifica": "Laico",
+            "url": "https://www.santodelgiorno.it/beato-facio-di-cremona/"
+        },
+        {
+            "nome": "Beato Andrea Grego da Peschiera",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-andrea-grego-da-peschiera/"
+        },
+        {
+            "nome": "Beata Regina Protmann",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-regina-protmann/"
+        },
+        {
+            "nome": "San Deicolo",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-deicolo/"
+        },
+        {
+            "nome": "San Volusiano di Tours",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-volusiano-di-tours/"
+        },
+        {
+            "nome": "Santi Cosconio, Zenone e Melanippo",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beate Felicita Pricet, Monica Pichery, Carla Lucas e Vittoria Gusteau",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Successo, Paolo e Lucio",
+            "qualifica": "Vescovi e martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/18/gennaio/"
+}

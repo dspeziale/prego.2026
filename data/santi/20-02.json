@@ -1,0 +1,63 @@
+{
+    "data": "20-02",
+    "giorno": 20,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "20 febbraio",
+    "principali": [
+        {
+            "nome": "Santa Giacinta Marto",
+            "qualifica": "Veggente di Fatima",
+            "descrizione": "Jacinta de Jesus Marto, settima figlia di Manuel Pedro Marto e Olimpia de Jesus, era una pastorella nata ad Aljustrel, in Portogallo l'11 marzo 1910, ma è diventata famosa, assieme a suo fratello...",
+            "url": "https://www.santodelgiorno.it/santa-giacinta-marto/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Eleuterio di Tournai",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eleuterio-di-tournai/"
+        },
+        {
+            "nome": "San Leone di Catania",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-leone-di-catania/"
+        },
+        {
+            "nome": "Beata Giulia Rodzinska",
+            "qualifica": "Domenicana, martire",
+            "url": "https://www.santodelgiorno.it/beata-giulia-rodzinska/"
+        },
+        {
+            "nome": "Sant'Ulrico",
+            "qualifica": "Eremita venerato ad Haselbury",
+            "url": "https://www.santodelgiorno.it/sant-ulrico-di-haselbury/"
+        },
+        {
+            "nome": "Sant'Eucherio di Orleans",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eucherio-di-orleans/"
+        },
+        {
+            "nome": "Beati Cinque martiri di Tiro",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eleuterio di Costantinopoli",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Serapione",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Tirannione",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/20/febbraio/"
+}

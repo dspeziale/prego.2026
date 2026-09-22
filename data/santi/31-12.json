@@ -1,0 +1,68 @@
+{
+    "data": "31-12",
+    "giorno": 31,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "31 dicembre",
+    "principali": [
+        {
+            "nome": "San Silvestro I",
+            "qualifica": "Papa",
+            "descrizione": "San Silvestro nacque a Roma da Rufino e Giusta. Rimasto presto orfano di padre, fu la madre Giusta a prendersi con particolare sollecitudine cura della sua educazione, affidandolo alla guida del sacerdote...",
+            "url": "https://www.santodelgiorno.it/san-silvestro-primo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Caterina Labouré",
+            "qualifica": "Veggente",
+            "url": "https://www.santodelgiorno.it/santa-caterina-laboure/"
+        },
+        {
+            "nome": "Santa Melania la Giovane",
+            "qualifica": "Penitente",
+            "url": "https://www.santodelgiorno.it/santa-melania-la-giovane/"
+        },
+        {
+            "nome": "Santa Colomba di Sens",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-colomba-di-sens/"
+        },
+        {
+            "nome": "Beata Giuseppina Nicoli",
+            "qualifica": "Suora vincenziana",
+            "url": "https://www.santodelgiorno.it/beata-giuseppina-nicoli/"
+        },
+        {
+            "nome": "San Giovanni Francesco Regis",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-giovanni-francesco-regis/"
+        },
+        {
+            "nome": "San Zotico di Costantinopoli",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-zotico-di-costantinopoli/"
+        },
+        {
+            "nome": "Beato Alano di Solminihac",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Barbaziano di Ravenna",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Santa Donata e compagne",
+            "qualifica": "Martire a Roma",
+            "url": null
+        },
+        {
+            "nome": "San Mario di Losanna",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/31/dicembre/"
+}

@@ -1,0 +1,48 @@
+{
+    "data": "18-12",
+    "giorno": 18,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "18 dicembre",
+    "principali": [
+        {
+            "nome": "San Gaziano di Tours",
+            "qualifica": "Vescovo",
+            "descrizione": "Nell'Historia Francorum la famosa opera di Gregorio di Tours, racconta che nell'anno 250 furono inviati da Roma sette vescovi per evangelizzare la Gallia, fra questi vi era Graziano (Gaziano). Graziano...",
+            "url": "https://www.santodelgiorno.it/san-graziano/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Malachia",
+            "qualifica": "Profeta",
+            "url": "https://www.santodelgiorno.it/san-malachia/"
+        },
+        {
+            "nome": "Beata Nemesia (Giulia) Valle",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-nemesia-giulia-valle/"
+        },
+        {
+            "nome": "San Vinebaldo",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-vinebaldo/"
+        },
+        {
+            "nome": "San Flannano di Killaloe",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-flannano-di-killaloe/"
+        },
+        {
+            "nome": "Santi Namfamone e compagni",
+            "qualifica": "Martiri in Africa",
+            "url": null
+        },
+        {
+            "nome": "Santi Paolo Nguyen Van My, Pietro Truong Van Duong e Pietro Vu Van Truat",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/18/dicembre/"
+}

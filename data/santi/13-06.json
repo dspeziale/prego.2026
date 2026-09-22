@@ -1,0 +1,93 @@
+{
+    "data": "13-06",
+    "giorno": 13,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "13 giugno",
+    "principali": [
+        {
+            "nome": "Sant'Antonio di Padova",
+            "qualifica": "Sacerdote e dottore della Chiesa",
+            "descrizione": "Sant'Antonio nacque a Lisbona nel 1195 da genitori favoriti da Dio di ricchezze spirituali e di un certo benessere. Dopo la prima educazione ricevuta nella casa paterna da uno zio canonico, continu&ograve...",
+            "url": "https://www.santodelgiorno.it/sant-antonio-da-padova/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Cuore Immacolato della Beata Vergine Maria",
+            "qualifica": "Ammirabile Cuore della Madre di Dio",
+            "url": "https://www.santodelgiorno.it/cuore-immacolato-della-beata-vergine-maria/"
+        },
+        {
+            "nome": "Santa Felicola di Roma",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-felicola-di-roma/"
+        },
+        {
+            "nome": "Beato Gerardo di Clairvaux",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/beato-gerardo-di-clairvaux/"
+        },
+        {
+            "nome": "San Trifilio di Leucosia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-trifilio-di-leucosia/"
+        },
+        {
+            "nome": "Serva di Dio Chiara Corbella Petrillo",
+            "qualifica": "Madre di famiglia",
+            "url": "https://www.santodelgiorno.it/chiara-corbella-petrillo/"
+        },
+        {
+            "nome": "Santa Aleide di Schaerbeek",
+            "qualifica": "Monaca e mistica",
+            "url": "https://www.santodelgiorno.it/santa-aleide-di-schaerbeek/"
+        },
+        {
+            "nome": "Beata Marianna Biernacka",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beata-marianna-biernacka/"
+        },
+        {
+            "nome": "San Fandila di Cordova",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-fandila-di-cordova/"
+        },
+        {
+            "nome": "Beato Achilleo (Sant'Achilla)",
+            "qualifica": "Vescovo di Alessandria",
+            "url": null
+        },
+        {
+            "nome": "Santi Agostino Phan Viet Huy e Nicolao Bui Viet The",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Aventino",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Ceteo (Peregrinus) di Amiterno",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eulogio",
+            "qualifica": "Vescovo di Alessandria",
+            "url": null
+        },
+        {
+            "nome": "San Ramberto (o Ragneberto)",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Salmodio (o Psalmodio)",
+            "qualifica": "Eremita",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/13/giugno/"
+}

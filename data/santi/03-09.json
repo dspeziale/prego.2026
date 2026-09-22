@@ -1,0 +1,103 @@
+{
+    "data": "03-09",
+    "giorno": 3,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "3 settembre",
+    "principali": [
+        {
+            "nome": "San Gregorio Magno",
+            "qualifica": "Papa e dottore della Chiesa",
+            "descrizione": "La Chiesa con molta ragione ha decorato questo santo Pontefice con il titolo di Grande, titolo che egli ha meritato con lo splendore delle sue azioni, con l'eccellenza delle sue virtù e dei suoi...",
+            "url": "https://www.santodelgiorno.it/san-gregorio-primo-detto-magno/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Marino",
+            "qualifica": "Diacono e anacoreta",
+            "url": "https://www.santodelgiorno.it/san-marino/"
+        },
+        {
+            "nome": "Santa Febe",
+            "qualifica": "Coadiutrice di s. Paolo",
+            "url": "https://www.santodelgiorno.it/santa-febe/"
+        },
+        {
+            "nome": "San Remaclo (Rimagilo) di Stavelot",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-remaclo-rimagilo-di-stavelot/"
+        },
+        {
+            "nome": "Beato Guala di Brescia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-guala-di-brescia/"
+        },
+        {
+            "nome": "San Mac Nisse",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-mac-nisse/"
+        },
+        {
+            "nome": "Sant'Aigulfo di Lerins",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-aigulfo-di-lerins/"
+        },
+        {
+            "nome": "Beati Martiri delle stragi di settembre a La Force",
+            "qualifica": "Martiri della Rivoluzione francese",
+            "url": "https://www.santodelgiorno.it/beati-martiri-delle-stragi-di-settembre-a-la-force/"
+        },
+        {
+            "nome": "Beato Bartolomeo Gutierrez e compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/beato-bartolomeo-gutierrez-e-compagni/"
+        },
+        {
+            "nome": "Santa Basilissa di Nicomedia",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-basilissa-di-nicomedia/"
+        },
+        {
+            "nome": "Beata Brigida di Gesù Morello",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-brigida-di-gesu-morello/"
+        },
+        {
+            "nome": "San Vitaliano di Capua",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-vitaliano-di-capua/"
+        },
+        {
+            "nome": "Sant'Ausano di Milano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-ausano-di-milano/"
+        },
+        {
+            "nome": "San Mansueto di Toul",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-mansueto-di-toul/"
+        },
+        {
+            "nome": "Beati Andrea Abel Alricy e 71 compagni",
+            "qualifica": "Martiri della Rivoluzione francese",
+            "url": null
+        },
+        {
+            "nome": "San Crodegango di Seez",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Giovanni Pak Hu-jae e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Sandalio di Cordova",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/03/settembre/"
+}

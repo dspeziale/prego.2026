@@ -1,0 +1,93 @@
+{
+    "data": "26-10",
+    "giorno": 26,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "26 ottobre",
+    "principali": [
+        {
+            "nome": "San Folco Scotti",
+            "qualifica": "Vescovo",
+            "descrizione": "Tre giorni fa siamo entrati con la fantasia nella chiesa di San Pietro in Ciel d'Oro, a Pavia, per vedere la tomba di San Boezio, sepolto nella cripta proprio sotto l'arca del grande convertito Sant'Agostino...",
+            "url": "https://www.santodelgiorno.it/san-folco-scotti-di-piacenza-e-pavia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Bonaventura da Potenza",
+            "qualifica": "Francescano Conventuale",
+            "url": "https://www.santodelgiorno.it/beato-bonaventura-da-potenza/"
+        },
+        {
+            "nome": "Sant'Alfredo il Grande",
+            "qualifica": "Re del Wessex",
+            "url": "https://www.santodelgiorno.it/sant-alfredo-il-grande/"
+        },
+        {
+            "nome": "Santi Luciano e Marciano",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-luciano-e-marciano/"
+        },
+        {
+            "nome": "San Giuseppe Gregorio Hernández Cisneros",
+            "qualifica": "Laico",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-gregorio-hernandez-cisneros/"
+        },
+        {
+            "nome": "San Cedda",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-cedda-vescovo/"
+        },
+        {
+            "nome": "Beato Damiano da Finale",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-damiano-da-finale/"
+        },
+        {
+            "nome": "San Rustico di Narbonne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-rustico-di-narbonne/"
+        },
+        {
+            "nome": "Sant'Eata di Hexham",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eata-di-hexham/"
+        },
+        {
+            "nome": "Sant'Amando di Strasburgo",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Aptonio di Angouleme",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Beano di Mortlach",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Rogaziano e Felicissimo",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Sigebaldo di Metz",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Witta (o Vitta o Albino)",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beata Vergine del Buon Cammino",
+            "qualifica": "",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/26/ottobre/"
+}

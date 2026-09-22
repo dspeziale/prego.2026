@@ -1,0 +1,78 @@
+{
+    "data": "21-01",
+    "giorno": 21,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "21 gennaio",
+    "principali": [
+        {
+            "nome": "Sant'Agnese",
+            "qualifica": "Vergine e martire",
+            "descrizione": "Fra le innumerevoli vergini che hanno sacrificato la vita per la fede di Gesù Cristo, emerge quale fiore Sant'Agnese. Nacque a Roma da genitori cristiani, appartenenti ad illustre famiglia patrizia...",
+            "url": "https://www.santodelgiorno.it/sant-agnese/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beati Giovanni Battista Turpin du Cormier e 13 compagni",
+            "qualifica": "Martiri di Laval",
+            "url": "https://www.santodelgiorno.it/beati-giovanni-battista-turpin-du-cormier-e-13-compagni/"
+        },
+        {
+            "nome": "Beata Giuseppa Maria di Sant'Agnese",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-giuseppa-maria-di-sant-agnese/"
+        },
+        {
+            "nome": "San Patroclo",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-patroclo-martire/"
+        },
+        {
+            "nome": "Santi Fruttuoso, Augurio ed Eulogio",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-fruttuoso-augurio-ed-eulogio/"
+        },
+        {
+            "nome": "Sant'Albano Roe",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-albano-roe/"
+        },
+        {
+            "nome": "Sant'Epifanio di Pavia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-epifanio-di-pavia/"
+        },
+        {
+            "nome": "San Meinrado di Einsiedeln",
+            "qualifica": "Eremita e martire",
+            "url": "https://www.santodelgiorno.it/san-meinrado-di-einsiedeln/"
+        },
+        {
+            "nome": "San Publio di Atene",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-publio-di-atene/"
+        },
+        {
+            "nome": "Beati Edoardo Stransham e Nicola Wheeler",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Yi Yun-il",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Zaccaria del Mercurion",
+            "qualifica": "Maestro di vita cenobitica",
+            "url": null
+        },
+        {
+            "nome": "Beato Tommaso Green",
+            "qualifica": "Sacerdote",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/21/gennaio/"
+}

@@ -1,0 +1,118 @@
+{
+    "data": "15-11",
+    "giorno": 15,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "15 novembre",
+    "principali": [
+        {
+            "nome": "Sant'Alberto Magno",
+            "qualifica": "Vescovo e dottore della Chiesa",
+            "descrizione": "Alberto Magno, canonizzato e decorato del titolo di Dottore della Chiesa dal Sommo Pontefice Pio XI, nacque all’inizio del secolo XIII dai conti di Bollstädt a Lauingen in Svevia, storica regione...",
+            "url": "https://www.santodelgiorno.it/sant-alberto-magno/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Leopoldo III il Pio",
+            "qualifica": "Margravio d'Austria",
+            "url": "https://www.santodelgiorno.it/san-leopoldo-iii/"
+        },
+        {
+            "nome": "San Felice di Nola",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-felice-di-nola/"
+        },
+        {
+            "nome": "Beata Lucia da Narni",
+            "qualifica": "Domenicana",
+            "url": "https://www.santodelgiorno.it/beata-lucia-da-narni/"
+        },
+        {
+            "nome": "San Giuseppe Pignatelli",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-pignatelli/"
+        },
+        {
+            "nome": "Beata Maria della Passione (Elena) di Chappotin de Neuville",
+            "qualifica": "Religiosa, fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-della-passione-di-chappotin-de-neuville/"
+        },
+        {
+            "nome": "San Raffaele di San Giuseppe",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-raffaele-di-san-giuseppe/"
+        },
+        {
+            "nome": "San Rocco Gonzalez de Santa Cruz",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-rocco-gonzalez-de-santa-cruz/"
+        },
+        {
+            "nome": "San Macuto di Aleth",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-macuto-di-aleth/"
+        },
+        {
+            "nome": "Santi Giuria e Samona",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-giuria-e-samona/"
+        },
+        {
+            "nome": "San Desiderio di Cahors",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-desiderio-di-cahors/"
+        },
+        {
+            "nome": "San Fintano",
+            "qualifica": "Recluso",
+            "url": "https://www.santodelgiorno.it/san-fintano/"
+        },
+        {
+            "nome": "Beato Caio di Corea",
+            "qualifica": "Martire in Giappone",
+            "url": null
+        },
+        {
+            "nome": "Beato Enea da Faenza",
+            "qualifica": "Religioso",
+            "url": null
+        },
+        {
+            "nome": "San Giuseppe Mkasa Balikuddembé",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Marino e Aniano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Ippona",
+            "qualifica": "Religiosi",
+            "url": null
+        },
+        {
+            "nome": "Beati Riccardo Whiting, Roger James e Giovanni Thorne",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Sidonio",
+            "qualifica": "Abate in Normandia",
+            "url": null
+        },
+        {
+            "nome": "Beati Ugo Faringdon (Cook), Giovanni Eynon e Giovanni Rugg",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Riccardo Whiting (Arturo di Clastonburgh)",
+            "qualifica": "Ultimo abate di Glastonbury",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/15/novembre/"
+}

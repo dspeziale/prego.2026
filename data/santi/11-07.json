@@ -1,0 +1,93 @@
+{
+    "data": "11-07",
+    "giorno": 11,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "11 luglio",
+    "principali": [
+        {
+            "nome": "San Benedetto da Norcia",
+            "qualifica": "Abate, patrono d'Europa",
+            "descrizione": "San Benedetto, padre del monachismo d'Occidente e restauratore dello spirito cristiano dei suoi tempi, nacque a Norcia, nell'Umbria, dalla nobile famiglia Anicia nel 480. Inviato a Roma per addottorarsi...",
+            "url": "https://www.santodelgiorno.it/san-benedetto-da-norcia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Olga di Kiev",
+            "qualifica": "Granduchessa",
+            "url": "https://www.santodelgiorno.it/sant-olga-di-kiev/"
+        },
+        {
+            "nome": "San Pio I",
+            "qualifica": "Papa e martire",
+            "url": "https://www.santodelgiorno.it/san-pio-i/"
+        },
+        {
+            "nome": "Sant'Abbondio di Cordova",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-abbondio-di-cordova/"
+        },
+        {
+            "nome": "Santi Sigisberto e Placido",
+            "qualifica": "Abati",
+            "url": "https://www.santodelgiorno.it/santi-sigisberto-e-placido/"
+        },
+        {
+            "nome": "San Drostano di Deer",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-drostano-di-deer/"
+        },
+        {
+            "nome": "Sant'Idolfo",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-idolfo/"
+        },
+        {
+            "nome": "Santa Marciana di Cesarea di Mauritania",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-marciana-di-cesarea-di-mauritania/"
+        },
+        {
+            "nome": "Sante Anna An Xinzhi, Matia An Guozhi, Anna An Jiaozhi e Maria An Lihua",
+            "qualifica": "Vergini e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Bertrando (Betrando)",
+            "qualifica": "Abate di Grand-Selve",
+            "url": null
+        },
+        {
+            "nome": "San Chetillo",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Leonzio II",
+            "qualifica": "Vescovo di Bordeaux",
+            "url": null
+        },
+        {
+            "nome": "San Marciano di Iconio",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Savino",
+            "qualifica": "Venerato ad Antigny",
+            "url": null
+        },
+        {
+            "nome": "Beate Teotista del Ss. Sacramento (Maria Elisabetta Pelissier) e 3 compagne",
+            "qualifica": "Vergini e martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Tommaso Benstead e Tommaso Sprott",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/11/luglio/"
+}

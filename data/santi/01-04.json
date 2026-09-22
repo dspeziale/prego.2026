@@ -1,0 +1,73 @@
+{
+    "data": "01-04",
+    "giorno": 1,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "1 aprile",
+    "principali": [
+        {
+            "nome": "Sant'Ugo di Grenoble",
+            "qualifica": "Vescovo",
+            "descrizione": "S. Ugo nacque nel 1053 a Castelnuovo nel Delfinato, in Diocesi di Valenza. Odilone, suo padre, era un bravo ufficiale che accoppiava i doveri del cristiano a quelli della sua professione. Consigliato da...",
+            "url": "https://www.santodelgiorno.it/sant-ugo-di-grenoble/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Mercoledì Santo",
+            "qualifica": "Il tradimento di Giuda",
+            "url": "https://www.santodelgiorno.it/mercoledi-santo/"
+        },
+        {
+            "nome": "Santa Maria Egiziaca",
+            "qualifica": "Monaca",
+            "url": "https://www.santodelgiorno.it/santa-maria-egiziaca/"
+        },
+        {
+            "nome": "San Lodovico Pavoni",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-lodovico-pavoni/"
+        },
+        {
+            "nome": "San Valerico (Valerio) di Leuconay",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-valerico-valerio-di-leuconay/"
+        },
+        {
+            "nome": "San Celso di Armagh",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-celso-di-armagh/"
+        },
+        {
+            "nome": "San Gilberto di Caithness",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gilberto-di-caithness/"
+        },
+        {
+            "nome": "Beato Ugo di Bonnevaux",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/beato-ugo-di-bonnevaux/"
+        },
+        {
+            "nome": "Sante Agape e Chionia",
+            "qualifica": "Martiri a Salonicco",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Bretton",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Venanzio e compagni",
+            "qualifica": "Martiri in Dalmazia e Istria",
+            "url": null
+        },
+        {
+            "nome": "Santa Dora",
+            "qualifica": "Vergine e Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/01/aprile/"
+}

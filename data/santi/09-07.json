@@ -1,0 +1,88 @@
+{
+    "data": "09-07",
+    "giorno": 9,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "9 luglio",
+    "principali": [
+        {
+            "nome": "Santa Veronica Giuliani",
+            "qualifica": "Vergine",
+            "descrizione": "Nacque a Mercatello (Marche) nel 1660, e nel battesimo le fu imposto il nome di Orsola. Giovanetta, fu posta dalla madre moribonda sotto la protezione del Salvatore, ed ella ne concepì subito una...",
+            "url": "https://www.santodelgiorno.it/santa-veronica-giuliani/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Letizia",
+            "qualifica": "Vergine e Martire",
+            "url": "https://www.santodelgiorno.it/santa-letizia/"
+        },
+        {
+            "nome": "Santi Martiri Cinesi (Agostino Zhao Rong e 119 Compagni)",
+            "qualifica": "Testimoni di fede",
+            "url": "https://www.santodelgiorno.it/santi-martiri-cinesi/"
+        },
+        {
+            "nome": "Santa Paolina del Cuore Agonizzante di Gesù",
+            "qualifica": "Religiosa, fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-paolina-del-cuore-agonizzante-di-gesu/"
+        },
+        {
+            "nome": "Beata Giovanna Scopelli",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-giovanna-scopelli/"
+        },
+        {
+            "nome": "San Nicola Pieck e compagni",
+            "qualifica": "Santi",
+            "url": "https://www.santodelgiorno.it/san-nicola-pieck-e-compagni/"
+        },
+        {
+            "nome": "Beato Adriano Fortescue",
+            "qualifica": "Cavaliere di Malta, terziario domenicano, mar",
+            "url": "https://www.santodelgiorno.it/beato-adriano-fortescue/"
+        },
+        {
+            "nome": "Beata Maria di Gesù Crocifisso Petkovic",
+            "qualifica": "Religiosa, fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-di-gesu-crocifisso-petkovic/"
+        },
+        {
+            "nome": "Beato Fedele Chojnacki",
+            "qualifica": "Religioso e martire",
+            "url": "https://www.santodelgiorno.it/beato-fedele-chojnacki/"
+        },
+        {
+            "nome": "Sante Floriana e Faustina",
+            "qualifica": "Martiri di Roma",
+            "url": "https://www.santodelgiorno.it/sante-floriana-e-faustina/"
+        },
+        {
+            "nome": "Sant'Eusanio",
+            "qualifica": "Martire a Furci",
+            "url": null
+        },
+        {
+            "nome": "San Gioacchino He Kaizhi",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Gorcum in Olanda",
+            "qualifica": "19 sacerdoti e religiosi",
+            "url": null
+        },
+        {
+            "nome": "Beate Melania Marianna Maddalena de Guilhermier e Marianna Margherita degli Angeli de Rocher",
+            "qualifica": "Martiri orsoline di Orange",
+            "url": null
+        },
+        {
+            "nome": "Santi Gregorio Maria Grassi e Francesco Fogolla",
+            "qualifica": "Vescovi dell’Ordine dei Frati Minori",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/09/luglio/"
+}

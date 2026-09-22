@@ -1,0 +1,78 @@
+{
+    "data": "24-10",
+    "giorno": 24,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "24 ottobre",
+    "principali": [
+        {
+            "nome": "Sant'Antonio Maria Claret",
+            "qualifica": "Vescovo",
+            "descrizione": "Era il 23 dicembre 1807. Nel piccolo paese di Sallent (Barcellona) veniva alla luce Antonio M. Claret. Ottimi genitori i suoi: onesti, laboriosi, fiduciosi nella Provvidenza Divina. Se la radice era sana...",
+            "url": "https://www.santodelgiorno.it/sant-antonio-maria-claret/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Luigi Guanella",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-luigi-guanella/"
+        },
+        {
+            "nome": "Beato Giuseppe Baldo",
+            "qualifica": "Sacerdote e fondatore",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-baldo/"
+        },
+        {
+            "nome": "Santi Areta e 340 compagni",
+            "qualifica": "Martiri di Nagran",
+            "url": "https://www.santodelgiorno.it/santi-areta-e-340-compagni/"
+        },
+        {
+            "nome": "San Proclo di Costantinopoli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-proclo-di-costantinopoli/"
+        },
+        {
+            "nome": "San Maglorio",
+            "qualifica": "Vescovo, abate",
+            "url": "https://www.santodelgiorno.it/san-maglorio/"
+        },
+        {
+            "nome": "San Martino di Vertou",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-martino-di-vertou/"
+        },
+        {
+            "nome": "San Senoco",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-senoco/"
+        },
+        {
+            "nome": "Giovanna Rita \"Kiri\" Di Maria",
+            "qualifica": "Testimone di fede",
+            "url": "https://www.santodelgiorno.it/giovanna-rita-kiri-di-maria/"
+        },
+        {
+            "nome": "Santi Ciriaco e Claudiano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ebregisilo (Evergislo) di Colonia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Fromundo di Coutances",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Giuseppe Le Dang Thi",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/24/ottobre/"
+}

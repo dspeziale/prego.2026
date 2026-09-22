@@ -1,0 +1,108 @@
+{
+    "data": "12-08",
+    "giorno": 12,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "12 agosto",
+    "principali": [
+        {
+            "nome": "Santa Giovanna Francesca de Chantal",
+            "qualifica": "Religiosa",
+            "descrizione": "La nobile Giovanna di Chantal, figlia di Benigno Fremiot, presidente al Parlamento di Borgogna, nacque il 23 gennaio 1572 a Dijon. Il presidente Fremiot, rimasto vedovo quando i figli erano ancora in tenera...",
+            "url": "https://www.santodelgiorno.it/santa-giovanna-francesca-de-chantal/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Lelia",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-lelia/"
+        },
+        {
+            "nome": "Sant'Euplo",
+            "qualifica": "Diacono e martire",
+            "url": "https://www.santodelgiorno.it/sant-euplo/"
+        },
+        {
+            "nome": "Beato Innocenzo XI",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/beato-innocenzo-xi/"
+        },
+        {
+            "nome": "San Porcario abate e compagni",
+            "qualifica": "Monaci martiri a Lérins",
+            "url": "https://www.santodelgiorno.it/san-porcario-abate-e-compagni/"
+        },
+        {
+            "nome": "Beato Carlo Meehan",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-carlo-meehan/"
+        },
+        {
+            "nome": "Beata Vittoria Diez y Bustos de Molina",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/beata-vittoria-diez-y-bustos-de-molina/"
+        },
+        {
+            "nome": "Beato Floriano Giuseppe Stepniak",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-floriano-giuseppe-stepniak/"
+        },
+        {
+            "nome": "Beato Carlo Leisner",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-carlo-leisner/"
+        },
+        {
+            "nome": "San Gratiliano",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-gratiliano/"
+        },
+        {
+            "nome": "Beato Flavio Argüeso Gonzalez",
+            "qualifica": "Religioso e martire",
+            "url": "https://www.santodelgiorno.it/beato-flavio-arg-eso-gonzalez/"
+        },
+        {
+            "nome": "Sant'Ercolano di Brescia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-ercolano-di-brescia/"
+        },
+        {
+            "nome": "Santi Aniceto e Fozio",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Antonio Perulles Estivill",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Giacomo Do Mai Nam, Antonio Nguyen Dich e Michele Nguyen Huy My",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Muiredach di Kellala",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Pietro Jarrige de la Morélie de Puyredon",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Sebastiano Calvo Martinez e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ilaria di Augusta",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/12/agosto/"
+}

@@ -1,0 +1,93 @@
+{
+    "data": "27-09",
+    "giorno": 27,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "27 settembre",
+    "principali": [
+        {
+            "nome": "San Vincenzo de' Paoli",
+            "qualifica": "Sacerdote e fondatore",
+            "descrizione": "È chiamato il Tommaso d'Aquino della carità; come S. Tommaso diede al mondo cristiano il capolavoro della teologia con la sua Somma, così S. Vincenzo de' Paoli con le sue istituzioni...",
+            "url": "https://www.santodelgiorno.it/san-vincenzo-de-paoli/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Caio di Milano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-caio-di-milano/"
+        },
+        {
+            "nome": "Beato Lorenzo da Ripafratta",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-lorenzo-da-ripafratta/"
+        },
+        {
+            "nome": "Sant'Elzeario",
+            "qualifica": "Conte di Ariano",
+            "url": "https://www.santodelgiorno.it/sant-elzeario/"
+        },
+        {
+            "nome": "San Bonfiglio di Foligno",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-bonfiglio-di-foligno/"
+        },
+        {
+            "nome": "Sant'Iltrude di Liessies",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/sant-iltrude-di-liessies/"
+        },
+        {
+            "nome": "Santi Adolfo e Giovanni di Cordova",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beata Erminia Martinez Amigo",
+            "qualifica": "Madre di famiglia, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Fedele da Puzol (Mariano Climent Sanchís)",
+            "qualifica": "Religioso e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Fidenzio e Terenzio di Todi",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Florenziano (Fiorentino) e Ilario",
+            "qualifica": "Martiri a Bremur",
+            "url": null
+        },
+        {
+            "nome": "Beata Francesca Saveria (Maria) Fenollosa Alcayna",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Battista Laborier du Vivier",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Fenollosa Alcayna",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria della Purificazione",
+            "qualifica": "Vergine mercedaria",
+            "url": null
+        },
+        {
+            "nome": "San Prospero",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/27/settembre/"
+}

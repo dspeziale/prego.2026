@@ -1,0 +1,93 @@
+{
+    "data": "02-05",
+    "giorno": 2,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "2 maggio",
+    "principali": [
+        {
+            "nome": "Sant'Atanasio",
+            "qualifica": "Vescovo e dottore della Chiesa",
+            "descrizione": "Si era alla fine del II secolo: ormai anche la decima ed ultima persecuzione volgeva al termine, quando un nuovo uragano stava per scatenarsi contro la Chiesa. Ma Dio, sempre vigile e provvido, già preparava...",
+            "url": "https://www.santodelgiorno.it/sant-atanasio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Sandra Sabattini",
+            "qualifica": "La santa fidanzata",
+            "url": "https://www.santodelgiorno.it/beata-sandra-sabattini/"
+        },
+        {
+            "nome": "Sant'Antonino da Firenze",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-antonino-da-firenze/"
+        },
+        {
+            "nome": "San Giuseppe Maria Rubio Peralta",
+            "qualifica": "Gesuita, fondatore",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-maria-rubio-peralta/"
+        },
+        {
+            "nome": "Santa Viborada",
+            "qualifica": "Vergine e martire di San Gallo",
+            "url": "https://www.santodelgiorno.it/santa-viborada/"
+        },
+        {
+            "nome": "Beato Nicola Hermansson",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-nicola-hermansson/"
+        },
+        {
+            "nome": "San Valdeberto",
+            "qualifica": "Abate di Luxeuil",
+            "url": "https://www.santodelgiorno.it/san-valdeberto/"
+        },
+        {
+            "nome": "Beato Boleslao (Boselao) Strzelecki",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Espero, Zoe, Ciriaco e Teodulo",
+            "qualifica": "Martiri di Attalia",
+            "url": null
+        },
+        {
+            "nome": "San Felice di Siviglia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Giuseppe Nguyen Van Luu",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo Tirry",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Santi Vendemiale, Fiorenzo, Eugenia e Longino",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santa Flaminia",
+            "qualifica": "Martire in Nicomedia",
+            "url": null
+        },
+        {
+            "nome": "San Celestino",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Leone",
+            "qualifica": "Confessore",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/02/maggio/"
+}

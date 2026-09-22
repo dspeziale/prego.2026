@@ -1,0 +1,98 @@
+{
+    "data": "30-10",
+    "giorno": 30,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "30 ottobre",
+    "principali": [
+        {
+            "nome": "San Germano di Capua",
+            "qualifica": "Vescovo",
+            "descrizione": "«Mentre il venerabile padre [san Benedetto] fissava con intensità il suo sguardo su questo fulgore di luce, vide l'anima di Germano, vescovo di Capua, portata dagli angeli in cielo dentro una sfera di...",
+            "url": "https://www.santodelgiorno.it/san-germano-di-capua/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Angelo d'Acri",
+            "qualifica": "Frate cappuccino",
+            "url": "https://www.santodelgiorno.it/sant-angelo-d-acri/"
+        },
+        {
+            "nome": "San Marciano di Siracusa",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-marciano-di-siracusa/"
+        },
+        {
+            "nome": "San Marcello di Tangeri",
+            "qualifica": "Martire venerato a Leon",
+            "url": "https://www.santodelgiorno.it/san-marcello-di-tangeri/"
+        },
+        {
+            "nome": "San Saturnino di Cagliari",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-saturnino-di-cagliari/"
+        },
+        {
+            "nome": "San Gerardo di Potenza",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gerardo-di-potenza/"
+        },
+        {
+            "nome": "Beata Benvenuta Boiani",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-benvenuta-boiani/"
+        },
+        {
+            "nome": "Santi Claudio, Luperco e Vittorico",
+            "qualifica": "Martiri di León",
+            "url": "https://www.santodelgiorno.it/santi-claudio-luperco-e-vittorico/"
+        },
+        {
+            "nome": "Beato Alessio Zaryckyj",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-alessio-zaryckyj/"
+        },
+        {
+            "nome": "San Serapione di Antiochia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-serapione-di-antiochia/"
+        },
+        {
+            "nome": "Beato Terenzio O'Brien",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/beato-terenzio-o-brien/"
+        },
+        {
+            "nome": "Beato Giovanni Slade",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-slade/"
+        },
+        {
+            "nome": "Sant'Eutropia di Alessandria",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Michele Langevin",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Massimo di Apamea",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Maria Restituta Kafka",
+            "qualifica": "Beata",
+            "url": null
+        },
+        {
+            "nome": "Sant'Alfonso Rodríguez",
+            "qualifica": "Gesuita",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/30/ottobre/"
+}

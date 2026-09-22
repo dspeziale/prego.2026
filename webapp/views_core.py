@@ -15,8 +15,17 @@ def _month_nav(year: int, month: int) -> Tuple[Tuple[int, int], Tuple[int, int]]
     return prev, nxt
 
 
-def register(app, repository, youtube) -> None:
+def register(app, repository, youtube, santi_store=None) -> None:
     """Registra le route sull'app (endpoint invariati)."""
+
+    @app.route("/santi/<iso>")
+    def santi(iso: str):
+        """Tutti i santi e beati venerati in quel giorno del calendario."""
+        record = repository.day(iso, with_documents=False)
+        if record is None:
+            abort(404)
+        elenco = santi_store.load(record.day) if santi_store is not None else None
+        return render_template("santi.html", record=record, santi=elenco)
 
     @app.route("/")
     def index():

@@ -1,0 +1,88 @@
+{
+    "data": "16-04",
+    "giorno": 16,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "16 aprile",
+    "principali": [
+        {
+            "nome": "Santa Bernardetta Soubirous",
+            "qualifica": "Vergine",
+            "descrizione": "Si chiamava Maria Bernarda, ed era nata a Lourdes, sconosciuto paesino della Francia meridionale. Era figlia d'un mugnaio, che presto dovette abbandonare il proprio mulino per ridursi a vivere di stenti...",
+            "url": "https://www.santodelgiorno.it/santa-bernardetta-soubirous/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Benedetto Giuseppe Labre",
+            "qualifica": "Pellegrino",
+            "url": "https://www.santodelgiorno.it/san-benedetto-giuseppe-labre/"
+        },
+        {
+            "nome": "San Drogone",
+            "qualifica": "Recluso a Sebourg",
+            "url": "https://www.santodelgiorno.it/san-drogone/"
+        },
+        {
+            "nome": "San Magno delle Orcadi",
+            "qualifica": "Conte e martire",
+            "url": "https://www.santodelgiorno.it/san-magno-delle-orcadi/"
+        },
+        {
+            "nome": "Beato Gioacchino da Siena",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-gioacchino-da-siena/"
+        },
+        {
+            "nome": "San Fruttuoso di Braga",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-fruttuoso-di-braga/"
+        },
+        {
+            "nome": "Santi Ottato e compagni",
+            "qualifica": "Martiri di Saragozza",
+            "url": "https://www.santodelgiorno.it/santi-ottato-e-compagni/"
+        },
+        {
+            "nome": "Serva di Dio Chiara Maria della Trinità e del Cuore di Maria",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/chiara-maria-della-trinita-e-del-cuore-di-maria/"
+        },
+        {
+            "nome": "Santi Caio e Cremenzio di Saragozza",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Contardo d'Este",
+            "qualifica": "Pellegrino,",
+            "url": null
+        },
+        {
+            "nome": "Santa Engrazia",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "San Leonida e VII donne",
+            "qualifica": "Martiri a Corinto",
+            "url": null
+        },
+        {
+            "nome": "Beati Pietro Delepine, Giovanni Menard e ventiquattro compagne",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Turibio di Astorga",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santa Grazia",
+            "qualifica": "Vergine e Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/16/aprile/"
+}

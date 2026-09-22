@@ -1,0 +1,83 @@
+{
+    "data": "30-05",
+    "giorno": 30,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "30 maggio",
+    "principali": [
+        {
+            "nome": "Santa Giovanna d'Arco",
+            "qualifica": "Vergine",
+            "descrizione": "S. Giovanna nacque l'anno 1412 nel remoto villaggio di Domrémy, dolcemente adagiato sulle sponde della Mosa. Crebbe pura come un giglio, semplice ed incline alla vita austera e penitente: le sue...",
+            "url": "https://www.santodelgiorno.it/santa-giovanna-d-arco/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Ferdinando III",
+            "qualifica": "Re di Leon e di Castiglia",
+            "url": "https://www.santodelgiorno.it/san-ferdinando-iii/"
+        },
+        {
+            "nome": "Santa Dinfna",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-dinfna/"
+        },
+        {
+            "nome": "Sant'Uberto di Liegi",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-uberto-di-tongeren-maastricht/"
+        },
+        {
+            "nome": "San Giuseppe Marello",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-marello/"
+        },
+        {
+            "nome": "San Luca Kirby",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-luca-kirby/"
+        },
+        {
+            "nome": "Santi Basilio ed Emmelia",
+            "qualifica": "Sposi",
+            "url": "https://www.santodelgiorno.it/santi-basilio-ed-emmelia/"
+        },
+        {
+            "nome": "Sant'Anastasio di Pavia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Gavino, Proto e Gianuario",
+            "qualifica": "Martiri di Porto Torres",
+            "url": null
+        },
+        {
+            "nome": "Beati Guglielmo Filby, Lorenzo Johnson e Tommaso Cottam",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Mattia Kalemba",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Otto Neururer",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Restituto di Cagliari",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Ulpia Candida",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/30/maggio/"
+}

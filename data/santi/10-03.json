@@ -1,0 +1,73 @@
+{
+    "data": "10-03",
+    "giorno": 10,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "10 marzo",
+    "principali": [
+        {
+            "nome": "San Macario di Gerusalemme",
+            "qualifica": "Vescovo",
+            "descrizione": "La forza della sua opposizione all'arianesimo è dimostrata dal modo in cui Ario parla di lui nella sua lettera a Eusebio di Nicomedia. Macario prese parte al Concilio di Nicea, nel corso del quale potrebbe...",
+            "url": "https://www.santodelgiorno.it/san-macario-di-gerusalemme/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Simplicio",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-simplicio/"
+        },
+        {
+            "nome": "Santa Maria Eugenia di Gesù",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-maria-eugenia-di-gesu/"
+        },
+        {
+            "nome": "San Giovanni Ogilvie",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-giovanni-ogilvie/"
+        },
+        {
+            "nome": "Sant'Attala",
+            "qualifica": "Abate di Bobbio",
+            "url": "https://www.santodelgiorno.it/sant-attala/"
+        },
+        {
+            "nome": "Santi Caio ed Alessandro",
+            "qualifica": "Martiri ad Apamea",
+            "url": null
+        },
+        {
+            "nome": "San Drottoveo",
+            "qualifica": "Abate a Parigi",
+            "url": null
+        },
+        {
+            "nome": "Beato Elia del Soccorso (Matteo Nieves)",
+            "qualifica": "Sacerdote agostiniano, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Delle Celle",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Vittore",
+            "qualifica": "Martire in Africa",
+            "url": null
+        },
+        {
+            "nome": "San Gaio",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Anastasia la Patrizia",
+            "qualifica": "Anacoreta",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/10/marzo/"
+}

@@ -1,0 +1,73 @@
+{
+    "data": "03-07",
+    "giorno": 3,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "3 luglio",
+    "principali": [
+        {
+            "nome": "San Tommaso",
+            "qualifica": "Apostolo",
+            "descrizione": "Tommaso, chiamato Didimo che significa gemello, era giudeo: ebbe il privilegio di seguire Gesù che lo chiamò all'apostolato fin dai primi tempi della sua vita pubblica. Supplì al difetto...",
+            "url": "https://www.santodelgiorno.it/san-tommaso/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Eliodoro",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eliodoro/"
+        },
+        {
+            "nome": "San Leone II",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-leone-ii-papa/"
+        },
+        {
+            "nome": "Beata Maria Anna Mogas Fontcuberta",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-anna-mogas-fontcuberta/"
+        },
+        {
+            "nome": "Sant'Anatolio",
+            "qualifica": "Patriarca di Costantinopoli",
+            "url": "https://www.santodelgiorno.it/sant-anatolio-di-costantinopoli/"
+        },
+        {
+            "nome": "Sant'Anatolio di Laodicea",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-anatolio-di-laodicea/"
+        },
+        {
+            "nome": "San Filippo Phan Van Minh",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Giuseppe Nguyen Dinh Uyen",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Marco e Mociano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Memnone e Severo",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Pietro Zhao Mingzhen e Giovan Battista Zhao Mingxi",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Raymond Gayrard",
+            "qualifica": "Canonico di Tolosa",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/03/luglio/"
+}

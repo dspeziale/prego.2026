@@ -1,0 +1,58 @@
+{
+    "data": "17-03",
+    "giorno": 17,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "17 marzo",
+    "principali": [
+        {
+            "nome": "San Patrizio",
+            "qualifica": "Vescovo",
+            "descrizione": "San Patrizio, apostolo del Vangelo fra il popolo irlandese, nacque in Scozia da agiati e pii genitori verso la fine del secolo V. La Divina Provvidenza, che nei suoi arcani disegni, sempre infinitamente...",
+            "url": "https://www.santodelgiorno.it/san-patrizio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Gertrude di Nivelles",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-gertrude-di-nivelles/"
+        },
+        {
+            "nome": "San Gabriele Lalemant",
+            "qualifica": "Gesuita, martire in Canada",
+            "url": "https://www.santodelgiorno.it/san-gabriele-lalemant/"
+        },
+        {
+            "nome": "Beato Giovanni Nepomuceno Zegrí y Moreno",
+            "qualifica": "Fondatore",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-nepomuceno-zegri-y-moreno/"
+        },
+        {
+            "nome": "San Giovanni Sarkander",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-giovanni-sarkander/"
+        },
+        {
+            "nome": "Sant'Agricola di Chalon sur Saone",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Corrado di Baviera (di Chiaravalle)",
+            "qualifica": "Monaco e eremita",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Alessandria d'Egitto",
+            "qualifica": "Cristiani",
+            "url": null
+        },
+        {
+            "nome": "San Paolo di Cipro",
+            "qualifica": "Monaco e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/17/marzo/"
+}

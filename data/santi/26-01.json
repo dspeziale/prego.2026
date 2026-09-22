@@ -1,0 +1,68 @@
+{
+    "data": "26-01",
+    "giorno": 26,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "26 gennaio",
+    "principali": [
+        {
+            "nome": "Santi Timoteo e Tito",
+            "qualifica": "Vescovi Discepoli di San Paolo",
+            "descrizione": "La memoria di due Vescovi delle primissime generazioni cristiane, ambedue convertiti da San Paolo e suoi collaboratori, è stata abbinata nel nuovo Calendario della Chiesa. Timoteo e Tito non erano israeliti...",
+            "url": "https://www.santodelgiorno.it/santi-timoteo-e-tito/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Paola Romana",
+            "qualifica": "Vedova",
+            "url": "https://www.santodelgiorno.it/santa-paola-romana/"
+        },
+        {
+            "nome": "Beato Gabriele Maria Allegra",
+            "qualifica": "Sacerdote francescano",
+            "url": "https://www.santodelgiorno.it/beato-gabriele-maria-allegra/"
+        },
+        {
+            "nome": "San Giuseppe Gabriele del Rosario Brochero",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-gabriele-del-rosario-brochero/"
+        },
+        {
+            "nome": "Beata Maria de la Dive",
+            "qualifica": "Vedova, martire",
+            "url": "https://www.santodelgiorno.it/beata-maria-de-la-dive/"
+        },
+        {
+            "nome": "Sant'Alberico di Citeaux",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-alberico-di-citeaux/"
+        },
+        {
+            "nome": "Santi Senofonte, Maria e figli",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-senofonte-maria-e-figli/"
+        },
+        {
+            "nome": "Beato Michele Kozal",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-michele-kozal/"
+        },
+        {
+            "nome": "San Tito",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Agostino (Eystein) Erlandsson",
+            "qualifica": "Arcivescovo",
+            "url": null
+        },
+        {
+            "nome": "San Teogene di Ippona",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/26/gennaio/"
+}

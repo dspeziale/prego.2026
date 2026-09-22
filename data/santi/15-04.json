@@ -1,0 +1,63 @@
+{
+    "data": "15-04",
+    "giorno": 15,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "15 aprile",
+    "principali": [
+        {
+            "nome": "San Damiano de Veuster",
+            "qualifica": "Sacerdote",
+            "descrizione": "«La politica e il mondo giornalistico possono vantare eroi, ma pochi possono essere paragonati a padre Damiano di Molokai. Vale la pena dare un'occhiata alle fonti di tale eroismo» (Gandhi)...",
+            "url": "https://www.santodelgiorno.it/san-damiano-de-veuster/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sante Anastasia e Basilissa",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/sante-anastasia-e-basilissa/"
+        },
+        {
+            "nome": "San Cesare De Bus",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-cesare-de-bus/"
+        },
+        {
+            "nome": "San Marone",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-marone-martire/"
+        },
+        {
+            "nome": "San Paterno di Avranches",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-paterno-di-avranches/"
+        },
+        {
+            "nome": "Sant'Abbondio",
+            "qualifica": "",
+            "url": null
+        },
+        {
+            "nome": "San Crescente di Mira",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ortario",
+            "qualifica": "Abate di Landelles",
+            "url": null
+        },
+        {
+            "nome": "Santi Teodoro e Pausilopo (Pausilippo)",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Annibale",
+            "qualifica": "Martire di Auxerre",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/15/aprile/"
+}

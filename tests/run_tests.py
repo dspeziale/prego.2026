@@ -93,6 +93,15 @@ def test_webapp() -> None:
     giorni = client.get("/api/giorni").get_json()
     check(giorni and "2026-07-08" in giorni["giorni"], "API /api/giorni")
     check(giorni["totale"] == len(giorni["giorni"]), "totale coerente")
+    # pagina dei santi del giorno (data/santi/GG-MM.json)
+    santi = client.get("/santi/2026-09-22")
+    check(santi.status_code == 200, "GET /santi/2026-09-22")
+    santi_html = santi.data.decode("utf-8")
+    check("San Maurizio" in santi_html and "Altri santi e beati" in santi_html,
+          "santi del 22 settembre: principale ed elenco")
+    check(client.get("/santi/1999-01-01").status_code == 404,
+          "santi di un giorno non raccolto -> 404")
+    check('href="/santi/2026-07-08"' in page, "pulsante Santi nella pagina del giorno")
     # dal sito il menu ha Scarica l'app e Accedi; dall'app Android no
     check("Scarica l'app" in page and "Accedi" in page,
           "menu del sito con Scarica l'app e Accedi")

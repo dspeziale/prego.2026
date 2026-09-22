@@ -1,0 +1,58 @@
+{
+    "data": "03-12",
+    "giorno": 3,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "3 dicembre",
+    "principali": [
+        {
+            "nome": "San Francesco Saverio",
+            "qualifica": "Sacerdote",
+            "descrizione": "Il giorno 7 aprile dell'anno 1506, nel castello di Saverio, nella Navarra, nasceva colui che Urbano VIII chiamerà « l'Apostolo delle Indie », S. Francesco Saverio. Fin dall'adolescenza...",
+            "url": "https://www.santodelgiorno.it/san-francesco-saverio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Ilaria",
+            "qualifica": "Martire di Roma",
+            "url": "https://www.santodelgiorno.it/santa-ilaria/"
+        },
+        {
+            "nome": "Santi Claudio, Ilaria, Giasone e Mauro",
+            "qualifica": "Martiri a Roma",
+            "url": "https://www.santodelgiorno.it/santi-claudio-ilaria-giasone-e-mauro/"
+        },
+        {
+            "nome": "Beato Giovanni Nepomuceno Tschiderer Von Gleifheim",
+            "qualifica": "Vescovo di Trento",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-nepomuceno-tschiderer-von-gleifheim/"
+        },
+        {
+            "nome": "San Lucio di Coira",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-lucio-di-coira/"
+        },
+        {
+            "nome": "San Sofonia",
+            "qualifica": "Profeta",
+            "url": "https://www.santodelgiorno.it/san-sofonia-profeta/"
+        },
+        {
+            "nome": "San Cassiano di Tangeri",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-cassiano-di-tangeri/"
+        },
+        {
+            "nome": "San Birino di Dorchester",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-birino-di-dorchester/"
+        },
+        {
+            "nome": "Beato Edoardo Coleman",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/03/dicembre/"
+}

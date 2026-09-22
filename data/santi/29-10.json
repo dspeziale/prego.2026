@@ -1,0 +1,83 @@
+{
+    "data": "29-10",
+    "giorno": 29,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "29 ottobre",
+    "principali": [
+        {
+            "nome": "Beata Chiara Luce Badano",
+            "qualifica": "Giovane focolarina",
+            "descrizione": "La beatificazione di Chiara Luce Badano, avvenuta il 25 settembre 2010, è stata accompagnata da una corrente di gioia ed entusiasmo giovanile. Chiara nasce a Sassello il 29 ottobre 1971. l genitori...",
+            "url": "https://www.santodelgiorno.it/beata-chiara-luce-badano/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Ermelinda",
+            "qualifica": "Vergine nel Brabante",
+            "url": "https://www.santodelgiorno.it/sant-ermelinda/"
+        },
+        {
+            "nome": "Sant'Onorato di Vercelli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-onorato-di-vercelli/"
+        },
+        {
+            "nome": "Beato Rosario Angelo Livatino",
+            "qualifica": "Martire di mafia",
+            "url": "https://www.santodelgiorno.it/beato-rosario-angelo-livatino/"
+        },
+        {
+            "nome": "San Gaetano Errico",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-gaetano-errico/"
+        },
+        {
+            "nome": "San Feliciano",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-feliciano-di-cartagine/"
+        },
+        {
+            "nome": "San Narciso di Gerusalemme",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-narciso-di-gerusalemme/"
+        },
+        {
+            "nome": "Sant'Abramo",
+            "qualifica": "Anacoreta",
+            "url": "https://www.santodelgiorno.it/sant-abramo-di-rostov/"
+        },
+        {
+            "nome": "San Colman di Kilmacduagh",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-colman-di-kilmacduagh/"
+        },
+        {
+            "nome": "San Teuderio",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-teuderio/"
+        },
+        {
+            "nome": "Santa Anastasìa la Romana",
+            "qualifica": "Osiomartire",
+            "url": null
+        },
+        {
+            "nome": "San Dodone di Wallers-en-Fagne",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Santo Stefano Minicillo",
+            "qualifica": "Vescovo e confessore",
+            "url": null
+        },
+        {
+            "nome": "San Zenobio di Sidone",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/29/ottobre/"
+}

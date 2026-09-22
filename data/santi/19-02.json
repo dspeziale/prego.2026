@@ -1,0 +1,78 @@
+{
+    "data": "19-02",
+    "giorno": 19,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "19 febbraio",
+    "principali": [
+        {
+            "nome": "San Corrado Confalonieri",
+            "qualifica": "Eremita, Terziario francescano",
+            "descrizione": "Egli era un nobile del Trecento, sposo felice di una gentildonna sua pari, e aveva un debole per la caccia. Un giorno, lungo la riva del Po giallastro, un ghiotto capo di selvaggina, ch'egli inseguiva...",
+            "url": "https://www.santodelgiorno.it/beato-corrado-confalonieri-da-piacenza/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Mansueto di Milano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-mansueto-di-milano/"
+        },
+        {
+            "nome": "San Barbato di Benevento",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-barbato-di-benevento/"
+        },
+        {
+            "nome": "Beata Elisabetta Picenardi",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-elisabetta-picenardi/"
+        },
+        {
+            "nome": "San Quodvultdeus",
+            "qualifica": "Vescovo di Cartagine",
+            "url": "https://www.santodelgiorno.it/san-quodvultdeus/"
+        },
+        {
+            "nome": "Beato Giuseppe Zaplata",
+            "qualifica": "Religioso e martire",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-zaplata/"
+        },
+        {
+            "nome": "Beato Alvaro da Cordova",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-alvaro-da-cordova/"
+        },
+        {
+            "nome": "Beato Bonifacio di Losanna",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-bonifacio-di-losanna/"
+        },
+        {
+            "nome": "Sant'Asia",
+            "qualifica": "Medico, martire ad Antiochia",
+            "url": null
+        },
+        {
+            "nome": "San Giorgio",
+            "qualifica": "Monaco di Vabres, Vescovo di Lodeve",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Palestina",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Proclo di Bisignano",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Santa Yi Zhenmei (Lucia)",
+            "qualifica": "Catechista cinese, martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/19/febbraio/"
+}

@@ -1,0 +1,128 @@
+{
+    "data": "29-08",
+    "giorno": 29,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "29 agosto",
+    "principali": [
+        {
+            "nome": "Martirio di San Giovanni Battista",
+            "qualifica": "La richiesta di Salomè",
+            "descrizione": "Nell'anno XV del regno di Tiberio Cesare, Giovanni Battista dal deserto venne alle rive del Giordano, nelle vicinanze di Gerico, per predicarvi il battesimo di penitenza, in preparazione alla venuta del...",
+            "url": "https://www.santodelgiorno.it/martirio-di-san-giovanni-battista/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Sabina",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-sabina/"
+        },
+        {
+            "nome": "Madonna delle Lacrime",
+            "qualifica": "Miracolo di Siracusa",
+            "url": "https://www.santodelgiorno.it/madonna-delle-lacrime/"
+        },
+        {
+            "nome": "Beata Teresa Bracco",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/beata-teresa-bracco/"
+        },
+        {
+            "nome": "Santa Maria della Croce",
+            "qualifica": "Fondatrice delle Piccole Suore dei Poveri",
+            "url": "https://www.santodelgiorno.it/santa-maria-della-croce/"
+        },
+        {
+            "nome": "Beati Giovanni da Perugia e Pietro da Sassoferrato",
+            "qualifica": "Martiri francescani",
+            "url": "https://www.santodelgiorno.it/beati-giovanni-da-perugia-e-pietro-da-sassoferrato/"
+        },
+        {
+            "nome": "Nostra Signora della Guardia",
+            "qualifica": "Appellativo",
+            "url": "https://www.santodelgiorno.it/nostra-signora-della-guardia/"
+        },
+        {
+            "nome": "Beato Edmondo Ignazio Rice",
+            "qualifica": "Fondatore",
+            "url": "https://www.santodelgiorno.it/beato-edmondo-ignazio-rice/"
+        },
+        {
+            "nome": "San Mederico",
+            "qualifica": "Venerato a Parigi",
+            "url": "https://www.santodelgiorno.it/san-mederico/"
+        },
+        {
+            "nome": "San Sebbi",
+            "qualifica": "Re della Sassonia Orientale",
+            "url": "https://www.santodelgiorno.it/san-sebbi/"
+        },
+        {
+            "nome": "Santa Beatrice di Nazareth",
+            "qualifica": "Monaca cistercense",
+            "url": "https://www.santodelgiorno.it/santa-beatrice-di-nazareth/"
+        },
+        {
+            "nome": "Beato Costantino Fernandez Alvarez",
+            "qualifica": "Sacerdote domenicano, martire",
+            "url": "https://www.santodelgiorno.it/beato-costantino-fernandez-alvarez/"
+        },
+        {
+            "nome": "Beato Domenico Jedrzejewski",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-domenico-jedrzejewski/"
+        },
+        {
+            "nome": "Santa Basilla",
+            "qualifica": "Martire a Sirmio",
+            "url": "https://www.santodelgiorno.it/santa-basilla/"
+        },
+        {
+            "nome": "Beato Francesco Monzon Romeo",
+            "qualifica": "Sacerdote domenicano, martire",
+            "url": "https://www.santodelgiorno.it/beato-francesco-monzon-romeo/"
+        },
+        {
+            "nome": "Sant'Adelfo di Metz",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-adelfo-di-metz/"
+        },
+        {
+            "nome": "Beata Bronislava di Kamien",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-bronislava-di-kamien/"
+        },
+        {
+            "nome": "Beata Sancia Szymkowiak",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-sancia-szymkowiak/"
+        },
+        {
+            "nome": "Santa Candida",
+            "qualifica": "Vergine e martire venerata a Roma",
+            "url": null
+        },
+        {
+            "nome": "Beato Ludovico Vulfilacio Huppy",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Riccardo Herst",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Vittore",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Membotto",
+            "qualifica": "Monaco benedettino",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/29/agosto/"
+}

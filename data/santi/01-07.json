@@ -1,0 +1,118 @@
+{
+    "data": "01-07",
+    "giorno": 1,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "1 luglio",
+    "principali": [
+        {
+            "nome": "Sant'Aronne",
+            "qualifica": "Fratello di Mosè",
+            "descrizione": "Il fratello maggiore di Mosè e Maria nacque in Egitto dal levita Amram, figlio di Caath, e da Ioocabed. Sposò Elisabetta, sorella di Naasson, che era capo della tribù di Giuda. Ebbe...",
+            "url": "https://www.santodelgiorno.it/sant-aronne/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Ester",
+            "qualifica": "Regina",
+            "url": "https://www.santodelgiorno.it/santa-ester/"
+        },
+        {
+            "nome": "Preziosissimo Sangue di Gesù",
+            "qualifica": "Sorgente di vita eterna",
+            "url": "https://www.santodelgiorno.it/preziosissimo-sangue-di-gesu/"
+        },
+        {
+            "nome": "Sant'Oliviero Plunkett",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-oliviero-plunkett/"
+        },
+        {
+            "nome": "Beato Ignazio Falzon",
+            "qualifica": "Chierico",
+            "url": "https://www.santodelgiorno.it/beato-ignazio-falzon/"
+        },
+        {
+            "nome": "San Teodorico di Mont-d'Or",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-teodorico-di-mont-d-or/"
+        },
+        {
+            "nome": "Sant'Eparchio di Angouleme",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-eparchio-di-angouleme/"
+        },
+        {
+            "nome": "San Carileffo",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-carileffo/"
+        },
+        {
+            "nome": "San Atilano Cruz Alvarado",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Domiziano di Bebron",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Beati Giorgio Beesley e Montford Scott",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni Battista Duverneuil e Pietro Aredio Labrouhe de Laborderie",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Nepomuceno (Jan Nepomucen) Chrzan",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Golveno di Leon",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Justino Orona Madrigal",
+            "qualifica": "Martire Messicano",
+            "url": null
+        },
+        {
+            "nome": "San Martino di Vienne",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Nicasio Camuto de Burgio",
+            "qualifica": "Cavaliere di Malta, martire",
+            "url": null
+        },
+        {
+            "nome": "San Teodorico di St. Evroult",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Beato Tommaso Maxfield",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Zhang Huailu",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Assunta Marchetti",
+            "qualifica": "Missionaria",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/01/luglio/"
+}

@@ -1,0 +1,128 @@
+{
+    "data": "26-08",
+    "giorno": 26,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "26 agosto",
+    "principali": [
+        {
+            "nome": "Sant'Alessandro di Bergamo",
+            "qualifica": "Martire",
+            "descrizione": "Ai primi giorni d'autunno, l'esercito di Massimiano Cesare si trovava nelle valli svizzere, non lontano dalla conca del lago Lemano. Più che una guerra guerreggiata, lo aspettava una insidiosa guerriglia...",
+            "url": "https://www.santodelgiorno.it/sant-alesssandro-di-bergamo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Oronzo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-oronzo/"
+        },
+        {
+            "nome": "Madonna di Czestochowa",
+            "qualifica": "Il quadro miracoloso",
+            "url": "https://www.santodelgiorno.it/madonna-di-czestochowa/"
+        },
+        {
+            "nome": "Santa Maria di Gesù Crocifisso",
+            "qualifica": "Carmelitana",
+            "url": "https://www.santodelgiorno.it/santa-maria-di-gesu-crocifisso/"
+        },
+        {
+            "nome": "Beato Giovanni Paolo I",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-paolo-i/"
+        },
+        {
+            "nome": "San Melchisedek",
+            "qualifica": "Re di Salem e sacerdote",
+            "url": "https://www.santodelgiorno.it/san-melchisedek/"
+        },
+        {
+            "nome": "San Massimiliano di Roma",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-massimiliano-di-roma/"
+        },
+        {
+            "nome": "Beati Luigi Beltrame Quattrocchi e Maria Corsini",
+            "qualifica": "Sposi",
+            "url": "https://www.santodelgiorno.it/beati-luigi-beltrame-quattrocchi-e-maria-corsini/"
+        },
+        {
+            "nome": "Sant'Anastasio il Lavandaio",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-anastasio-il-lavandaio/"
+        },
+        {
+            "nome": "Santa Giovanna Elisabetta Bichier des Ages",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-giovanna-elisabetta-bichier-des-ages/"
+        },
+        {
+            "nome": "Santa Teresa di Gesù Jornet e Ibars",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-teresa-di-gesu-jornet-e-ibars/"
+        },
+        {
+            "nome": "Santi Simplicio, Costanzo e Vittoriano",
+            "qualifica": "Martiri a Celano",
+            "url": "https://www.santodelgiorno.it/santi-simplicio-costanzo-e-vittoriano/"
+        },
+        {
+            "nome": "Beato Ambrogio da Benaguacil",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-ambrogio-da-benaguacil/"
+        },
+        {
+            "nome": "Beata Lorenza Harasymiv",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/beata-lorenza-harasymiv/"
+        },
+        {
+            "nome": "San Genuario",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-genuario/"
+        },
+        {
+            "nome": "Beato Felice Vivet Trabal",
+            "qualifica": "Religioso salesiano, martire",
+            "url": "https://www.santodelgiorno.it/beato-felice-vivet-trabal/"
+        },
+        {
+            "nome": "San Guniforto",
+            "qualifica": "Martire venerato a Pavia",
+            "url": "https://www.santodelgiorno.it/san-guniforto/"
+        },
+        {
+            "nome": "Beato Pietro da Benisa",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-pietro-da-benisa/"
+        },
+        {
+            "nome": "Beato Giacomo Retouret",
+            "qualifica": "Sacerdote carmelitano, martire",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-retouret/"
+        },
+        {
+            "nome": "Sant'Eleuterio di Auxerre",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Secondo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Vittore",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Madonna della Rocca",
+            "qualifica": "Ritrovamento della Statua",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/26/agosto/"
+}

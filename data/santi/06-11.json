@@ -1,0 +1,88 @@
+{
+    "data": "06-11",
+    "giorno": 6,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "6 novembre",
+    "principali": [
+        {
+            "nome": "San Leonardo di Noblac",
+            "qualifica": "Eremita",
+            "descrizione": "San Leonardo nacque nelle Gallie sul finire del V secolo da un’illustre famiglia, parente del celebre Clodoveo, re dei Franchi, che lo tenne a battesimo e lo volle alla sua corte affinch&eacute...",
+            "url": "https://www.santodelgiorno.it/san-leonardo-di-limoges/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Cristina di Stommeln",
+            "qualifica": "Mistica",
+            "url": "https://www.santodelgiorno.it/beata-cristina-di-stommeln/"
+        },
+        {
+            "nome": "San Paolo",
+            "qualifica": "Patriarca di Costantinopoli, martire",
+            "url": "https://www.santodelgiorno.it/san-paolo-di-costantinopoli/"
+        },
+        {
+            "nome": "San Severo di Barcellona",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-severo-di-barcellona/"
+        },
+        {
+            "nome": "San Melanio",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-melanio/"
+        },
+        {
+            "nome": "Sant'Iltuto",
+            "qualifica": "Abate e fondatore",
+            "url": "https://www.santodelgiorno.it/sant-iltuto/"
+        },
+        {
+            "nome": "San Vinnoco",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-vinnoco/"
+        },
+        {
+            "nome": "Santa Beatrice di Olive",
+            "qualifica": "Monaca cistercense",
+            "url": null
+        },
+        {
+            "nome": "Santi Callinico e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Emiliano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Felice di Genova",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Felice di Toniza",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Protasio di Losanna",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santo Stefano d'Apt",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Teobaldo di Dorat",
+            "qualifica": "Sacerdote",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/06/novembre/"
+}

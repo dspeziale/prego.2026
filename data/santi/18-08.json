@@ -1,0 +1,113 @@
+{
+    "data": "18-08",
+    "giorno": 18,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "18 agosto",
+    "principali": [
+        {
+            "nome": "Sant'Elena Imperatrice",
+            "qualifica": "Madre di Costantino",
+            "descrizione": "È impossibile parlare dei primi secoli del Cristianesimo senza ricordare con particolare affetto il nome di S. Elena, della quale si rinvengono notizie contrastanti presso gli storici. Nata a Roma...",
+            "url": "https://www.santodelgiorno.it/sant-elena/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Agapito",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-agapito/"
+        },
+        {
+            "nome": "San Macario di Pelecete",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-macario-di-pelecete/"
+        },
+        {
+            "nome": "San Firmino di Metz",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-firmino-di-metz/"
+        },
+        {
+            "nome": "Serva di Dio Marianna Boccolini",
+            "qualifica": "Giovane laica",
+            "url": "https://www.santodelgiorno.it/marianna-boccolini/"
+        },
+        {
+            "nome": "Santa Eliana",
+            "qualifica": "Vergine e Martire",
+            "url": "https://www.santodelgiorno.it/santa-eliana/"
+        },
+        {
+            "nome": "Beato Martino Martinez Pascual",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-martino-martinez-pascual/"
+        },
+        {
+            "nome": "San Franco",
+            "qualifica": "Venerato a Francavilla a Mare",
+            "url": "https://www.santodelgiorno.it/san-franco/"
+        },
+        {
+            "nome": "Sant'Alberto Hurtado Cruchaga",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/sant-alberto-hurtado-cruchaga/"
+        },
+        {
+            "nome": "Beata Paola Montaldi",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-paola-montaldi/"
+        },
+        {
+            "nome": "Beato Vincenzo Maria Izquierdo Alcon",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-vincenzo-maria-izquierdo-alcon/"
+        },
+        {
+            "nome": "Beato Francesco Arias Martin",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-francesco-arias-martin/"
+        },
+        {
+            "nome": "San Floro",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-floro/"
+        },
+        {
+            "nome": "Beato Rinaldo da Concorezzo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-rinaldo-da-concorezzo/"
+        },
+        {
+            "nome": "Beato Antonio Banassat",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eonio di Arles",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beati Giacomo Falgarona Vilanova e Atanasio Vidaurreta Labra",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Leonardo",
+            "qualifica": "Abate di Cava",
+            "url": null
+        },
+        {
+            "nome": "San Leone",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Utica (Massa Candida)",
+            "qualifica": "Cristiani",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/18/agosto/"
+}

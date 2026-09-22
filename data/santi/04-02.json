@@ -1,0 +1,93 @@
+{
+    "data": "04-02",
+    "giorno": 4,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "4 febbraio",
+    "principali": [
+        {
+            "nome": "San Giuseppe da Leonessa",
+            "qualifica": "Cappuccino",
+            "descrizione": "Prigioniero dei Turchi a Costantinopoli, fra Giuseppe era restato per tre giorni appeso a una croce per un piede e per una mano. E non era morto. Dio solo sa come riuscisse a sopravvivere a quel supplizio...",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-da-leonessa/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Gilberto di Sempringham",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-gilberto-di-sempringham/"
+        },
+        {
+            "nome": "Santa Giovanna di Valois",
+            "qualifica": "Regina di Francia, religiosa",
+            "url": "https://www.santodelgiorno.it/santa-giovanna-di-valois/"
+        },
+        {
+            "nome": "San Gilberto di Limerick",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gilberto-di-limerick/"
+        },
+        {
+            "nome": "San Nicola Studita",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-nicola-studita/"
+        },
+        {
+            "nome": "San Giovanni de Britto",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-giovanni-de-britto/"
+        },
+        {
+            "nome": "San Rabano Mauro",
+            "qualifica": "Abate di Fulda",
+            "url": "https://www.santodelgiorno.it/san-rabano-mauro/"
+        },
+        {
+            "nome": "Sant'Isidoro di Pelusio",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-isidoro-di-pelusio/"
+        },
+        {
+            "nome": "Santi Filea e Filoromo",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-filea-e-filoromo/"
+        },
+        {
+            "nome": "Sant'Aventino di Chartres",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Aventino di Troyes",
+            "qualifica": "Religioso",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eutichio di Roma",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Speed",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Papia, Diodoro e Claudiano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Madonna del Fuoco",
+            "qualifica": "Miracolo",
+            "url": null
+        },
+        {
+            "nome": "San Gemolo",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/04/febbraio/"
+}

@@ -1,0 +1,63 @@
+{
+    "data": "13-12",
+    "giorno": 13,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "13 dicembre",
+    "principali": [
+        {
+            "nome": "Santa Lucia",
+            "qualifica": "Vergine e martire",
+            "descrizione": "Lucia nacque a Siracusa nell'anno 281 da nobilissima e ricchissima famiglia. Rimasta orfana di padre all'età di cinque anni venne educata nella religione cristiana dalla pia e saggia Eutichia, sua...",
+            "url": "https://www.santodelgiorno.it/santa-lucia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Ottilia di Hohenbourg",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/sant-ottilia-di-hohenbourg/"
+        },
+        {
+            "nome": "Santi Eustrazio, Aussenzio, Eugenio, Mardario ed Oreste",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-eustrazio-aussenzio-eugenio-mardario-ed-oreste/"
+        },
+        {
+            "nome": "Beato Antonio Grassi",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-antonio-grassi/"
+        },
+        {
+            "nome": "Beato Giovanni Marinoni",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-marinoni/"
+        },
+        {
+            "nome": "Sant'Autberto",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-autberto/"
+        },
+        {
+            "nome": "San Giudoco di Piccardia",
+            "qualifica": "Prete ed eremita",
+            "url": "https://www.santodelgiorno.it/san-giudoco-di-piccardia/"
+        },
+        {
+            "nome": "Sant'Antioco di Sulcis",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Aristone",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Pietro Cho Hwa-so e cinque compagni",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/13/dicembre/"
+}

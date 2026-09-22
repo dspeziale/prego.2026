@@ -1,0 +1,43 @@
+{
+    "data": "18-10",
+    "giorno": 18,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "18 ottobre",
+    "principali": [
+        {
+            "nome": "San Luca",
+            "qualifica": "Evangelista",
+            "descrizione": "L'Evangelista S. Luca nacque in Antiochia di Siria, da genitori pagani. Imparò la scienza medica e, allo scopo di perfezionare le sue cognizioni, intraprese diversi viaggi nella Grecia e nell'Egitto...",
+            "url": "https://www.santodelgiorno.it/san-luca/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Pietro d'Alcantara",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-pietro-di-alcantara/"
+        },
+        {
+            "nome": "Sant'Isacco Jogues",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/sant-isacco-jogues/"
+        },
+        {
+            "nome": "Sant'Amabile di Rium",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/sant-amabile-di-rium/"
+        },
+        {
+            "nome": "San Monone",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-monone/"
+        },
+        {
+            "nome": "Sant'Asclepiade",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-asclepiade/"
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/18/ottobre/"
+}

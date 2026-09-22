@@ -1,0 +1,98 @@
+{
+    "data": "31-01",
+    "giorno": 31,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "31 gennaio",
+    "principali": [
+        {
+            "nome": "San Giovanni Bosco",
+            "qualifica": "Sacerdote",
+            "descrizione": "Questo nome popolarissimo e tanto venerato ricorda un'istituzione grandiosa e benefica che da anni assiste ed educa cristianamente la gioventù, raccolta in centinaia di case sparse in tutto il mondo...",
+            "url": "https://www.santodelgiorno.it/san-giovanni-bosco/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Ciro",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-ciro/"
+        },
+        {
+            "nome": "Santa Marcella di Roma",
+            "qualifica": "Vedova",
+            "url": "https://www.santodelgiorno.it/santa-marcella-di-roma/"
+        },
+        {
+            "nome": "San Geminiano di Modena",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-geminiano-di-modena/"
+        },
+        {
+            "nome": "Beata Ludovica Albertoni",
+            "qualifica": "Terziaria francescana",
+            "url": "https://www.santodelgiorno.it/beata-ludovica-albertoni/"
+        },
+        {
+            "nome": "Beata Maria Cristina di Savoia",
+            "qualifica": "Regina",
+            "url": "https://www.santodelgiorno.it/beata-maria-cristina-di-savoia/"
+        },
+        {
+            "nome": "San Francesco Saverio Maria Bianchi",
+            "qualifica": "Barnabita",
+            "url": "https://www.santodelgiorno.it/san-francesco-saverio-maria-bianchi/"
+        },
+        {
+            "nome": "Beata Candelaria di San Giuseppe",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-candelaria-di-san-giuseppe/"
+        },
+        {
+            "nome": "Sant'Eusebio",
+            "qualifica": "Monaco di San Gallo",
+            "url": "https://www.santodelgiorno.it/sant-eusebio-di-san-gallo/"
+        },
+        {
+            "nome": "Sant'Aidano (Medhoc) di Ferns",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-aidano-medhoc-di-ferns/"
+        },
+        {
+            "nome": "San Giulio d'Orta",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-giulio-d-orta/"
+        },
+        {
+            "nome": "Sant'Abramo",
+            "qualifica": "Vescovo di Arbela",
+            "url": null
+        },
+        {
+            "nome": "Santi Agostino Pak Chong-Won e cinque compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Metras (Metrano) di Alessandria",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Valdo",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Vittorino, Vittore, Niceforo, Claudio, Diodoro, Serapione e Papia",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/31/gennaio/"
+}

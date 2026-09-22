@@ -1,0 +1,73 @@
+{
+    "data": "12-12",
+    "giorno": 12,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "12 dicembre",
+    "principali": [
+        {
+            "nome": "Beata Maria Vergine di Guadalupe",
+            "qualifica": "Apparizione",
+            "descrizione": "A Guadalupe la Madonna apparve dal 9 al 12 dicembre a Juan Diego Cuauhtlatoatzin un azteco convertito chiedendogli di far erigere un santuario in suo onore.",
+            "url": "https://www.santodelgiorno.it/beata-maria-vergine-di-guadalupe/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Spiridione di Trimithonte",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-spiridione-di-trimithonte/"
+        },
+        {
+            "nome": "San Simone Hoa",
+            "qualifica": "Medico, sindaco, martire",
+            "url": "https://www.santodelgiorno.it/san-simone-hoa/"
+        },
+        {
+            "nome": "Beato Corrado di Offida",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/beato-corrado-di-offida/"
+        },
+        {
+            "nome": "Beato Bartolo Buonpedoni da San Gimignano",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/beato-bartolo-buonpedoni-da-san-gimignano/"
+        },
+        {
+            "nome": "Beato Giacomo Capocci da Viterbo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-capocci-da-viterbo/"
+        },
+        {
+            "nome": "San Corentino di Quimper",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-corentino-di-quimper/"
+        },
+        {
+            "nome": "San Finniano di Clonard",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-finniano-di-clonard/"
+        },
+        {
+            "nome": "San Vicelino di Oldenburg",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-vicelino-di-oldenburg/"
+        },
+        {
+            "nome": "Santi Epimaco e Alessandro",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Israele di Dorat",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Beato Pio (Pius Ludwik) Bartosik",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/12/dicembre/"
+}

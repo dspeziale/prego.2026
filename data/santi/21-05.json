@@ -1,0 +1,83 @@
+{
+    "data": "21-05",
+    "giorno": 21,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "21 maggio",
+    "principali": [
+        {
+            "nome": "San Vittorio di Cesarea",
+            "qualifica": "Martire",
+            "descrizione": "La tradizione vuole che sia stato un soldato romano che ha subito il martirio a Cesarea di Cappadocia con Polieuto e Donato. La Chiesa cattolica lo venera il 21 maggio: era presente nel Martirologio Geronimiano...",
+            "url": "https://www.santodelgiorno.it/san-vittorio-di-cesarea/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Cristoforo Magallanes e 24 compagni",
+            "qualifica": "Martiri messicani",
+            "url": "https://www.santodelgiorno.it/santi-martiri-messicani/"
+        },
+        {
+            "nome": "San Carlo Eugenio de Mazenod",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-carlo-eugenio-de-mazenod/"
+        },
+        {
+            "nome": "San Godrico",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-godrico/"
+        },
+        {
+            "nome": "San Teobaldo di Vienne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-teobaldo-di-vienne/"
+        },
+        {
+            "nome": "San Paterno di Vannes",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-paterno-di-vannes/"
+        },
+        {
+            "nome": "San Hemming di Abo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-hemming-di-abo/"
+        },
+        {
+            "nome": "San Mancio da Évora",
+            "qualifica": "Vesovo e Martire",
+            "url": "https://www.santodelgiorno.it/san-mancio-da-evora/"
+        },
+        {
+            "nome": "Beato Leone Mopinot",
+            "qualifica": "Religioso lasalliano e martire",
+            "url": "https://www.santodelgiorno.it/beato-leone-mopinot/"
+        },
+        {
+            "nome": "Beato Giovanni (Jean) Mopinot",
+            "qualifica": "Religioso e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Pentecoste ad Alessandria",
+            "qualifica": "Religiosi",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ospizio (Ospicio)",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Polieuto (Polieutto)",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Timoteo",
+            "qualifica": "Diacono e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/21/maggio/"
+}

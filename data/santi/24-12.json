@@ -1,0 +1,48 @@
+{
+    "data": "24-12",
+    "giorno": 24,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "24 dicembre",
+    "principali": [
+        {
+            "nome": "San Delfino di Bordeaux",
+            "qualifica": "Vescovo",
+            "descrizione": "É il primo vescovo di Bordeaux attestato con sicurezza. Sotto il suo episcopato, che si situa negli ultimi venti anni del IV secolo, la cristianizzazione della diocesi sembrava aver superato una fase decisiva...",
+            "url": "https://www.santodelgiorno.it/san-delfino/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Adele di Pfalzel",
+            "qualifica": "Abbadessa benedettina",
+            "url": "https://www.santodelgiorno.it/sant-adele-di-pfalzel/"
+        },
+        {
+            "nome": "Santi Antenati di Gesù",
+            "qualifica": "Quei padri amati da Dio",
+            "url": "https://www.santodelgiorno.it/santi-antenati-di-gesu/"
+        },
+        {
+            "nome": "Santa Paola Elisabetta Cerioli",
+            "qualifica": "Vedova, fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-paola-elisabetta-cerioli/"
+        },
+        {
+            "nome": "Beato Bartolomeo Maria Dal Monte",
+            "qualifica": "Sacerdote e fondatore",
+            "url": "https://www.santodelgiorno.it/beato-bartolomeo-maria-dal-monte/"
+        },
+        {
+            "nome": "Santa Tarsilia",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-tarsilia/"
+        },
+        {
+            "nome": "Sant'Irmina di Treviri",
+            "qualifica": "Vergine",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/24/dicembre/"
+}

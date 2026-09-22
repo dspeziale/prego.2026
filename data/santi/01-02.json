@@ -1,0 +1,108 @@
+{
+    "data": "01-02",
+    "giorno": 1,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "1 febbraio",
+    "principali": [
+        {
+            "nome": "Santa Brigida d'Irlanda",
+            "qualifica": "Badessa",
+            "descrizione": "La devozione per Brigida in Irlanda è seconda solo a quella per S. Patrizio (17 mar.). Per molti aspetti ella appartiene a quel genere di figure senza dubbio storicamente esistite, ma la cui vita...",
+            "url": "https://www.santodelgiorno.it/santa-brigida-di-irlanda/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Verdiana",
+            "qualifica": "Vergine e reclusa",
+            "url": "https://www.santodelgiorno.it/santa-verdiana/"
+        },
+        {
+            "nome": "Sant'Orso di Aosta",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/sant-orso-di-aosta/"
+        },
+        {
+            "nome": "San Raimondo di Fitero",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-raimondo-di-fitero/"
+        },
+        {
+            "nome": "San Giovanni della Graticola",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giovanni-della-graticola/"
+        },
+        {
+            "nome": "Beato Andrea Conti",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-andrea-conti/"
+        },
+        {
+            "nome": "Beata Giovanna Francesca della Visitazione",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-giovanna-francesca-della-visitazione/"
+        },
+        {
+            "nome": "Sant'Enrico Morse",
+            "qualifica": "Sacerdote gesuita, martire",
+            "url": "https://www.santodelgiorno.it/sant-enrico-morse/"
+        },
+        {
+            "nome": "Beato Luigi Variara",
+            "qualifica": "Sacerdote salesiano",
+            "url": "https://www.santodelgiorno.it/beato-luigi-variara/"
+        },
+        {
+            "nome": "Beato Antonio Manzoni",
+            "qualifica": "Pellegrino",
+            "url": "https://www.santodelgiorno.it/beato-antonio-manzoni/"
+        },
+        {
+            "nome": "Beate Maria Anna Vaillot e quarantasei compagne",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/beate-maria-anna-vaillot-e-quarantasei-compagne/"
+        },
+        {
+            "nome": "San Sigeberto III",
+            "qualifica": "Re d'Austrasia",
+            "url": "https://www.santodelgiorno.it/san-sigeberto-iii/"
+        },
+        {
+            "nome": "Beato Reginaldo di Orleans",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-reginaldo-di-orleans/"
+        },
+        {
+            "nome": "San Trifone",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-trifone/"
+        },
+        {
+            "nome": "Sant'Agrippano",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Conor O' Devany e Patrizio O' Lougham",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Paolo di Trois Chateaux",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Paolo Hong Yong-ju, Giovanni Yi Mun-u e Barbara Ch'oe Yong-i",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Severo di Ravenna",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/01/febbraio/"
+}

@@ -1,0 +1,93 @@
+{
+    "data": "20-11",
+    "giorno": 20,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "20 novembre",
+    "principali": [
+        {
+            "nome": "Sant'Edmondo",
+            "qualifica": "Re degli Angli Orientali, martire",
+            "descrizione": "È un santo più vivo nella memoria popolare d'Inghilterra che in tante pagine di documenti storici. È vivo soprattutto per il modo e le ragioni della sua morte. Di lui si sa poco, e...",
+            "url": "https://www.santodelgiorno.it/sant-edmondo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Avventore, Ottavio e Solutore",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-avventore-ottavio-e-solutore/"
+        },
+        {
+            "nome": "Beata Maria dei Miracoli (Milagros) Ortelles Gimeno",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/beata-maria-dei-miracoli-ortelles-gimeno/"
+        },
+        {
+            "nome": "Beata Maria Fortunata Viti",
+            "qualifica": "Benedettina",
+            "url": "https://www.santodelgiorno.it/beata-maria-fortunata-viti/"
+        },
+        {
+            "nome": "Beate Angela di San Giuseppe e 14 compagne",
+            "qualifica": "Vergini e martiri",
+            "url": "https://www.santodelgiorno.it/beate-angela-di-san-giuseppe-e-14-compagne/"
+        },
+        {
+            "nome": "San Cipriano di Calamizzi",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-cipriano-di-calamizzi/"
+        },
+        {
+            "nome": "San Dasio",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-dasio-martire/"
+        },
+        {
+            "nome": "San Gregorio il Decapolita",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-gregorio-il-decapolita/"
+        },
+        {
+            "nome": "San Bernoardo di Hildesheim",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-bernoardo-di-hildesheim/"
+        },
+        {
+            "nome": "San Basilio di Antiochia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Crispino di Ecija",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Doro di Benevento",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Francesco Saverio Can",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ippolito di Condat",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Silvestro di Chalon-sur-Saone",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Teonesto",
+            "qualifica": "Martire a Vercelli",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/20/novembre/"
+}

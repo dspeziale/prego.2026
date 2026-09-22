@@ -1,0 +1,98 @@
+{
+    "data": "15-06",
+    "giorno": 15,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "15 giugno",
+    "principali": [
+        {
+            "nome": "San Vito",
+            "qualifica": "Adolescente martire",
+            "descrizione": "L'onorevole menzione che di S. Vito, Modesto e Crescenzia si fa negli antichi martirologi, ci dà la più ferma sicurezza ch'essi hanno coraggiosamente confessato Cristo col sacrificio della...",
+            "url": "https://www.santodelgiorno.it/san-vito/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Germana Cousin",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-germana-cousin/"
+        },
+        {
+            "nome": "San Bernardo da Mentone",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-bernardo-di-aosta/"
+        },
+        {
+            "nome": "San Luigi Maria Palazzolo",
+            "qualifica": "Fondatore",
+            "url": "https://www.santodelgiorno.it/san-luigi-maria-palazzolo/"
+        },
+        {
+            "nome": "San Landelino",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-landelino/"
+        },
+        {
+            "nome": "Sant'Amos",
+            "qualifica": "Profeta",
+            "url": "https://www.santodelgiorno.it/sant-amos-profeta/"
+        },
+        {
+            "nome": "Sant'Isfrido di Ratzeburg",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-isfrido-di-ratzeburg/"
+        },
+        {
+            "nome": "Sant'Abramo di St-Cirgue",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Santa Barbara Cui Lianzhi",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Benilde di Cordova",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Esichio di Durostoro",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni Rodriguez e Pietro da Teruel",
+            "qualifica": "Mercedari",
+            "url": null
+        },
+        {
+            "nome": "San Lotario di Seez",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Modesto e Crescenzia",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Pietro Snow e Rodolfo Grimston",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Tommaso Scryven",
+            "qualifica": "Monaco certosino, martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Vito e Modesto",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/15/giugno/"
+}

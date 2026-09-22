@@ -1,0 +1,48 @@
+{
+    "data": "29-06",
+    "giorno": 29,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "29 giugno",
+    "principali": [
+        {
+            "nome": "Santi Pietro e Paolo",
+            "qualifica": "Apostoli",
+            "descrizione": "Tutto il Popolo di Dio è debitore verso di loro per il dono della fede. Pietro è stato il primo a confessare che Gesù è il Cristo, il Figlio di Dio. Paolo ha diffuso questo annuncio nel mondo greco-romano.",
+            "url": "https://www.santodelgiorno.it/santi-pietro-paolo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Emma di Gurk",
+            "qualifica": "Contessa",
+            "url": "https://www.santodelgiorno.it/santa-emma-di-gurk/"
+        },
+        {
+            "nome": "Beato Raimondo Lullo",
+            "qualifica": "Terziario francescano, martire",
+            "url": "https://www.santodelgiorno.it/beato-raimondo-lullo/"
+        },
+        {
+            "nome": "San Cassio di Narni",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-cassio-di-narni/"
+        },
+        {
+            "nome": "San Siro di Genova",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-siro-di-genova/"
+        },
+        {
+            "nome": "Sante Maria Du Tianshi e Maddalena Du Fengju",
+            "qualifica": "Martiri cinesi",
+            "url": null
+        },
+        {
+            "nome": "San Paolo Wu Yan, Giovan Battista Wu Mantang e Paolo Wu Wanshu",
+            "qualifica": "Martiri cinesi",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/29/giugno/"
+}

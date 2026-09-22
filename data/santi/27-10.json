@@ -1,0 +1,58 @@
+{
+    "data": "27-10",
+    "giorno": 27,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "27 ottobre",
+    "principali": [
+        {
+            "nome": "Sant'Evaristo",
+            "qualifica": "Papa e martire",
+            "descrizione": "Questo santo Pontefice, che per nove anni sedette sulla cattedra di S. Pietro, illustrò la Chiesa con savie disposizioni, non meno che colla sua santa vita, coronata dalla palma del martirio. Nacque, Evaristo...",
+            "url": "https://www.santodelgiorno.it/sant-evaristo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Salvatore Mollar Ventura",
+            "qualifica": "Religioso e martire",
+            "url": "https://www.santodelgiorno.it/beato-salvatore-mollar-ventura/"
+        },
+        {
+            "nome": "Beato Bartolomeo di Breganze",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-bartolomeo-di-breganze/"
+        },
+        {
+            "nome": "San Gaudioso di Abitine",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gaudioso-di-abitine/"
+        },
+        {
+            "nome": "San Namazio di Clermont",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-namazio-di-clermont/"
+        },
+        {
+            "nome": "Sant'Otterano di Iona",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/sant-otterano-di-iona/"
+        },
+        {
+            "nome": "San Trasea di Eumenia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Nostra Signora della Carità",
+            "qualifica": "Apparizione",
+            "url": null
+        },
+        {
+            "nome": "San Fiorenzo",
+            "qualifica": "Martire di Til-Chátel",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/27/ottobre/"
+}

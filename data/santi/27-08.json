@@ -1,0 +1,113 @@
+{
+    "data": "27-08",
+    "giorno": 27,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "27 agosto",
+    "principali": [
+        {
+            "nome": "Santa Monica",
+            "qualifica": "Madre di S. Agostino",
+            "descrizione": "S. Monica, sempre grandemente venerata dalla Chiesa e posta a modello delle madri cristiane, nacque a Tagaste, in Africa nel 331, da famiglia cristiana, nella quale fin dall'infanzia imparò a conoscere...",
+            "url": "https://www.santodelgiorno.it/santa-monica/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Domenico della Madre di Dio Barberi",
+            "qualifica": "Sacerdote passionista",
+            "url": "https://www.santodelgiorno.it/beato-domenico-della-madre-di-dio-barberi/"
+        },
+        {
+            "nome": "Santi Marcellino, Mannea e compagni",
+            "qualifica": "Sposi e martiri",
+            "url": "https://www.santodelgiorno.it/santi-marcellino-mannea-e-compagni/"
+        },
+        {
+            "nome": "Beata Maria Pilar Izquierdo Albero",
+            "qualifica": "",
+            "url": "https://www.santodelgiorno.it/beata-maria-pilar-izquierdo-albero/"
+        },
+        {
+            "nome": "San Cesario di Arles",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-cesario-di-arles/"
+        },
+        {
+            "nome": "San Poemen",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-poemen/"
+        },
+        {
+            "nome": "Beato Ruggero Cadwallador",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-ruggero-cadwallador/"
+        },
+        {
+            "nome": "Beato Raimondo Martì Soriano",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-raimondo-marti-soriano/"
+        },
+        {
+            "nome": "San Rufo",
+            "qualifica": "Martire, venerato a Capua",
+            "url": "https://www.santodelgiorno.it/san-rufo/"
+        },
+        {
+            "nome": "San Davide Enrico Lewis",
+            "qualifica": "Sacerdote gesuita, martire",
+            "url": "https://www.santodelgiorno.it/san-davide-enrico-lewis/"
+        },
+        {
+            "nome": "Beato Ferdinando Gonzalez Anon",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-ferdinando-gonzalez-anon/"
+        },
+        {
+            "nome": "Sant'Amedeo di Losanna",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-amedeo-di-losanna/"
+        },
+        {
+            "nome": "San Narno",
+            "qualifica": "Vescovo di Bergamo",
+            "url": "https://www.santodelgiorno.it/san-narno/"
+        },
+        {
+            "nome": "San Guerrino di Sion",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-guerrino-di-sion/"
+        },
+        {
+            "nome": "San Licerio",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-licerio/"
+        },
+        {
+            "nome": "Beato Angelo da Foligno",
+            "qualifica": "Sacerdote agostiniano",
+            "url": "https://www.santodelgiorno.it/beato-angelo-da-foligno/"
+        },
+        {
+            "nome": "San Gebardo di Costanza",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gebardo-di-costanza/"
+        },
+        {
+            "nome": "Beati Francesco di S. Maria e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni di Pavia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Uldarico (Jean-Baptiste) Guillaume",
+            "qualifica": "Religioso e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/27/agosto/"
+}

@@ -1,0 +1,123 @@
+{
+    "data": "01-05",
+    "giorno": 1,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "1 maggio",
+    "principali": [
+        {
+            "nome": "San Giuseppe",
+            "qualifica": "Lavoratore",
+            "descrizione": "Nel Vangelo S. Giuseppe viene chiamato fabbro. Quando i Nazaretani udirono Gesù insegnare nella loro sinagoga, dissero di lui: « Non è Egli il figlio del legnaiuolo? ». E altra...",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-lavoratore/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Geremia",
+            "qualifica": "Profeta",
+            "url": "https://www.santodelgiorno.it/san-geremia/"
+        },
+        {
+            "nome": "San Riccardo Pampuri",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/san-riccardo-pampuri/"
+        },
+        {
+            "nome": "San Pellegrino Laziosi",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/san-pellegrino-laziosi/"
+        },
+        {
+            "nome": "Beata Mafalda del Portogallo",
+            "qualifica": "Badessa di Arouca",
+            "url": "https://www.santodelgiorno.it/beata-mafalda-del-portogallo/"
+        },
+        {
+            "nome": "San Sigismondo",
+            "qualifica": "Re dei Burgundi e martire",
+            "url": "https://www.santodelgiorno.it/san-sigismondo/"
+        },
+        {
+            "nome": "Sant'Amatore di Auxerre",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-amatore-di-auxerre/"
+        },
+        {
+            "nome": "San Marculfo",
+            "qualifica": "Abate di Nanteuil",
+            "url": "https://www.santodelgiorno.it/san-marculfo/"
+        },
+        {
+            "nome": "San Teodardo di Narbonne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-teodardo-di-narbonne/"
+        },
+        {
+            "nome": "San Brioco",
+            "qualifica": "Vescovo e abate",
+            "url": "https://www.santodelgiorno.it/san-brioco/"
+        },
+        {
+            "nome": "Sant'Asaf",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-asaf/"
+        },
+        {
+            "nome": "Sant'Agostino Schoeffler",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Aldebrando",
+            "qualifica": "Vescovo di Fossombrone",
+            "url": null
+        },
+        {
+            "nome": "Sant'Andeolo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Arigio",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Clemente (Klymentij) Septyckyj",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuliano Cesarello",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Ludovico Bonnard",
+            "qualifica": "Missionario e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Orenzio (o Orienzo) di Auch",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beata Petronilla di Moncel",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "San Torquato",
+            "qualifica": "Vescovo di Guadix",
+            "url": null
+        },
+        {
+            "nome": "Beato Vivaldo",
+            "qualifica": "Eremita",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/01/maggio/"
+}

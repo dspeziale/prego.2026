@@ -1,0 +1,53 @@
+{
+    "data": "22-02",
+    "giorno": 22,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "22 febbraio",
+    "principali": [
+        {
+            "nome": "Cattedra di San Pietro Apostolo",
+            "qualifica": "Consegna delle chiavi",
+            "descrizione": "E io a te dico: tu sei Pietro e su questa pietra edificherò la mia Chiesa e le potenze degli inferi non prevarranno su di essa. A te darò le chiavi del regno dei cieli: tutto ciò che legherai sulla terra sarà legato nei cieli, e tutto ciò che scioglierai sulla terra sarà sciolto nei cieli",
+            "url": "https://www.santodelgiorno.it/cattedra-di-san-pietro-apostolo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Margherita da Cortona",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/santa-margherita-da-cortona/"
+        },
+        {
+            "nome": "Beata Isabella di Francia",
+            "qualifica": "Principessa",
+            "url": "https://www.santodelgiorno.it/beata-isabella-di-francia/"
+        },
+        {
+            "nome": "San Massimiano di Ravenna",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-massimiano-di-ravenna/"
+        },
+        {
+            "nome": "San Papia di Gerapoli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-papia-di-gerapoli/"
+        },
+        {
+            "nome": "Beata Maria di Gesù d'Oultremont",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-di-gesu-d-oultremont/"
+        },
+        {
+            "nome": "Beato Diego Carvalho",
+            "qualifica": "Gesuita, martire",
+            "url": "https://www.santodelgiorno.it/beato-diego-carvalho/"
+        },
+        {
+            "nome": "San Pascasio di Vienne",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/22/febbraio/"
+}

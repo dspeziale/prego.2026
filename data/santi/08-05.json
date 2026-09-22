@@ -1,0 +1,118 @@
+{
+    "data": "08-05",
+    "giorno": 8,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "8 maggio",
+    "principali": [
+        {
+            "nome": "Madonna del Rosario di Pompei",
+            "qualifica": "Apparizione",
+            "descrizione": "La Vergine Maria apparve al Beato Bartolo Longo mentre si trovava nei campi e riferendogli di propagare il Rosario per la sua salvezza.",
+            "url": "https://www.santodelgiorno.it/madonna-del-rosario-di-pompei/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Vittore il Moro",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-vittore-il-moro/"
+        },
+        {
+            "nome": "Nostra Signora di Luján",
+            "qualifica": "Patrona dell'Argentina",
+            "url": "https://www.santodelgiorno.it/nostra-signora-di-lujan/"
+        },
+        {
+            "nome": "Sant'Acacio",
+            "qualifica": "Soldato e martire",
+            "url": "https://www.santodelgiorno.it/sant-acacio/"
+        },
+        {
+            "nome": "San Bonifacio IV",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-bonifacio-iv/"
+        },
+        {
+            "nome": "Beata Maria Caterina di Sant'Agostino",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-maria-caterina-di-sant-agostino/"
+        },
+        {
+            "nome": "Beata Ulrica Nisch",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-ulrica-nisch/"
+        },
+        {
+            "nome": "San Benedetto II",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-benedetto-ii/"
+        },
+        {
+            "nome": "San Gibriano",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-gibriano/"
+        },
+        {
+            "nome": "San Wirone (Wiro)",
+            "qualifica": "Vescovo missionario",
+            "url": "https://www.santodelgiorno.it/san-wirone/"
+        },
+        {
+            "nome": "San Michele Arcangelo",
+            "qualifica": "Apparizione sul Gargano",
+            "url": "https://www.santodelgiorno.it/san-michele-apparizione/"
+        },
+        {
+            "nome": "Sant'Amato Ronconi",
+            "qualifica": "Terziario francescano",
+            "url": "https://www.santodelgiorno.it/sant-amato-ronconi/"
+        },
+        {
+            "nome": "Beato Angelo di Massaccio",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Beato Antonio (Antonin Jan Eugeniusz) Bajewski",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Arsenio",
+            "qualifica": "Diacono",
+            "url": null
+        },
+        {
+            "nome": "San Desiderato di Bourges",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Elladio di Auxerre",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Luigi Rabatà",
+            "qualifica": "Sacerdote carmelitano",
+            "url": null
+        },
+        {
+            "nome": "San Martino di Saujon",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Metrone",
+            "qualifica": "Venerato a Verona",
+            "url": null
+        },
+        {
+            "nome": "San Generoso",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/08/maggio/"
+}

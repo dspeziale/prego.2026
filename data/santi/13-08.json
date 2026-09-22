@@ -1,0 +1,118 @@
+{
+    "data": "13-08",
+    "giorno": 13,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "13 agosto",
+    "principali": [
+        {
+            "nome": "Santa Filomena di Roma",
+            "qualifica": "Principessa, vergine e martire",
+            "descrizione": "Nel 1802 si scoprirono delle ossa di un'adolescente tra i tredici e i quindici anni nel cimitero di Priscilla. \"Pax tecum Filomena\", questo recitava l'incisione, trovata insieme alla raffigurazione di...",
+            "url": "https://www.santodelgiorno.it/santa-filomena-di-roma/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Ponziano e Ippolito",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-ponziano-e-ippolito/"
+        },
+        {
+            "nome": "San Cassiano di Imola",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-cassiano-di-imola/"
+        },
+        {
+            "nome": "Santa Dulce Lopes Pontes",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/santa-dulce-lopes-pontes/"
+        },
+        {
+            "nome": "San Giovanni Berchmans",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/san-giovanni-berchmans/"
+        },
+        {
+            "nome": "Santa Radegonda",
+            "qualifica": "Regina di Francia",
+            "url": "https://www.santodelgiorno.it/santa-radegonda/"
+        },
+        {
+            "nome": "San Massimo il Confessore",
+            "qualifica": "Teologo bizantino",
+            "url": "https://www.santodelgiorno.it/san-massimo-il-confessore/"
+        },
+        {
+            "nome": "San Vigberto",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-vigberto/"
+        },
+        {
+            "nome": "San Benildo Romancon",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/san-benildo-romancon/"
+        },
+        {
+            "nome": "Beata Gertrude di Altenberg",
+            "qualifica": "Badessa premostratense",
+            "url": "https://www.santodelgiorno.it/beata-gertrude-di-altenberg/"
+        },
+        {
+            "nome": "Beato Marco d'Aviano",
+            "qualifica": "Cappuccino",
+            "url": "https://www.santodelgiorno.it/beato-marco-d-aviano/"
+        },
+        {
+            "nome": "Beato Jakob Gapp",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-jakob-gapp/"
+        },
+        {
+            "nome": "Sant'Antioco di Lione",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Agramunt",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe (José) Bonet Nadal",
+            "qualifica": "Sacerdote salesiano e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo Freeman",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Modesto da Albocacer (Modesto Garcia Marti)",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Patrizio O'Healy e Conn O'Rourke",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Pietro Gabilhaud",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Secondino Maria Ortega Garcia e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ippolito e Cassiano",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/13/agosto/"
+}

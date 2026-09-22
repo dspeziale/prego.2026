@@ -1,0 +1,83 @@
+{
+    "data": "13-04",
+    "giorno": 13,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "13 aprile",
+    "principali": [
+        {
+            "nome": "San Martino I",
+            "qualifica": "Papa e martire",
+            "descrizione": "La vita di questo martire del dovere, che con ammirabile eroismo bevette fino all'ultima stilla il calice delle amarezze per la difesa della Chiesa, dovette certamente apparir grande ai suoi contemporanei...",
+            "url": "https://www.santodelgiorno.it/san-martino-primo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Ermenegildo",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-ermenegildo/"
+        },
+        {
+            "nome": "Santa Margherita da Città di Castello",
+            "qualifica": "Domenicana",
+            "url": "https://www.santodelgiorno.it/beata-margherita-da-citta-di-castello/"
+        },
+        {
+            "nome": "Beata Ida di Boulogne",
+            "qualifica": "Contessa",
+            "url": "https://www.santodelgiorno.it/beata-ida-di-boulogne/"
+        },
+        {
+            "nome": "Sant'Orso di Ravenna",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-orso-di-ravenna/"
+        },
+        {
+            "nome": "Beato Giovanni Bernardo Rousseau",
+            "qualifica": "Religioso lasalliano",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-bernardo-rousseau/"
+        },
+        {
+            "nome": "Santi Carpo, Papilo, Agatonica e compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-carpo-papilo-agatonica-e-compagni/"
+        },
+        {
+            "nome": "San Caradoco",
+            "qualifica": "Eremita nel Galles",
+            "url": "https://www.santodelgiorno.it/san-caradoco/"
+        },
+        {
+            "nome": "Sant'Albertino da Montone",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Beati Francesco Dickenson e Miles Gerard",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni Lockwood e Edoardo Catherick",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beata Ida di Lovanio",
+            "qualifica": "Monaca a Val-des-Roses",
+            "url": null
+        },
+        {
+            "nome": "San Sabas Reyes Salazar",
+            "qualifica": "Martire Messicano",
+            "url": null
+        },
+        {
+            "nome": "Maria Santissima di Gerusalemme",
+            "qualifica": "Appellativo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/13/aprile/"
+}

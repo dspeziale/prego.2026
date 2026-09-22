@@ -1,0 +1,88 @@
+{
+    "data": "17-08",
+    "giorno": 17,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "17 agosto",
+    "principali": [
+        {
+            "nome": "Santa Beatrice de Silva",
+            "qualifica": "Vergine",
+            "descrizione": "Beatrice de Silva Meneses, fu una santa portoghese, nacque a Cauta (Nord Africa) nel 1424 in una famiglia nobile. Sorella del beato Amedeo de Silva, Beatrice era imparentata con la famiglia reale portoghese...",
+            "url": "https://www.santodelgiorno.it/santa-beatrice-de-silva/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Giacinto Odrovaz",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/san-giacinto/"
+        },
+        {
+            "nome": "Santa Chiara da Montefalco",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-chiara-da-montefalco/"
+        },
+        {
+            "nome": "Sant'Eusebio",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/sant-eusebio/"
+        },
+        {
+            "nome": "Santa Giovanna della Croce",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-giovanna-della-croce/"
+        },
+        {
+            "nome": "San Mama di Cesarea di Cappadocia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-mama-di-cesarea-di-cappadocia/"
+        },
+        {
+            "nome": "Beato Alberto da Chiatina",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Donato (Donatello) da Ripacandida",
+            "qualifica": "",
+            "url": null
+        },
+        {
+            "nome": "Sant'Elia il Giovane (di Enna)",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Beato Enrico Canadell Quintana",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Gerone",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Giacomo Kyuhei Gorobioye Tomonaga e Michele Kurobioye",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Mirone di Cizico",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Natale Ilario Le Conte",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Nicola (Nicolò) Politi",
+            "qualifica": "Eremita in Sicilia",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/17/agosto/"
+}

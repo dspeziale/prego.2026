@@ -1,0 +1,63 @@
+{
+    "data": "07-12",
+    "giorno": 7,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "7 dicembre",
+    "principali": [
+        {
+            "nome": "Sant'Ambrogio",
+            "qualifica": "Vescovo e dottore della Chiesa",
+            "descrizione": "Di nobile famiglia romana, nacque a Treviri nelle Gallie ove suo padre era prefetto e a pochi mesi di vita uno sciame di api portò alla sua bocca del miele. Ancora giovane, per la sua grande prudenza...",
+            "url": "https://www.santodelgiorno.it/sant-ambrogio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Fara",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-fara/"
+        },
+        {
+            "nome": "Santa Maria Giuseppa Rossello",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-maria-giuseppa-rossello/"
+        },
+        {
+            "nome": "San Sabino di Spoleto",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-sabino-di-spoleto/"
+        },
+        {
+            "nome": "San Giovanni il Silenziario",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giovanni-il-silenziario/"
+        },
+        {
+            "nome": "San Carlo Garnier",
+            "qualifica": "Gesuita, martire in Canada",
+            "url": "https://www.santodelgiorno.it/san-carlo-garnier/"
+        },
+        {
+            "nome": "Sant'Atenodoro",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Serena di Spoleto",
+            "qualifica": "Vedova e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Urbano di Teano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Aurora Lopez Gonzalez",
+            "qualifica": "Religiosa e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/07/dicembre/"
+}

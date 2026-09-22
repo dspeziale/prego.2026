@@ -1,0 +1,63 @@
+{
+    "data": "06-01",
+    "giorno": 6,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "6 gennaio",
+    "principali": [
+        {
+            "nome": "Epifania del Signore",
+            "qualifica": "Adorazione dei Re Magi",
+            "descrizione": "Epifania vuol dire manifestazione. La Santa Chiesa istituì questa festa per commemorare la triplice manifestazione di Gesù: come Dio, facendosi adorare dai Magi; come uomo, ricevendo il Battesimo da San Giovanni; come operatore di miracoli, cambiando, alle nozze di Cana, l'acqua in vino.",
+            "url": "https://www.santodelgiorno.it/epifania-del-signore/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Raffaella Maria del Sacro Cuore",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-raffaella-maria-del-sacro-cuore/"
+        },
+        {
+            "nome": "Sant'Andrea Corsini",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-andrea-corsini/"
+        },
+        {
+            "nome": "San Carlo da Sezze",
+            "qualifica": "Frate laico francescano",
+            "url": "https://www.santodelgiorno.it/san-carlo-da-sezze/"
+        },
+        {
+            "nome": "Sant'Andrea Bessette",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/sant-andrea-bessette/"
+        },
+        {
+            "nome": "San Pier Tommaso",
+            "qualifica": "Patriarca latino di Costantinopoli",
+            "url": "https://www.santodelgiorno.it/san-pier-tommaso/"
+        },
+        {
+            "nome": "San Giovanni de Ribera",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giovanni-de-ribera/"
+        },
+        {
+            "nome": "Santi Giuliano e Basilissa",
+            "qualifica": "Martire in Tebaide",
+            "url": "https://www.santodelgiorno.it/santi-giuliano-e-basilissa/"
+        },
+        {
+            "nome": "San Felice di Nantes",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Macario lo Scozzese",
+            "qualifica": "Abate",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/06/gennaio/"
+}

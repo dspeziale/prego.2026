@@ -1,0 +1,103 @@
+{
+    "data": "03-03",
+    "giorno": 3,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "3 marzo",
+    "principali": [
+        {
+            "nome": "Santa Cunegonda",
+            "qualifica": "Imperatrice",
+            "descrizione": "Sigfrido e Adesvige furono i genitori di Santa Cunegonda e la educarono con grande cura nelle virtù cristiane e nella fede. Giovanissima fu data in sposa a Enrico, duca di Baviera, che dopo la morte...",
+            "url": "https://www.santodelgiorno.it/santa-cunegonda/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Tiziano di Brescia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-tiziano-di-brescia/"
+        },
+        {
+            "nome": "Beata Vergine Maria di Costantinopoli",
+            "qualifica": "L'iconografia bizantina",
+            "url": "https://www.santodelgiorno.it/madonna-di-costantinopoli/"
+        },
+        {
+            "nome": "Beato Innocenzo da Berzo",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-innocenzo-da-berzo/"
+        },
+        {
+            "nome": "Santa Teresa Eustochio Verzeri",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-teresa-eustochio-verzeri/"
+        },
+        {
+            "nome": "Santi Marino e Asterio",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-marino-e-asterio/"
+        },
+        {
+            "nome": "Santa Caterina Drexel",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-caterina-drexel/"
+        },
+        {
+            "nome": "Sant'Anselmo di Nonantola",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-anselmo-di-nonantola/"
+        },
+        {
+            "nome": "Beato Pietro Geremia",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-pietro-geremia/"
+        },
+        {
+            "nome": "Beato Giacomino di Canepacci",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-giacomino-di-canepacci/"
+        },
+        {
+            "nome": "Beato Liberato Weiss e compagni",
+            "qualifica": "Martiri francescani",
+            "url": "https://www.santodelgiorno.it/beato-liberato-weiss-e-compagni/"
+        },
+        {
+            "nome": "Beato Pietro Renato Rogue",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-pietro-renato-rogue/"
+        },
+        {
+            "nome": "San Vinvaleo",
+            "qualifica": "Abate di Landevennec",
+            "url": "https://www.santodelgiorno.it/san-vinvaleo/"
+        },
+        {
+            "nome": "Sant'Artellaide",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "Santa Camilla di Auxerre",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "Santi Cleonico ed Eutropio",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Emiterio e Cheledonio",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Federico di Hallum",
+            "qualifica": "Sacerdote",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/03/marzo/"
+}

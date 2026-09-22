@@ -1,0 +1,128 @@
+{
+    "data": "01-06",
+    "giorno": 1,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "1 giugno",
+    "principali": [
+        {
+            "nome": "San Giustino",
+            "qualifica": "Martire",
+            "descrizione": "San Giustino Martire, nato a Flavia Neapolis in Samaria (oggi Nablus), è riconosciuto come il più eminente degli Apologisti greci. Questa antica città, luogo di importanti eventi biblici...",
+            "url": "https://www.santodelgiorno.it/san-giustino/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Annibale Maria Di Francia",
+            "qualifica": "Sacerdote, Fondatore",
+            "url": "https://www.santodelgiorno.it/sant-annibale-maria-di-francia/"
+        },
+        {
+            "nome": "San Giovanni Battista Scalabrini",
+            "qualifica": "Vescovo, fondatore",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-battista-scalabrini/"
+        },
+        {
+            "nome": "San Procolo di Bologna",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-procolo-di-bologna/"
+        },
+        {
+            "nome": "San Teobaldo Roggeri",
+            "qualifica": "Umile servitore",
+            "url": "https://www.santodelgiorno.it/san-teobaldo-roggeri/"
+        },
+        {
+            "nome": "San Simeone di Siracusa",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-simeone-di-siracusa/"
+        },
+        {
+            "nome": "San Caprasio di Lérins",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-caprasio-di-lerins/"
+        },
+        {
+            "nome": "Beato Giovanni Storey",
+            "qualifica": "Laico coniugato, martire",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-storey/"
+        },
+        {
+            "nome": "Beato Giovanni Pelingotto",
+            "qualifica": "Terziario francescano",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-pelingotto/"
+        },
+        {
+            "nome": "San Vistano",
+            "qualifica": "Re di Mercia e martire",
+            "url": "https://www.santodelgiorno.it/san-vistano/"
+        },
+        {
+            "nome": "Sant'Enecone",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-enecone/"
+        },
+        {
+            "nome": "Beato Alfonso Navarrete",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Ammone, Zenone, Tolomeo, Ingene e Teofilo",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Caritone e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Ferdinando di S. Giuseppe",
+            "qualifica": "Martire in Giappone",
+            "url": null
+        },
+        {
+            "nome": "San Floro di Lodeve",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Fortunato di Spoleto",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Battista Vernoy de Montjournal",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Giuseppe Tuc",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Ischirione e 5 soldati",
+            "qualifica": "Martiri di Licopoli",
+            "url": null
+        },
+        {
+            "nome": "San Ronan (Ronano) di Quimper",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Crescentino",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Madonna Di Anzano",
+            "qualifica": "La statua in silice",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/01/giugno/"
+}

@@ -1,0 +1,73 @@
+{
+    "data": "17-05",
+    "giorno": 17,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "17 maggio",
+    "principali": [
+        {
+            "nome": "Ascensione di Gesù",
+            "qualifica": "Ascesa corporea di Gesù al cielo.",
+            "descrizione": "Gesù dopo la risurrezione, nei 40 giorni che rimase ancora in terra, confortò gli Apostoli e con diverse prove li convinse di essere veramente risuscitato. Li istruì intorno al regno...",
+            "url": "https://www.santodelgiorno.it/ascensione-di-gesu/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Pasquale Baylon",
+            "qualifica": "Religioso francescano",
+            "url": "https://www.santodelgiorno.it/san-pasquale-baylon/"
+        },
+        {
+            "nome": "Santa Giulia Salzano",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-giulia-salzano/"
+        },
+        {
+            "nome": "Beata Antonia Mesina",
+            "qualifica": "Martire della purezza",
+            "url": "https://www.santodelgiorno.it/beata-antonia-mesina/"
+        },
+        {
+            "nome": "Santa Restituta d'Africa",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-restituta-d-africa/"
+        },
+        {
+            "nome": "San Pietro Liu Wenyuan",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-pietro-liu-wenyuan/"
+        },
+        {
+            "nome": "Sant'Adrione",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Emiliano I di Vercelli",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Eraclio e Paolo",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni (Ivan) Ziatyk",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Restituta",
+            "qualifica": "Madre di S. Eusebio di Vercelli",
+            "url": null
+        },
+        {
+            "nome": "San Vittore",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/17/maggio/"
+}

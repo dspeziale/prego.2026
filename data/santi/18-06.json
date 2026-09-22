@@ -1,0 +1,68 @@
+{
+    "data": "18-06",
+    "giorno": 18,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "18 giugno",
+    "principali": [
+        {
+            "nome": "Santa Marina",
+            "qualifica": "Monaca",
+            "descrizione": "Secondo il Martirologio Romano,Santa Marina si festeggia il 18 giugno, e il 17 luglio si celebra la traslazione delle sue reliquie da Costantinopoli a Venezia, avvenuta nel 1231. Nella chiesa infatti si...",
+            "url": "https://www.santodelgiorno.it/santa-marina/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Calogero",
+            "qualifica": "Eremita in Sicilia",
+            "url": "https://www.santodelgiorno.it/san-calogero/"
+        },
+        {
+            "nome": "San Gregorio Giovanni Barbarigo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gregorio-giovanni-barbarico/"
+        },
+        {
+            "nome": "Santi Marco e Marcelliano",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-marco-e-marcelliano/"
+        },
+        {
+            "nome": "Beata Osanna Andreasi da Mantova",
+            "qualifica": "Vergine domenicana",
+            "url": "https://www.santodelgiorno.it/beata-osanna-andreasi-da-mantova/"
+        },
+        {
+            "nome": "Sant'Amando di Bordeaux",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-amando-di-bordeaux/"
+        },
+        {
+            "nome": "David Buggi",
+            "qualifica": "Giovane laico",
+            "url": "https://www.santodelgiorno.it/davide-buggi/"
+        },
+        {
+            "nome": "Santi Ciriaco e Paola",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santa Elisabetta di Schonau",
+            "qualifica": "Religiosa",
+            "url": null
+        },
+        {
+            "nome": "San Leonzio di Tripoli",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Marina di Spoleto",
+            "qualifica": "Agostiniana",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/18/giugno/"
+}

@@ -1,0 +1,78 @@
+{
+    "data": "28-06",
+    "giorno": 28,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "28 giugno",
+    "principali": [
+        {
+            "nome": "Sant'Ireneo di Lione",
+            "qualifica": "Vescovo e martire",
+            "descrizione": "Il nome di S. Ireneo è legato alla schiera numerosa di quegli eroi che col martirio illustrarono la Chiesa di Lione. Nato l'anno 121 nelle vicinanze di Smirne, ebbe per primo precettore l'illustre...",
+            "url": "https://www.santodelgiorno.it/sant-ireneo-di-lione/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Attilio",
+            "qualifica": "Soldato e martire",
+            "url": "https://www.santodelgiorno.it/sant-attilio/"
+        },
+        {
+            "nome": "San Paolo I",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-paolo-i/"
+        },
+        {
+            "nome": "Santi Martiri di Alessandria d'Egitto",
+            "qualifica": "Discepoli di Origene",
+            "url": "https://www.santodelgiorno.it/santi-martiri-di-alessandria-d-egitto/"
+        },
+        {
+            "nome": "San Giovanni Southworth",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-giovanni-southworth/"
+        },
+        {
+            "nome": "Beato Eimerado",
+            "qualifica": "Sacerdote eremita",
+            "url": "https://www.santodelgiorno.it/beato-eimerado/"
+        },
+        {
+            "nome": "Sant'Argimiro di Cordova",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Erlembaldo Cotta di Milano",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sante Lucia Wang Cheng, Maria Fan Kun, Maria Qi Yu e Maria Zheng Xu",
+            "qualifica": "Fanciulle cinesi, martiri",
+            "url": null
+        },
+        {
+            "nome": "Santa Maria Du Zhaozhi",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria Pia Mastena",
+            "qualifica": "Fondatrice",
+            "url": null
+        },
+        {
+            "nome": "Beati Severiano (Severijan) Baranyk e Gioacchino (Jakym) Senkivskyj",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "Santa Vincenza Gerosa",
+            "qualifica": "Vergine",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/28/giugno/"
+}

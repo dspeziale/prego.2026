@@ -1,0 +1,88 @@
+{
+    "data": "06-09",
+    "giorno": 6,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "6 settembre",
+    "principali": [
+        {
+            "nome": "San Zaccaria",
+            "qualifica": "Profeta",
+            "descrizione": "Zaccaria fu un profeta biblico penultimo dei profeti minori dell'Antico Testamento. Figlio di Barachia e nipote di Addo, era di stirpe sacerdotale. Il libro di Zaccaria si compone di due parti ben distinte...",
+            "url": "https://www.santodelgiorno.it/san-zaccaria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Eva",
+            "qualifica": "Martire venerata a Dreux",
+            "url": "https://www.santodelgiorno.it/sant-eva-di-dreux/"
+        },
+        {
+            "nome": "San Liberato da Loro Piceno",
+            "qualifica": "Frate",
+            "url": "https://www.santodelgiorno.it/san-liberato-da-loro-piceno/"
+        },
+        {
+            "nome": "San Magno di Fussen",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-magno-di-fussen/"
+        },
+        {
+            "nome": "Santi Donaziano, Presidio, Mansueto e compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-donaziano-presidio-mansueto-e-compagni/"
+        },
+        {
+            "nome": "Beato Bertrando da Garrigue",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-bertrando-da-garrigue/"
+        },
+        {
+            "nome": "Beato Michele Czartoryski",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-michele-czartoryski/"
+        },
+        {
+            "nome": "Beato Pasquale Torres Lloret",
+            "qualifica": "Padre di famiglia, martire",
+            "url": "https://www.santodelgiorno.it/beato-pasquale-torres-lloret/"
+        },
+        {
+            "nome": "Sant'Onesiforo",
+            "qualifica": "Discepolo di san Paolo, martire",
+            "url": "https://www.santodelgiorno.it/sant-onesiforo/"
+        },
+        {
+            "nome": "Beato Diego Llorca Llopis",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-diego-llorca-llopis/"
+        },
+        {
+            "nome": "Sant'Eleuterio di Spoleto",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-eleuterio-di-spoleto/"
+        },
+        {
+            "nome": "San Frontiniano",
+            "qualifica": "Diacono e martire",
+            "url": "https://www.santodelgiorno.it/san-frontiniano/"
+        },
+        {
+            "nome": "Santa Bega",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "San Cagnoaldo di Laon",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Madonna della Quercia",
+            "qualifica": "Appellativo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/06/settembre/"
+}

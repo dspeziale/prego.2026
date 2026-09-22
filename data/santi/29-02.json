@@ -1,0 +1,33 @@
+{
+    "data": "29-02",
+    "giorno": 29,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "29 febbraio",
+    "principali": [
+        {
+            "nome": "Sant'Augusto Chapdelaine",
+            "qualifica": "Martire in Cina",
+            "descrizione": "S. Augusto Chapdelaine nacque il 6 gennaio 1814 in Normandia da famiglia di agricoltori presso la quale rimase fino a 20 anni, quando entrò nel seminario di Coutances dove fu ordinato sacerdote nel 1843...",
+            "url": "https://www.santodelgiorno.it/sant-augusto-chapdelaine/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Antonia di Firenze",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ilaro",
+            "qualifica": "Papa",
+            "url": null
+        },
+        {
+            "nome": "Sant'Osvaldo di Worcester",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/29/febbraio/"
+}

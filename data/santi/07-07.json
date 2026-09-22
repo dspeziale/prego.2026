@@ -1,0 +1,108 @@
+{
+    "data": "07-07",
+    "giorno": 7,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "7 luglio",
+    "principali": [
+        {
+            "nome": "Beato Benedetto XI",
+            "qualifica": "Papa",
+            "descrizione": "Niccolò di Bocassio nacque probabilmente nel 1240 a Treviso da una famiglia assai modesta; ma lo zio, prete presso la chiesa di San Andrea della città natale, può aver influenzato...",
+            "url": "https://www.santodelgiorno.it/beato-benedetto-undicesimo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Pietro To Rot",
+            "qualifica": "Martire della Papuasia",
+            "url": "https://www.santodelgiorno.it/beato-pietro-to-rot/"
+        },
+        {
+            "nome": "Sant'Edda di Winchester",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-edda-di-winchester/"
+        },
+        {
+            "nome": "Beata Maria Romero Meneses",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-maria-romero-meneses/"
+        },
+        {
+            "nome": "San Panteno",
+            "qualifica": "Uomo di fede",
+            "url": "https://www.santodelgiorno.it/san-panteno/"
+        },
+        {
+            "nome": "San Villibaldo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-villibaldo/"
+        },
+        {
+            "nome": "Beato Oddino Barotti",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-oddino-barotti/"
+        },
+        {
+            "nome": "San Giuseppe Maria Gambaro",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-maria-gambaro/"
+        },
+        {
+            "nome": "Sant'Antonino Fantosati",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-antonino-fantosati/"
+        },
+        {
+            "nome": "San Marco Ji Tianxiang",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-marco-ji-tianxiang/"
+        },
+        {
+            "nome": "Sant'Apollonio di Brescia",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-apollonio-di-brescia/"
+        },
+        {
+            "nome": "Sant'Etelburga (Edilburga)",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Giuseppe Juge de Saint-Martin",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Ifigenia di S. Matteo (Francesca Maria Susanna) de Gaillard de la Valdène",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Mael Ruain",
+            "qualifica": "Vescovo e abate",
+            "url": null
+        },
+        {
+            "nome": "Santa Maria Guo Lizhi",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Oddone di Urgel",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beati Ruggero Dickinson, Rodolfo Milner e Lorenzo Humphrey",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Claudio da Ostia",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/07/luglio/"
+}

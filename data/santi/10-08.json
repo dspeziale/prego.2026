@@ -1,0 +1,73 @@
+{
+    "data": "10-08",
+    "giorno": 10,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "10 agosto",
+    "principali": [
+        {
+            "nome": "San Lorenzo",
+            "qualifica": "Diacono e martire",
+            "descrizione": "Nacque ad Osca in Spagna nel 226 da nobilissimi e santi genitori. Tanti furono i doni che ricevette nei Sacramenti del Battesimo, Cresima ed Eucaristia, che sembrò prevenuto dalla grazia; mentre...",
+            "url": "https://www.santodelgiorno.it/san-lorenzo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Arcangelo Piacentini da Calatafimi",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-arcangelo-piacentini-da-calatafimi/"
+        },
+        {
+            "nome": "Beato Edoardo (Edward) Grzymala",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-edoardo-edward-grzymala/"
+        },
+        {
+            "nome": "Beato Agostino Ota",
+            "qualifica": "Martire del Giappone",
+            "url": "https://www.santodelgiorno.it/beato-agostino-ota/"
+        },
+        {
+            "nome": "San Blano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco Drzewiecki",
+            "qualifica": "Sacerdote orionino, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco Francois (Sebastiano da Nancy)",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni Martorell Soria e Pietro Mesonero Rodriguez",
+            "qualifica": "Salesiani, martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Toledo Pellicer",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri Alessandrini",
+            "qualifica": "Cristiani",
+            "url": null
+        },
+        {
+            "nome": "Beati Claudio Giuseppe Jouffret de Bonnefont e Lazzaro Tiersot",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Felice e Policarpo",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/10/agosto/"
+}

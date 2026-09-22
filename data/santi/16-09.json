@@ -1,0 +1,118 @@
+{
+    "data": "16-09",
+    "giorno": 16,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "16 settembre",
+    "principali": [
+        {
+            "nome": "Santi Cipriano e Cornelio",
+            "qualifica": "Martiri",
+            "descrizione": "Cipriano di Cartagine era un famoso retore che si convertì al cristianesimo verso il 246. La sua posizione intellettuale e sociale favorì la sua ordinazione come sacerdote e vescovo",
+            "url": "https://www.santodelgiorno.it/santi-cipriano-vescovo-e-cornelio-papa/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Eufemia di Calcedonia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-eufemia-di-calcedonia/"
+        },
+        {
+            "nome": "Santa Ludmilla",
+            "qualifica": "Martire boema",
+            "url": "https://www.santodelgiorno.it/santa-ludmilla/"
+        },
+        {
+            "nome": "Santi Abbondio e compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-abbondio-e-compagni/"
+        },
+        {
+            "nome": "San Giovanni Macias",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/san-giovanni-macias/"
+        },
+        {
+            "nome": "Santa Edith di Wilton",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-edith-di-wilton/"
+        },
+        {
+            "nome": "Beato Vittore III",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/beato-vittore-iii/"
+        },
+        {
+            "nome": "San Vitale di Savigny",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-vitale-di-savigny/"
+        },
+        {
+            "nome": "San Niniano",
+            "qualifica": "Vescovo, apostolo della Scozia",
+            "url": "https://www.santodelgiorno.it/san-niniano/"
+        },
+        {
+            "nome": "Beato Luigi d'Aleman",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-luigi-d-aleman/"
+        },
+        {
+            "nome": "Santa Dolcissima",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-dolcissima/"
+        },
+        {
+            "nome": "Sant'Andrea Kim Taegon",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/sant-andrea-kim-taegon/"
+        },
+        {
+            "nome": "Beato Ignazio Casanovas",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-ignazio-casanovas/"
+        },
+        {
+            "nome": "Santa Eufemia di Orense",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-eufemia-di-orense/"
+        },
+        {
+            "nome": "Sant'Abbondanzio",
+            "qualifica": "Diacono e martire",
+            "url": "https://www.santodelgiorno.it/sant-abbondanzio/"
+        },
+        {
+            "nome": "San Prisco di Nocera",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-prisco-di-nocera/"
+        },
+        {
+            "nome": "Beati Domenico Shobioye, Michele Timonoya e Paolo Timonoya",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Laureano (Salvatore) Ferrer Cardet, sacerdote, Benedetto (Emanuele) Ferrer Jordá e Bernardino",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Martino",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Santi Rogelio e Serviodeo di Cordova",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Vittore, Felice, Alessandro e Papia",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/16/settembre/"
+}

@@ -1,0 +1,88 @@
+{
+    "data": "09-04",
+    "giorno": 9,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "9 aprile",
+    "principali": [
+        {
+            "nome": "San Demetrio di Tessalonica",
+            "qualifica": "Martire",
+            "descrizione": "Chiamato dai Greci \"Megalomartire\", San Demetrio è il più famoso dei soldati martirizzati d'Oriente dopo San Giorgio. La sua carriera militare sembra essere una leggenda. Si dice che avesse...",
+            "url": "https://www.santodelgiorno.it/san-demetrio-di-tassalonica/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Massimo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-massimo/"
+        },
+        {
+            "nome": "Santa Mariam Thresia Chiramel Mankidyan",
+            "qualifica": "Religiosa e Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-mariam-thresia-mankidyan/"
+        },
+        {
+            "nome": "Santa Casilda di Toledo",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-casilda-di-toledo/"
+        },
+        {
+            "nome": "Beato Tommaso da Tolentino",
+            "qualifica": "Missionario francescano",
+            "url": "https://www.santodelgiorno.it/beato-tommaso-da-tolentino/"
+        },
+        {
+            "nome": "Beato Ubaldo da San Sepolcro",
+            "qualifica": "Frate Servita",
+            "url": "https://www.santodelgiorno.it/beato-ubaldo-da-san-sepolcro/"
+        },
+        {
+            "nome": "Beato Antonio Pavoni",
+            "qualifica": "Martire, domenicano",
+            "url": "https://www.santodelgiorno.it/beato-antonio-pavoni/"
+        },
+        {
+            "nome": "Santa Valdetrude",
+            "qualifica": "Sposa, monaca",
+            "url": "https://www.santodelgiorno.it/santa-valdetrude/"
+        },
+        {
+            "nome": "Sant'Edesio",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-edesio/"
+        },
+        {
+            "nome": "San Gaucherio di Aureil",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-gaucherio-di-aureil/"
+        },
+        {
+            "nome": "Sant'Acacio di Amida",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beata Caterina Celestina (Katarzyna Celestyna) Faron",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eupsichio di Cesarea di Cappadocia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Liborio",
+            "qualifica": "Vescovo di Le Mans",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ugo di Rouen",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/09/aprile/"
+}

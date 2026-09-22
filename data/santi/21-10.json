@@ -1,0 +1,98 @@
+{
+    "data": "21-10",
+    "giorno": 21,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "21 ottobre",
+    "principali": [
+        {
+            "nome": "Beato Giuseppe Puglisi",
+            "qualifica": "Presbitero",
+            "descrizione": "Don Giuseppe Puglisi nacque a Brancaccio un quartiere di Palermo il 15 settembre 1937 da Carmelo, calzolaio, e Giuseppa Fana, sarta. Entrò nel seminario diocesano di Palermo nel 1953 e venne ordinato...",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-puglisi/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Orsola e compagne",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/sant-orsola-e-compagne/"
+        },
+        {
+            "nome": "Santa Letizia",
+            "qualifica": "Vergine e Martire",
+            "url": "https://www.santodelgiorno.it/santa-letizia/"
+        },
+        {
+            "nome": "San Gaspare Del Bufalo",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-gaspare-del-bufalo/"
+        },
+        {
+            "nome": "Santa Laura di Santa Caterina da Siena",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-laura-di-santa-caterina-da-siena/"
+        },
+        {
+            "nome": "Sant'Ilarione di Gaza",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-ilarione-di-gaza/"
+        },
+        {
+            "nome": "San Malco",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-malco-eremita/"
+        },
+        {
+            "nome": "Beato Pietro Capucci",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-pietro-capucci/"
+        },
+        {
+            "nome": "Santa Celina",
+            "qualifica": "Madre di S. Remigio",
+            "url": null
+        },
+        {
+            "nome": "Santa Celina di Meaux",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "San Dasio, Zotico e Caio (Gaio)",
+            "qualifica": "Martiri a Nicomedia",
+            "url": null
+        },
+        {
+            "nome": "San Mauronto di Marsiglia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Yu Tae-ch'ol",
+            "qualifica": "Giovane martire",
+            "url": null
+        },
+        {
+            "nome": "San Severino di Bordeaux",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Vendelino",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Viatore di Lione",
+            "qualifica": "Monaco in Egitto",
+            "url": null
+        },
+        {
+            "nome": "Madre della Santa Speranza",
+            "qualifica": "Salvezza e speranza dei fedeli",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/21/ottobre/"
+}

@@ -1,0 +1,83 @@
+{
+    "data": "06-08",
+    "giorno": 6,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "6 agosto",
+    "principali": [
+        {
+            "nome": "Trasfigurazione del Signore",
+            "qualifica": "Gesù rivela ai tre discepoli diletti il Corpo del Vero Uomo",
+            "descrizione": "Il Divin Redentore Gesù aveva già predicato per due anni il Vangelo dell'amore per tutta la Palestina, e si era già scelti i dodici Apostoli, ma la Buona Novella non era ancora stata...",
+            "url": "https://www.santodelgiorno.it/trasfigurazione-del-signore/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Maria Francesca di Gesù",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-maria-francesca-di-gesu/"
+        },
+        {
+            "nome": "Santi Giusto e Pastore",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-giusto-e-pastore/"
+        },
+        {
+            "nome": "Sant'Ormisda",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/sant-ormisda/"
+        },
+        {
+            "nome": "Volto Santo di Manoppello",
+            "qualifica": "Raffigurazione del Volto di Gesù",
+            "url": "https://www.santodelgiorno.it/volto-santo-di-manoppello/"
+        },
+        {
+            "nome": "Beato Carlo Lopez Vidal",
+            "qualifica": "Laico coniugato, martire",
+            "url": "https://www.santodelgiorno.it/beato-carlo-lopez-vidal/"
+        },
+        {
+            "nome": "Beato Matteo da Bascio",
+            "qualifica": "Riformatore dei Cappuccini",
+            "url": "https://www.santodelgiorno.it/beato-matteo-da-bascio/"
+        },
+        {
+            "nome": "Sant'Innocenzo",
+            "qualifica": "Diacono e martire",
+            "url": "https://www.santodelgiorno.it/sant-innocenzo/"
+        },
+        {
+            "nome": "Beato Gezzelino",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/beato-gezzelino/"
+        },
+        {
+            "nome": "Beato Taddeo Dulny",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-taddeo-dulny/"
+        },
+        {
+            "nome": "Beato Ottaviano di Savona",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-ottaviano-di-savona/"
+        },
+        {
+            "nome": "San Goderanno",
+            "qualifica": "Abate e vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo di Altavilla",
+            "qualifica": "Mercedario",
+            "url": null
+        },
+        {
+            "nome": "San Guglielmo Sanz",
+            "qualifica": "Martire mercedario",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/06/agosto/"
+}

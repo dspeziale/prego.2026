@@ -1,0 +1,68 @@
+{
+    "data": "10-11",
+    "giorno": 10,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "10 novembre",
+    "principali": [
+        {
+            "nome": "San Leone Magno",
+            "qualifica": "Papa e dottore della Chiesa",
+            "descrizione": "San Leone visse nella prima metà del fortunoso secolo V, che vide il dissolvimento e lo sfacelo finale dell'Impero dei Cesari, e gli effetti meravigliosi del Pontificato cattolico, che trasform&ograve...",
+            "url": "https://www.santodelgiorno.it/san-leone-primo-detto-magno/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Andrea Avellino",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/sant-andrea-avellino/"
+        },
+        {
+            "nome": "Santa Ninfa",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-ninfa/"
+        },
+        {
+            "nome": "Sant'Oreste di Tiana in Cappadocia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-oreste-di-tiana-in-cappadocia/"
+        },
+        {
+            "nome": "San Baudolino di Alessandria",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-baudolino-di-alessandria/"
+        },
+        {
+            "nome": "San Giusto di Canterbury",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giusto-di-canterbury/"
+        },
+        {
+            "nome": "San Demetriano di Antiochia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-demetriano-di-antiochia/"
+        },
+        {
+            "nome": "San Trifone",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-trifone/"
+        },
+        {
+            "nome": "Beato Acisclo (Joaquin) Pina Piazuelo",
+            "qualifica": "Religioso e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Narsete e Giuseppe",
+            "qualifica": "Martiri in Persia",
+            "url": null
+        },
+        {
+            "nome": "San Probo di Ravenna",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/10/novembre/"
+}

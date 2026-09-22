@@ -1,0 +1,83 @@
+{
+    "data": "12-11",
+    "giorno": 12,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "12 novembre",
+    "principali": [
+        {
+            "nome": "San Giosafat Kuncewycz",
+            "qualifica": "Vescovo e martire",
+            "descrizione": "Il divin Maestro disse che il buon pastore dà la vita per le sue pecorelle: e noi oggi ne vediamo un'illustre conferma in S. Giosafatte, vescovo di Polvez e martire. Nato a Vladimir in Polonia dalla...",
+            "url": "https://www.santodelgiorno.it/san-giosafat-kuncewycz/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Renato di Angers",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-renato/"
+        },
+        {
+            "nome": "San Diego di Alcalà",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/san-diego-di-alcala/"
+        },
+        {
+            "nome": "Santi Benedetto, Giovanni, Matteo, Isacco e Cristiano",
+            "qualifica": "Monaci, protomartiri della Polonia",
+            "url": "https://www.santodelgiorno.it/santi-benedetto-giovanni-matteo-isacco-e-cristiano/"
+        },
+        {
+            "nome": "Sant'Emiliano della Cogolla",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/sant-emiliano-della-cogolla/"
+        },
+        {
+            "nome": "San Nilo il Sinaita",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/san-nilo-il-sinaita/"
+        },
+        {
+            "nome": "Beato Giovanni della Pace",
+            "qualifica": "Eremita, fondatore",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-della-pace/"
+        },
+        {
+            "nome": "Madonna della Provvidenza",
+            "qualifica": "Titolo",
+            "url": "https://www.santodelgiorno.it/madonna-della-provvidenza/"
+        },
+        {
+            "nome": "San Cuniberto di Colonia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-cuniberto-di-colonia/"
+        },
+        {
+            "nome": "San Lebuino",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-lebuino/"
+        },
+        {
+            "nome": "San Machar di Aberdeen",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-machar-di-aberdeen/"
+        },
+        {
+            "nome": "Sant'Esichio di Vienne",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Raimondo Medes Ferris",
+            "qualifica": "Laico coniugato, martire",
+            "url": null
+        },
+        {
+            "nome": "San Margarito Flores Garcia",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/12/novembre/"
+}

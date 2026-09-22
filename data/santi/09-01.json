@@ -1,0 +1,68 @@
+{
+    "data": "09-01",
+    "giorno": 9,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "9 gennaio",
+    "principali": [
+        {
+            "nome": "San Marcellino di Ancona",
+            "qualifica": "Vescovo",
+            "descrizione": "Marcellino visse nel VI secolo, nacque da famiglia Boccamajore, fu il sesto vescovo di Ancona, tra il 550 ed il 568, anno della morte. Marcellino era considerato «uomo santo e pieno di zelo per la santificazione...",
+            "url": "https://www.santodelgiorno.it/san-marcellino-di-ancona/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Maria Teresa di Gesù Le Clerc",
+            "qualifica": "Cofondatrice",
+            "url": "https://www.santodelgiorno.it/maria-teresa-di-gesu-le-clerc/"
+        },
+        {
+            "nome": "Sant'Adriano di Canterbury",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-adriano-di-canterbury/"
+        },
+        {
+            "nome": "Beata Giulia Della Rena da Certaldo",
+            "qualifica": "Terziaria dell'Ordine di San Agostino",
+            "url": "https://www.santodelgiorno.it/beata-giulia-della-rena-da-certaldo/"
+        },
+        {
+            "nome": "Sant'Eustrazio",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-eustrazio/"
+        },
+        {
+            "nome": "Beato Antonio Fatati",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-antonio-fatati/"
+        },
+        {
+            "nome": "San Fillano",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-fillano-abate/"
+        },
+        {
+            "nome": "Santi Giuliano e Basilissa",
+            "qualifica": "Martire in Tebaide",
+            "url": "https://www.santodelgiorno.it/santi-giuliano-e-basilissa/"
+        },
+        {
+            "nome": "Sante Agata Yi e Teresa Kim",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Giuseppe Pawlowski e Casimiro Grelewski",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Onorato di Buzançais",
+            "qualifica": "Benefattore",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/09/gennaio/"
+}

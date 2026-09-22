@@ -1,0 +1,88 @@
+{
+    "data": "27-02",
+    "giorno": 27,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "27 febbraio",
+    "principali": [
+        {
+            "nome": "San Gabriele dell'Addolorata",
+            "qualifica": "Religioso passionista",
+            "descrizione": "Francesco Possenti nacque ad Assisi il 1° marzo 1838 da nobile famiglia. Ricevette dai genitori una solida educazione cristiana, che fu il germe della sua vocazione religiosa. Da giovane fu elegante...",
+            "url": "https://www.santodelgiorno.it/san-gabriele-dell-addolorata/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Leandro di Siviglia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-leonardo-di-siviglia/"
+        },
+        {
+            "nome": "San Gregorio di Narek",
+            "qualifica": "Dottore della Chiesa armena",
+            "url": "https://www.santodelgiorno.it/san-gregorio-di-narek/"
+        },
+        {
+            "nome": "Beata Maria di Gesù Deluil-Martiny",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-maria-deluil-martiny/"
+        },
+        {
+            "nome": "San Giuliano di Alessandria",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-giuliano-di-alessandria/"
+        },
+        {
+            "nome": "Sant'Anna Line",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-anna-line/"
+        },
+        {
+            "nome": "beata Maria Carità dello Spirito Santo Brader",
+            "qualifica": "Religiosa, fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-carita-dello-spirito-santo-brader/"
+        },
+        {
+            "nome": "San Baldomero",
+            "qualifica": "Suddiacono, monaco",
+            "url": "https://www.santodelgiorno.it/san-baldomero/"
+        },
+        {
+            "nome": "Santi Basilio e Procopio",
+            "qualifica": "Monaci",
+            "url": null
+        },
+        {
+            "nome": "San Besas",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Euno (Cronione) di Alessandria",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Francesca Anna della Vergine Addolorata (Francisca Maria Cirer y Carbonell)",
+            "qualifica": "Fondatrice",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo Richardson",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Luca di Messina",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Sant'Onorina",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/27/febbraio/"
+}

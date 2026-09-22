@@ -1,0 +1,113 @@
+{
+    "data": "28-09",
+    "giorno": 28,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "28 settembre",
+    "principali": [
+        {
+            "nome": "San Venceslao",
+            "qualifica": "Martire",
+            "descrizione": "S. Venceslao, re di Boemia, era figlio di Uratislao e di Drahomira e nipote di Boivoro, primo duca cristiano di Boemia e della beata Ludmilla. Suo padre Uratislao era un principe virtuoso, valoroso e benigno...",
+            "url": "https://www.santodelgiorno.it/san-venceslao/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Maria che scioglie i nodi",
+            "qualifica": "Risolutrice delle avversità",
+            "url": "https://www.santodelgiorno.it/maria-che-scioglie-i-nodi/"
+        },
+        {
+            "nome": "Santi Lorenzo Ruiz di Manila e 15 compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-lorenzo-ruiz-di-manila-e-15-compagni/"
+        },
+        {
+            "nome": "Beato Bernardino da Feltre",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-bernardino-da-feltre/"
+        },
+        {
+            "nome": "Santa Eustochio",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/sant-eustochio/"
+        },
+        {
+            "nome": "San Simon de Rojas",
+            "qualifica": "Religioso Trinitario",
+            "url": "https://www.santodelgiorno.it/san-simon-de-rojas/"
+        },
+        {
+            "nome": "San Fausto di Riez",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-fausto-di-riez/"
+        },
+        {
+            "nome": "Santa Lioba",
+            "qualifica": "Venerata a Fulda",
+            "url": "https://www.santodelgiorno.it/santa-lioba/"
+        },
+        {
+            "nome": "Sant'Essuperio di Tolosa",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-essuperio-di-tolosa/"
+        },
+        {
+            "nome": "Sant'Annemondo",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-annemondo/"
+        },
+        {
+            "nome": "Santi Alfio, Zosimo e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beata Amalia Abad Casasempere",
+            "qualifica": "Madre di famiglia, martire",
+            "url": null
+        },
+        {
+            "nome": "San Caritone",
+            "qualifica": "Abate in Palestina",
+            "url": null
+        },
+        {
+            "nome": "Santi Cunialdo e Gisilario",
+            "qualifica": "Sacerdoti",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco Saverio Ponsa Casallarch",
+            "qualifica": "Religioso e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni Shozaburo e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Tarrats Comaposada",
+            "qualifica": "Religioso gesuita, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Niceta (Mykyta) Budka",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Salonio di Ginevra",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Zama",
+            "qualifica": "Protovescovo di Bologna",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/28/settembre/"
+}

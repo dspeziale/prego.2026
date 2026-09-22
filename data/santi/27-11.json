@@ -1,0 +1,98 @@
+{
+    "data": "27-11",
+    "giorno": 27,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "27 novembre",
+    "principali": [
+        {
+            "nome": "Beata Vergine della Medaglia Miracolosa",
+            "qualifica": "Apparizione",
+            "descrizione": "La Madonna apparve a Santa Caterina Labourè a Parigi nel 1830 suggerendole di far coniare una moneta che avrebbe dato grandi grazie ai suoi portatori.",
+            "url": "https://www.santodelgiorno.it/beata-vergine-della-medaglia-miracolosa/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Massimo di Riez",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-massimo-di-riez/"
+        },
+        {
+            "nome": "San Virgilio di Salisburgo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-virgilio-di-salisburgo/"
+        },
+        {
+            "nome": "San Giacomo l'Interciso",
+            "qualifica": "Martire in Persia",
+            "url": "https://www.santodelgiorno.it/san-giacomo-l-interciso/"
+        },
+        {
+            "nome": "San Valeriano di Aquileia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-valeriano-di-aquileia/"
+        },
+        {
+            "nome": "Santi Facondo e Primitivo",
+            "qualifica": "Martiri in Galizia",
+            "url": "https://www.santodelgiorno.it/santi-facondo-e-primitivo/"
+        },
+        {
+            "nome": "Beato Bernardino da Fossa",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-bernardino-da-fossa/"
+        },
+        {
+            "nome": "Santa Bililde",
+            "qualifica": "Duchessa",
+            "url": "https://www.santodelgiorno.it/santa-bililde/"
+        },
+        {
+            "nome": "San Fergus il Pitto",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-fergus-il-pitto/"
+        },
+        {
+            "nome": "Sant'Eusicio",
+            "qualifica": "Eremita a Celles",
+            "url": "https://www.santodelgiorno.it/sant-eusicio/"
+        },
+        {
+            "nome": "Sant'Acario di Noyon e Tournai",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Bronislao (Bronislaw) Kostkowski",
+            "qualifica": "Seminarista e martire",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Vincenzo",
+            "qualifica": "Vescovo ed eremita",
+            "url": null
+        },
+        {
+            "nome": "San Gustavo (Gustano. Guistano)",
+            "qualifica": "Monaco benedettino",
+            "url": null
+        },
+        {
+            "nome": "San Laverio",
+            "qualifica": "Martire a Grumento",
+            "url": null
+        },
+        {
+            "nome": "San Siffredo di Carpentras",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beati Tommaso Koteda Kiuni e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/27/novembre/"
+}

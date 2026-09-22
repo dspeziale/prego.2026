@@ -1,0 +1,78 @@
+{
+    "data": "25-04",
+    "giorno": 25,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "25 aprile",
+    "principali": [
+        {
+            "nome": "San Marco",
+            "qualifica": "Evangelista",
+            "descrizione": "S. Marco fu eletto da Dio ad essere il portavoce dello Spirito Santo, scrivendo la vita e la dottrina di N. S. Gesù Cristo nel Vangelo che porta il suo nome. Nacque a Cirene ed era cugino di S...",
+            "url": "https://www.santodelgiorno.it/san-marco/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Franca di Piacenza",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-franca-di-piacenza/"
+        },
+        {
+            "nome": "San Pietro di Betancur",
+            "qualifica": "Fondatore in Guatemala",
+            "url": "https://www.santodelgiorno.it/san-pietro-di-betancur/"
+        },
+        {
+            "nome": "Sant'Aniano",
+            "qualifica": "Vescovo d'Alessandria d'Egitto",
+            "url": null
+        },
+        {
+            "nome": "Beato Bonifacio di Valperga",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Clarenzio di Vienne",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Erminio di Lobbes",
+            "qualifica": "Vescovo e abate",
+            "url": null
+        },
+        {
+            "nome": "San Febadio di Agen",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Piamarta",
+            "qualifica": "Sacerdote e fondatore",
+            "url": null
+        },
+        {
+            "nome": "San Pasicrate e Valenzio",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Roberto Anderton e Guglielmo Marsden",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santo Stefano di Antiochia",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Madonna delle vigne",
+            "qualifica": "Liberazione dei vigneti dalla piaga dei bruchi",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/25/aprile/"
+}

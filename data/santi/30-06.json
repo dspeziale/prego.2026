@@ -1,0 +1,88 @@
+{
+    "data": "30-06",
+    "giorno": 30,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "30 giugno",
+    "principali": [
+        {
+            "nome": "Santi Primi martiri della santa Chiesa di Roma",
+            "qualifica": "Martiri",
+            "descrizione": "Santi Primi martiri della santa Chiesa i protomartiri della Chiesa di Roma, barbaramente uccisi durante la persecuzione di Nerone",
+            "url": "https://www.santodelgiorno.it/santi-primi-martiri-santa-chiesa-di-roma/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Ottone di Bamberga",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-ottone-di-bomberga/"
+        },
+        {
+            "nome": "San Marziale di Limoges",
+            "qualifica": "Vescovo e confessore",
+            "url": "https://www.santodelgiorno.it/san-marziale-di-limoges/"
+        },
+        {
+            "nome": "Beato Gennaro Maria Sarnelli",
+            "qualifica": "Redentorista",
+            "url": "https://www.santodelgiorno.it/beato-gennaro-maria-sarnelli/"
+        },
+        {
+            "nome": "Sant'Adolfo di Osnabruck",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-adolfo-di-osnabruck/"
+        },
+        {
+            "nome": "San Teobaldo di Provins",
+            "qualifica": "Sacerdote ed eremita",
+            "url": "https://www.santodelgiorno.it/san-teobaldo-di-provins/"
+        },
+        {
+            "nome": "Beato Filippo Powell",
+            "qualifica": "Sacerdote benedettino, martire",
+            "url": "https://www.santodelgiorno.it/beato-filippo-powell/"
+        },
+        {
+            "nome": "San Berticranno",
+            "qualifica": "Vescovo di Le Mans",
+            "url": "https://www.santodelgiorno.it/san-berticranno/"
+        },
+        {
+            "nome": "San Basilide di Alessandria",
+            "qualifica": "Soldato e martire",
+            "url": "https://www.santodelgiorno.it/san-basilide-di-alessandria/"
+        },
+        {
+            "nome": "Beato Basilio (Vasyl) Velyckovskyj",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Erentrude",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "San Ladislao",
+            "qualifica": "Re d'Ungheria",
+            "url": null
+        },
+        {
+            "nome": "Santi Raimondo Li Quanzhen e Pietro Li Quanhui",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Yen (Do-Yen) (Vincenzo)",
+            "qualifica": "Martire nel Tonchino",
+            "url": null
+        },
+        {
+            "nome": "Beato Zenone (Zynovij) Kovalyk",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/30/giugno/"
+}

@@ -1,0 +1,78 @@
+{
+    "data": "01-03",
+    "giorno": 1,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "1 marzo",
+    "principali": [
+        {
+            "nome": "Sant'Albino di Angers",
+            "qualifica": "Vescovo",
+            "descrizione": "Vescovo, santo vissuto tra il quinto e sesto secolo. Nato da una famiglia nobile, Albino diventò monaco in località Tincillac, situata probabilmente nella diocesi di Angers, dato che nel 529 fu eletto...",
+            "url": "https://www.santodelgiorno.it/sant-albino-di-angers/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San David di Menevia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-davide-del-galles/"
+        },
+        {
+            "nome": "Beata Giovanna Maria Bonomo",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-giovanna-maria-bonomo/"
+        },
+        {
+            "nome": "San Felice III",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-felice-iii/"
+        },
+        {
+            "nome": "San Leone Luca di Corleone",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-leone-luca-di-corleone/"
+        },
+        {
+            "nome": "Beato Cristoforo da Milano",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-cristoforo-da-milano/"
+        },
+        {
+            "nome": "San Suitberto di Kaiserswerth",
+            "qualifica": "",
+            "url": "https://www.santodelgiorno.it/san-suitberto-di-kaiserswerth/"
+        },
+        {
+            "nome": "San Leone di Bayonne",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-leone-di-bayonne/"
+        },
+        {
+            "nome": "San Rudesindo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-rudesindo/"
+        },
+        {
+            "nome": "San Agnese Cao Kuiying",
+            "qualifica": "Vedova, martire",
+            "url": null
+        },
+        {
+            "nome": "San Silvio e compagni",
+            "qualifica": "Martiri venerati ad Anversa",
+            "url": null
+        },
+        {
+            "nome": "San Siviardo",
+            "qualifica": "Abate di Anille",
+            "url": null
+        },
+        {
+            "nome": "Beato Bertrando di Fontaniva",
+            "qualifica": "Pellegrino",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/01/marzo/"
+}

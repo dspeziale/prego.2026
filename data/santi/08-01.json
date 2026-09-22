@@ -1,0 +1,93 @@
+{
+    "data": "08-01",
+    "giorno": 8,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "8 gennaio",
+    "principali": [
+        {
+            "nome": "San Massimo di Pavia",
+            "qualifica": "Vescovo",
+            "descrizione": "Massimo, Vescovo di Pavia (morto a Pavia nel 514), Patrono di Valenza. A Pavia si ricordano due vescovi di nome Massimo, ma in realtà si tratta di un'unica persona che successe al Vescovo Epifanio...",
+            "url": "https://www.santodelgiorno.it/san-massimo-di-pavia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Severino",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-severino/"
+        },
+        {
+            "nome": "San Lorenzo Giustiniani",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-lorenzo-giustiniani/"
+        },
+        {
+            "nome": "Santa Gudula",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-gudula/"
+        },
+        {
+            "nome": "San Giorgio il Chozibita",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-giorgio-il-chozibita/"
+        },
+        {
+            "nome": "Sant'Apollinare di Gerapoli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-apollinare-di-gerapoli/"
+        },
+        {
+            "nome": "Sant'Alberto di Cashel",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-alberto-di-cashel/"
+        },
+        {
+            "nome": "Sant'Erardo di Ratisbona",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-erardo-di-ratisbona/"
+        },
+        {
+            "nome": "San Nathalan",
+            "qualifica": "Vescovo dell'Aberdeen-Shire",
+            "url": "https://www.santodelgiorno.it/san-nathalan/"
+        },
+        {
+            "nome": "San Luciano di Beauvais",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-luciano-di-beauvais/"
+        },
+        {
+            "nome": "Beato Edoardo Waterson",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Luciano, Massimiano e Giuliano",
+            "qualifica": "Martiri di Beauvais",
+            "url": null
+        },
+        {
+            "nome": "San Paziente di Metz",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Teofilo ed Elladio",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santissima Pietà",
+            "qualifica": "Apparizione",
+            "url": null
+        },
+        {
+            "nome": "San Giuliano",
+            "qualifica": "Martire di Beauvais",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/08/gennaio/"
+}

@@ -1,0 +1,88 @@
+{
+    "data": "26-04",
+    "giorno": 26,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "26 aprile",
+    "principali": [
+        {
+            "nome": "Madonna del Buon Consiglio",
+            "qualifica": "Miracolo",
+            "descrizione": "Uno dei nomi con cui è conosciuta la Madre di Dio e alla quale i fedeli si rivolgono è la Madonna (o Madre) del Buon Consiglio. Il Consiglio a cui ci si riferisce è il Cristo, il “Consigliere...",
+            "url": "https://www.santodelgiorno.it/madonna-del-buon-consiglio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Cleto",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-cleto/"
+        },
+        {
+            "nome": "San Pascasio Radberto",
+            "qualifica": "Abate di Corbie",
+            "url": "https://www.santodelgiorno.it/san-pascasio-radberto/"
+        },
+        {
+            "nome": "Santo Stefano di Perm",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/santo-stefano-di-perm/"
+        },
+        {
+            "nome": "San Ricario di Celles",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-ricario-di-celles/"
+        },
+        {
+            "nome": "San Basileo di Amasea",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beati Domenico e Gregorio",
+            "qualifica": "Domenicani",
+            "url": null
+        },
+        {
+            "nome": "Beato Giulio (Julio) Junyer Padern",
+            "qualifica": "Sacerdote salesiano e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Guglielmo e Pellegrino",
+            "qualifica": "Eremiti",
+            "url": null
+        },
+        {
+            "nome": "Beato Ladislao (Wladyslaw) Goral",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Marcellino",
+            "qualifica": "Papa",
+            "url": null
+        },
+        {
+            "nome": "San Primitivo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Stanislaw Kubista e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Raffaele Arnaiz Barón",
+            "qualifica": "Beato",
+            "url": null
+        },
+        {
+            "nome": "Madonna della Vetrana",
+            "qualifica": "La liberazione dalla peste",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/26/aprile/"
+}

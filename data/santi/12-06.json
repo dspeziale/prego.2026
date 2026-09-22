@@ -1,0 +1,83 @@
+{
+    "data": "12-06",
+    "giorno": 12,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "12 giugno",
+    "principali": [
+        {
+            "nome": "Sacro Cuore di Gesù",
+            "qualifica": "L'adorazione del cuore di Cristo",
+            "descrizione": "Nella città di Paray-le-Monial, in un monastero della Visitazione, verso l'anno 1670, trovandosi in un giorno dell'ottava del Corpus Domini, Santa Margherita Maria Alacoque, prostrata innanzi al...",
+            "url": "https://www.santodelgiorno.it/sacro-cuore-di-gesu/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Onofrio",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/sant-onofrio/"
+        },
+        {
+            "nome": "Beato Guido da Cortona",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-guido-da-cortona/"
+        },
+        {
+            "nome": "San Gaspare Luigi Bertoni",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-gaspare-luigi-bertoni/"
+        },
+        {
+            "nome": "Sant'Eskillo",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-eskillo/"
+        },
+        {
+            "nome": "Sant'Odolfo",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/sant-odolfo/"
+        },
+        {
+            "nome": "Beata Florida Cevoli",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-florida-cevoli/"
+        },
+        {
+            "nome": "San Leone III",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-leone-iii/"
+        },
+        {
+            "nome": "Beata Maria Candida dell'Eucaristia",
+            "qualifica": "Carmelitana Scalza",
+            "url": "https://www.santodelgiorno.it/beata-maria-candida-dell-eucaristia/"
+        },
+        {
+            "nome": "Beato Lorenzo Maria Salvi",
+            "qualifica": "Passionista",
+            "url": "https://www.santodelgiorno.it/beato-lorenzo-maria-salvi/"
+        },
+        {
+            "nome": "San Basilide",
+            "qualifica": "Martire presso Roma",
+            "url": null
+        },
+        {
+            "nome": "Beata Mercedes Maria di Gesù",
+            "qualifica": "Fondatrice",
+            "url": null
+        },
+        {
+            "nome": "Sant'Odulfo di Utrecht",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "San Placido di Ocre",
+            "qualifica": "Abate",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/12/giugno/"
+}

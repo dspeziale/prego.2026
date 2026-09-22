@@ -1,0 +1,68 @@
+{
+    "data": "12-09",
+    "giorno": 12,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "12 settembre",
+    "principali": [
+        {
+            "nome": "Santissimo Nome di Maria",
+            "qualifica": "L'amore di Maria verso il Figlio",
+            "descrizione": "In questo giorno viene rievocato l'ineffabile amore della Madre di Dio verso il Figlio Santissimo e viene posta avanti gli occhi dei fedeli la figura della Madre del Redentore per essere piamente invocata.",
+            "url": "https://www.santodelgiorno.it/santissimo-nome-di-maria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Guido di Anderlecht",
+            "qualifica": "Pellegrino",
+            "url": "https://www.santodelgiorno.it/san-guido-di-anderlecht/"
+        },
+        {
+            "nome": "Beati Apollinare Franco e compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/beati-apollinare-franco-e-compagni/"
+        },
+        {
+            "nome": "Sant'Ailbeo di Emly",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-ailbeo-di-emly/"
+        },
+        {
+            "nome": "Sant'Autonomo",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-autonomo/"
+        },
+        {
+            "nome": "Santi Cronide, Leonzio e Serapione",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Francesco Ch'oe Kyong-hwan",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Pietro Sulpizio Cristoforo Faverge",
+            "qualifica": "Religioso e martire",
+            "url": null
+        },
+        {
+            "nome": "Madonna della Macchia",
+            "qualifica": "Appellativo",
+            "url": null
+        },
+        {
+            "nome": "Santa Maria del Lauro",
+            "qualifica": "Miracolo",
+            "url": null
+        },
+        {
+            "nome": "Santa Cesarea",
+            "qualifica": "Vergine e Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/12/settembre/"
+}

@@ -1,0 +1,53 @@
+{
+    "data": "19-12",
+    "giorno": 19,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "19 dicembre",
+    "principali": [
+        {
+            "nome": "San Dario",
+            "qualifica": "Martire",
+            "descrizione": "Le notizie su San Dario sono alquanto scarne, e non vi sono tracce di tradizioni risalenti ad epoca posteriore al suo martirio. I martirologi ne ricordano semplicemente il nome, insieme ad altri tre compagni...",
+            "url": "https://www.santodelgiorno.it/san-dario-martire/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Anastasio I",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/sant-anastasio-primo/"
+        },
+        {
+            "nome": "San Berardo di Teramo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-berardo-di-teramo/"
+        },
+        {
+            "nome": "Beato Guglielmo di Fenoglio",
+            "qualifica": "Laico certosino",
+            "url": "https://www.santodelgiorno.it/beato-guglielmo-di-fenoglio/"
+        },
+        {
+            "nome": "Beato Urbano V",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/beato-urbano-v/"
+        },
+        {
+            "nome": "Santi Francesco Saverio Hà Trong Mau e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Gregorio di Auxerre",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beate Maria Eva della Provvidenza Noiszewska e Maria Marta di Gesù Wolowska",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/19/dicembre/"
+}

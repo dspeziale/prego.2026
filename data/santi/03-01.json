@@ -1,0 +1,63 @@
+{
+    "data": "03-01",
+    "giorno": 3,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "3 gennaio",
+    "principali": [
+        {
+            "nome": "Santissimo Nome di Gesù",
+            "qualifica": "Nome d'allegrezza, di speranza e d'amore",
+            "descrizione": "Gesù, che vuol dire Salvatore, è il nome dato al Verbo Incarnato non dagli uomini, ma da Dio stesso. Apparve infatti l’Angelo del Signore a S. Giuseppe e gli disse: « Giuseppe...",
+            "url": "https://www.santodelgiorno.it/santissimo-nome-di-gesu/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Genoveffa",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-genoveffa/"
+        },
+        {
+            "nome": "San Daniele di Padova",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-daniele-di-padova/"
+        },
+        {
+            "nome": "Beato Ciriaco Elias Chavara",
+            "qualifica": "Cofondatore indiano",
+            "url": "https://www.santodelgiorno.it/beato-ciriaco-elias-chavara/"
+        },
+        {
+            "nome": "Santi Teopempto e Teona",
+            "qualifica": "Martiri a Nicomedia",
+            "url": "https://www.santodelgiorno.it/santi-teopempto-e-teona/"
+        },
+        {
+            "nome": "Sant'Antero",
+            "qualifica": "Papa",
+            "url": null
+        },
+        {
+            "nome": "San Fiorenzo di Vienne",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Gordio di Cesarea di Cappadocia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Luciano di Lentini",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Teogene",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/03/gennaio/"
+}

@@ -1,0 +1,88 @@
+{
+    "data": "05-01",
+    "giorno": 5,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "5 gennaio",
+    "principali": [
+        {
+            "nome": "Sant'Amelia",
+            "qualifica": "Vergine e martire",
+            "descrizione": "Un antico breviario di Gerona narra che Santa Amelia apparteneva ad un gruppo di martiri cristiani uccisi a Gerona città della Catalogna in Spagna nel quarto secolo durante la persecuzione di Dioclezioano...",
+            "url": "https://www.santodelgiorno.it/santa-amelia-martire-di-gerona/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Giovanni Nepomuceno Neumann",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giovanni-nepomuceno-neumann/"
+        },
+        {
+            "nome": "Santa Emiliana",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/sant-emiliana/"
+        },
+        {
+            "nome": "Sant'Edoardo III il Confessore",
+            "qualifica": "Re d'Inghilterra",
+            "url": "https://www.santodelgiorno.it/sant-edoardo-iii-il-confessore/"
+        },
+        {
+            "nome": "Santa Sincletica",
+            "qualifica": "Monaca in Egitto",
+            "url": "https://www.santodelgiorno.it/santa-sincletica/"
+        },
+        {
+            "nome": "Beata Maria Repetto",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-maria-repetto/"
+        },
+        {
+            "nome": "San Carlo di S. Andrea Houben",
+            "qualifica": "Passionista",
+            "url": "https://www.santodelgiorno.it/san-carlo-di-s-andrea-houben/"
+        },
+        {
+            "nome": "Santa Genoveva Torres Morales",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-genoveva-torres-morales/"
+        },
+        {
+            "nome": "Beato Pietro Bonilli",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-pietro-bonilli/"
+        },
+        {
+            "nome": "San Deogratias",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-deogratias/"
+        },
+        {
+            "nome": "San Convoione",
+            "qualifica": "Abate di Redon",
+            "url": "https://www.santodelgiorno.it/san-convoione/"
+        },
+        {
+            "nome": "Beati Francesco Peltier, Giacomo Ledoyen e Pietro Tessier",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Gerlaco di Valkenburg",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Beata Marcellina Darowska (Maria Marcellina dell'Immacolata Concezione)",
+            "qualifica": "Fondatrice",
+            "url": null
+        },
+        {
+            "nome": "Beato Ruggero di Todi",
+            "qualifica": "",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/05/gennaio/"
+}

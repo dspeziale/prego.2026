@@ -1,0 +1,78 @@
+{
+    "data": "11-06",
+    "giorno": 11,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "11 giugno",
+    "principali": [
+        {
+            "nome": "San Barnaba",
+            "qualifica": "Apostolo",
+            "descrizione": "S. Barnaba nacque da Giudei della tribù di Levi, rifugiatisi a Cipro allorchè Pompeo il Grande invase la Palestina. A 12 anni fu mandato a Gerusalemme ove frequentò la scuola di Gamaliele...",
+            "url": "https://www.santodelgiorno.it/san-barnaba/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Iolanda di Polonia",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/beata-iolanda-di-polonia/"
+        },
+        {
+            "nome": "Santa Paola Frassinetti",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-paola-frassinetti/"
+        },
+        {
+            "nome": "San Giovanni da San Facondo Gonzalez de Castrillo",
+            "qualifica": "Sacerdote eremita agostiniano",
+            "url": "https://www.santodelgiorno.it/san-giovanni-da-san-facondo/"
+        },
+        {
+            "nome": "Beata Maria del Sacro Cuore di Gesù",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-del-sacro-cuore-di-gesu/"
+        },
+        {
+            "nome": "Sant'Aleide di Schaerbeek",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/sant-aleide-di-schaerbeek/"
+        },
+        {
+            "nome": "Santa Maria Rosa Molas y Vallvè",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-maria-rosa-molas-y-vallve/"
+        },
+        {
+            "nome": "Beato Stefano Bandelli",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-stefano-bandelli/"
+        },
+        {
+            "nome": "San Remberto",
+            "qualifica": "Vescovo di Amburgo e Brema",
+            "url": "https://www.santodelgiorno.it/san-remberto/"
+        },
+        {
+            "nome": "Sant'Ignazio Maloyan",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/beato-ignazio-maloyan/"
+        },
+        {
+            "nome": "San Massimo di Napoli",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-massimo-di-napoli/"
+        },
+        {
+            "nome": "San Parisio",
+            "qualifica": "Sacerdote camaldolese",
+            "url": "https://www.santodelgiorno.it/san-parisio/"
+        },
+        {
+            "nome": "San Bardone di Magonza",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-bardone-di-magonza/"
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/11/giugno/"
+}

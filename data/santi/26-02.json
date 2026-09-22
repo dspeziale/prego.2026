@@ -1,0 +1,73 @@
+{
+    "data": "26-02",
+    "giorno": 26,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "26 febbraio",
+    "principali": [
+        {
+            "nome": "Sant'Alessandro di Alessandria",
+            "qualifica": "Patriarca",
+            "descrizione": "Sant'Alessandro, Vescovo di Alessandria in Egitto, dal 312 al 326, fu uno dei protagonisti di quella dolorosa lotta che aprì la lunga e insidiosa vicenda dell'eresia nota nella storia della Chiesa con...",
+            "url": "https://www.santodelgiorno.it/sant-alessandro-di-alessandria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Nestore",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-nestore/"
+        },
+        {
+            "nome": "Santa Paola di S. Giuseppe di Calasanzio",
+            "qualifica": "Fondatrice delle Figlie di Maria",
+            "url": "https://www.santodelgiorno.it/santa-paolo-di-san-giuseppe/"
+        },
+        {
+            "nome": "San Vittore",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-vittore-eremita/"
+        },
+        {
+            "nome": "San Porfirio di Gaza",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-porfirio-di-gaza/"
+        },
+        {
+            "nome": "Beata Pietà della Croce Ortiz Real",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-pieta-della-croce-ortiz-real/"
+        },
+        {
+            "nome": "Beato Giuseppe Rossi",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-rossi/"
+        },
+        {
+            "nome": "Gilles Bouhours",
+            "qualifica": "Fanciullo, veggente",
+            "url": "https://www.santodelgiorno.it/gilles-bouhours/"
+        },
+        {
+            "nome": "Sant'Agricola di Nevers",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Andrea di Firenze",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Faustiniano",
+            "qualifica": "Vescovo di Bologna",
+            "url": null
+        },
+        {
+            "nome": "Beato Roberto Drury",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/26/febbraio/"
+}

@@ -1,0 +1,113 @@
+{
+    "data": "29-07",
+    "giorno": 29,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "29 luglio",
+    "principali": [
+        {
+            "nome": "Santa Marta di Betania",
+            "qualifica": "Vergine",
+            "descrizione": "Era sorella di Lazzaro e di Maria. Era questa una famiglia molto distinta e caritatevole che Gesù molto amava e sovente onorava con la sua presenza. A Marta era affidata la cura delle faccende domestiche...",
+            "url": "https://www.santodelgiorno.it/santa-marta-di-betania/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Lazzaro di Betania",
+            "qualifica": "Fratello di Marta e Maria",
+            "url": "https://www.santodelgiorno.it/san-lazzaro/"
+        },
+        {
+            "nome": "Santa Maria di Betania",
+            "qualifica": "Sorella di Lazzaro e Marta",
+            "url": "https://www.santodelgiorno.it/santa-maria-di-betania/"
+        },
+        {
+            "nome": "Sant'Olaf",
+            "qualifica": "Re di Norvegia, martire",
+            "url": "https://www.santodelgiorno.it/sant-olaf/"
+        },
+        {
+            "nome": "Beato Giovanni Battista Egozcuezàbal Aldaz",
+            "qualifica": "Religioso e martire",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-battista-egozcuezabal-aldaz/"
+        },
+        {
+            "nome": "Beato Urbano II",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/beato-urbano-ii/"
+        },
+        {
+            "nome": "Beato José Calasanz Marqués",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-jose-calasanz-marques/"
+        },
+        {
+            "nome": "San Lupo di Troyes",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-lupo-di-troyes/"
+        },
+        {
+            "nome": "San Callinico di Gangra",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-callinico-di-gangra/"
+        },
+        {
+            "nome": "San Luigi Martin",
+            "qualifica": "Padre di S. Teresa di Gesù Bambino",
+            "url": "https://www.santodelgiorno.it/santi-luigi-martin-e-zelia-guerin/"
+        },
+        {
+            "nome": "Beato Carlo Nicola Antonio Ancel",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Felice",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Giuseppe Zhang Wenlan, Paolo Chen Changpin, Giovanni Battista Lou Tingyin e Marta Wang Louzhi",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Guglielmo Pinchon",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Lucilla, Flora, Eugenio e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Lucio Martinez Mancebo e 7 compagni",
+            "qualifica": "Domenicani, martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Ludovico Bertrán, Mancio della Santa Croce e Pietro di Santa Maria",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Prospero di Orleans",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Simplicio, Faustino, Viatrice e Rufo",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Simplicio",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/29/luglio/"
+}

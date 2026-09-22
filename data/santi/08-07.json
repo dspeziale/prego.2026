@@ -1,0 +1,83 @@
+{
+    "data": "08-07",
+    "giorno": 8,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "8 luglio",
+    "principali": [
+        {
+            "nome": "Santi Aquila e Priscilla",
+            "qualifica": "Sposi e martiri, discepoli di San Paolo",
+            "descrizione": "Questi due sposi (Aquila era giudeo originario del Ponto trapiantato a Roma, mentre Prisca, detta anche Priscilla, era romana), convertiti al cristianesimo, erano molto legati a san Paolo apostolo e furono...",
+            "url": "https://www.santodelgiorno.it/santi-aquila-e-priscilla/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Adriano III",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/sant-adriano-terzo/"
+        },
+        {
+            "nome": "San Procopio di Cesarea di Palestina",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-procopio-di-cesarea-di-palestina/"
+        },
+        {
+            "nome": "Beato Eugenio III",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/beato-eugenio-iii/"
+        },
+        {
+            "nome": "San Chiliano",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-chiliano/"
+        },
+        {
+            "nome": "Santa Landrada",
+            "qualifica": "Badessa di Bilsen",
+            "url": "https://www.santodelgiorno.it/santa-landrada/"
+        },
+        {
+            "nome": "San Disibodo",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-disibodo/"
+        },
+        {
+            "nome": "San Pancrazio di Taormina",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-pancrazio-di-taormina/"
+        },
+        {
+            "nome": "Beato Pietro Vigne",
+            "qualifica": "Sacerdote, fondatore",
+            "url": "https://www.santodelgiorno.it/beato-pietro-vigne/"
+        },
+        {
+            "nome": "Santa Gliceria",
+            "qualifica": "Martire ad Eraclea",
+            "url": "https://www.santodelgiorno.it/santa-gliceria-di-eraclea/"
+        },
+        {
+            "nome": "Sant'Auspicio di Toul",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Wu Wenyin",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Mancio Araki",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Monaci Abramiti",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/08/luglio/"
+}

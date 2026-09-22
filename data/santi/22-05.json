@@ -1,0 +1,113 @@
+{
+    "data": "22-05",
+    "giorno": 22,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "22 maggio",
+    "principali": [
+        {
+            "nome": "Santa Rita da Cascia",
+            "qualifica": "Vedova e religiosa",
+            "descrizione": "Nacque Rita a Rocca Porena, paesello nei pressi di Cascia nell'Umbria, l'anno 1381. Sotto la vigile cura dei genitori la bimba cresceva giudiziosa e pia, come un fiore di serra, con particolar tendenza...",
+            "url": "https://www.santodelgiorno.it/santa-rita-da-cascia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Giulia",
+            "qualifica": "Martire in Corsica",
+            "url": "https://www.santodelgiorno.it/santa-giulia/"
+        },
+        {
+            "nome": "Santa Umiltà",
+            "qualifica": "Badessa Vallombrosana",
+            "url": "https://www.santodelgiorno.it/beata-umilta/"
+        },
+        {
+            "nome": "Santi Casto ed Emilio",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-casto-ed-emilio/"
+        },
+        {
+            "nome": "San Michele Ho Dinh Hy",
+            "qualifica": "Catechista e martire",
+            "url": "https://www.santodelgiorno.it/san-michele-ho-dinh-hy/"
+        },
+        {
+            "nome": "Santa Quiteria",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-quiteria/"
+        },
+        {
+            "nome": "San Giovanni da Parma",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-giovanni-da-parma/"
+        },
+        {
+            "nome": "Beato Giovanni Forest",
+            "qualifica": "Sacerdote francescano, martire",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-forest/"
+        },
+        {
+            "nome": "San Bovo di Voghera",
+            "qualifica": "Cavaliere",
+            "url": "https://www.santodelgiorno.it/san-bovo-di-voghera/"
+        },
+        {
+            "nome": "Beata Maria Domenica Brun Barbantini",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-domenica-brun-barbantini/"
+        },
+        {
+            "nome": "Sant'Attone (Atto) di Pistoia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ausonio di Angouleme",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Basilisco",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Domenico Ngon",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Lupicino di Verona",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Lupo di Limoges",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Mattia da Arima",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Pietro da Cordova",
+            "qualifica": "Mercedario",
+            "url": null
+        },
+        {
+            "nome": "Beati Pietro dell'Assunzione e Giovanni Battista Machado",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Folco",
+            "qualifica": "Confessore",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/22/maggio/"
+}

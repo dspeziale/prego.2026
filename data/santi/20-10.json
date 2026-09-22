@@ -1,0 +1,83 @@
+{
+    "data": "20-10",
+    "giorno": 20,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "20 ottobre",
+    "principali": [
+        {
+            "nome": "Santa Maria Bertilla Boscardin",
+            "qualifica": "Vergine",
+            "descrizione": "Anna Francesca Boscardin nacque a Brendola, nel Vicentino, il 6 ottobre 1888. Angelo, il padre, a differenza della sua virtuosissima sposa e della pia e ingenua figliuola, era tutt'altro che un angelo...",
+            "url": "https://www.santodelgiorno.it/santa-maria-bertilla-boscardin/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Irene del Portogallo",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-irene-del-portogallo/"
+        },
+        {
+            "nome": "Sant'Artemio",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-artemio/"
+        },
+        {
+            "nome": "San Cornelio il centurione",
+            "qualifica": "Uomo pio e timorato di Dio",
+            "url": "https://www.santodelgiorno.it/san-cornelio-il-centurione/"
+        },
+        {
+            "nome": "Sant'Andrea il Calibita",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/sant-andrea-il-calibita/"
+        },
+        {
+            "nome": "San Vitale di Salisburgo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-vitale-di-salisburgo/"
+        },
+        {
+            "nome": "San Caprasio di Agen",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-caprasio-di-agen/"
+        },
+        {
+            "nome": "Beato Giacomo Strepa",
+            "qualifica": "Vescovo di Halicz",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-strepa/"
+        },
+        {
+            "nome": "Sant'Adelina di Mortain",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "Sant'Alderaldo di Troyes",
+            "qualifica": "Arcidiacono",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria di Gesù",
+            "qualifica": "Vergine mercedaria",
+            "url": null
+        },
+        {
+            "nome": "San Sindulfo (Sindolfo)",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Bradano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santa Orora (Aurora)",
+            "qualifica": "Religiosa Irlandese",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/20/ottobre/"
+}

@@ -1,0 +1,73 @@
+{
+    "data": "18-03",
+    "giorno": 18,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "18 marzo",
+    "principali": [
+        {
+            "nome": "San Cirillo di Gerusalemme",
+            "qualifica": "Vescovo e dottore della Chiesa",
+            "descrizione": "Nacque in Gerusalemme nell'anno 314. Dopo aver appreso i primi rudimenti della letteratura e delle scienze profane, studiò Sacra Scrittura, con tanto ardore e profitto, da diventare un intrepido...",
+            "url": "https://www.santodelgiorno.it/san-cirillo-di-gerusalemme/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Salvatore da Horta",
+            "qualifica": "Professo Francescano",
+            "url": "https://www.santodelgiorno.it/san-salvatore-da-horta/"
+        },
+        {
+            "nome": "Sant'Edoardo II il Martire",
+            "qualifica": "Re d'Inghilterra",
+            "url": "https://www.santodelgiorno.it/sant-edoardo-ii-il-martire/"
+        },
+        {
+            "nome": "Sant'Alessandro di Gerusalemme",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-alessandro-di-gerusalemme/"
+        },
+        {
+            "nome": "Beata Celestina Donati",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-celestina-donati/"
+        },
+        {
+            "nome": "Beata Marta Le Bouteiller",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-marta-le-bouteiller/"
+        },
+        {
+            "nome": "San Braulio",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-braulio/"
+        },
+        {
+            "nome": "San Frediano di Lucca",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-frediano-di-lucca/"
+        },
+        {
+            "nome": "Sant'Anselmo II di Lucca",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-anselmo-ii-di-lucca/"
+        },
+        {
+            "nome": "Beati Giovanni Thules e Ruggero Wrenno",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Leopardo di Tour",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eucarpio",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/18/marzo/"
+}

@@ -1,0 +1,158 @@
+{
+    "data": "27-07",
+    "giorno": 27,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "27 luglio",
+    "principali": [
+        {
+            "nome": "San Pantaleone",
+            "qualifica": "Medico e martire",
+            "descrizione": "Pantaleone, martire del IV secolo, è uno di quei santi la cui popolarità fu tanto grande in Occidente quanto in Oriente. La sua Passione greca, priva di valore storico, ebbe numerose versioni...",
+            "url": "https://www.santodelgiorno.it/san-pantaleone/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Natalia e compagni",
+            "qualifica": "Martiri a Cordova",
+            "url": "https://www.santodelgiorno.it/santa-natalia-e-compagni/"
+        },
+        {
+            "nome": "Santi Sette Dormienti di Efeso",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santi-sette-dormienti-di-efeso/"
+        },
+        {
+            "nome": "San Simeone Stilita il Vecchio",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-simeone-stilita-il-vecchio/"
+        },
+        {
+            "nome": "Santa Liliana",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-liliana/"
+        },
+        {
+            "nome": "Venerabile Anna Fulgida Bartolacelli",
+            "qualifica": "Laica",
+            "url": "https://www.santodelgiorno.it/venerabile-anna-fulgida-bartolacelli/"
+        },
+        {
+            "nome": "San Celestino I",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-celestino-i/"
+        },
+        {
+            "nome": "Beata Maria Maddalena Martinengo",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-maria-maddalena-martinengo/"
+        },
+        {
+            "nome": "Beato Giacomo Papocchi da Montieri",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-papocchi-da-montieri/"
+        },
+        {
+            "nome": "Beata Maria della Passione",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-maria-della-passione/"
+        },
+        {
+            "nome": "Beata Maria Clemenza di Gesù Crocifisso",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/beata-maria-clemenza-di-gesu-crocifisso/"
+        },
+        {
+            "nome": "Beato Modesto Vegas Vegas",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-modesto-vegas-vegas/"
+        },
+        {
+            "nome": "Beato Gioacchino Vilanova Camallonga",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-gioacchino-vilanova-camallonga/"
+        },
+        {
+            "nome": "San Bertoldo di Garsten",
+            "qualifica": "Abate benedettino",
+            "url": "https://www.santodelgiorno.it/san-bertoldo-di-garsten/"
+        },
+        {
+            "nome": "Beata Lucia Bufalari di Amelia",
+            "qualifica": "Vergine agostiniana",
+            "url": "https://www.santodelgiorno.it/beata-lucia-bufalari-di-amelia/"
+        },
+        {
+            "nome": "San Desiderato di Besancon",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-desiderato-di-besancon/"
+        },
+        {
+            "nome": "San Simeone di Egee",
+            "qualifica": "Diacono e stilita",
+            "url": "https://www.santodelgiorno.it/san-simeone-di-egee/"
+        },
+        {
+            "nome": "Sant'Ecclesio Celio",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-ecclesio-celio/"
+        },
+        {
+            "nome": "Beato Nevolone",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/beato-nevolone/"
+        },
+        {
+            "nome": "San Galattorio di Lescar",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-galattorio-di-lescar/"
+        },
+        {
+            "nome": "Sant'Antusa dell'Onoriade",
+            "qualifica": "Vergine, fondatrice",
+            "url": null
+        },
+        {
+            "nome": "Santi Clemente di Ochrida, Gorazdo, Nahum, Saba e Angelario",
+            "qualifica": "Apostoli della Bulgaria",
+            "url": null
+        },
+        {
+            "nome": "Beato Filippo Hernandez Martinez, Zaccaria Abadia Buesa e Giacomo Ortiz Alzueta",
+            "qualifica": "Religiosi e martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo Davies",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Orso",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Raimondo Zanfogni, detto Palmerio",
+            "qualifica": "Laico",
+            "url": null
+        },
+        {
+            "nome": "Beato Roberto Sutton",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Mauro, Sergio e Pantaleone",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ermolao",
+            "qualifica": "Sacerdote",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/27/luglio/"
+}

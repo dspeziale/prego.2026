@@ -1,0 +1,73 @@
+{
+    "data": "23-03",
+    "giorno": 23,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "23 marzo",
+    "principali": [
+        {
+            "nome": "San Turibio de Mogrovejo",
+            "qualifica": "Vescovo",
+            "descrizione": "Benedetto XIV lo paragonò a san Carlo Borromeo e lo definì «instancabile messaggero d'amore». Eppure Turibio, nacque in Spagna nel 1538, e nel 1579 era ancora un laico. Filippo...",
+            "url": "https://www.santodelgiorno.it/san-turibio-de-mogrovejo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Rebecca Ar-Rayès",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/santa-rebecca-ar-rayes/"
+        },
+        {
+            "nome": "Beata Annunciata Cocchetti",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-annunciata-cocchetti/"
+        },
+        {
+            "nome": "San Giuseppe Oriol Boguna",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-oriol-boguna/"
+        },
+        {
+            "nome": "Sant'Ottone Frangipane",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/sant-ottone-frangipane/"
+        },
+        {
+            "nome": "Beato Metodio Domenico Trcka",
+            "qualifica": "Sacerdote, martire",
+            "url": "https://www.santodelgiorno.it/beato-metodio-domenico-trcka/"
+        },
+        {
+            "nome": "Beato Pietro da Gubbio",
+            "qualifica": "Agostiniano",
+            "url": "https://www.santodelgiorno.it/beato-pietro-da-gubbio/"
+        },
+        {
+            "nome": "Beato Pietro Higgins",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-pietro-higgins/"
+        },
+        {
+            "nome": "San Walter di San Martino di Pontoise",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-walter-di-san-martino-di-pontoise/"
+        },
+        {
+            "nome": "Beato Edmondo Sykes",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Fingar (Guigner)",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Vittoriano, Frumenzio e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/23/marzo/"
+}

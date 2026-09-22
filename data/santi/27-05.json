@@ -1,0 +1,68 @@
+{
+    "data": "27-05",
+    "giorno": 27,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "27 maggio",
+    "principali": [
+        {
+            "nome": "Sant'Agostino di Canterbury",
+            "qualifica": "Vescovo",
+            "descrizione": "Volgeva l'anno 596 quando i Sassoni, gli Angli e gli Juti, popoli germanici pagani, cacciati i Bretoni occuparono l'odierna Inghilterra. Angli sunt? Angeli fiant!, disse san Gregorio Magno. Non potendo...",
+            "url": "https://www.santodelgiorno.it/sant-agostino-di-canterbury/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Giulio (il veterano) di Durostoro",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-giulio-il-veterano-di-durostoro/"
+        },
+        {
+            "nome": "Sant'Eutropio di Orange",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eutropio-di-orange/"
+        },
+        {
+            "nome": "Sant'Atanasio Bazzekuketta",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sante Barbara Kim e Barbara Yi",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Bruno di Wurzburg",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beati Edmondo Duke, Riccardo Hill, Giovanni Hogg e Riccardo Holiday",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Gausberto",
+            "qualifica": "Abate di Montsalvy",
+            "url": null
+        },
+        {
+            "nome": "San Gonzaga Gonza",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Restituto di Roma",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Restituta di Sora",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/27/maggio/"
+}

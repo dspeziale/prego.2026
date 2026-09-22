@@ -1,0 +1,88 @@
+{
+    "data": "04-05",
+    "giorno": 4,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "4 maggio",
+    "principali": [
+        {
+            "nome": "San Ciriaco di Gerusalemme",
+            "qualifica": "Vescovo e martire",
+            "descrizione": "Il nome di San Ciriaco è noto anche a chi ignora tutto sul conto di questo personaggio, grazie alla bellissima chiesa romanica che domina la città adriatica di Ancona dall'alto del colle...",
+            "url": "https://www.santodelgiorno.it/san-ciriaco-di-gerusalemme/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Sandra Sabattini",
+            "qualifica": "La santa fidanzata",
+            "url": "https://www.santodelgiorno.it/beata-sandra-sabattini/"
+        },
+        {
+            "nome": "San Floriano di Lorch",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-floriano-di-lorch/"
+        },
+        {
+            "nome": "San Gottardo di Hildesheim",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gottardo-di-hildesheim/"
+        },
+        {
+            "nome": "Beato Giovanni Martino Moye",
+            "qualifica": "Fondatore",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-martino-moye/"
+        },
+        {
+            "nome": "Beato Ladislao da Gielnow",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-ladislao-da-gielnow/"
+        },
+        {
+            "nome": "San Berillo di Catania",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-berillo-di-catania/"
+        },
+        {
+            "nome": "Sant'Afra di Brescia",
+            "qualifica": "Matrona, martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Agapio e Secondino",
+            "qualifica": "Martiri di Lambesa",
+            "url": null
+        },
+        {
+            "nome": "Sant'Antonina di Nicea",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Cassiano di Novellara",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Fortunato",
+            "qualifica": "Lettore e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Haile",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Giovanni Houghton, Roberto Lawrence, Agostino Webster e Riccardo Reynolds",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Silvano di Gaza e 39 compagni",
+            "qualifica": "Vescovo e martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/04/maggio/"
+}

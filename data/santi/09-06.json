@@ -1,0 +1,78 @@
+{
+    "data": "09-06",
+    "giorno": 9,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "9 giugno",
+    "principali": [
+        {
+            "nome": "Sant'Efrem",
+            "qualifica": "Diacono e dottore della Chiesa",
+            "descrizione": "Efrem nacque a Nisibi in Mesopotamia circa l'anno 306 sotto l'imperatore Costantino. Era figlio di pagani, ma studiò con ardore la dottrina cristiana. Contrariato e perseguitato dal padre, che era...",
+            "url": "https://www.santodelgiorno.it/sant-efrem/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Anna Maria Taigi",
+            "qualifica": "Madre",
+            "url": "https://www.santodelgiorno.it/beata-anna-maria-taigi/"
+        },
+        {
+            "nome": "Santi Primo e Feliciano",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-primo-e-feliciano/"
+        },
+        {
+            "nome": "San Columba di Iona",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-columba-di-iona/"
+        },
+        {
+            "nome": "San Giuseppe de Anchieta",
+            "qualifica": "Gesuita",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-de-anchieta/"
+        },
+        {
+            "nome": "San Riccardo di Andria",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-riccardo-di-andria/"
+        },
+        {
+            "nome": "Beato Luigi Boccardo",
+            "qualifica": "Canonico, fondatore",
+            "url": "https://www.santodelgiorno.it/beato-luigi-boccardo/"
+        },
+        {
+            "nome": "Beato Giuseppe Imbert",
+            "qualifica": "Sacerdote gesuita, martire",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-joseph-imbert/"
+        },
+        {
+            "nome": "San Diomede",
+            "qualifica": "Martire a Nicea",
+            "url": null
+        },
+        {
+            "nome": "San Massimiano di Siracusa",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Roberto Salt",
+            "qualifica": "Monaco certosino, martire",
+            "url": null
+        },
+        {
+            "nome": "San Vincenzo di Agen (di Aquitania)",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Madonna della Fontenuova",
+            "qualifica": "Miracolo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/09/giugno/"
+}

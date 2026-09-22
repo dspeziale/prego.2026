@@ -1,0 +1,83 @@
+{
+    "data": "30-12",
+    "giorno": 30,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "30 dicembre",
+    "principali": [
+        {
+            "nome": "Sant'Eugenio di Milano",
+            "qualifica": "Vescovo",
+            "descrizione": "Non si hanno notizie certe su di lui, da Landolfo Seniore sappiamo che si trattava di un vescovo venuto in Italia al seguito di Carlo Magno, di cui era anche padre spirituale. A lui venne attribuito il...",
+            "url": "https://www.santodelgiorno.it/sant-eugenio-di-milano/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Ruggero di Canne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-ruggero-di-canne/"
+        },
+        {
+            "nome": "Beata Eugenia Ravasco",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-eugenia-ravasco/"
+        },
+        {
+            "nome": "Beata Margherita Colonna",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-margherita-colonna/"
+        },
+        {
+            "nome": "San Lorenzo da Frazzanò",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-lorenzo-da-frazzano/"
+        },
+        {
+            "nome": "Beato Giovanni Maria Boccardo",
+            "qualifica": "Parroco, fondatore",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-maria-boccardo/"
+        },
+        {
+            "nome": "San Perpetuo di Tours",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-perpetuo-di-tours/"
+        },
+        {
+            "nome": "Sant'Anisio di Tessalonica",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-anisio-di-tessalonica/"
+        },
+        {
+            "nome": "Sant'Egvino",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-egvino-vescovo/"
+        },
+        {
+            "nome": "San Geremaro",
+            "qualifica": "Abate di Flay",
+            "url": "https://www.santodelgiorno.it/san-geremaro/"
+        },
+        {
+            "nome": "Sant'Ermete",
+            "qualifica": "Esorcista e martire",
+            "url": null
+        },
+        {
+            "nome": "San Felice I",
+            "qualifica": "Papa",
+            "url": null
+        },
+        {
+            "nome": "San Giocondo di Aosta",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Raniero",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/30/dicembre/"
+}

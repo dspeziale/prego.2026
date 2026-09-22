@@ -1,0 +1,78 @@
+{
+    "data": "05-02",
+    "giorno": 5,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "5 febbraio",
+    "principali": [
+        {
+            "nome": "Sant'Agata",
+            "qualifica": "Vergine e martire",
+            "descrizione": "La città di Catania ha l’onore di aver dato i natali a questo mistico fiore reciso dalla bufera nella persecuzione di Decio nell’anno 251; lo affermano con certezza i documenti che narrano...",
+            "url": "https://www.santodelgiorno.it/sant-agata/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Adelaide di Vilich",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-alice-di-vilich/"
+        },
+        {
+            "nome": "San Gesù Mendez Montoya",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-gesu-mendez-montoya/"
+        },
+        {
+            "nome": "Beata Elisabetta Canori Mora",
+            "qualifica": "Sposa",
+            "url": "https://www.santodelgiorno.it/beata-elisabetta-canori-mora/"
+        },
+        {
+            "nome": "San Luca di Demenna",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-luca-di-demenna/"
+        },
+        {
+            "nome": "Beata Francesca Meziere",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/beata-francesca-meziere/"
+        },
+        {
+            "nome": "Sant'Ingenuino",
+            "qualifica": "Vescovo di Sabiona",
+            "url": "https://www.santodelgiorno.it/sant-ingenuino/"
+        },
+        {
+            "nome": "Sant'Albuino di Bressanone",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-albuino-di-bressanone/"
+        },
+        {
+            "nome": "Sant'Avito",
+            "qualifica": "Vescovo di Vienne",
+            "url": "https://www.santodelgiorno.it/sant-avito-vescovo/"
+        },
+        {
+            "nome": "Santi Martiri del Ponto",
+            "qualifica": "Religiosi",
+            "url": null
+        },
+        {
+            "nome": "San Saba il Giovane",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "San Geniale",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Maria SS. Mamma Nostra",
+            "qualifica": "Appellativo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/05/febbraio/"
+}

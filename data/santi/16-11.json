@@ -1,0 +1,83 @@
+{
+    "data": "16-11",
+    "giorno": 16,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "16 novembre",
+    "principali": [
+        {
+            "nome": "Santa Margherita di Scozia",
+            "qualifica": "Regina e vedova",
+            "descrizione": "Margherita, la più giovane di cinque figli, nacque nel 1045 ca., probabilmente in Ungheria; il padre, Edoardo, erede legittimo al trono e figlio di Edmondo, re del Wessex (1016), si era rifugiato...",
+            "url": "https://www.santodelgiorno.it/santa-margherita-di-scozia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Gertrude la Grande",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-gertrude-la-grande/"
+        },
+        {
+            "nome": "Sant'Agnese di Assisi",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/sant-agnese-di-assisi/"
+        },
+        {
+            "nome": "Santi Procolo, Eutiche e Acuzio",
+            "qualifica": "Martiri di Pozzuoli",
+            "url": "https://www.santodelgiorno.it/santi-procolo-eutiche-e-acuzio/"
+        },
+        {
+            "nome": "San Giuseppe Moscati",
+            "qualifica": "Traslazione del corpo nella Chiesa del Gesù Nuovo",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-moscati-traslazione/"
+        },
+        {
+            "nome": "Sant'Edmondo Rich",
+            "qualifica": "Arcivescovo di Canterbury",
+            "url": "https://www.santodelgiorno.it/sant-edmondo-rich/"
+        },
+        {
+            "nome": "Sant'Otmaro di San Gallo",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-otmaro-di-san-gallo/"
+        },
+        {
+            "nome": "Sant'Eucherio di Lione",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eucherio-di-lione/"
+        },
+        {
+            "nome": "Santi Agostino e Felicita",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Edoardo Osbaldeston",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Gherardo di Serradeconti",
+            "qualifica": "Monaco camaldolese",
+            "url": null
+        },
+        {
+            "nome": "Santi Lusore e Leucadio",
+            "qualifica": "Religiosi",
+            "url": null
+        },
+        {
+            "nome": "Beato Simeone",
+            "qualifica": "Abate di Cava",
+            "url": null
+        },
+        {
+            "nome": "San Fidenzio",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/16/novembre/"
+}

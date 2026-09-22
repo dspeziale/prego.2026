@@ -1,0 +1,93 @@
+{
+    "data": "06-10",
+    "giorno": 6,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "6 ottobre",
+    "principali": [
+        {
+            "nome": "San Bruno di Colonia",
+            "qualifica": "Sacerdote e monaco",
+            "descrizione": "S. Brunone nacque da nobile famiglia verso l'anno 1035 nella città di Colonia. Frequentò la scuola presso la chiesa di S. Cuniberto, facendo rapidi progressi nella scienza e nella pietà, tanto che S. Annone...",
+            "url": "https://www.santodelgiorno.it/san-bruno/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Maria Francesca delle Cinque Piaghe",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/santa-maria-francesca-delle-cinque-piaghe/"
+        },
+        {
+            "nome": "San Renato di Sorrento",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-renato-di-sorrento/"
+        },
+        {
+            "nome": "San Magno",
+            "qualifica": "Vescovo di Oderzo ed Eraclea",
+            "url": "https://www.santodelgiorno.it/san-magno-di-oderzo/"
+        },
+        {
+            "nome": "Santa Fede di Agen",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-fede-di-agen/"
+        },
+        {
+            "nome": "Beato Isidoro di San Giuseppe De Loor",
+            "qualifica": "Passionista",
+            "url": "https://www.santodelgiorno.it/beato-isidoro-di-san-giuseppe-de-loor/"
+        },
+        {
+            "nome": "Beata Maria Rosa Durocher",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-rosa-durocher/"
+        },
+        {
+            "nome": "San Giovanni Xenos",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-giovanni-xenos/"
+        },
+        {
+            "nome": "San Pardulfo (Pardolfo)",
+            "qualifica": "Abate di Gueret",
+            "url": "https://www.santodelgiorno.it/san-pardulfo/"
+        },
+        {
+            "nome": "Sant'Artaldo di Belley",
+            "qualifica": "Certosino e vescovo",
+            "url": "https://www.santodelgiorno.it/sant-artaldo-di-belley/"
+        },
+        {
+            "nome": "Sant'Ivio",
+            "qualifica": "Monaco in Britannia",
+            "url": "https://www.santodelgiorno.it/sant-ivio/"
+        },
+        {
+            "nome": "Beato Adalberone di Wurzburg",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco Hunot",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Francesco Tran Van Trung",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Romano di Auxerre",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Sagaris (Sagaro, Sagara)",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/06/ottobre/"
+}

@@ -1,0 +1,128 @@
+{
+    "data": "13-11",
+    "giorno": 13,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "13 novembre",
+    "principali": [
+        {
+            "nome": "San Diego di Alcalà",
+            "qualifica": "Religioso",
+            "descrizione": "San Diego nacque in Spagna, a San Nicola di Porto, e fin dalla sua prima giovinezza si dedicò con fervore alla pratica della disciplina cattolica, esercitandosi nel raccoglimento e nella vita interiore...",
+            "url": "https://www.santodelgiorno.it/san-diego-di-alcala/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Omobono Tucenghi",
+            "qualifica": "Laico",
+            "url": "https://www.santodelgiorno.it/sant-omobono-di-cremona/"
+        },
+        {
+            "nome": "San Niccolò I",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-niccolo-i/"
+        },
+        {
+            "nome": "Sant'Agostina Pietrantoni",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/sant-agostina-pietrantoni/"
+        },
+        {
+            "nome": "San Brizio di Tours",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-brizio-di-tours/"
+        },
+        {
+            "nome": "San Florido di Città di Castello",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-florido-di-citta-di-castello/"
+        },
+        {
+            "nome": "Santi Antonino, Niceforo, Zebina, Germano e Manatha",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-antonino-niceforo-zebina-germano-e-manatha/"
+        },
+        {
+            "nome": "Sant'Eugenio II di Toledo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eugenio-ii-di-toledo/"
+        },
+        {
+            "nome": "Santa Maxellendis",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-maxellendis/"
+        },
+        {
+            "nome": "Santi Arcadio, Pascasio, Probo, Eutichiano e Paulillo",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-arcadio-pascasio-probo-eutichiano-e-paulillo/"
+        },
+        {
+            "nome": "Sant'Abbone di Fleury",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-abbone-di-fleury/"
+        },
+        {
+            "nome": "Beato Varmondo Arborio di Ivrea",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-varmondo-arborio-di-ivrea/"
+        },
+        {
+            "nome": "Madonna di Pompei",
+            "qualifica": "Discesa del quadro",
+            "url": "https://www.santodelgiorno.it/discesa-del-quadro-della-madonna-di-pompei/"
+        },
+        {
+            "nome": "Venerabile Gaetano Tantalo",
+            "qualifica": "Presbitero",
+            "url": "https://www.santodelgiorno.it/gaetano-tantalo/"
+        },
+        {
+            "nome": "Beata Maria Carola Cecchin",
+            "qualifica": "Suora cottolenghina",
+            "url": "https://www.santodelgiorno.it/beata-maria-carola-cecchin/"
+        },
+        {
+            "nome": "San Dalmazio di Rodez",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni (Juan) Gonga Martinez",
+            "qualifica": "Giovane laico, martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Imerio",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Leoniano di Vienne",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria del Patrocinio di S. Giovanni (Maria Cinta dell'Assunta Giner Gomis)",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "San Mitrio (Mitria)",
+            "qualifica": "Venerato a Aix-en-Provence",
+            "url": null
+        },
+        {
+            "nome": "San Quinziano",
+            "qualifica": "Vescovo di Rodez e Clermont",
+            "url": null
+        },
+        {
+            "nome": "Beati Pietro Vicev, Paolo (Giuseppe) Dzidzov e Giosafat (Roberto Matteo) Siskov",
+            "qualifica": "Sacerdoti",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/13/novembre/"
+}

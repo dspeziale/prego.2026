@@ -1,0 +1,68 @@
+{
+    "data": "29-11",
+    "giorno": 29,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "29 novembre",
+    "principali": [
+        {
+            "nome": "San Saturnino di Tolosa",
+            "qualifica": "Vescovo e martire",
+            "descrizione": "Fra i primi apostoli che il Papa S. Fabiano inviò ad evangelizzare le Gallie vi fu S. Saturnino, il quale pose la sua sede a Tolosa, distinguendola con un fecondo apostolato e infine col suo martirio...",
+            "url": "https://www.santodelgiorno.it/san-saturnino/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Francesco Antonio Fasani",
+            "qualifica": "Presbitero",
+            "url": "https://www.santodelgiorno.it/san-francesco-antonio-fasani/"
+        },
+        {
+            "nome": "San Saturnino di Cartagine",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-saturnino-di-cartagine/"
+        },
+        {
+            "nome": "Beati Dionigi della Natività e Redento della Croce",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/beati-dionigi-della-nativita-e-redento-della-croce/"
+        },
+        {
+            "nome": "San Radbodo di Utrecht",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-radbodo-di-utrecht/"
+        },
+        {
+            "nome": "Beato Anselmo Simon Colomina",
+            "qualifica": "Sacerdote gesuita, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Edoardo Burden",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Filomeno di Ancira",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Giacomo di Osroena",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beati Giorgio Errington, Guglielmo Gibson e Guglielmo Knight",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Illuminata",
+            "qualifica": "Venerata a Todi",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/29/novembre/"
+}

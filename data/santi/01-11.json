@@ -1,0 +1,118 @@
+{
+    "data": "01-11",
+    "giorno": 1,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "1 novembre",
+    "principali": [
+        {
+            "nome": "Tutti i Santi",
+            "qualifica": "Solennità di Ognissanti",
+            "descrizione": "La festa di oggi ha per oggetto la glorificazione di tutti i Santi che sono in cielo: Angeli, Martiri, Confessori, Vergini. La sua origine viene dalla commemorazione di tutti i martiri che fin dal secolo...",
+            "url": "https://www.santodelgiorno.it/tutti-i-santi/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Cesareo di Terracina",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-cesareo-di-terracina/"
+        },
+        {
+            "nome": "Beato Ruperto Mayer",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-ruperto-mayer/"
+        },
+        {
+            "nome": "San Maturino",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-maturino-di-larchant/"
+        },
+        {
+            "nome": "San Ñuno Alvares Pereira",
+            "qualifica": "Fondatore della Casa di Braganza, carmelitano",
+            "url": "https://www.santodelgiorno.it/san-nuno-alvares-pereira/"
+        },
+        {
+            "nome": "San Marcello di Parigi",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-marcello-di-parigi/"
+        },
+        {
+            "nome": "Beato Teodoro Romza",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/beato-teodoro-romza/"
+        },
+        {
+            "nome": "San Benigno di Digione",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-benigno-di-digione/"
+        },
+        {
+            "nome": "San Vigor",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-vigor-vescovo/"
+        },
+        {
+            "nome": "Sant'Austremonio",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-austremonio/"
+        },
+        {
+            "nome": "Sant'Audomaro di Therouanne",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Giovanni e Giacomo",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Licinio di Angers",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Magno de' Trincheri",
+            "qualifica": "Vescovo di Milano",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Almato Ribeira",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Pietro Paolo Navarro, Dionigi Fujishima, Pietro Onizuka Sandayu e Clemente Kyuemon",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Raniero da Borgo Sansepolcro",
+            "qualifica": "Francescano",
+            "url": null
+        },
+        {
+            "nome": "San Romolo",
+            "qualifica": "Sacerdote e abate",
+            "url": null
+        },
+        {
+            "nome": "San Severino di Tivoli",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "San Valentino de Berrio Ochoa",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Cesario",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/01/novembre/"
+}

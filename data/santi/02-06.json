@@ -1,0 +1,63 @@
+{
+    "data": "02-06",
+    "giorno": 2,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "2 giugno",
+    "principali": [
+        {
+            "nome": "Santi Marcellino e Pietro",
+            "qualifica": "Martiri",
+            "descrizione": "Marcellino e Pietro appartenevano al clero romano. Il primo era prete, l'altro esorcista. Insigni per virtù e per prodigi, erano ammirati e venerati da tutti i fedeli e nello stesso tempo oggetto...",
+            "url": "https://www.santodelgiorno.it/santi-marcellino-e-pietro/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Erasmo di Formia",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-erasmo-di-formia/"
+        },
+        {
+            "nome": "San Nicola il Pellegrino",
+            "qualifica": "Devoto",
+            "url": "https://www.santodelgiorno.it/san-nicola-il-pellegrino/"
+        },
+        {
+            "nome": "Sant'Eugenio I",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/sant-eugenio-i/"
+        },
+        {
+            "nome": "Beato Sadoc e 48 compagni",
+            "qualifica": "Martiri domenicani",
+            "url": "https://www.santodelgiorno.it/beato-sadoc-e-48-compagni/"
+        },
+        {
+            "nome": "San Guido (Wido) d'Acqui",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Niceforo",
+            "qualifica": "Patriarca di Costantinopoli",
+            "url": null
+        },
+        {
+            "nome": "Santi Potino, Blandina e compagni",
+            "qualifica": "Martiri di Lione",
+            "url": null
+        },
+        {
+            "nome": "San Domenico Ninh",
+            "qualifica": "Santo",
+            "url": null
+        },
+        {
+            "nome": "San Valerio di Alvito",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/02/giugno/"
+}

@@ -1,0 +1,83 @@
+{
+    "data": "25-09",
+    "giorno": 25,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "25 settembre",
+    "principali": [
+        {
+            "nome": "San Cleofa",
+            "qualifica": "Discepolo di Gesù",
+            "descrizione": "San Cleofa fu un discepolo di Gesù. Durante il giorno della Resurrezione, a seguito delle celebrazioni pasquali, stava tornando insieme ad un altro discepolo, di nome Alfeo, verso le terre di Emmaus. Entrambi...",
+            "url": "https://www.santodelgiorno.it/san-cleofa/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sante Aurelia e Neomisia",
+            "qualifica": "Vergini",
+            "url": "https://www.santodelgiorno.it/sante-aurelia-e-neomisia/"
+        },
+        {
+            "nome": "San Firmino",
+            "qualifica": "Vescovo e Martire",
+            "url": "https://www.santodelgiorno.it/san-firmino/"
+        },
+        {
+            "nome": "San Sergio di Radonez",
+            "qualifica": "Religioso ed eremita",
+            "url": "https://www.santodelgiorno.it/san-sergio-di-radonez/"
+        },
+        {
+            "nome": "Beato Marco Criado di Andujar",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-marco-criado-di-andujar/"
+        },
+        {
+            "nome": "San Findbar di Cork",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-findbar-di-cork/"
+        },
+        {
+            "nome": "Sant'Aunacario di Auxerre",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-aunacario-di-auxerre/"
+        },
+        {
+            "nome": "Sant'Ermenfredo di Cusance",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Firmino di Amiens",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Codera Marques",
+            "qualifica": "Coadiutore salesiano, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Pietro (Giuseppe) Bengoa Aranguren, Paolo Maria (Pietro) Leoz y Portillo e Gesù Hita",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Paolo, Tatta e figli",
+            "qualifica": "Sposi e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Principio di Soissons",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Solennio (Solenne) di Chartres",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/25/settembre/"
+}

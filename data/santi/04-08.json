@@ -1,0 +1,93 @@
+{
+    "data": "04-08",
+    "giorno": 4,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "4 agosto",
+    "principali": [
+        {
+            "nome": "San Giovanni Maria Vianney",
+            "qualifica": "Sacerdote",
+            "descrizione": "San Giovanni Maria Vianney Dardilly, piccolo paesello della diocesi di Lione, fu la patria del santo Curato. La sua famiglia si dedicava ai lavori agricoli, e Giovanni medesimo, quando fu giunto all'et&agrave...",
+            "url": "https://www.santodelgiorno.it/san-giovanni-maria-vianney/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Cecilia Cesarini",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-cecilia-cesarini/"
+        },
+        {
+            "nome": "Santa Ia",
+            "qualifica": "Martire in Persia",
+            "url": "https://www.santodelgiorno.it/santa-ia/"
+        },
+        {
+            "nome": "Beato Federico Janssoone",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-federico-janssoone/"
+        },
+        {
+            "nome": "Beato Guglielmo Horne",
+            "qualifica": "Monaco certosino, martire",
+            "url": "https://www.santodelgiorno.it/beato-guglielmo-horne/"
+        },
+        {
+            "nome": "Sant'Aristarco",
+            "qualifica": "Discepolo di san Paolo",
+            "url": null
+        },
+        {
+            "nome": "Beata Berta",
+            "qualifica": "Badessa di Cavriglia",
+            "url": null
+        },
+        {
+            "nome": "Santi Crescenzione e Giustino",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eleuterio",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Enrico Giuseppe (Henryk Jozef) Krzysztofik",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eufronio di Tours",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni della Croce ed Egidio da Siviglia",
+            "qualifica": "Mercedari",
+            "url": null
+        },
+        {
+            "nome": "Beati Giuseppe Batalla Parramon, Giuseppe Rabasa Betanachs ed Egidio Rodicio Rodi",
+            "qualifica": "Salesiani, martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Gonzalo Gonzalo Gonzalo",
+            "qualifica": "Religioso e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Onofrio",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Rainerio (Raniero) di Cagli",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/04/agosto/"
+}

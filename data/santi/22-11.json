@@ -1,0 +1,68 @@
+{
+    "data": "22-11",
+    "giorno": 22,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "22 novembre",
+    "principali": [
+        {
+            "nome": "Solennità di Cristo Re",
+            "qualifica": "Re dell'Universo",
+            "descrizione": "Il Papa Pio XI, istituendo nell’anno Giubilare 1925 la nuova solennità di Cristo Re, pubblicò la sapientissima enciclica Quas primas. Ne riportiamo i punti principali. «Avendo...",
+            "url": "https://www.santodelgiorno.it/solennita-di-cristo-re/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Cecilia",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-cecilia/"
+        },
+        {
+            "nome": "Beato Salvatore Lilli",
+            "qualifica": "Francescano martire",
+            "url": "https://www.santodelgiorno.it/beato-salvatore-lilli/"
+        },
+        {
+            "nome": "Beato Tommaso Reggio",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-tommaso-reggio/"
+        },
+        {
+            "nome": "San Pietro Esqueda Ramirez",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-pietro-esqueda-ramirez/"
+        },
+        {
+            "nome": "Santi Filemone ed Appia",
+            "qualifica": "Sposi e martiri, discepoli di San Paolo",
+            "url": "https://www.santodelgiorno.it/santi-filemone-ed-appia/"
+        },
+        {
+            "nome": "San Benigno di Milano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-benigno-di-milano/"
+        },
+        {
+            "nome": "Sant'Anania di Arbela",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Elia Giuliano Torrido Sanchez e Bertrando Francesco Lahoz Moliner",
+            "qualifica": "Religiosi e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Prammazio (Pragmazio) di Autun",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Tirso Ed Emiliano",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/22/novembre/"
+}

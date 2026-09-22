@@ -1,0 +1,88 @@
+{
+    "data": "30-07",
+    "giorno": 30,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "30 luglio",
+    "principali": [
+        {
+            "nome": "San Pietro Crisologo",
+            "qualifica": "Vescovo e dottore della Chiesa",
+            "descrizione": "San Pietro Crisologo fu, nel V secolo, un importante difensore della Chiesa occidentale contro l’eresia eutichiana. Nato da un’agiata famiglia di Imola, fu battezzato dal vescovo San Cornelio...",
+            "url": "https://www.santodelgiorno.it/san-pietro-crisologo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Leopoldo Mandic",
+            "qualifica": "Sacerdote cappuccino",
+            "url": "https://www.santodelgiorno.it/san-leopoldo-mandic/"
+        },
+        {
+            "nome": "Santa Maria de Jesus Sacramentado",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-maria-de-jesus-sacramentado/"
+        },
+        {
+            "nome": "Santa Godeleva",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-godeleva/"
+        },
+        {
+            "nome": "Santi Abdon e Sennen",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-abdon-e-sennen/"
+        },
+        {
+            "nome": "Santa Giulitta di Cesarea",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-giulitta-di-cesarea/"
+        },
+        {
+            "nome": "Santa Massima, Donatilla e Seconda",
+            "qualifica": "Martiri in Africa",
+            "url": "https://www.santodelgiorno.it/santa-massima-donatilla-e-seconda/"
+        },
+        {
+            "nome": "Beati Braulio Maria (Paolo) Corres Díaz de Cerio e 14 compagni",
+            "qualifica": "Martiri Spagnoli Fatebenefratelli",
+            "url": null
+        },
+        {
+            "nome": "Beati Edoardo Powell, Riccardo Fetherston e Tommaso Abel",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Giuseppe Maria Muro Sanmiguel, Gioacchino Prats Baltuena e Zosimo Izquierdo Gil",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Giuseppe Yuan Gengyin",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Mannes (Manno) Guzman",
+            "qualifica": "Domenicano",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria Vicenta di S. Dorotea Chávez Orozco",
+            "qualifica": "Fondatrice",
+            "url": null
+        },
+        {
+            "nome": "Sant'Orso di Auxerre",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Sergio Cid Pazo",
+            "qualifica": "Sacerdote salesiano e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/30/luglio/"
+}

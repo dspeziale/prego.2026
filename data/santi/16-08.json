@@ -1,0 +1,113 @@
+{
+    "data": "16-08",
+    "giorno": 16,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "16 agosto",
+    "principali": [
+        {
+            "nome": "San Rocco",
+            "qualifica": "Pellegrino e Taumaturgo",
+            "descrizione": "Di questo Santo, che fu uno dei più illustri del secolo XIV e uno dei più cari a tutta la cristianità, si hanno poche notizie. Oriundo di Montpellier (Francia), della sua giovinezza...",
+            "url": "https://www.santodelgiorno.it/san-rocco/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Serena di Roma",
+            "qualifica": "Imperatrice",
+            "url": "https://www.santodelgiorno.it/santa-serena-di-roma/"
+        },
+        {
+            "nome": "Santo Stefano di Ungheria",
+            "qualifica": "Re",
+            "url": "https://www.santodelgiorno.it/santo-stefano-di-ungheria/"
+        },
+        {
+            "nome": "Beato Lorenzo Loricato di Subiaco",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/beato-lorenzo-loricato-di-subiaco/"
+        },
+        {
+            "nome": "Beato Angelo Mazzinghi",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-angelo-mazzinghi/"
+        },
+        {
+            "nome": "Sant'Armagilo",
+            "qualifica": "Abate in Bretagna",
+            "url": "https://www.santodelgiorno.it/sant-armagilo/"
+        },
+        {
+            "nome": "Santa Rosa Fan Hui",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-rosa-fan-hui/"
+        },
+        {
+            "nome": "Beata Pietra di San Giuseppe Pérez Florido",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-pietra-di-san-giuseppe-perez-florido/"
+        },
+        {
+            "nome": "Beato Enrico da Almazora",
+            "qualifica": "Diacono e martire",
+            "url": "https://www.santodelgiorno.it/beato-enrico-da-almazora/"
+        },
+        {
+            "nome": "Beato Placido Garcia Gilabert",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-placido-garcia-gilabert/"
+        },
+        {
+            "nome": "Sant'Arsacio di Nicomedia",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Frambaldo",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Beato Gabriele Maria da Benyfayo (Giuseppe Maria Sanchis Mompò)",
+            "qualifica": "Religioso e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Battista Menestrel",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni di S. Marta",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Radulfo (Rodolfo) di La Fustaie",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Beati Simone e Maddalena Bokusai Kyota, Tommaso e Maria Gengoro, e Giacomo Gengoro",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Teodoro di Octoduro",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Ispano",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ambrogio",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/16/agosto/"
+}

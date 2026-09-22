@@ -1,0 +1,103 @@
+{
+    "data": "18-09",
+    "giorno": 18,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "18 settembre",
+    "principali": [
+        {
+            "nome": "San Giuseppe da Copertino",
+            "qualifica": "Sacerdote",
+            "descrizione": "S. Giuseppe nacque a Copertino in Puglia nell'anno 1603 da pii genitori e prevenuto dall'amore di Dio, passò la sua infanzia in santa semplicità e purezza di costumi. Liberato dalla Vergine Madre di Dio...",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-da-copertino/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Arianna di Primnesso",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-arianna-di-primnesso/"
+        },
+        {
+            "nome": "Santa Riccarda",
+            "qualifica": "Imperatrice",
+            "url": "https://www.santodelgiorno.it/santa-riccarda/"
+        },
+        {
+            "nome": "Sant'Eustorgio I di Milano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eustorgio-i-di-milano/"
+        },
+        {
+            "nome": "San Ferreolo di Vienne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-ferreolo-di-vienne/"
+        },
+        {
+            "nome": "Beati Ambrogio Maria da Torrente (Salvatore Chulia Ferrandis) e 4 compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Carlos Erana Guruceta",
+            "qualifica": "Marianista, Martire Spagnolo",
+            "url": null
+        },
+        {
+            "nome": "Santi Costanzo e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Davide (Daudi) Okelo",
+            "qualifica": "Catechista martire ugandese",
+            "url": null
+        },
+        {
+            "nome": "San Domenico Trach",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eumenio di Gortina",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beati Ferdinando Garcia Sendra e Giuseppe Garcia Mas",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Ferreolo di Limoges",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Gildo (Jildo) Irwa",
+            "qualifica": "Catechista martire ugandese",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe (Jozef) Kut",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Oceano",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Sinerio (Senario) d'Avranches",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sante Sofia e Irene",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/18/settembre/"
+}

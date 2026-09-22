@@ -1,0 +1,113 @@
+{
+    "data": "26-09",
+    "giorno": 26,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "26 settembre",
+    "principali": [
+        {
+            "nome": "Santi Cosma e Damiano",
+            "qualifica": "Martiri",
+            "descrizione": "I santi martiri Cosma e Damiano furono fratelli gemelli, secondo il Martirologio Romano, e compagni non solo di sangue, ma anche di fede e di martirio. Studiarono assieme medicina in Siria e salirono ben...",
+            "url": "https://www.santodelgiorno.it/santi-cosma-e-damiano/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Cipriano e Giustina",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-cipriano-e-giustina/"
+        },
+        {
+            "nome": "San Nilo da Rossano",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-nilo-da-rossano/"
+        },
+        {
+            "nome": "Santa Teresa Couderc",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-teresa-couderc/"
+        },
+        {
+            "nome": "Beata Lucia da Caltagirone",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-lucia-da-caltagirone/"
+        },
+        {
+            "nome": "Beato Luigi Tezza",
+            "qualifica": "Fondatore",
+            "url": "https://www.santodelgiorno.it/beato-luigi-tezza/"
+        },
+        {
+            "nome": "Beato Gaspare Stanggassinger",
+            "qualifica": "Redentorista",
+            "url": "https://www.santodelgiorno.it/beato-gaspare-stanggassinger/"
+        },
+        {
+            "nome": "Beato Bonaventura da Puzol (Julio Esteve Flors)",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Crescenza Valls Espi",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eusebio di Bologna",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Gedeone",
+            "qualifica": "Giudice d?Israele",
+            "url": null
+        },
+        {
+            "nome": "Beato Leone Maria da Alacuas (Emanuele Legua Martì)",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria del Olvido Noguera Albelda",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Beate Maria del Rifugio (Teresa Rosat Balasch) e Maria del Calvario (Giuseppina Romero Clariana)",
+            "qualifica": "Vergini e martiri",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria Jorda Botella",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Raffaele Pardo Molina e Giuseppe Maria Vidal Segu",
+            "qualifica": "Domenicani, martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Sebastiano Nam I-gwan e compagni, Lucia Kim, Caterina Yi e Maddalena Cho",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Senatore d'Albano",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Stefano di Rossano Calabro",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "San Vigilio di Brescia",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/26/settembre/"
+}

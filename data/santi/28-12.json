@@ -1,0 +1,53 @@
+{
+    "data": "28-12",
+    "giorno": 28,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "28 dicembre",
+    "principali": [
+        {
+            "nome": "Santi Innocenti",
+            "qualifica": "Martiri",
+            "descrizione": "I Santi Innocenti sono quei bambini che furono trucidati in Betlemme e nei dintorni, quando il crudele Erode volle mettere a morte Gesù Cristo. Essi, non con la confessione della voce, ma con l'effusione...",
+            "url": "https://www.santodelgiorno.it/santi-innocenti/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Gaspare Del Bufalo",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-gaspare-del-bufalo/"
+        },
+        {
+            "nome": "Santa Caterina Volpicelli",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-caterina-volpicelli/"
+        },
+        {
+            "nome": "Beata Mattia Nazzareni",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/beata-mattia-nazzareni/"
+        },
+        {
+            "nome": "Sant'Antonio di Lerins",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/sant-antonio-di-lerins/"
+        },
+        {
+            "nome": "Beato Gregorio da Chaors",
+            "qualifica": "Mercedario",
+            "url": null
+        },
+        {
+            "nome": "Beato Hryhorij Khomysyn",
+            "qualifica": "Vescovo e martire ucraino",
+            "url": null
+        },
+        {
+            "nome": "San Teona (Teone) d'Alessandria",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/28/dicembre/"
+}

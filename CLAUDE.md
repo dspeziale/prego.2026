@@ -44,6 +44,11 @@ python webapp/users.py remove <utente>
 #    + REPORT.md con avvisi e giornate mancanti
 python scripts/biennale_raw_to_json.py --pulisci
 
+# Santi del giorno da santodelgiorno.it -> data/santi/GG-MM.json
+# (366 giorni del calendario, indipendenti dall'anno: si fa una volta;
+#  --solo-mancanti completa i buchi senza riscrivere)
+python scripts/collect_santi.py --solo-mancanti
+
 # Build APK Android (serve JDK 17)
 cd android && ./gradlew assembleDebug   # gradlew.bat su Windows
 
@@ -130,4 +135,4 @@ mese è: Raccolta → deploy → apri l'app → ⟳.
 - La pagina Omelia richiede `YOUTUBE_API_KEY` (env) o `youtube_api_key`
   in `config.json`; senza chiave mostra un avviso e il resto funziona.
 - `config.json` `version`, `versionName` in `android/app/build.gradle.kts`
-  e il footer della webapp vanno tenuti allineati (oggi 2.09).
+  e il footer della webapp vanno tenuti allineati (oggi 2.10).

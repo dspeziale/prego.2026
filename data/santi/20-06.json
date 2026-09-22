@@ -1,0 +1,68 @@
+{
+    "data": "20-06",
+    "giorno": 20,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "20 giugno",
+    "principali": [
+        {
+            "nome": "Beata Vergine Maria Consolatrice",
+            "qualifica": "Consolatrice degli Afflitti",
+            "descrizione": "Consolatrice degli Afflitti. Questo il titolo attribuito a Maria, madre di Gesù, sin dai primi tempi del Cristianesimo. Ma da cosa deriva questa \"natura consolatrice\" di Maria? Il titolo in questione...",
+            "url": "https://www.santodelgiorno.it/beata-vergine-maria-consolatrice/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Giovanni da Matera",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-giovanni-da-matera/"
+        },
+        {
+            "nome": "Sant'Ettore",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-ettore/"
+        },
+        {
+            "nome": "Beato Dermot (Dermizio) O'Hurley",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Francesco Pacheco e compagni",
+            "qualifica": "Gesuita, martire in Giappone",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Battista Zola",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Gobano",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Beata Margherita Ball",
+            "qualifica": "Madre di famiglia, martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Margherita Ebner",
+            "qualifica": "Domenicana",
+            "url": null
+        },
+        {
+            "nome": "San Metodio di Olimpo",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Tommaso Whitbread e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/20/giugno/"
+}

@@ -1,0 +1,133 @@
+{
+    "data": "15-07",
+    "giorno": 15,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "15 luglio",
+    "principali": [
+        {
+            "nome": "San Bonaventura",
+            "qualifica": "Vescovo e dottore della Chiesa",
+            "descrizione": "Nell'anno 1221 nasceva in Bagnoregio (Lazio) San Bonaventura che al fonte battesimale fu chiamato Giovanni. Essendosi ammalato gravemente all'età di quattro anni, la mamma lo raccomandò a...",
+            "url": "https://www.santodelgiorno.it/san-bonaventura/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Vladimiro di Kiev",
+            "qualifica": "Principe",
+            "url": "https://www.santodelgiorno.it/san-vladimiro-di-kiev/"
+        },
+        {
+            "nome": "San Pompilio Maria Pirrotti",
+            "qualifica": "Padre Scolopio",
+            "url": "https://www.santodelgiorno.it/san-pompilio-maria-pirrotti/"
+        },
+        {
+            "nome": "San Davide di Svezia",
+            "qualifica": "Monaco e vescovo",
+            "url": "https://www.santodelgiorno.it/san-davide-di-svezia/"
+        },
+        {
+            "nome": "Sant'Atanasio di Napoli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-atanasio-di-napoli/"
+        },
+        {
+            "nome": "Beata Anna Maria Javouhey",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-anna-maria-javouhey/"
+        },
+        {
+            "nome": "San Giuseppe Studita di Tessalonica",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-studita-di-tessalonica/"
+        },
+        {
+            "nome": "Beato Bernardo II di Baden",
+            "qualifica": "Margravio",
+            "url": "https://www.santodelgiorno.it/beato-bernardo-ii-di-baden/"
+        },
+        {
+            "nome": "San Felice di Tubzak",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-felice-di-tubzak/"
+        },
+        {
+            "nome": "Beato Ignazio de Azevedo e 39 compagni",
+            "qualifica": "Gesuiti, martiri",
+            "url": "https://www.santodelgiorno.it/beato-ignazio-de-azevedo-e-39-compagni/"
+        },
+        {
+            "nome": "San Giacomo di Nisibi",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giacomo-di-nisibi/"
+        },
+        {
+            "nome": "Beato Ceslao di Cracovia",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-ceslao-di-cracovia/"
+        },
+        {
+            "nome": "Santa Rosalia",
+            "qualifica": "Ritrovamento delle reliquie",
+            "url": "https://www.santodelgiorno.it/santa-rosalia-ritrovamento-delle-reliquie/"
+        },
+        {
+            "nome": "Beato Antonio Beszta-Borowski",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-antonio-beszta-borowski/"
+        },
+        {
+            "nome": "San Pietro Nguyen Ba Tuan",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-pietro-nguyen-ba-tuan/"
+        },
+        {
+            "nome": "Sant'Abudemio",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Andrea Nguyen Kim Thong Nam",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ansuero di Ratzeburg",
+            "qualifica": "Abate e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Catulino e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Eutropio, Zosima e Bonosa",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Filippo e dieci infanti",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Gumberto di Ansbach",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Beato Michele Bernardo Marchand",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Plechelmo",
+            "qualifica": "Vescovo missionario",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/15/luglio/"
+}

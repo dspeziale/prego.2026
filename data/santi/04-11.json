@@ -1,0 +1,68 @@
+{
+    "data": "04-11",
+    "giorno": 4,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "4 novembre",
+    "principali": [
+        {
+            "nome": "San Carlo Borromeo",
+            "qualifica": "Vescovo",
+            "descrizione": "San Carlo, fulgida gloria della Chiesa, nacque ad Arona sul Lago Maggiore il 2 ottobre 1538 dal conte Gilberto Borromeo e Margherita de’ Medici, nella stanza detta all’epoca “dei Tre...",
+            "url": "https://www.santodelgiorno.it/san-carlo-borromeo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Vitale e Agricola",
+            "qualifica": "Protomartiri bolognesi",
+            "url": "https://www.santodelgiorno.it/santi-vitale-e-agricola/"
+        },
+        {
+            "nome": "Beata Elena Enselmini",
+            "qualifica": "Monaca",
+            "url": "https://www.santodelgiorno.it/beata-elena-enselmini/"
+        },
+        {
+            "nome": "San Felice di Valois",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-felice-di-valois/"
+        },
+        {
+            "nome": "Sant'Emerico d'Ungheria",
+            "qualifica": "Principe",
+            "url": "https://www.santodelgiorno.it/sant-emerico-d-ungheria/"
+        },
+        {
+            "nome": "Beata Francesca D'Amboise",
+            "qualifica": "Duchessa di Britannia",
+            "url": "https://www.santodelgiorno.it/beata-francesca-d-amboise/"
+        },
+        {
+            "nome": "San Pierio",
+            "qualifica": "Prete",
+            "url": "https://www.santodelgiorno.it/san-pierio-prete/"
+        },
+        {
+            "nome": "Sant'Amanzio di Rodez",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santa Modesta di Treviri",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "Santi Nicandro ed Ermeo (Ermete)",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Perpetuo di Maastricht",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/04/novembre/"
+}

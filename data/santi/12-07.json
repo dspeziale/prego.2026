@@ -1,0 +1,98 @@
+{
+    "data": "12-07",
+    "giorno": 12,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "12 luglio",
+    "principali": [
+        {
+            "nome": "Santi Ermagora e Fortunato di Aquileia",
+            "qualifica": "Martiri",
+            "descrizione": "La definizione della personalità di Ermagora e lo sviluppo del suo culto, destinato ad avere grande importanza nell'Italia nordorientale, risale a quanto sembra al VII sec., quando, in seguito allo...",
+            "url": "https://www.santodelgiorno.it/santi-ermagora-e-fortunato/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Giovanni Gualberto",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-giovanni-gualberto/"
+        },
+        {
+            "nome": "San Lucio di Cavargna",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-lucio-di-cavargna/"
+        },
+        {
+            "nome": "San Paterniano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-paterniano/"
+        },
+        {
+            "nome": "San Leone I",
+            "qualifica": "Secondo Abate di Cava",
+            "url": "https://www.santodelgiorno.it/san-leone-i-di-cava-dei-tirreni/"
+        },
+        {
+            "nome": "Sant'Ignazio Clemente Delgado",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-ignazio-clemente-delgado/"
+        },
+        {
+            "nome": "Santa Veronica",
+            "qualifica": "Pia donna",
+            "url": "https://www.santodelgiorno.it/santa-veronica-pia-donna/"
+        },
+        {
+            "nome": "San Paolino di Lucca",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-paolino-di-lucca/"
+        },
+        {
+            "nome": "Sant'Agnese Le Thi Thanh (De)",
+            "qualifica": "Madre di famiglia, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Davide Gonson (Gunston)",
+            "qualifica": "Cavaliere di Malta, martire",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Jones",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beate Marta del Buon Angelo (Maria Cluse) e 3 compagne",
+            "qualifica": "Vergini e martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Mattia Araki e 7 compagni",
+            "qualifica": "Martiri giapponesi",
+            "url": null
+        },
+        {
+            "nome": "Santi Nabore e Felice",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Khanh",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Proclo ed Ilarione",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Vivenziolo di Lione",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/12/luglio/"
+}

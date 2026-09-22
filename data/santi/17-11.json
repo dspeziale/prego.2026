@@ -1,0 +1,108 @@
+{
+    "data": "17-11",
+    "giorno": 17,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "17 novembre",
+    "principali": [
+        {
+            "nome": "Sant'Elisabetta d'Ungheria",
+            "qualifica": "Religiosa",
+            "descrizione": "Santa Elisabetta, figlia di Andrea re d’Ungheria e di Gertrude, nacque a Presburgo, allora regno d’Ungheria, nell’anno 1207. A soli quattro anni, secondo l’uso del tempo, fu promessa...",
+            "url": "https://www.santodelgiorno.it/sant-elisabetta-d-ungheria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Gregorio Taumaturgo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gregorio-taumaturgo/"
+        },
+        {
+            "nome": "Sant'Ilda",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/sant-ilda-badessa/"
+        },
+        {
+            "nome": "Santi Acisclo e Vittoria",
+            "qualifica": "Martiri di Cordova",
+            "url": "https://www.santodelgiorno.it/santi-acisclo-e-vittoria/"
+        },
+        {
+            "nome": "Santi Alfio e Zaccheo",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-alfio-e-zaccheo/"
+        },
+        {
+            "nome": "San Gregorio di Tours",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gregorio-di-tours/"
+        },
+        {
+            "nome": "Sant'Ugo di Lincoln",
+            "qualifica": "Monaco e vescovo",
+            "url": "https://www.santodelgiorno.it/sant-ugo-di-lincoln/"
+        },
+        {
+            "nome": "Beata Salomea da Cracovia",
+            "qualifica": "Regina d'Ungheria, badessa",
+            "url": "https://www.santodelgiorno.it/beata-salomea-da-cracovia/"
+        },
+        {
+            "nome": "Sant'Aniano d'Orleans",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-aniano-d-orleans/"
+        },
+        {
+            "nome": "Santa Munditia Protogenia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-munditia-protogenia/"
+        },
+        {
+            "nome": "San Florin",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Giordano Ansalone",
+            "qualifica": "Sacerdote domenicano, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Josafat Kocylovskyj",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Lazzaro",
+            "qualifica": "Monaco a Costantinopoli",
+            "url": null
+        },
+        {
+            "nome": "Beato Lupo Sebastiano Hunot",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Namazio di Vienne",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Tommaso Hioji Kokuzayemon Nishi",
+            "qualifica": "Sacerdote domenicano, martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ugo di Novara di Sicilia",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni del Castillo",
+            "qualifica": "Sacerdote",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/17/novembre/"
+}

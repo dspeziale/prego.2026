@@ -1,0 +1,113 @@
+{
+    "data": "17-09",
+    "giorno": 17,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "17 settembre",
+    "principali": [
+        {
+            "nome": "San Roberto Bellarmino",
+            "qualifica": "Vescovo e dottore della Chiesa",
+            "descrizione": "Roberto Bellarmino nacque a Montepulciano il 4 ottobre 1542 da Cinzia Cervini, sorella di papa Marcello II, e da Vincenzo Bellarmino. Fin da bambino mostrò un forte attaccamento alle cose di Dio...",
+            "url": "https://www.santodelgiorno.it/san-roberto-bellarmino/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Adriana di Frisia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-adriana-di-frisia/"
+        },
+        {
+            "nome": "Stimmate di San Francesco d'Assisi",
+            "qualifica": "L'apparizione dell'Altissimo",
+            "url": "https://www.santodelgiorno.it/stimmate-di-san-francesco/"
+        },
+        {
+            "nome": "Sant'Ildegarda di Bingen",
+            "qualifica": "Vergine e dottore della Chiesa",
+            "url": "https://www.santodelgiorno.it/sant-ildegarda-di-bingen/"
+        },
+        {
+            "nome": "San Francesco Maria da Camporosso",
+            "qualifica": "Laico cappuccino",
+            "url": "https://www.santodelgiorno.it/san-francesco-da-camporosso/"
+        },
+        {
+            "nome": "Santa Colomba di Cordova",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-colomba-di-cordova/"
+        },
+        {
+            "nome": "San Lamberto di Maastricht",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-lamberto/"
+        },
+        {
+            "nome": "San Satiro",
+            "qualifica": "Fratello di Sant'Ambrogio",
+            "url": "https://www.santodelgiorno.it/san-satiro/"
+        },
+        {
+            "nome": "San Sigismondo Felice Felinski",
+            "qualifica": "Vescovo di Varsavia",
+            "url": "https://www.santodelgiorno.it/san-sigismondo-felice-felinski/"
+        },
+        {
+            "nome": "San Pietro di Arbues",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-pietro-di-arbues/"
+        },
+        {
+            "nome": "Beata Leonella Sgorbati",
+            "qualifica": "Missionaria e martire",
+            "url": "https://www.santodelgiorno.it/beata-leonella-sgorbati/"
+        },
+        {
+            "nome": "San Stanislao di Gesù Maria",
+            "qualifica": "Sacerdote, fondatore",
+            "url": "https://www.santodelgiorno.it/san-stanislao-di-gesu-maria/"
+        },
+        {
+            "nome": "Beato Giovanni Ventura Solsona",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-ventura-solsona/"
+        },
+        {
+            "nome": "Beato Timoteo Valero Perez",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-timoteo-valero-perez/"
+        },
+        {
+            "nome": "Beato Sigismondo Sajna",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-sigismondo-sajna/"
+        },
+        {
+            "nome": "Beato Cherubino Testa",
+            "qualifica": "Sacerdote agostiniano",
+            "url": "https://www.santodelgiorno.it/beato-cherubino-testa/"
+        },
+        {
+            "nome": "Sant'Emanuele Nguyen Van Trieu",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Reginaldo",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Rodingo di Beaulieu",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Santa Teodora",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/17/settembre/"
+}

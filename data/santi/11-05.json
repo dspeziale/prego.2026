@@ -1,0 +1,83 @@
+{
+    "data": "11-05",
+    "giorno": 11,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "11 maggio",
+    "principali": [
+        {
+            "nome": "Sant'Ignazio da Laconi",
+            "qualifica": "Frate cappuccino",
+            "descrizione": "Ignazio nacque a Laconi, nel cuore della Sardegna, nel 1701. Nel piccolo paese vicino alle montagne del Gennargentu, crebbe timorato di Dio e ancora adolescente già praticava digiuni e mortificazioni...",
+            "url": "https://www.santodelgiorno.it/sant-ignazio-da-laconi/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Fabio",
+            "qualifica": "Martire in Sabina",
+            "url": "https://www.santodelgiorno.it/san-fabio/"
+        },
+        {
+            "nome": "Sant'Antimo e compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/sant-antimo-e-compagni/"
+        },
+        {
+            "nome": "San Francesco De Geronimo",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-francesco-de-geronimo/"
+        },
+        {
+            "nome": "Santa Stella (Eustella)",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-stella-eustella/"
+        },
+        {
+            "nome": "San Maiolo",
+            "qualifica": "Abate di Cluny",
+            "url": "https://www.santodelgiorno.it/san-maiolo/"
+        },
+        {
+            "nome": "San Mamerto di Vienne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-mamerto-di-vienne/"
+        },
+        {
+            "nome": "San Gengolfo",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-gengolfo/"
+        },
+        {
+            "nome": "San Gualterio di Esterp",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-gualterio-di-esterp/"
+        },
+        {
+            "nome": "Beati Giovanni Rochester e Giacomo Walworth",
+            "qualifica": "Sacerdoti certosini, martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Gregorio Celli",
+            "qualifica": "Religioso",
+            "url": null
+        },
+        {
+            "nome": "San Maiulo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Matteo Le Van Gam",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Mocio (Mozio)",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/11/maggio/"
+}

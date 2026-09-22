@@ -1,0 +1,68 @@
+{
+    "data": "07-05",
+    "giorno": 7,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "7 maggio",
+    "principali": [
+        {
+            "nome": "Santa Flavia Domitilla",
+            "qualifica": "Martire",
+            "descrizione": "Nel fitto groviglio delle vicende storiche dell'antica Roma, emerge la figura luminosa di Santa Flavia Domitilla, donna di straordinaria fede e coraggio. La tradizione ci tramanda la sua storia, intrecciata...",
+            "url": "https://www.santodelgiorno.it/santa-flavia-domitilla/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Rosa Venerini",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/santa-rosa-venerini/"
+        },
+        {
+            "nome": "Sant'Agostino Roscelli",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/sant-agostino-roscelli/"
+        },
+        {
+            "nome": "Beata Gisella d'Ungheria",
+            "qualifica": "Regina, badessa",
+            "url": "https://www.santodelgiorno.it/beata-gisella-d-ungheria/"
+        },
+        {
+            "nome": "Sant'Antonio Pecierskij",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/sant-antonio-pecierskij/"
+        },
+        {
+            "nome": "San Giovanni di Beverley",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giovanni-di-beverley/"
+        },
+        {
+            "nome": "Sant'Agostino di Nicomedia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Alberto da Bergamo",
+            "qualifica": "Domenicano",
+            "url": null
+        },
+        {
+            "nome": "San Flavio di Nicomedia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Cenerico",
+            "qualifica": "Monaco e diacono",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco Paleari",
+            "qualifica": "Sacerdote cottolenghino",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/07/maggio/"
+}

@@ -1,0 +1,103 @@
+{
+    "data": "12-05",
+    "giorno": 12,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "12 maggio",
+    "principali": [
+        {
+            "nome": "Santi Nereo e Achilleo",
+            "qualifica": "Martiri",
+            "descrizione": "Sono due martiri gloriosi, molto venerati dal popolo cristiano. Da un frammento dell'epigrafe composta dal Papa S. Damaso e posta sulla tomba dei martiri si sa che i erano pretoriani di Nerone ed eseguivano...",
+            "url": "https://www.santodelgiorno.it/santi-nereo-e-achilleo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Leopoldo Mandic",
+            "qualifica": "Sacerdote cappuccino",
+            "url": "https://www.santodelgiorno.it/san-leopoldo-mandic/"
+        },
+        {
+            "nome": "San Pancrazio",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-pancrazio/"
+        },
+        {
+            "nome": "San Germano",
+            "qualifica": "Patriarca di Costantinopoli",
+            "url": "https://www.santodelgiorno.it/san-germano-di-costantinopoli/"
+        },
+        {
+            "nome": "Beata Imelda Lambertini",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-imelda-lambertini/"
+        },
+        {
+            "nome": "San Domenico della Calzada",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-domenico-della-calzada/"
+        },
+        {
+            "nome": "Beata Giovanna di Portogallo",
+            "qualifica": "Domenicana",
+            "url": "https://www.santodelgiorno.it/beata-giovanna-di-portogallo/"
+        },
+        {
+            "nome": "Sant'Epifanio di Costanza di Cipro",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-epifanio-di-costanza-di-cipro/"
+        },
+        {
+            "nome": "Santa Rictrude",
+            "qualifica": "Sposa, badessa",
+            "url": "https://www.santodelgiorno.it/santa-rictrude/"
+        },
+        {
+            "nome": "San Modoaldo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-modoaldo/"
+        },
+        {
+            "nome": "Sant'Achilleo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Nereo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Cirillo",
+            "qualifica": "Martire in Mesia",
+            "url": null
+        },
+        {
+            "nome": "San Crispolto (Crispolito) e compagni",
+            "qualifica": "Martiri di Bettona",
+            "url": null
+        },
+        {
+            "nome": "San Filippo",
+            "qualifica": "Diacono",
+            "url": null
+        },
+        {
+            "nome": "San Filippo di Agira",
+            "qualifica": "Sacerdote, esorcista",
+            "url": null
+        },
+        {
+            "nome": "Santa Maria di Campiglione",
+            "qualifica": "Apparizione",
+            "url": null
+        },
+        {
+            "nome": "Beato Álvaro del Portillo",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/12/maggio/"
+}

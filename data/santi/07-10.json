@@ -1,0 +1,63 @@
+{
+    "data": "07-10",
+    "giorno": 7,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "7 ottobre",
+    "principali": [
+        {
+            "nome": "Beata Vergine Maria del Rosario",
+            "qualifica": "Apparizione",
+            "descrizione": "La Madonna apparve a San Domenico di Guzman e gli consegnò il rosario come risposta alle sue preghiera per vincere l’eresia albigese.",
+            "url": "https://www.santodelgiorno.it/beata-vergine-maria-del-rosario/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Giustina di Padova",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-giustina-di-padova/"
+        },
+        {
+            "nome": "San Marcello",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-marcello/"
+        },
+        {
+            "nome": "San Marco I",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-marco-i/"
+        },
+        {
+            "nome": "Sant'Augusto di S. Sinforiano",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-augusto-di-s-sinforiano/"
+        },
+        {
+            "nome": "Beato Giuseppe Llosa Balaguer",
+            "qualifica": "Diacono e martire",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-llosa-balaguer/"
+        },
+        {
+            "nome": "Beato Martino Cid",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/beato-martino-cid/"
+        },
+        {
+            "nome": "San Palladio di Saintes",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-palladio-di-saintes/"
+        },
+        {
+            "nome": "Beato Giovanni Hunot",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Sergio e Bacco",
+            "qualifica": "Martiri in Siria",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/07/ottobre/"
+}

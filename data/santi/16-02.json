@@ -1,0 +1,53 @@
+{
+    "data": "16-02",
+    "giorno": 16,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "16 febbraio",
+    "principali": [
+        {
+            "nome": "Santa Giuliana di Nicomedia",
+            "qualifica": "Vergine e martire",
+            "descrizione": "Santa Giuliana, quella che spaventò il demonio. Le storie, o meglio le leggende, delle sante martiri dei primi secoli del Cristianesimo sembrano, a prima vista, tutte simili. Hanno invece sfumature...",
+            "url": "https://www.santodelgiorno.it/santa-giuliana/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Giuseppe Allamano",
+            "qualifica": "Presbitero e fondatore",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-allemano/"
+        },
+        {
+            "nome": "Santi Elia, Geremia, Isaia, Samuele e Daniele e compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-elia-geremia-isaia-samuele-e-daniele-e-compagni/"
+        },
+        {
+            "nome": "Beato Nicola Paglia",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-nicola-paglia/"
+        },
+        {
+            "nome": "Beata Filippa Mareri",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-filippa-mareri/"
+        },
+        {
+            "nome": "Beato Mariano Arciero",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-mariano-arciero/"
+        },
+        {
+            "nome": "San Panfilo e compagni",
+            "qualifica": "Martiri di Cesarea di Palestina",
+            "url": "https://www.santodelgiorno.it/san-panfilo-e-compagni/"
+        },
+        {
+            "nome": "San Maruta",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-maruta/"
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/16/febbraio/"
+}

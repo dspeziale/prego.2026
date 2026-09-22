@@ -1,0 +1,108 @@
+{
+    "data": "16-07",
+    "giorno": 16,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "16 luglio",
+    "principali": [
+        {
+            "nome": "Beata Vergine Maria del Monte Carmelo",
+            "qualifica": "Apparizione",
+            "descrizione": "Sul Monte Carmelo la Madonna apparve a Simone Stock carmelitano consegnandogli lo scapolare e rivelandogli il privilegio di chi lo avesse in punto di morte.",
+            "url": "https://www.santodelgiorno.it/beata-vergine-maria-del-monte-carmelo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Maria Maddalena Postel",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/santa-maria-maddalena-postel/"
+        },
+        {
+            "nome": "Sant'Atenogene di Sebaste",
+            "qualifica": "Corepiscopo e martire",
+            "url": "https://www.santodelgiorno.it/sant-atenogene-di-sebaste/"
+        },
+        {
+            "nome": "Beata Irmengarda",
+            "qualifica": "Badessa di Frauenwörth",
+            "url": "https://www.santodelgiorno.it/beata-irmengarda/"
+        },
+        {
+            "nome": "Santi Reinilde, Grimoaldo e Gondolfo",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-reinilde-grimoaldo-e-gondolfo/"
+        },
+        {
+            "nome": "San Bartolomeo Fernandes des Martires",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-bartolomeo-fernandes-des-martires/"
+        },
+        {
+            "nome": "Sant'Elerio di Jersey",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/sant-elerio-di-jersey/"
+        },
+        {
+            "nome": "Carlotta Nobile",
+            "qualifica": "Giovane laica",
+            "url": "https://www.santodelgiorno.it/carlotta-nobile/"
+        },
+        {
+            "nome": "Beate Amata da Gesù (Maria Rosa) de Gordon e 6 compagne",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Andrea de Soveral e Domenico Carvalho",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Antioco",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Claude Beguignot",
+            "qualifica": "Certosino, martire della Rivoluzione Francese",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni Sugar e Roberto Grissold",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Lang Yangzhi e Paolo Lang Fu",
+            "qualifica": "Martiri cinesi",
+            "url": null
+        },
+        {
+            "nome": "Santi Monolfo e Gondolfo",
+            "qualifica": "Vescovi",
+            "url": null
+        },
+        {
+            "nome": "Beato Simone da Costa",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Sisenando di Cordova",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Teresa Zhang Hezhi",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Nicola Savouret",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/16/luglio/"
+}

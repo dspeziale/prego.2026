@@ -1,0 +1,98 @@
+{
+    "data": "04-12",
+    "giorno": 4,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "4 dicembre",
+    "principali": [
+        {
+            "nome": "Santa Barbara",
+            "qualifica": "Martire",
+            "descrizione": "Santa Barbara nacque in Nicomedia attuale İzmit in Turchia ed ebbe a padre Dioscoro, crudelissimo persecutore dei cristiani. Essendo educata nelle lettere, conobbe la sublima storia dei misteri cristiani...",
+            "url": "https://www.santodelgiorno.it/santa-barbara-martire/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Giovanni Damasceno",
+            "qualifica": "Sacerdote e dottore della Chiesa",
+            "url": "https://www.santodelgiorno.it/san-giovanni-damasceno/"
+        },
+        {
+            "nome": "San Giovanni Calabria",
+            "qualifica": "Presbitero",
+            "url": "https://www.santodelgiorno.it/san-giovanni-calabria/"
+        },
+        {
+            "nome": "Sant'Ada di Le Mans",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/sant-ada-di-le-mans/"
+        },
+        {
+            "nome": "San Bernardo di Parma",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-bernardo-di-parma/"
+        },
+        {
+            "nome": "Sant'Osmund di Salisbury",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-osmund-di-salisbury/"
+        },
+        {
+            "nome": "Beato Pietro Pettinaio",
+            "qualifica": "Terziario francescano",
+            "url": "https://www.santodelgiorno.it/beato-pietro-pettinaio/"
+        },
+        {
+            "nome": "Beati Francesco Gálvez, Girolamo de Angelis e Simone Yempo",
+            "qualifica": "Martiri nel Giappone",
+            "url": "https://www.santodelgiorno.it/beati-francesco-galvez-girolamo-de-angelis-e-simone-yempo/"
+        },
+        {
+            "nome": "Beato Adolfo Kolping",
+            "qualifica": "Sacerdote, fondatore",
+            "url": "https://www.santodelgiorno.it/beato-adolfo-kolping/"
+        },
+        {
+            "nome": "San Sola",
+            "qualifica": "Eremita a Eichstatt",
+            "url": "https://www.santodelgiorno.it/san-sola-eremita/"
+        },
+        {
+            "nome": "Sant'Annone di Colonia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-annone-di-colonia/"
+        },
+        {
+            "nome": "San Sigiranno",
+            "qualifica": "Abate nel Berry",
+            "url": "https://www.santodelgiorno.it/san-sigiranno/"
+        },
+        {
+            "nome": "Sant'Apro",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eracla di Alessandria",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Felice di Bologna",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni il Taumaturgo",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Melezio di Sebastopoli",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/04/dicembre/"
+}

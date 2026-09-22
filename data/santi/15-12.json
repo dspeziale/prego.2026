@@ -1,0 +1,53 @@
+{
+    "data": "15-12",
+    "giorno": 15,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "15 dicembre",
+    "principali": [
+        {
+            "nome": "Santa Virginia Centurione Bracelli",
+            "qualifica": "Vedova",
+            "descrizione": "Sebbene sentisse nel suo animo la vocazione religiosa sin dalla tenera età, Virginia Centurione non riuscì a convincere i suoi genitori di avere una predisposizione per la vita religiosa...",
+            "url": "https://www.santodelgiorno.it/santa-virginia-centurione-bracelli/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Cristiana di Georgia",
+            "qualifica": "Missionaria",
+            "url": "https://www.santodelgiorno.it/santa-cristiana-di-georgia/"
+        },
+        {
+            "nome": "Santa Maria Crocifissa di Rosa",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-maria-crocifissa-di-rosa/"
+        },
+        {
+            "nome": "Beata Maria Vittoria de Fornari Strata",
+            "qualifica": "Vedova e religiosa",
+            "url": "https://www.santodelgiorno.it/beata-maria-vittoria-de-fornari-strata/"
+        },
+        {
+            "nome": "San Valeriano di Avensano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-valeriano-di-avensano/"
+        },
+        {
+            "nome": "Beato Carlo Steeb",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-carlo-steeb/"
+        },
+        {
+            "nome": "Beato Marino",
+            "qualifica": "Abate di Cava dei Tirreni",
+            "url": null
+        },
+        {
+            "nome": "San Massimino di Micy",
+            "qualifica": "Abate",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/15/dicembre/"
+}

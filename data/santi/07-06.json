@@ -1,0 +1,48 @@
+{
+    "data": "07-06",
+    "giorno": 7,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "7 giugno",
+    "principali": [
+        {
+            "nome": "Corpus Domini",
+            "qualifica": "Solennità del corpo e sangue di Cristo",
+            "descrizione": "Verso la metà della cena, prese il pane, alzò gli occhi al cielo, lo benedisse, lo spezzò e lo distribuì agli Apostoli dicendo: « Prendete e mangiate; questo è il mio Corpo ». Similmente fece del vino che distribuì dicendo: « Prendete e bevete, questo è il mio Sangue; ogni qualvolta farete questo, fatelo in mia memoria »",
+            "url": "https://www.santodelgiorno.it/corpus-domini/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Roberto di Newminster",
+            "qualifica": "Abate cistercense",
+            "url": "https://www.santodelgiorno.it/san-roberto-di-newminster/"
+        },
+        {
+            "nome": "Sant'Antonio Maria Gianelli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-antonio-maria-gianelli/"
+        },
+        {
+            "nome": "Beata Anna di San Bartolomeo",
+            "qualifica": "Carmelitana Scalza",
+            "url": "https://www.santodelgiorno.it/beata-anna-di-san-bartolomeo/"
+        },
+        {
+            "nome": "Beata Maria Teresa de Soubiran La Louvière",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-teresa-de-soubiran/"
+        },
+        {
+            "nome": "San Coloman (Colman) di Druim Mor",
+            "qualifica": "Vescovo e abate",
+            "url": "https://www.santodelgiorno.it/san-coloman-di-druim-mor/"
+        },
+        {
+            "nome": "Santi Pietro, Valabonso, Sabiniano, Vistremondo, Abenzio e Geremia",
+            "qualifica": "Martiri a Cordova",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/07/giugno/"
+}

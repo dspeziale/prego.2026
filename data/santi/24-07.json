@@ -1,0 +1,138 @@
+{
+    "data": "24-07",
+    "giorno": 24,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "24 luglio",
+    "principali": [
+        {
+            "nome": "Santa Cristina di Bolsena",
+            "qualifica": "Martire",
+            "descrizione": "Cristina nacque sulle rive del lago di Bolsena dove suo padre Urbano era governatore. Quest'uomo era un mortale nemico dei cristiani, e si può dire che non passava giorno senza che ne avesse qualcuno...",
+            "url": "https://www.santodelgiorno.it/santa-cristina-da-bolsena/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Charbel Makhluf",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-charbel-makhluf/"
+        },
+        {
+            "nome": "Beata Ludovica di Savoia",
+            "qualifica": "Principessa, Clarissa",
+            "url": "https://www.santodelgiorno.it/beata-ludovica-di-savoia/"
+        },
+        {
+            "nome": "Santa Cunegonda",
+            "qualifica": "Regina di Polonia",
+            "url": "https://www.santodelgiorno.it/santa-cunegonda-di-polonia/"
+        },
+        {
+            "nome": "Santi Boris e Gleb di Russia",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-boris-e-gleb-di-russia/"
+        },
+        {
+            "nome": "Beato Giovanni Tavelli da Tossignano",
+            "qualifica": "Vescovo di Ferrara",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-tavelli-da-tossignano/"
+        },
+        {
+            "nome": "San Declano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-declano/"
+        },
+        {
+            "nome": "Beato Antonio Torriani (Della Torre) da L'Aquila",
+            "qualifica": "",
+            "url": null
+        },
+        {
+            "nome": "San Baldovino (Balduino) da Rieti",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Beata Cristina l'Ammirabile",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eufrasia",
+            "qualifica": "Eremita in Tebaide",
+            "url": null
+        },
+        {
+            "nome": "San Fantino il Vecchio",
+            "qualifica": "Taumaturgo",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Boste",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Giuseppe Fernandez",
+            "qualifica": "Sacerdote domenicano, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Lambton",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Magi d'Oriente",
+            "qualifica": "Adoratori di Gesù Bambino",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria degli Angeli di S. Giuseppe (Marciana Valtierra Tordesillas)",
+            "qualifica": "Carmelitana, martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria Pilar di S. Francesco Borgia (Jacoba Martinez Garcia)",
+            "qualifica": "Carmelitana, martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Mercedes del Sacro Cuore (Mercedes Prat Y Prat)",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Modestino di Gesù e Maria (Domenico Mazzarella)",
+            "qualifica": "Francescano",
+            "url": null
+        },
+        {
+            "nome": "Beati Nicolao Garlick, Robert Ludlam e Riccardo Simpson",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Saverio (Javier) Bordas Piferer",
+            "qualifica": "Sacerdote salesiano e martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Sigolena",
+            "qualifica": "Religiosa",
+            "url": null
+        },
+        {
+            "nome": "San Vittorino di Amiterno",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Liborio",
+            "qualifica": "Vescovo di Le Mans",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/24/luglio/"
+}

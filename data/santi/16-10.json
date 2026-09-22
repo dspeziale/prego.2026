@@ -1,0 +1,103 @@
+{
+    "data": "16-10",
+    "giorno": 16,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "16 ottobre",
+    "principali": [
+        {
+            "nome": "Santa Margherita Maria Alacoque",
+            "qualifica": "Vergine",
+            "descrizione": "Questa grande Santa fu la confidente del S. Cuore. Nacque il 22 luglio dell'anno 1647 da onorata famiglia, in un piccolo villaggio della diocesi di Autun. Accesa di amore per la Vergine e per l'augusto...",
+            "url": "https://www.santodelgiorno.it/santa-margherita-maria-alacoque/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Gerardo Maiella",
+            "qualifica": "Religioso redentorista",
+            "url": "https://www.santodelgiorno.it/san-gerardo-maiella/"
+        },
+        {
+            "nome": "Sant'Edvige",
+            "qualifica": "Religiosa e Duchessa di Slesia e di Polonia",
+            "url": "https://www.santodelgiorno.it/sant-edvige/"
+        },
+        {
+            "nome": "San Longino",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-longino/"
+        },
+        {
+            "nome": "San Gallo",
+            "qualifica": "Eremita a Bregenz",
+            "url": "https://www.santodelgiorno.it/san-gallo-eremita/"
+        },
+        {
+            "nome": "San Mommolino di Noyon",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-mommolino-di-noyon/"
+        },
+        {
+            "nome": "San Vitale",
+            "qualifica": "Eremita in Bretagna",
+            "url": "https://www.santodelgiorno.it/san-vitale-martire-di-bretagna/"
+        },
+        {
+            "nome": "Santi Martiniano, Saturiano e due fratelli",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-martiniano-saturiano-e-due-fratelli/"
+        },
+        {
+            "nome": "Sant'Anastasio di Cluny",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/sant-anastasio-di-cluny/"
+        },
+        {
+            "nome": "San Lullo di Magonza",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-lullo-di-magonza/"
+        },
+        {
+            "nome": "San Bertrando di Cominges",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-bertrando-di-cominges/"
+        },
+        {
+            "nome": "Santi Amando e suo diescepolo Giuniano",
+            "qualifica": "Eremiti",
+            "url": null
+        },
+        {
+            "nome": "Beati Aniceto Adalberto (Anicet Wojciech) Koplinski e Giuseppe (Jozef) Jankowski",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "Santa Bonita di Brioude",
+            "qualifica": "",
+            "url": null
+        },
+        {
+            "nome": "Sant'Elifio",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Fortunato di Casei",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Gauderico",
+            "qualifica": "",
+            "url": null
+        },
+        {
+            "nome": "Beato Gerardo da Chiaravalle",
+            "qualifica": "Abate",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/16/ottobre/"
+}

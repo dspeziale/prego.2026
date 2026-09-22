@@ -1,0 +1,73 @@
+{
+    "data": "10-04",
+    "giorno": 10,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "10 aprile",
+    "principali": [
+        {
+            "nome": "Santa Maddalena di Canossa",
+            "qualifica": "Vergine",
+            "descrizione": "Maddalena nacque a Verona il 1° marzo 1774 da nobile e ricca famiglia, terzogenita di sei fratelli. La sua vita fu subito segnata da tristi episodi, come la morte del padre, le seconde nozze della...",
+            "url": "https://www.santodelgiorno.it/santa-maddalena-di-canossa/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Michele dei Santi",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-michele-dei-santi/"
+        },
+        {
+            "nome": "San Beda il Giovane",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-beda-il-giovane/"
+        },
+        {
+            "nome": "San Macario d'Armenia",
+            "qualifica": "Pellegrino",
+            "url": "https://www.santodelgiorno.it/san-macario-d-armenia/"
+        },
+        {
+            "nome": "Beato Antonio Neyrot da Rivoli",
+            "qualifica": "Sacerdote domenicano, martire",
+            "url": "https://www.santodelgiorno.it/beato-antonio-neyrot-da-rivoli/"
+        },
+        {
+            "nome": "Beato Marco Fantuzzi da Bologna",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-marco-fantuzzi-da-bologna/"
+        },
+        {
+            "nome": "San Fulberto di Chartres",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-fulberto-di-chartres/"
+        },
+        {
+            "nome": "Sant'Antonio Vallesio",
+            "qualifica": "Mercedario, martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Apollonio",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Bonifacio (Bonifacy Piotr) Zukowski",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Palladio di Auxerre",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Terenzio e compagni",
+            "qualifica": "Martiri di Cartagine",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/10/aprile/"
+}

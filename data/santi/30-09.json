@@ -1,0 +1,93 @@
+{
+    "data": "30-09",
+    "giorno": 30,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "30 settembre",
+    "principali": [
+        {
+            "nome": "San Girolamo",
+            "qualifica": "Sacerdote e dottore della Chiesa",
+            "descrizione": "È il Santo che pose tutta la sua vasta erudizione a servizio della Sacra Scrittura. Nacque nel 347 a Stridone in' Dalmazia, da famiglia patrizia e cristiana. Giovane di natura irrequieta, venne...",
+            "url": "https://www.santodelgiorno.it/san-girolamo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Sofia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-sofia/"
+        },
+        {
+            "nome": "Santa Rachele",
+            "qualifica": "Seconda moglie di Giacobbe",
+            "url": "https://www.santodelgiorno.it/santa-rachele/"
+        },
+        {
+            "nome": "San Francesco Borgia",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-francesco-borgia/"
+        },
+        {
+            "nome": "Transito di Santa Teresa",
+            "qualifica": "Passaggio alla vita eterna",
+            "url": "https://www.santodelgiorno.it/transito-di-santa-teresa/"
+        },
+        {
+            "nome": "Sant'Antonino di Piacenza",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-antonino-di-piacenza/"
+        },
+        {
+            "nome": "San Gregorio Illuminatore",
+            "qualifica": "Vescovo, Apostolo degli Armeni",
+            "url": "https://www.santodelgiorno.it/san-gregorio-illuminatore/"
+        },
+        {
+            "nome": "Beato Federico Albert",
+            "qualifica": "Sacerdote e fondatore",
+            "url": "https://www.santodelgiorno.it/beato-federico-albert/"
+        },
+        {
+            "nome": "San Simone di Crepy",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-simone-di-crepy/"
+        },
+        {
+            "nome": "Sant'Onorio di Canterbury",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-onorio-di-canterbury/"
+        },
+        {
+            "nome": "Sant'Amato di Nusco",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eusebia",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "Beata Felicia Meda",
+            "qualifica": "Suora",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Nicola (Jean-Nicolas) Cordier",
+            "qualifica": "Sacerdote gesuita, martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ismidone di Die",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Urso e Vittore",
+            "qualifica": "Martiri della Legione Tebea",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/30/settembre/"
+}

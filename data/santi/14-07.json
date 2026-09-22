@@ -1,0 +1,88 @@
+{
+    "data": "14-07",
+    "giorno": 14,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "14 luglio",
+    "principali": [
+        {
+            "nome": "San Camillo de Lellis",
+            "qualifica": "Sacerdote",
+            "descrizione": "Annunziato da un sogno nasceva il 25 maggio del 1550 a Bucchianico nella diocesi di Chieti San Camillo de'Lellis, da madre di età assai avanzata, la quale morì poco dopo la nascita del figlio...",
+            "url": "https://www.santodelgiorno.it/san-camillo-de-lellis/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Angelina da Marsciano",
+            "qualifica": "Vedova",
+            "url": "https://www.santodelgiorno.it/beata-angelina-da-marsciano/"
+        },
+        {
+            "nome": "San Francesco Solano",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-francesco-solano/"
+        },
+        {
+            "nome": "San Vincenzo Madelgario",
+            "qualifica": "Sposo, monaco",
+            "url": "https://www.santodelgiorno.it/san-vincenzo-madelgario/"
+        },
+        {
+            "nome": "Beato Hroznata (Hrornata, Croznato)",
+            "qualifica": "Martire premostratense",
+            "url": "https://www.santodelgiorno.it/beato-hroznata/"
+        },
+        {
+            "nome": "Beato Gaspare de Bono",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-gaspare-de-bono/"
+        },
+        {
+            "nome": "San Marchelmo",
+            "qualifica": "Sacerdote e monaco",
+            "url": "https://www.santodelgiorno.it/san-marchelmo/"
+        },
+        {
+            "nome": "Beato Michele Ghebre",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-michele-ghebre/"
+        },
+        {
+            "nome": "Sant'Ottaziano di Brescia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-ottaziano-di-brescia/"
+        },
+        {
+            "nome": "San Giovanni Wang Guixin",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Giusto",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Marciano di Frigento",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Riccardo Langhorne",
+            "qualifica": "Avvocato, martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Toscana",
+            "qualifica": "Vedova",
+            "url": null
+        },
+        {
+            "nome": "Beato Bonifacio",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/14/luglio/"
+}

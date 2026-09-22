@@ -1,0 +1,78 @@
+{
+    "data": "21-06",
+    "giorno": 21,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "21 giugno",
+    "principali": [
+        {
+            "nome": "San Luigi Gonzaga",
+            "qualifica": "Religioso",
+            "descrizione": "Nacque da Maria Santena di Chieri e dal marchese Ferdinando, discendente dalla nobile e potente famiglia dei Gonzaga, nel 1568. Dalla madre, insieme col latte succhiò pure i primi germi di santità...",
+            "url": "https://www.santodelgiorno.it/san-luigi-gonzaga/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Rodolfo di Bourges",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-rodolfo-di-bourges/"
+        },
+        {
+            "nome": "San Mevenno",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-mevenno/"
+        },
+        {
+            "nome": "Santa Marzia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-marzia/"
+        },
+        {
+            "nome": "San Leutfrido",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-leutfrido/"
+        },
+        {
+            "nome": "Sant'Albano di Magonza",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/sant-albano-di-magonza/"
+        },
+        {
+            "nome": "Beato Giacomo Morelle Dupas",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Rigby",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Jose Isabel Flores Varela",
+            "qualifica": "Martire Messicano",
+            "url": null
+        },
+        {
+            "nome": "San Lazzaro",
+            "qualifica": "Mendicante e lebbroso",
+            "url": null
+        },
+        {
+            "nome": "San Raimondo",
+            "qualifica": "Vescovo di Roda-Barbastro",
+            "url": null
+        },
+        {
+            "nome": "Beato Tommaso da Orvieto",
+            "qualifica": "Religioso",
+            "url": null
+        },
+        {
+            "nome": "Madonna dei Miracoli",
+            "qualifica": "Apparizione",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/21/giugno/"
+}

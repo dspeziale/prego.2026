@@ -1,0 +1,53 @@
+{
+    "data": "13-05",
+    "giorno": 13,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "13 maggio",
+    "principali": [
+        {
+            "nome": "Beata Vergine Maria di Fatima",
+            "qualifica": "Apparizione",
+            "descrizione": "La Madonna apparve il 13 maggio 1917 a Fatima in Portogallo a Lucia, Francesco e Giacinta, tre ragazzi di 10, 9 e 7 anni.",
+            "url": "https://www.santodelgiorno.it/beata-vergine-maria-di-fatima/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Gemma",
+            "qualifica": "Reclusa",
+            "url": "https://www.santodelgiorno.it/beata-gemma-reclusa/"
+        },
+        {
+            "nome": "Sant'Andrea Uberto Fournet",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/sant-andrea-uberto-fournet/"
+        },
+        {
+            "nome": "San Servazio",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-servazio/"
+        },
+        {
+            "nome": "Beata Maddalena Albrici",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-maddalena-albrici/"
+        },
+        {
+            "nome": "San Cristanziano",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-cristanziano/"
+        },
+        {
+            "nome": "Sant'Agnese di Poitiers",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "Madonna della Corba",
+            "qualifica": "Miracolo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/13/maggio/"
+}

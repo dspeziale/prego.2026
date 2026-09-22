@@ -1,0 +1,113 @@
+{
+    "data": "05-10",
+    "giorno": 5,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "5 ottobre",
+    "principali": [
+        {
+            "nome": "Santa Maria Faustina Kowalska",
+            "qualifica": "Vergine",
+            "descrizione": "Elena Kowalska è conterranea di Giovanni Paolo II che l'ha elevata agli onori degli altari nell'anno 2000. Era nata a Giogowiec, nel distretto di Turek, provincia di Lodz, il 25 agosto 1905. Le...",
+            "url": "https://www.santodelgiorno.it/santa-maria-faustina-kowalska/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Placido",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-placido/"
+        },
+        {
+            "nome": "San Bartolo Longo",
+            "qualifica": "Laico fondatore",
+            "url": "https://www.santodelgiorno.it/beato-bartolo-longo/"
+        },
+        {
+            "nome": "Santa Flora di Beaulieu",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-flora-di-beaulieu/"
+        },
+        {
+            "nome": "Beato Raimondo da Capua (delle Vigne)",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-raimondo-da-capua/"
+        },
+        {
+            "nome": "Sant'Apollinare di Valence",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-apollinare-di-valence/"
+        },
+        {
+            "nome": "San Meinulfo di Paderborn",
+            "qualifica": "Diacono",
+            "url": "https://www.santodelgiorno.it/san-meinulfo-di-paderborn/"
+        },
+        {
+            "nome": "Beata Anna Schaffer",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "Sant'Attilano di Zamora",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santa Caritina",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Froilano di Leon",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Girolamo di Nevers",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beati Guglielmo Hartley, Giovanni Hewett e Roberto Sutton",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santa Mamlacha",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Mariano (Marian) Skrzypczak",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Treviri",
+            "qualifica": "Religiosi",
+            "url": null
+        },
+        {
+            "nome": "Beato Matteo Carreri",
+            "qualifica": "Domenicano",
+            "url": null
+        },
+        {
+            "nome": "Beato Pietro da Imola",
+            "qualifica": "Cavaliere di Malta",
+            "url": null
+        },
+        {
+            "nome": "Beato Sante da Cori",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Tranquilino Ubiarco Robles",
+            "qualifica": "Martire Messicano",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/05/ottobre/"
+}

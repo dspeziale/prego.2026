@@ -1,0 +1,73 @@
+{
+    "data": "12-02",
+    "giorno": 12,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "12 febbraio",
+    "principali": [
+        {
+            "nome": "Santi Martiri di Abitina",
+            "qualifica": "Cristiani",
+            "descrizione": "Il primo editto imperiale emanato da Diocleziano contro i cristiani ordinava il rogo di tutte le copie delle Scritture e segnava l’inizio della persecuzione che avrebbe causato numerosi martiri...",
+            "url": "https://www.santodelgiorno.it/santi-martiri-di-abitina/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Eulalia di Barcellona",
+            "qualifica": "Vergine e Martire",
+            "url": "https://www.santodelgiorno.it/sant-eulalia-di-barcellona/"
+        },
+        {
+            "nome": "San Benedetto d'Aniane",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/san-benedetto-d-aniane/"
+        },
+        {
+            "nome": "Beata Ombelina",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/beata-ombelina/"
+        },
+        {
+            "nome": "Beati Tommaso Hemmerford e compagni",
+            "qualifica": "Sacerdoti e martiri",
+            "url": "https://www.santodelgiorno.it/beati-tommaso-hemmerford-e-compagni/"
+        },
+        {
+            "nome": "San Ludano",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/san-ludano/"
+        },
+        {
+            "nome": "San Melezio di Antiochia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-melezio-di-antiochia/"
+        },
+        {
+            "nome": "Sant'Antonio Cauleas",
+            "qualifica": "Patriarca di Costantinopoli",
+            "url": "https://www.santodelgiorno.it/sant-antonio-cauleas/"
+        },
+        {
+            "nome": "Madonna del Pilerio",
+            "qualifica": "Patrona di Cosenza",
+            "url": "https://www.santodelgiorno.it/madonna-del-pilerio/"
+        },
+        {
+            "nome": "San Benedetto Revelli",
+            "qualifica": "Vescovo di Albenga",
+            "url": null
+        },
+        {
+            "nome": "San Damiano d'Africa",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Costanzo di Niardo",
+            "qualifica": "Eremita",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/12/febbraio/"
+}

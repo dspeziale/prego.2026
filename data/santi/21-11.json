@@ -1,0 +1,58 @@
+{
+    "data": "21-11",
+    "giorno": 21,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "21 novembre",
+    "principali": [
+        {
+            "nome": "Presentazione della Beata Vergine Maria",
+            "qualifica": "Dedicazione di Maria al Signore",
+            "descrizione": "Maria aveva raggiunto l’età di tre anni, e i suoi genitori, secondo la promessa fatta, la portarono al Tempio per consacrarla al Signore. Possiamo immaginare il loro dolore nel doversi separare...",
+            "url": "https://www.santodelgiorno.it/presentazione-della-beata-vergine-maria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Maria di Gesù Buon Pastore",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-di-gesu-buon-pastore/"
+        },
+        {
+            "nome": "San Mauro di Cesena",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-mauro-di-cesena/"
+        },
+        {
+            "nome": "San Gelasio I",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-gelasio-i/"
+        },
+        {
+            "nome": "Sant'Agapio di Cesarea",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-agapio-di-cesarea/"
+        },
+        {
+            "nome": "Maria Virgo Fidelis",
+            "qualifica": "Patrona dell'Arma dei Carabinieri",
+            "url": "https://www.santodelgiorno.it/maria-virgo-fidelis/"
+        },
+        {
+            "nome": "Beata Clelia Merloni",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-clelia-merloni/"
+        },
+        {
+            "nome": "San Mauro di Parenzo",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Rufo",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/21/novembre/"
+}

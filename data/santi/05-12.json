@@ -1,0 +1,78 @@
+{
+    "data": "05-12",
+    "giorno": 5,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "5 dicembre",
+    "principali": [
+        {
+            "nome": "San Saba Archimandrita",
+            "qualifica": "Abate",
+            "descrizione": "San Saba, uno dei più celebri patriarchi del monachesimo palestinese, nacque nel 439 a Mutalasca, nel territorio di Cesarea di Cappadocia, da genitori illustri per nobiltà e pietà...",
+            "url": "https://www.santodelgiorno.it/san-saba-archimandrita/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Filippo Rinaldi",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-filippo-rinaldi/"
+        },
+        {
+            "nome": "Santa Crispina",
+            "qualifica": "Martire a Tebessa",
+            "url": "https://www.santodelgiorno.it/santa-crispina/"
+        },
+        {
+            "nome": "San Dalmazio di Pavia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-dalmazio-di-pavia/"
+        },
+        {
+            "nome": "Serva di Dio Alexia González-Barros González",
+            "qualifica": "Adolescente",
+            "url": "https://www.santodelgiorno.it/alexia-gonzalez-barros-gonzalez/"
+        },
+        {
+            "nome": "Beato Nicola Stenone",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-nicola-stenone/"
+        },
+        {
+            "nome": "San Lucido di Aquara",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-lucido-di-aquara/"
+        },
+        {
+            "nome": "Beato Bartolomeo Fanti",
+            "qualifica": "Carmelitano",
+            "url": "https://www.santodelgiorno.it/beato-bartolomeo-fanti/"
+        },
+        {
+            "nome": "San Basso di Nizza",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Geraldo (Gerardo) di Braga",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Almond",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Narciso (Narcyz) Putz",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Basso di Lucera",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/05/dicembre/"
+}

@@ -1,0 +1,63 @@
+{
+    "data": "02-12",
+    "giorno": 2,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "2 dicembre",
+    "principali": [
+        {
+            "nome": "Santa Bibiana",
+            "qualifica": "Martire",
+            "descrizione": "I cristiani dei primi tempi, siccome immensamente maggiori erano i bisogni della Chiesa, avevano anche doni e grazie straordinari. Ad essi era concesso sovente il dono dei miracoli. Per questo e perché...",
+            "url": "https://www.santodelgiorno.it/santa-bibiana/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Silverio",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-silverio/"
+        },
+        {
+            "nome": "Sant'Abacuc",
+            "qualifica": "Profeta",
+            "url": "https://www.santodelgiorno.it/sant-abacuc/"
+        },
+        {
+            "nome": "Beato Giovanni Slezyuk",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-slezyuk/"
+        },
+        {
+            "nome": "Beata Maria Angela Astorch",
+            "qualifica": "Clarissa Cappuccina",
+            "url": "https://www.santodelgiorno.it/beata-maria-angela-astorch/"
+        },
+        {
+            "nome": "Beato Giovanni di Ruysbroeck",
+            "qualifica": "Canonico Regolare",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-di-ruysbroeck/"
+        },
+        {
+            "nome": "Beato Raffaele Chylinski",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-raffaele-chylinski/"
+        },
+        {
+            "nome": "San Cromazio d'Aquileia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-cromazio-d-aquileia/"
+        },
+        {
+            "nome": "Santa Bianca di Castiglia",
+            "qualifica": "Regina di Francia, religiosa",
+            "url": "https://www.santodelgiorno.it/santa-bianca-di-castiglia/"
+        },
+        {
+            "nome": "San Pimenio di Roma",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/02/dicembre/"
+}

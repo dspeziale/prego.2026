@@ -1,0 +1,88 @@
+{
+    "data": "22-08",
+    "giorno": 22,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "22 agosto",
+    "principali": [
+        {
+            "nome": "Beata Vergine Maria Regina",
+            "qualifica": "Regina del cielo e Madre di misericordia",
+            "descrizione": "L'undici ottobre 1954, S. S. Pio XII istituì la festa della Regalità di Maria, da celebrarsi ogni anno in tutto il mondo il giorno 31 maggio; fu poi trasferita al 22 agosto, giorno ottavo...",
+            "url": "https://www.santodelgiorno.it/beata-vergine-maria-regina/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Fabriciano (Fabrizio) e Filiberto",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-fabriciano-e-filiberto/"
+        },
+        {
+            "nome": "San Filippo Benizi",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-filippo-benizi/"
+        },
+        {
+            "nome": "San Sinforiano di Autun",
+            "qualifica": "Giovane martire",
+            "url": "https://www.santodelgiorno.it/san-sinforiano-di-autun/"
+        },
+        {
+            "nome": "Beato Tommaso Percy",
+            "qualifica": "Conte di Northumbria, martire",
+            "url": "https://www.santodelgiorno.it/beato-tommaso-percy/"
+        },
+        {
+            "nome": "Beato Bernardo da Offida",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-bernardo-da-offida/"
+        },
+        {
+            "nome": "Beato Giacomo Bianconi da Bevagna",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-bianconi-da-bevagna/"
+        },
+        {
+            "nome": "Beato Simeone Lukac",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/beato-simeone-lukac/"
+        },
+        {
+            "nome": "San Giovanni Wall",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-giovanni-wall/"
+        },
+        {
+            "nome": "San Giovanni Kemble",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-giovanni-kemble/"
+        },
+        {
+            "nome": "Audrey Stevenson",
+            "qualifica": "Fanciulla",
+            "url": "https://www.santodelgiorno.it/audrey-stevenson/"
+        },
+        {
+            "nome": "Beato Elia Leymarie de Laroche",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Guglielmo Lacey e Riccardo Kirkman",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Timoteo da Monticchio",
+            "qualifica": "Francescano",
+            "url": null
+        },
+        {
+            "nome": "San Timoteo di Roma",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/22/agosto/"
+}

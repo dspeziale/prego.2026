@@ -1,0 +1,133 @@
+{
+    "data": "19-08",
+    "giorno": 19,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "19 agosto",
+    "principali": [
+        {
+            "nome": "San Giovanni Eudes",
+            "qualifica": "Sacerdote",
+            "descrizione": "Giovanni nacque il 14 novembre 1601 da pia e modesta famiglia a Ri, un villaggio vicino ad Argentan nella Normandia. Fin da giovinetto diede prova di grande virtù e di profonda pietà, dimostrando...",
+            "url": "https://www.santodelgiorno.it/san-giovanni-eudes/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Sisto III",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-sisto-iii/"
+        },
+        {
+            "nome": "San Ludovico di Tolosa",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-ludovico-di-tolosa/"
+        },
+        {
+            "nome": "Sant'Andrea il Tribuno e Compagni",
+            "qualifica": "Soldati martiri",
+            "url": "https://www.santodelgiorno.it/sant-andrea-il-tribuno-e-compagni/"
+        },
+        {
+            "nome": "Beato Giordano da Pisa",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-giordano-da-pisa/"
+        },
+        {
+            "nome": "San Sebaldo",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-sebaldo/"
+        },
+        {
+            "nome": "Serva di Dio Giulia Gabrieli",
+            "qualifica": "Adolescente",
+            "url": "https://www.santodelgiorno.it/giulia-gabrieli/"
+        },
+        {
+            "nome": "Sant'Ezechiele Moreno y Diaz",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-ezechiele-moreno-y-diaz/"
+        },
+        {
+            "nome": "Beato Ugo Green",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-ugo-green/"
+        },
+        {
+            "nome": "San Bertolfo",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-bertolfo/"
+        },
+        {
+            "nome": "Santa Sara",
+            "qualifica": "Moglie di Abramo",
+            "url": "https://www.santodelgiorno.it/santa-sara/"
+        },
+        {
+            "nome": "Beato Francesco Ibanez Ibanez",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-francesco-ibanez-ibanez/"
+        },
+        {
+            "nome": "San Magno",
+            "qualifica": "Venerato a Cuneo",
+            "url": "https://www.santodelgiorno.it/san-magno/"
+        },
+        {
+            "nome": "Beato Angelo da Acquapagana",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/beato-angelo-da-acquapagana/"
+        },
+        {
+            "nome": "Beato Tommaso Sitjar Fortiá",
+            "qualifica": "Sacerdote gesuita, martire",
+            "url": "https://www.santodelgiorno.it/beato-tommaso-sitjar-fortia/"
+        },
+        {
+            "nome": "Beato Ludovico Flores",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-ludovico-flores/"
+        },
+        {
+            "nome": "Beato Guerrico",
+            "qualifica": "Abate di Igny",
+            "url": "https://www.santodelgiorno.it/beato-guerrico/"
+        },
+        {
+            "nome": "San Bartolomeo di Simeri",
+            "qualifica": "Eremita, fondatore e abate",
+            "url": null
+        },
+        {
+            "nome": "San Donato di Sisteron",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Beate Elvira della Natività della Nostra Signora Torrentallé Paraire e 8 compagne",
+            "qualifica": "Vergini e martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Leone II",
+            "qualifica": "Abate di Cava",
+            "url": null
+        },
+        {
+            "nome": "San Magino di Tarragona",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Magno di Anagni (o da Trani)",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Timoteo di Gaza",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/19/agosto/"
+}

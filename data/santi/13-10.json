@@ -1,0 +1,98 @@
+{
+    "data": "13-10",
+    "giorno": 13,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "13 ottobre",
+    "principali": [
+        {
+            "nome": "San Teofilo di Antiochia",
+            "qualifica": "Vescovo",
+            "descrizione": "Teofilo governò la chiesa di Antiochia nel II secolo come sesto vescovo dopo l'apostolo S. Pietro che di quella comunità cristiana fu il primo pastore. Teofilo era uomo di grande cultura...",
+            "url": "https://www.santodelgiorno.it/san-teofilo-di-antiochia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Benedetto",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-benedetto-martire/"
+        },
+        {
+            "nome": "Sant'Edoardo III il Confessore",
+            "qualifica": "Re d'Inghilterra",
+            "url": "https://www.santodelgiorno.it/sant-edoardo-iii-il-confessore/"
+        },
+        {
+            "nome": "San Romolo di Genova",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-romolo-di-genova/"
+        },
+        {
+            "nome": "Beata Alessandrina Maria da Costa",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-alessandrina-maria-da-costa/"
+        },
+        {
+            "nome": "Santa Chelidonia di Subiaco",
+            "qualifica": "Solitaria",
+            "url": "https://www.santodelgiorno.it/santa-chelidonia/"
+        },
+        {
+            "nome": "Santi Fausto, Gennaro e Marziale",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-fausto-gennaro-e-marziale/"
+        },
+        {
+            "nome": "Beata Maddalena Panattieri",
+            "qualifica": "Domenicana",
+            "url": "https://www.santodelgiorno.it/beata-maddalena-panattieri/"
+        },
+        {
+            "nome": "San Geraldo D'Aurillac",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-geraldo-d-aurillac/"
+        },
+        {
+            "nome": "San Comgano",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-comgano/"
+        },
+        {
+            "nome": "San Fiorenzo di Tessalonica",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Gerardo",
+            "qualifica": "Fondatore dell'Ordine di Malta",
+            "url": null
+        },
+        {
+            "nome": "San Leobono",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Lubenzio",
+            "qualifica": "",
+            "url": null
+        },
+        {
+            "nome": "San Simperto (Simberto)",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Venanzio di Tours",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Fornasini",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/13/ottobre/"
+}

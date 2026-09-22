@@ -1,0 +1,83 @@
+{
+    "data": "18-07",
+    "giorno": 18,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "18 luglio",
+    "principali": [
+        {
+            "nome": "San Federico di Utrecht",
+            "qualifica": "Vescovo",
+            "descrizione": "Federico fu vescovo di Utrecht dall'820 circa alla morte. Nipote del re dei Frisi Radbodo, fu ordinato prete della diocesi di Utrecht e fu incaricato dell'educazione dei catecumeni: succedette nell'episcopato...",
+            "url": "https://www.santodelgiorno.it/san-federico-di-utrecht/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Sinforosa e sette figli",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-sinforosa-e-sette-figli/"
+        },
+        {
+            "nome": "San Bruno di Segni",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-bruno-di-segni/"
+        },
+        {
+            "nome": "San Simone da Lipnica",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-simone-da-lipnica/"
+        },
+        {
+            "nome": "San Materno di Milano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-materno-di-milano/"
+        },
+        {
+            "nome": "Sant'Arnolfo di Metz",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-arnolfo-di-metz/"
+        },
+        {
+            "nome": "San Filastrio di Brescia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-filastrio-di-brescia/"
+        },
+        {
+            "nome": "Beata Tarcisia Mackiv",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/beata-tarcisia-mackiv/"
+        },
+        {
+            "nome": "San Rufillo di Forlimpopoli",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-rufillo-di-forlimpopoli/"
+        },
+        {
+            "nome": "Beato Roberto da Salle",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/beato-roberto-da-salle/"
+        },
+        {
+            "nome": "Santa Teodosia di Costantinopoli",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-teodosia-di-costantinopoli/"
+        },
+        {
+            "nome": "Sant'Emiliano di Durostoro",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-emiliano-di-durostoro/"
+        },
+        {
+            "nome": "San Domenico Nicolao Dinh Dat",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Battista de Bruxelles",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/18/luglio/"
+}

@@ -1,0 +1,53 @@
+{
+    "data": "26-12",
+    "giorno": 26,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "26 dicembre",
+    "principali": [
+        {
+            "nome": "Santo Stefano",
+            "qualifica": "Primo martire",
+            "descrizione": "Stefano fu il primo a dare la vita e il sangue per Gesù Cristo. Ebreo di nascita, e convertito alla fede dalla predicazione di S. Pietro, mostrò subito un meraviglioso zelo per la gloria...",
+            "url": "https://www.santodelgiorno.it/santo-stefano/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Secondo Pollo",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-secondo-pollo/"
+        },
+        {
+            "nome": "Santa Vincenza Maria Lopez y Vicuna",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-vincenza-maria-lopez-y-vicuna/"
+        },
+        {
+            "nome": "San Zosimo",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-zosimo/"
+        },
+        {
+            "nome": "San Dionigi",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-dionigi-papa/"
+        },
+        {
+            "nome": "Beate Agnese Phila, Lucia Khambang e 4 compagne",
+            "qualifica": "Protomartiri della Tailandia",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eutimio di Sardi",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Zenone di Maiuma",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/26/dicembre/"
+}

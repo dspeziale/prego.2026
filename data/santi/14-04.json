@@ -1,0 +1,78 @@
+{
+    "data": "14-04",
+    "giorno": 14,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "14 aprile",
+    "principali": [
+        {
+            "nome": "Santa Liduina",
+            "qualifica": "Vergine",
+            "descrizione": "Vergine e santa nacque a Schiedam nel 1380. A quindici anni Liduina fece una brutta caduta mentre pattinava sul ghiaccio, Liduina restò paralizzata a letto, l'incidente fu all'origine di tutti i mali che...",
+            "url": "https://www.santodelgiorno.it/santa-liduina/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Tiburzio, Valeriano e Massimo",
+            "qualifica": "Martiri di Roma",
+            "url": "https://www.santodelgiorno.it/santi-tiburzio-valeriano-massimo/"
+        },
+        {
+            "nome": "San Benedetto di Hermillon",
+            "qualifica": "Pastore",
+            "url": "https://www.santodelgiorno.it/san-benedetto-di-hermillon/"
+        },
+        {
+            "nome": "San Lamberto di Lione",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-lamberto-di-lione/"
+        },
+        {
+            "nome": "San Pietro Gonzales",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/san-pietro-gonzales/"
+        },
+        {
+            "nome": "San Bernardo di Tiron",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-bernardo-di-tiron/"
+        },
+        {
+            "nome": "Sant'Asaco (Asico)",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sante Bernica, Prosdoca e Domenica",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Frontone",
+            "qualifica": "Abate in Egitto",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni di Montemarano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beata Isabella (Josefina Calduch Rovira)",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Tomaide d'Alessandria",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Pretestato",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/14/aprile/"
+}

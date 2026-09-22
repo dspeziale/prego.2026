@@ -1,0 +1,113 @@
+{
+    "data": "01-12",
+    "giorno": 1,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "1 dicembre",
+    "principali": [
+        {
+            "nome": "Sant'Eligio",
+            "qualifica": "Vescovo",
+            "descrizione": "Fu uno dei principali santi che illustrarono la Francia nel secolo sesto. Nacque a Chàtelat l'anno 588. Dimostrando da piccolo grande attitudine ai lavori di cesellatura, fu messo a lavorare da un certo...",
+            "url": "https://www.santodelgiorno.it/sant-eligio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Charles de Foucauld",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-charles-de-foucauld/"
+        },
+        {
+            "nome": "Beata Maria Rosa di Gesù (Bruna Pellesi)",
+            "qualifica": "Suora francescana",
+            "url": "https://www.santodelgiorno.it/beata-maria-rosa-di-gesu-bruna-pellesi-/"
+        },
+        {
+            "nome": "Beata Clementina Anuarite Nengapeta",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beata-clementina-anuarite-nengapeta/"
+        },
+        {
+            "nome": "Beata Liduina (Angela Elisa) Meneguzzi",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-liduina-angela-elisa-meneguzzi/"
+        },
+        {
+            "nome": "San Naum",
+            "qualifica": "Profeta",
+            "url": "https://www.santodelgiorno.it/san-naum-profeta/"
+        },
+        {
+            "nome": "Sant'Alessandro Briant",
+            "qualifica": "Sacerdote gesuita, martire",
+            "url": "https://www.santodelgiorno.it/sant-alessandro-briant/"
+        },
+        {
+            "nome": "Sant'Edmondo Campion",
+            "qualifica": "Martire, gesuita",
+            "url": "https://www.santodelgiorno.it/sant-edmondo-campion/"
+        },
+        {
+            "nome": "Beato Antonio Bonfadini da Ferrara",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-antonio-bonfadini-da-ferrara/"
+        },
+        {
+            "nome": "Beato Casimiro (Kazimierz) Sykulski",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-casimiro-kazimierz-sykulski/"
+        },
+        {
+            "nome": "San Rodolfo Sherwin",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-rodolfo-sherwin/"
+        },
+        {
+            "nome": "Sant'Agerico di Verdun",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-agerico-di-verdun/"
+        },
+        {
+            "nome": "Sant'Ansano di Siena",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Castriziano di Milano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Donnolo",
+            "qualifica": "",
+            "url": null
+        },
+        {
+            "nome": "Sant'Evasio",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Fiorenza",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Beche",
+            "qualifica": "Abate e martire",
+            "url": null
+        },
+        {
+            "nome": "San Leonzio di Frejus",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Riccardo Langley",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/01/dicembre/"
+}

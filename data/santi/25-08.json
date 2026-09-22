@@ -1,0 +1,128 @@
+{
+    "data": "25-08",
+    "giorno": 25,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "25 agosto",
+    "principali": [
+        {
+            "nome": "Santa Patrizia di Costantinopoli",
+            "qualifica": "Vergine",
+            "descrizione": "Santa Patrizia nacque nel 664 d.C. a Costantinopoli, come nipote dell'imperatore Costantino. Cresciuta nella corte imperiale e cristianamente educata dalla sua nutrice, la Beata Aglaia, fin da giovanissima...",
+            "url": "https://www.santodelgiorno.it/santa-patrizia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Ludovico (Luigi IX)",
+            "qualifica": "Re di Francia",
+            "url": "https://www.santodelgiorno.it/san-luigi-ix/"
+        },
+        {
+            "nome": "San Giuseppe Calasanzio",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-calasanzio/"
+        },
+        {
+            "nome": "San Genesio di Arles",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-genesio-di-arles/"
+        },
+        {
+            "nome": "Beata Maria del Transito di Gesù Sacramentato",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-maria-del-transito-di-gesu-sacramentato/"
+        },
+        {
+            "nome": "San Mena",
+            "qualifica": "Patriarca di Costantinopoli",
+            "url": "https://www.santodelgiorno.it/san-mena-di-costantinopoli/"
+        },
+        {
+            "nome": "San Gregorio di Utrecht",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-gregorio-di-utrecht/"
+        },
+        {
+            "nome": "San Tommaso Cantelupe",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-tommaso-cantelupe/"
+        },
+        {
+            "nome": "Santa Maria Troncatti",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-maria-troncatti/"
+        },
+        {
+            "nome": "Madonna di Custonaci",
+            "qualifica": "Dedicazione",
+            "url": "https://www.santodelgiorno.it/madonna-di-custonaci/"
+        },
+        {
+            "nome": "San Pellegrino",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-pellegrino/"
+        },
+        {
+            "nome": "San Genesio di Roma",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-genesio-di-roma/"
+        },
+        {
+            "nome": "Beato Luigi Urbano Lanaspa",
+            "qualifica": "Sacerdote domenicano, martire",
+            "url": "https://www.santodelgiorno.it/beato-luigi-urbano-lanaspa/"
+        },
+        {
+            "nome": "Beato Michele Carvalho",
+            "qualifica": "Gesuita, martire",
+            "url": "https://www.santodelgiorno.it/beato-michele-carvalho/"
+        },
+        {
+            "nome": "Beato Pietro Vazquez",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-pietro-vazquez/"
+        },
+        {
+            "nome": "Sant'Aredio di Limoges",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eusebio di Roma",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Geronzio",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Paolo Giovanni Charles",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Severo di Agde",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Vincenzo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Ponziano",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Ludovico Sotelo e Ludovico Sasanda, sacerdoti, e Ludovico Baba",
+            "qualifica": "Religiosi",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/25/agosto/"
+}

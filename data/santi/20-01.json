@@ -1,0 +1,78 @@
+{
+    "data": "20-01",
+    "giorno": 20,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "20 gennaio",
+    "principali": [
+        {
+            "nome": "Santi Sebastiano e Fabiano",
+            "qualifica": "Martiri",
+            "descrizione": "Gli antichi testi liturgici romani prevedevano che San Fabiano e San Sebastiano venivano venerati separatamente, più tardi vennero ricordati in un'unica celebrazione, ma il nuovo calendario, richiamandosi...",
+            "url": "https://www.santodelgiorno.it/santi-sebastiano-e-fabiano/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Maria Cristina dell'Immacolata Concezione (Adelaide Brando)",
+            "qualifica": "Religiosa e fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-maria-cristina-dell-immacolata-concezione-brando/"
+        },
+        {
+            "nome": "Santa Eustochia Calafato",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-eustochia-smeralda-calafato/"
+        },
+        {
+            "nome": "Sant'Enrico di Uppsala",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-enrico-di-uppsala/"
+        },
+        {
+            "nome": "Beato Cipriano Michele Iwene Tansi",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-cipriano-michele-iwene-tansi/"
+        },
+        {
+            "nome": "Beato Benedetto Ricasoli da Coltibuono",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/beato-benedetto-ricasoli-da-coltibuono/"
+        },
+        {
+            "nome": "Beato Angelo Paoli",
+            "qualifica": "Sacerdote carmelitano",
+            "url": "https://www.santodelgiorno.it/beato-angelo-paoli/"
+        },
+        {
+            "nome": "Sant'Eutimio",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-eutimio-abate/"
+        },
+        {
+            "nome": "San Vulstano di Worcester",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-vulstano-di-worcester/"
+        },
+        {
+            "nome": "Madonna del Miracolo",
+            "qualifica": "Apparizione",
+            "url": "https://www.santodelgiorno.it/madonna-del-miracolo/"
+        },
+        {
+            "nome": "Sant'Ascla",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Neofito di Nicea",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santo Stefano Min Kuk-ka",
+            "qualifica": "Catechista e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/20/gennaio/"
+}

@@ -1,0 +1,103 @@
+{
+    "data": "15-01",
+    "giorno": 15,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "15 gennaio",
+    "principali": [
+        {
+            "nome": "San Mauro",
+            "qualifica": "Abate",
+            "descrizione": "La splendida figura di San Benedetto forma, nella storia del monachesimo occidentale, una specie di mistico sistema planetario, di cui il Patriarca è il sole; sua sorella Scolastica è la luna, e le prime...",
+            "url": "https://www.santodelgiorno.it/san-mauro/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Efisio",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-efisio/"
+        },
+        {
+            "nome": "San Romedio",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-romedio/"
+        },
+        {
+            "nome": "Beato Giacomo l'Elemosiniere",
+            "qualifica": "Terziario",
+            "url": "https://www.santodelgiorno.it/beato-giacomo-l-elemosiniere/"
+        },
+        {
+            "nome": "San Francesco Fernandez de Capillas",
+            "qualifica": "Domenicano, martire",
+            "url": "https://www.santodelgiorno.it/san-francesco-fernandez-de-capillas/"
+        },
+        {
+            "nome": "Sant'Ita di Killeedy",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/sant-ita-di-killeedy/"
+        },
+        {
+            "nome": "San Giovanni Calibita",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/san-giovanni-calibita/"
+        },
+        {
+            "nome": "Sant'Arnoldo Janssen",
+            "qualifica": "Fondatore",
+            "url": "https://www.santodelgiorno.it/sant-arnoldo-janssen/"
+        },
+        {
+            "nome": "Beato Nicola Gross",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-nicola-gross/"
+        },
+        {
+            "nome": "Beato Pietro di Castelnau",
+            "qualifica": "Sacerdote certosino, martire",
+            "url": "https://www.santodelgiorno.it/beato-pietro-di-castelnau/"
+        },
+        {
+            "nome": "San Bonito di Clermont",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-bonito-di-clermont/"
+        },
+        {
+            "nome": "Sant'Ableberto (Emeberto)",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Angelo da Gualdo Tadino",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Sant'Arsenio di Reggio Calabria",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Malardo di Chartres",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Probo di Rieti",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santa Secondina di Anagni",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Tarsicia",
+            "qualifica": "Martire venerata a Rodez",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/15/gennaio/"
+}

@@ -1,0 +1,103 @@
+{
+    "data": "27-01",
+    "giorno": 27,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "27 gennaio",
+    "principali": [
+        {
+            "nome": "Sant'Angela Merici",
+            "qualifica": "Vergine, fondatrice",
+            "descrizione": "Nacque a Desenzano sul lago di Garda, nel 1474. Vigilata dai pii genitori, custodì diligentemente fin dai primi anni il giglio della verginità che propose di serbare intatto per tutta la vita. Aborriva...",
+            "url": "https://www.santodelgiorno.it/sant-angela-merici/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Elvira",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-elvira/"
+        },
+        {
+            "nome": "San Giuliano di Le Mans",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giuliano-di-le-mans/"
+        },
+        {
+            "nome": "San Vitaliano",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-vitaliano-papa/"
+        },
+        {
+            "nome": "Santa Devota",
+            "qualifica": "Martire in Corsica",
+            "url": "https://www.santodelgiorno.it/santa-devota/"
+        },
+        {
+            "nome": "Sant'Enrico de Osso y Cervello",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/sant-enrico-de-osso-y-cervello/"
+        },
+        {
+            "nome": "Santa Maria di Gesù",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-maria-di-gesu-santocanale/"
+        },
+        {
+            "nome": "Beato Paolo Giuseppe Nardini",
+            "qualifica": "Sacerdote, fondatore",
+            "url": "https://www.santodelgiorno.it/beato-paolo-giuseppe-nardini/"
+        },
+        {
+            "nome": "Beato Giorgio Matulewicz",
+            "qualifica": "Arcivescovo",
+            "url": "https://www.santodelgiorno.it/beato-giorgio-matulewicz/"
+        },
+        {
+            "nome": "Beato Giovanni di Warneton",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-di-warneton/"
+        },
+        {
+            "nome": "San Gilduino",
+            "qualifica": "Diacono di Dol",
+            "url": "https://www.santodelgiorno.it/san-gilduino/"
+        },
+        {
+            "nome": "Madonna di Montenero",
+            "qualifica": "Patrona della Toscana",
+            "url": "https://www.santodelgiorno.it/madonna-di-montenero/"
+        },
+        {
+            "nome": "San Giovanni Maria, detto Muzei",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Giuliano",
+            "qualifica": "Venerato a Sora e Atina",
+            "url": null
+        },
+        {
+            "nome": "Beato Manfredo Settala",
+            "qualifica": "Sacerdote ed eremita",
+            "url": null
+        },
+        {
+            "nome": "San Marino (Mario)",
+            "qualifica": "Abate di Bodon",
+            "url": null
+        },
+        {
+            "nome": "Beata Rosalia du Verdier de la Soriniere",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "San Teodorico di Orleans",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/27/gennaio/"
+}

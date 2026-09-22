@@ -1,0 +1,98 @@
+{
+    "data": "07-11",
+    "giorno": 7,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "7 novembre",
+    "principali": [
+        {
+            "nome": "San Prosdocimo di Padova",
+            "qualifica": "Protovescovo",
+            "descrizione": "Greco, cresciuto alla greca sapienza, come sentì l' apostolo Pietro predicare il Vangelo in Antiochia, si diede subito a seguirlo. E Pietro, venuto a Roma con lui, l'ordinò Vescovo quando aveva appena...",
+            "url": "https://www.santodelgiorno.it/san-prosdocimo-di-padova/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Ernesto di Zwiefalten",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-ernesto/"
+        },
+        {
+            "nome": "San Vincenzo Grossi",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-vincenzo-grossi/"
+        },
+        {
+            "nome": "Sant'Ercolano di Perugia",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-ercolano-di-perugia/"
+        },
+        {
+            "nome": "San Fiorenzo di Strasburgo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-fiorenzo-di-strasburgo/"
+        },
+        {
+            "nome": "Beato Antonio Baldinucci",
+            "qualifica": "Sacerdote gesuita",
+            "url": "https://www.santodelgiorno.it/beato-antonio-baldinucci/"
+        },
+        {
+            "nome": "San Lazzaro il Galesiota",
+            "qualifica": "Stilita",
+            "url": "https://www.santodelgiorno.it/san-lazzaro-il-galesiota/"
+        },
+        {
+            "nome": "San Villibrordo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-villibrordo/"
+        },
+        {
+            "nome": "Sant'Engelberto di Colonia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-engelberto-di-colonia/"
+        },
+        {
+            "nome": "Sant'Amaranto",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Atenodoro",
+            "qualifica": "Vescovo nel Ponto",
+            "url": null
+        },
+        {
+            "nome": "San Baudino (Baldo)",
+            "qualifica": "Vescovo di Tours",
+            "url": null
+        },
+        {
+            "nome": "San Cungaro",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Santi Giacinto Castaneda e Vincenzo Le Quang Liem",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Ierone e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Mamante e compagni",
+            "qualifica": "Martiri a Melitene",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Wu Guosheng",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/07/novembre/"
+}

@@ -1,0 +1,38 @@
+{
+    "data": "27-03",
+    "giorno": 27,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "27 marzo",
+    "principali": [
+        {
+            "nome": "San Ruperto",
+            "qualifica": "Vescovo",
+            "descrizione": "Ruperto nacque in una nobile famiglia di origini irlandesi imparentata con i Merovingi, alla fine del VII secolo. Dopo aver ricevuto un'educazione monastica, operò per l'evangelizzazione della Baviera...",
+            "url": "https://www.santodelgiorno.it/san-ruperto/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Francesco Faà di Bruno",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-francesco-fa-di-bruno/"
+        },
+        {
+            "nome": "Beato Pellegrino da Falerone",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-pellegrino-da-falerone/"
+        },
+        {
+            "nome": "Sant'Augusta di Serravalle",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Panacea De' Muzzi",
+            "qualifica": "Vergine e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/27/marzo/"
+}

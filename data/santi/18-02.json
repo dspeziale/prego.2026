@@ -1,0 +1,88 @@
+{
+    "data": "18-02",
+    "giorno": 18,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "18 febbraio",
+    "principali": [
+        {
+            "nome": "Sacre Ceneri",
+            "qualifica": "Inizio della Quaresima",
+            "descrizione": "Introducendoci al tempo quaresimale la Chiesa propone alla riflessione dei fedeli la lettura del brano del profeta Gioele nel quale Dio rivolge al popolo di Israele un forte richiamo: «Così dice il Signore: ritornate a me con tutto il cuore, con digiuni, con pianti e lamenti»",
+            "url": "https://www.santodelgiorno.it/sacre-ceneri/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Geltrude Comensoli",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-geltrude-camensoli/"
+        },
+        {
+            "nome": "Santi Massimo, Claudio, Prepedigna, Alessandro e Cuzia",
+            "qualifica": "Martiri di Ostia",
+            "url": "https://www.santodelgiorno.it/santi-claudio-massimo-prepedigna-alessandro-e-curzia/"
+        },
+        {
+            "nome": "Beato Giovanni da Fiesole (detto Beato Angelico)",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-da-fiesole-detto-beato-angelico/"
+        },
+        {
+            "nome": "Santi Sadoth e centoventotto compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-sadoth-e-centoventotto-compagni/"
+        },
+        {
+            "nome": "Sant'Elladio di Toledo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-elladio-di-toledo/"
+        },
+        {
+            "nome": "Sant'Angilberto di Centula",
+            "qualifica": "Abate di Saint-Riquier",
+            "url": "https://www.santodelgiorno.it/sant-angilberto-di-centula/"
+        },
+        {
+            "nome": "San Tarasio",
+            "qualifica": "Patriarca di Costantinopoli",
+            "url": "https://www.santodelgiorno.it/san-tarasio/"
+        },
+        {
+            "nome": "San Teotonio",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-teotonio/"
+        },
+        {
+            "nome": "Santa Costanza di Vercelli",
+            "qualifica": "Religiosa",
+            "url": null
+        },
+        {
+            "nome": "San Francesco Regis Clet",
+            "qualifica": "Martire in Cina",
+            "url": null
+        },
+        {
+            "nome": "Beato Giorgio (Jerzy) Kaszyra",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Pibush",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Giovanni Pietro Neel, Martino Wu Xuesheng, Giovanni Zhang Tianshen e Giovanni Chen Xianheng",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo Harrington",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/18/febbraio/"
+}

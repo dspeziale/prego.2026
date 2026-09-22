@@ -1,0 +1,83 @@
+{
+    "data": "06-05",
+    "giorno": 6,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "6 maggio",
+    "principali": [
+        {
+            "nome": "San Pietro Nolasco",
+            "qualifica": "Fondatore dei Mercedari",
+            "descrizione": "S. Pietro Nolasco nacque da nobile famiglia a Recaud presso Carcassone, in Francia, l'anno 1189 e, fin da fanciullo, si distinse per la singolare carità che aveva verso il prossimo. Si ebbe un presagio...",
+            "url": "https://www.santodelgiorno.it/san-pietro-nolasco/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Domenico Savio",
+            "qualifica": "Adolescente",
+            "url": "https://www.santodelgiorno.it/san-domenico-savio/"
+        },
+        {
+            "nome": "Beata Anna Rosa Gattorno",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-anna-rosa-gattorno/"
+        },
+        {
+            "nome": "Santi Mariano e Giacomo",
+            "qualifica": "Martiri di Lambesa",
+            "url": "https://www.santodelgiorno.it/santi-mariano-e-giacomo/"
+        },
+        {
+            "nome": "Beata Jutta (Giuditta) di Sangerhausen",
+            "qualifica": "Vedova",
+            "url": "https://www.santodelgiorno.it/beata-jutta-giuditta-di-sangerhausen/"
+        },
+        {
+            "nome": "Beato Bartolomeo Pucci-Franceschi",
+            "qualifica": "Sacerdote francescano",
+            "url": "https://www.santodelgiorno.it/beato-bartolomeo-pucci-franceschi/"
+        },
+        {
+            "nome": "Beata Caterina Troiani",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-caterina-troiani/"
+        },
+        {
+            "nome": "Beato Francesco de Montmorency-Laval",
+            "qualifica": "Vescovo di Québec",
+            "url": "https://www.santodelgiorno.it/beato-francesco-de-montmorency-laval/"
+        },
+        {
+            "nome": "Sant'Edberto di Lindisfarne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-edberto-di-lindisfarne/"
+        },
+        {
+            "nome": "Santa Benedetta di Roma",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "Beati Edoardo Jones e Antonio Middleton",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Enrico Kaczorowski e Casimiro Gostynski",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Lucio di Cirene",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Venerio di Milano",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/06/maggio/"
+}

@@ -1,0 +1,88 @@
+{
+    "data": "02-11",
+    "giorno": 2,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "2 novembre",
+    "principali": [
+        {
+            "nome": "Commemorazione di tutti i fedeli defunti",
+            "qualifica": "Giorno dei morti",
+            "descrizione": "La ricorrenza di questo giorno fu stabilita per suffragare le anime dei giusti che si trovano ancora nel Purgatorio. Antichissimo è l'uso della Chiesa di pregare per i defunti, perché vengano...",
+            "url": "https://www.santodelgiorno.it/commemorazione-tutti-i-defunti/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Madonna del Suffragio",
+            "qualifica": "Consolatrice delle anime del Purgatorio",
+            "url": "https://www.santodelgiorno.it/madonna-del-suffragio/"
+        },
+        {
+            "nome": "San Vittorino",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-vittorino/"
+        },
+        {
+            "nome": "San Giusto di Trieste",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-giusto-di-trieste/"
+        },
+        {
+            "nome": "Beato Pio Campidelli",
+            "qualifica": "Religioso",
+            "url": "https://www.santodelgiorno.it/beato-pio-campidelli/"
+        },
+        {
+            "nome": "Beata Margherita di Lorena",
+            "qualifica": "Vedova",
+            "url": "https://www.santodelgiorno.it/beata-margherita-di-lorena/"
+        },
+        {
+            "nome": "San Malachia di Armagh",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-malachia-di-armagh/"
+        },
+        {
+            "nome": "Santa Vinfreda",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-vinfreda/"
+        },
+        {
+            "nome": "San Marciano di Siria",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/san-marciano-di-siria/"
+        },
+        {
+            "nome": "Santi Acindino (Acendino), Pegasio, Aftonio, Elpidiforo, Anempodisto e compagni",
+            "qualifica": "Martiri in Persia",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ambrogio",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Santi Carterio, Stiriaco, Tobia, Eudossio, Agapio e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Donnino di Vienne",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Giorgio di Vienne",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Bodey",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/02/novembre/"
+}

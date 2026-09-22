@@ -1,0 +1,103 @@
+{
+    "data": "15-09",
+    "giorno": 15,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "15 settembre",
+    "principali": [
+        {
+            "nome": "Beata Vergine Maria Addolorata",
+            "qualifica": "Il cuore affranto di Maria",
+            "descrizione": "Ogni sguardo dato a Lei da Gesù, ogni accento di quel labbro soave, mentre sollevava Maria sulle ali dell'amore materno, la precipitava nell'investigabile abisso del più acerbo dolore. Se la Vergine si...",
+            "url": "https://www.santodelgiorno.it/beata-vergine-maria-addolorata/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Caterina da Genova",
+            "qualifica": "Vedova",
+            "url": "https://www.santodelgiorno.it/santa-caterina-fieschi-adorno-da-genova/"
+        },
+        {
+            "nome": "Beato Rolando (Orlando) de' Medici",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/beato-rolando-de-medici/"
+        },
+        {
+            "nome": "Beato Paolo Manna",
+            "qualifica": "Missionario",
+            "url": "https://www.santodelgiorno.it/beato-paolo-manna/"
+        },
+        {
+            "nome": "Beato Anton Maria Schwartz",
+            "qualifica": "Fondatore",
+            "url": "https://www.santodelgiorno.it/beato-anton-maria-schwartz/"
+        },
+        {
+            "nome": "San Niceta il Goto",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-niceta-il-goto/"
+        },
+        {
+            "nome": "San Valeriano di Tournus",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-valeriano-di-tournus/"
+        },
+        {
+            "nome": "San Nicomede di Roma",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-nicomede-di-roma/"
+        },
+        {
+            "nome": "Sant'Acardo (Aicardo) di Jumieges",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-acardo-di-jumieges/"
+        },
+        {
+            "nome": "Beato Ladislao Miegon",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-ladislao-miegon/"
+        },
+        {
+            "nome": "Beato Pasquale Penades Jornet",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-pasquale-penades-jornet/"
+        },
+        {
+            "nome": "Beato Camillo Costanzo",
+            "qualifica": "Gesuita, martire",
+            "url": "https://www.santodelgiorno.it/beato-camillo-costanzo/"
+        },
+        {
+            "nome": "Sant'Albino di Lione",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-albino-di-lione/"
+        },
+        {
+            "nome": "Sant'Apro di Toul",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-apro-di-toul/"
+        },
+        {
+            "nome": "Santi Emila e Geremia",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni Battista e Giacinto de los Ángeles",
+            "qualifica": "Martiri indios",
+            "url": null
+        },
+        {
+            "nome": "Santi Stratone, Valerio, Macrobio e Gordiano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Madonna della Murgia",
+            "qualifica": "Dedicazione",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/15/settembre/"
+}

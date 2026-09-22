@@ -1,0 +1,88 @@
+{
+    "data": "19-07",
+    "giorno": 19,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "19 luglio",
+    "principali": [
+        {
+            "nome": "Sant'Arsenio il Grande",
+            "qualifica": "Eremita",
+            "descrizione": "Bianco con candida e lunga barba, alto di statura, nobilissimo d'aspetto, questo era Sant'Arsenio a novantacinque anni, dopo più di mezzo secolo di vita nel deserto più arido e desolato...",
+            "url": "https://www.santodelgiorno.it/sant-arsenio-il-grande/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Macrina la Giovane",
+            "qualifica": "Monaca",
+            "url": "https://www.santodelgiorno.it/santa-macrina-la-giovane/"
+        },
+        {
+            "nome": "San Simmaco",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-simmaco/"
+        },
+        {
+            "nome": "Beata Stilla di Abenberg",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-stilla-di-abenberg/"
+        },
+        {
+            "nome": "San Bernoldo di Utrecht",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-bernoldo-di-utrecht/"
+        },
+        {
+            "nome": "San Pietro Crisci da Foligno",
+            "qualifica": "Uomo di grande umiltà",
+            "url": "https://www.santodelgiorno.it/san-pietro-crisci-da-foligno/"
+        },
+        {
+            "nome": "Beato Achille (Achilles Jozef) Puchala",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Aurea di Cordova",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Dio di Costantinopoli",
+            "qualifica": "Archimandrita",
+            "url": null
+        },
+        {
+            "nome": "Santi Elisabetta Qin Bianzhi e Simone Qin Chunfu",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Epafra di Colossi",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Ermanno (Herman Karol) Stepien",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Battista Zhou Wurui",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Giovanni Plessington",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Macedonio, Teodulo e Taziano",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/19/luglio/"
+}

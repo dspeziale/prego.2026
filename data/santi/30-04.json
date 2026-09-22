@@ -1,0 +1,128 @@
+{
+    "data": "30-04",
+    "giorno": 30,
+    "mese": "Aprile",
+    "mese_numero": 4,
+    "data_estesa": "30 aprile",
+    "principali": [
+        {
+            "nome": "San Pio V",
+            "qualifica": "Papa",
+            "descrizione": "S. Pio V nacque in un paese del Piemonte chiamato Bosco, ma discendeva dalla nobile famiglia dei Ghisieri, di Bologna. Frequentando da piccino un convento di Domenicani finì per abbracciarne l'ordine...",
+            "url": "https://www.santodelgiorno.it/san-pio-quinto/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Giuseppe Benedetto Cottolengo",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-benedetto-cottolengo/"
+        },
+        {
+            "nome": "Beato Benedetto da Urbino",
+            "qualifica": "Sacerdote cappuccino",
+            "url": "https://www.santodelgiorno.it/beato-benedetto-da-urbino/"
+        },
+        {
+            "nome": "Servo di Dio Pierangelo Capuzzimati",
+            "qualifica": "Adolescente",
+            "url": "https://www.santodelgiorno.it/pierangelo-capuzzimati/"
+        },
+        {
+            "nome": "Beata Paolina von Mallinckrodt",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-paolina-von-mallinckrodt/"
+        },
+        {
+            "nome": "San Mercuriale di Forlì",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-mercuriale-di-forli/"
+        },
+        {
+            "nome": "Sant'Erconvaldo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-erconvaldo/"
+        },
+        {
+            "nome": "Santa Maria dell'Incarnazione",
+            "qualifica": "Vedova e fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-dell-incarnazione/"
+        },
+        {
+            "nome": "Sant'Adiutore di Vernon",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Santi Amatore, Pietro e Ludovico di Cordova",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Augulo",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Diodoro e Rodopiano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Donato di Evorea",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eutropio di Saintes",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Giuseppe Tuan",
+            "qualifica": "Sacerdote domenicano, martire",
+            "url": null
+        },
+        {
+            "nome": "San Gualfardo",
+            "qualifica": "Religioso camaldolese",
+            "url": null
+        },
+        {
+            "nome": "San Guglielmo Southerne",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Lorenzo di Novara",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "San Mariano",
+            "qualifica": "Venerato ad Acerenza",
+            "url": null
+        },
+        {
+            "nome": "Beato Pietro Diacono (Levita)",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "San Pomponio di Napoli",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Quirino",
+            "qualifica": "Martire, venerato a Neuss",
+            "url": null
+        },
+        {
+            "nome": "Santa Sofia di Fermo",
+            "qualifica": "Vergine e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/30/aprile/"
+}

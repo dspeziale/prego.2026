@@ -1,0 +1,98 @@
+{
+    "data": "26-06",
+    "giorno": 26,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "26 giugno",
+    "principali": [
+        {
+            "nome": "San Vigilio",
+            "qualifica": "Vescovo e martire",
+            "descrizione": "Patrono del Trentino e dell'Alto Adige, Vigilio fu colui che maggiormente operò, con successo, per la conversione al cristianesimo di quelle popolazioni. Nato a Trento da una famiglia romana, vissuta...",
+            "url": "https://www.santodelgiorno.it/san-vigilio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Josemaria Escrivá de Balaguer",
+            "qualifica": "Sacerdote, Fondatore dell'Opus Dei",
+            "url": "https://www.santodelgiorno.it/san-josemaria-escriva/"
+        },
+        {
+            "nome": "Santi Giovanni e Paolo",
+            "qualifica": "Martiri di Roma",
+            "url": "https://www.santodelgiorno.it/santi-giovanni-e-paolo/"
+        },
+        {
+            "nome": "San Rodolfo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-rodolfo-vescovo/"
+        },
+        {
+            "nome": "San Jose Maria Robles Hurtado",
+            "qualifica": "Martire Messicano",
+            "url": "https://www.santodelgiorno.it/san-jose-maria-robles-hurtado/"
+        },
+        {
+            "nome": "Beato Andrea Giacinto Longhin",
+            "qualifica": "Vescovo cappuccino",
+            "url": "https://www.santodelgiorno.it/beato-andrea-giacinto-longhin/"
+        },
+        {
+            "nome": "San Massenzio",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-massenzio/"
+        },
+        {
+            "nome": "Sant'Antelmo di Chignin",
+            "qualifica": "Monaco e vescovo di Belley",
+            "url": "https://www.santodelgiorno.it/sant-antelmo-di-chignin/"
+        },
+        {
+            "nome": "Beato Andrea (Andrij) Iscak",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Davide di Salonicco",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Deodato di Nola",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Giuseppe Ma Taishun",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beate Maria Maddalena Fontaine e 3 compagne",
+            "qualifica": "Vergini e martiri",
+            "url": null
+        },
+        {
+            "nome": "Beati Nicola (Mycola) Konrad e Vladimiro (Volodymyr) Pryjma",
+            "qualifica": "Martiri ucraini",
+            "url": null
+        },
+        {
+            "nome": "San Pelagio di Cordova",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Raimondo Petiniaud de Jourgnac",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Salvio e Superio",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/26/giugno/"
+}

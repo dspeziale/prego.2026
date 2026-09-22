@@ -1,0 +1,73 @@
+{
+    "data": "23-02",
+    "giorno": 23,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "23 febbraio",
+    "principali": [
+        {
+            "nome": "San Policarpo",
+            "qualifica": "Vescovo e martire",
+            "descrizione": "Poco si conosce della vita di San Policarpo. In gioventù si convertì al Cristianesimo ed ebbe la grazia di essere istruito dagli Apostoli, in particolare da San Giovanni Evangelista, che...",
+            "url": "https://www.santodelgiorno.it/san-policarpo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Giuseppina Vannini",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-giuseppina-vannini/"
+        },
+        {
+            "nome": "Beata Raffaella Ybarra",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-raffaella-ybarra/"
+        },
+        {
+            "nome": "San Sereno di Sirmio",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-sereno-di-sirmio/"
+        },
+        {
+            "nome": "Santa Milburga",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-milburga/"
+        },
+        {
+            "nome": "Beata Giovannina Franchi",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-giovannina-franchi/"
+        },
+        {
+            "nome": "San Giovanni Theristi",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-giovanni-theristi/"
+        },
+        {
+            "nome": "San Villigiso",
+            "qualifica": "Vescovo di Magonza",
+            "url": "https://www.santodelgiorno.it/san-villigiso/"
+        },
+        {
+            "nome": "Beato Ludovico (Ludwig) Mzyk",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Nicola Tabouillot",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Wincenty Stefan Frelichowski",
+            "qualifica": "Sacerdote, martire",
+            "url": null
+        },
+        {
+            "nome": "San Livio",
+            "qualifica": "Martire romano",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/23/febbraio/"
+}

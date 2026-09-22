@@ -1,0 +1,73 @@
+{
+    "data": "16-12",
+    "giorno": 16,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "16 dicembre",
+    "principali": [
+        {
+            "nome": "Sant'Adelaide",
+            "qualifica": "Imperatrice",
+            "descrizione": "«È dovere dei ricchi usare misericordia verso i poveri». Ripeteva spesso questa massima, e soprattutto si sforzava di tradurla in pratica Adelaide di Borgogna, moglie di Ottone I e imperatrice. Nata nel...",
+            "url": "https://www.santodelgiorno.it/sant-adelaide/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Maria degli Angeli",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-maria-degli-angeli/"
+        },
+        {
+            "nome": "Sant'Aggeo",
+            "qualifica": "Profeta",
+            "url": "https://www.santodelgiorno.it/sant-aggeo-profeta/"
+        },
+        {
+            "nome": "Beato Clemente Marchisio",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-clemente-marchisio/"
+        },
+        {
+            "nome": "Beato Filippo Siphong Onphitak",
+            "qualifica": "Protomartire della Thailandia",
+            "url": "https://www.santodelgiorno.it/beato-filippo-siphong-onphitak/"
+        },
+        {
+            "nome": "Sant'Everardo del Friuli",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/sant-everardo-del-friuli/"
+        },
+        {
+            "nome": "Beato Sebastiano Maggi",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-sebastiano-maggi/"
+        },
+        {
+            "nome": "Beato Onorato Kazminski",
+            "qualifica": "Cappuccino",
+            "url": "https://www.santodelgiorno.it/beato-onorato-kazminski/"
+        },
+        {
+            "nome": "Sant'Adone di Vienne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-adone-di-vienne/"
+        },
+        {
+            "nome": "San Beano",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Macario di Collesano",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Sante Martiri d'Africa",
+            "qualifica": "Religiose",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/16/dicembre/"
+}

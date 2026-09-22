@@ -1,0 +1,98 @@
+{
+    "data": "30-03",
+    "giorno": 30,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "30 marzo",
+    "principali": [
+        {
+            "nome": "Beato Amedeo IX di Savoia",
+            "qualifica": "Duca, Terziario francescano",
+            "descrizione": "Amedeo nacque a Thonon nel 1435, figlio del duca Ludovico I di Savoia e di Anna di Lusignano, e nipote dell'antipapa Felice V. Già da bambino fu promesso a Iolanda, figlia di Carlo VII di Francia...",
+            "url": "https://www.santodelgiorno.it/beato-amedeo-ix-di-savoia/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Lunedì Santo",
+            "qualifica": "Maria unge i piedi di Gesù",
+            "url": "https://www.santodelgiorno.it/lunedi-santo/"
+        },
+        {
+            "nome": "San Leonardo Murialdo",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-leonardo-murialdo/"
+        },
+        {
+            "nome": "San Ludovico da Casoria",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/san-ludovico-da-casoria/"
+        },
+        {
+            "nome": "San Secondo di Asti",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-secondo-di-asti/"
+        },
+        {
+            "nome": "San Giovanni Climaco",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-giovanni-climaco/"
+        },
+        {
+            "nome": "Santi Antonio Daveluy e compagni",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-antonio-daveluy-e-compagni/"
+        },
+        {
+            "nome": "San Zosimo di Siracusa",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-zosimo-di-siracusa/"
+        },
+        {
+            "nome": "San Julio Alvarez Mendoza",
+            "qualifica": "Martire Messicano",
+            "url": "https://www.santodelgiorno.it/san-julio-alvarez-mendoza/"
+        },
+        {
+            "nome": "San Clino (o Clinio)",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Donnino",
+            "qualifica": "Martire in Macedonia",
+            "url": null
+        },
+        {
+            "nome": "Beato Martino de Salvitierra",
+            "qualifica": "Mercedario",
+            "url": null
+        },
+        {
+            "nome": "Santi Martiri di Costantinopoli",
+            "qualifica": "Cristiani",
+            "url": null
+        },
+        {
+            "nome": "Sant'Osburga di Coventry",
+            "qualifica": "Badessa",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Regalado da Valladolid",
+            "qualifica": "Francescano",
+            "url": null
+        },
+        {
+            "nome": "San Regolo",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beata Restituta Kafka",
+            "qualifica": "Vergine e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/30/marzo/"
+}

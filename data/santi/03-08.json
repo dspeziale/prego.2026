@@ -1,0 +1,63 @@
+{
+    "data": "03-08",
+    "giorno": 3,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "3 agosto",
+    "principali": [
+        {
+            "nome": "Sant'Aspreno di Napoli",
+            "qualifica": "Vescovo",
+            "descrizione": "Aspreno nacque nel primo secolo a Napoli, della sua vita si hanno poche notizie. Si narra che San Pietro, dopo aver fondata la Chiesa d’Antiochia, si mise in viaggio per Roma e, nel mezzo, incontr&ograve...",
+            "url": "https://www.santodelgiorno.it/sant-aspreno-di-napoli/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Lidia di Filippi",
+            "qualifica": "Testimone del primo sec",
+            "url": "https://www.santodelgiorno.it/santa-lidia-di-filippi/"
+        },
+        {
+            "nome": "San Martino",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-martino-eremita/"
+        },
+        {
+            "nome": "Beato Agostino Kazotic",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-agostino-kazotic/"
+        },
+        {
+            "nome": "Sante Marana e Cira",
+            "qualifica": "Vergini",
+            "url": null
+        },
+        {
+            "nome": "Beati Alfonso Lopez Lopez e Michele Remon Salvador",
+            "qualifica": "Francescani, martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eufronio di Autun",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Francesco (Francisco) Bandrés Sanchez",
+            "qualifica": "Sacerdote salesiano e martire",
+            "url": null
+        },
+        {
+            "nome": "San Pietro di Anagni",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Salvatore Ferrandis Seguì",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/03/agosto/"
+}

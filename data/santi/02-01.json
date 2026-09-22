@@ -1,0 +1,93 @@
+{
+    "data": "02-01",
+    "giorno": 2,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "2 gennaio",
+    "principali": [
+        {
+            "nome": "Santi Basilio Magno e Gregorio Nazianzeno",
+            "qualifica": "Vescovi e dottori della Chiesa",
+            "descrizione": "Paolo VI con la riforma del calendario decise di ricordare Basilio e Gregorio insieme per la loro grande amicizia. Santi nel cielo e amici sulla terra, entrambi proclamati dottori della Chiesa nel 1568...",
+            "url": "https://www.santodelgiorno.it/santi-basilio-e-gregorio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beata Stefana Quinzani",
+            "qualifica": "Domenicana",
+            "url": "https://www.santodelgiorno.it/beata-stefana-quinzani/"
+        },
+        {
+            "nome": "San Silvestro di Troina",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-silvestro-di-troina/"
+        },
+        {
+            "nome": "San Giovanni Bono",
+            "qualifica": "Vescovo di Milano",
+            "url": "https://www.santodelgiorno.it/san-giovanni-bono/"
+        },
+        {
+            "nome": "Beata Maria Anna Sureau Blondin",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/beata-maria-anna-sureau-blondin/"
+        },
+        {
+            "nome": "Beato Marcolino Amanni da Forlì",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-marcolino-amanni-da-forli/"
+        },
+        {
+            "nome": "Sant'Adalardo di Corbie",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-adalardo-di-corbie/"
+        },
+        {
+            "nome": "Beati Guglielmo Repin e Lorenzo Bâtard",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beati-guglielmo-repin-e-lorenzo-batard/"
+        },
+        {
+            "nome": "San Mainchin",
+            "qualifica": "Vescovo di Limerick",
+            "url": "https://www.santodelgiorno.it/san-mainchin/"
+        },
+        {
+            "nome": "Sant'Airaldo di Saint-Jean-de-Maurienne",
+            "qualifica": "Monaco e vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Argeo, Narciso e Marcellino",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Blidulfo (Bladulfo)",
+            "qualifica": "Monaco a Bobbio",
+            "url": null
+        },
+        {
+            "nome": "San Defendente di Tebe",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Telesforo",
+            "qualifica": "Papa e martire",
+            "url": null
+        },
+        {
+            "nome": "San Teodoro di Marsiglia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Vincenziano",
+            "qualifica": "Eremita",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/02/gennaio/"
+}

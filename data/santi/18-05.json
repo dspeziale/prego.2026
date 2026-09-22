@@ -1,0 +1,93 @@
+{
+    "data": "18-05",
+    "giorno": 18,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "18 maggio",
+    "principali": [
+        {
+            "nome": "San Giovanni I",
+            "qualifica": "Papa e martire",
+            "descrizione": "Originario della Tuscia e figlio di un certo Costanzo secondo il Liber Pontificalis, fu eletto papa succedendo a Ormisda il 13 agosto 523. Non si hanno notizie sicure su questo papa prima della sua elezione...",
+            "url": "https://www.santodelgiorno.it/san-giovanni-primo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Felice da Cantalice",
+            "qualifica": "Cappuccino",
+            "url": "https://www.santodelgiorno.it/san-felice-da-cantalice/"
+        },
+        {
+            "nome": "Sant'Erik IX",
+            "qualifica": "Re di Svezia",
+            "url": "https://www.santodelgiorno.it/erik-di-svezia/"
+        },
+        {
+            "nome": "San Venanzio di Camerino",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-venanzio-di-camerino/"
+        },
+        {
+            "nome": "Santi Teodoto, Tecusa, Alessandra, Claudia, Faina, Eufrasia, Matrona e Giulitta",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-teodoto-tecusa-alessandra-claudia-faina-eufrasia-matrona-e-giulitta/"
+        },
+        {
+            "nome": "Beata Blandina Merten",
+            "qualifica": "Orsolina",
+            "url": "https://www.santodelgiorno.it/beata-blandina-merten/"
+        },
+        {
+            "nome": "Beato Guglielmo da Tolosa",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-guglielmo-da-tolosa/"
+        },
+        {
+            "nome": "Beata Maria Guadalupe Ortiz de Landázuri",
+            "qualifica": "Laica dell'Opus Dei",
+            "url": "https://www.santodelgiorno.it/beata-maria-guadalupe-ortiz-de-landazuri/"
+        },
+        {
+            "nome": "Beato Burcardo di Beinwil",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "San Dioscoro di Alessandria",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Felice di Spalato (Salona)",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Martino Giovanni (Marcin Jan) Oprzadek",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Stanislao (Stanislaw) Kubski",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Luciana",
+            "qualifica": "Martire a Bisanzio",
+            "url": null
+        },
+        {
+            "nome": "Madonna del Bosco",
+            "qualifica": "Appellativo",
+            "url": null
+        },
+        {
+            "nome": "Santi Potamone, Ortasio e Serapione e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/18/maggio/"
+}

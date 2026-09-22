@@ -1,0 +1,83 @@
+{
+    "data": "24-11",
+    "giorno": 24,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "24 novembre",
+    "principali": [
+        {
+            "nome": "Santa Flora di Cordova",
+            "qualifica": "Martiri",
+            "descrizione": "Nacque a Cordova nella Spagna islamica, da padre musulmano e madre cristiana. Una volta morto il padre fu educata al cristianesimo insieme alla sorella Baldegoto ma fu osteggiata dal fratello musulmano...",
+            "url": "https://www.santodelgiorno.it/santa-flora-di-cordova/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Andrea Dung Lac e 116 compagni",
+            "qualifica": "Martiri Vietnamiti",
+            "url": "https://www.santodelgiorno.it/santi-martiri-vietnamiti/"
+        },
+        {
+            "nome": "Santa Firmina di Amelia",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/santa-firmina-di-amelia/"
+        },
+        {
+            "nome": "Beata Maria Anna Sala",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-maria-anna-sala/"
+        },
+        {
+            "nome": "San Crisogono di Aquileia",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-crisogono-di-aquileia/"
+        },
+        {
+            "nome": "Sant'Alberto di Lovanio",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/sant-alberto-di-lovanio/"
+        },
+        {
+            "nome": "San Protasio",
+            "qualifica": "Vescovo di Milano",
+            "url": "https://www.santodelgiorno.it/san-protasio-di-milano/"
+        },
+        {
+            "nome": "Beato Balsamo di Cava",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/beato-balsamo-di-cava/"
+        },
+        {
+            "nome": "San Colman di Cloyne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-colman-di-cloyne/"
+        },
+        {
+            "nome": "San Flaviano di Ricina",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Beate Niceta di Santa Prudenzia Plaja Xifra e 11 compagne",
+            "qualifica": "Vergini e martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Pietro Dumoulin-Borie, Pietro Vo Dang Khoa e Vincenzo Nguyen The Diem",
+            "qualifica": "Sacerdoti e martiri",
+            "url": null
+        },
+        {
+            "nome": "San Porziano",
+            "qualifica": "Abate in Alvernia",
+            "url": null
+        },
+        {
+            "nome": "San Romano di Blaye",
+            "qualifica": "Sacerdote",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/24/novembre/"
+}

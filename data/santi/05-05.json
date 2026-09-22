@@ -1,0 +1,108 @@
+{
+    "data": "05-05",
+    "giorno": 5,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "5 maggio",
+    "principali": [
+        {
+            "nome": "Sant'Angelo da Gerusalemme",
+            "qualifica": "Martire, carmelitano",
+            "descrizione": "Nato a Gerusalemme, da un parto gemellare, Angelo fu ebreo non soltanto di razza, ma anche di religione, finché la madre, convertendosi al Cristianesimo, non portò alla fede anche i due figli...",
+            "url": "https://www.santodelgiorno.it/sant-angelo-da-gerusalemme/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Irene da Lecce",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/santa-irene-da-lecce/"
+        },
+        {
+            "nome": "San Nunzio Sulprizio",
+            "qualifica": "Giovane operaio",
+            "url": "https://www.santodelgiorno.it/san-nunzio-sulprizio/"
+        },
+        {
+            "nome": "San Gottardo di Hildesheim",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gottardo-di-hildesheim/"
+        },
+        {
+            "nome": "Beata Caterina Cittadini",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-caterina-cittadini/"
+        },
+        {
+            "nome": "San Massimo di Gerusalemme",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-massimo-di-gerusalemme/"
+        },
+        {
+            "nome": "Sant'Ilario di Arles",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-ilario-di-arles/"
+        },
+        {
+            "nome": "San Mauronto",
+            "qualifica": "Abate e diacono",
+            "url": "https://www.santodelgiorno.it/san-mauronto/"
+        },
+        {
+            "nome": "Sant'Avertino",
+            "qualifica": "Diacono",
+            "url": null
+        },
+        {
+            "nome": "Beato Benvenuto Mareni da Recanati",
+            "qualifica": "Religioso",
+            "url": null
+        },
+        {
+            "nome": "San Brittone di Treviri",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eutimio di Alessandria",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Geronzio di Milano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Gioviniano",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Gregorio Boleslao (Grzegorz Boleslaw) Frackowiak",
+            "qualifica": "Religioso e martire",
+            "url": null
+        },
+        {
+            "nome": "San Lanno (Lando)",
+            "qualifica": "Martire venerato a Vasanello",
+            "url": null
+        },
+        {
+            "nome": "San Leo di Africo",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "San Nicezio di Vienne",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Sacerdote di Limoges",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/05/maggio/"
+}

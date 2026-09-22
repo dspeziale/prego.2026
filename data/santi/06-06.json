@@ -1,0 +1,128 @@
+{
+    "data": "06-06",
+    "giorno": 6,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "6 giugno",
+    "principali": [
+        {
+            "nome": "San Norberto",
+            "qualifica": "Vescovo",
+            "descrizione": "S. Norberto nacque a Xanten nel 1085 circa da una illustre e ricca famiglia. Fin da giovinetto si diede agli studi con splendidi successi, per cui fu bene accolto alle corti dei principi e in quella dello...",
+            "url": "https://www.santodelgiorno.it/san-norberto/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Claudio di Condat",
+            "qualifica": "Abate-vescovo",
+            "url": "https://www.santodelgiorno.it/san-claudio-di-condat/"
+        },
+        {
+            "nome": "San Marcellino Champagnat",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-marcellino-champagnat/"
+        },
+        {
+            "nome": "San Raffaele Guizar Valencia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-raffaele-guizar-valencia/"
+        },
+        {
+            "nome": "San Gerardo Tintori",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/san-gerardo-tintori/"
+        },
+        {
+            "nome": "Sant'Eustorgio II di Milano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-eustorgio-ii-di-milano/"
+        },
+        {
+            "nome": "San Iarlath",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-iarlath/"
+        },
+        {
+            "nome": "San Cerato di Grenoble",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-cerato-di-grenoble/"
+        },
+        {
+            "nome": "Beato Odoardo Focherini",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/beato-odoardo-focherini/"
+        },
+        {
+            "nome": "Beato Lorenzo de Masculis da Villamagna",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-lorenzo-de-masculis-da-villamagna/"
+        },
+        {
+            "nome": "Beato Bertrando di Aquileia",
+            "qualifica": "Patriarca",
+            "url": "https://www.santodelgiorno.it/beato-bertrando-di-aquileia/"
+        },
+        {
+            "nome": "Sant'Alessandro di Fiesole",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Artemio e Paolina",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Bessarione",
+            "qualifica": "Anacoreta",
+            "url": null
+        },
+        {
+            "nome": "San Colmoco (Colman)",
+            "qualifica": "Vescovo in Scozia",
+            "url": null
+        },
+        {
+            "nome": "Beato Falcone",
+            "qualifica": "Abate di Cava dei Tirreni",
+            "url": null
+        },
+        {
+            "nome": "San Gilberto",
+            "qualifica": "Eremita ed abate in Alvernia",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo Greenwood",
+            "qualifica": "Sacerdote certosino, martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ilarione il Giovane",
+            "qualifica": "Archimandrita",
+            "url": null
+        },
+        {
+            "nome": "Beato Innocenzo (Innocenty Jozef Wojciech) Guz",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Paolina e familiari",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Pietro Dung, Pietro Thuan e Vincenzo Duong",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Lucio e Amanzio",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/06/giugno/"
+}

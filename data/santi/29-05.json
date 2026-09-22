@@ -1,0 +1,113 @@
+{
+    "data": "29-05",
+    "giorno": 29,
+    "mese": "Maggio",
+    "mese_numero": 5,
+    "data_estesa": "29 maggio",
+    "principali": [
+        {
+            "nome": "San Paolo VI",
+            "qualifica": "Papa",
+            "descrizione": "Giovanni Battista Montini nacque a Concesio, presso Brescia, il 26 settembre 1897, da famiglia agiata. Suo padre era avvocato, redattore politico e deputato parlamentare; la madre, verso la quale il figlio...",
+            "url": "https://www.santodelgiorno.it/san-paolo-vi/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Massimo di Verona",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-massimo-di-verona/"
+        },
+        {
+            "nome": "Beato Rolando Rivi",
+            "qualifica": "Seminarista e martire",
+            "url": "https://www.santodelgiorno.it/beato-rolando-rivi/"
+        },
+        {
+            "nome": "San Massimino di Treviri",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-massimino-di-treviri/"
+        },
+        {
+            "nome": "Sant'Orsola Ledóchowska",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/sant-urszula-orsola-ledochowska/"
+        },
+        {
+            "nome": "Santa Bona da Pisa",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-bona-da-pisa/"
+        },
+        {
+            "nome": "San Sisinnio",
+            "qualifica": "Protomartire trentino",
+            "url": "https://www.santodelgiorno.it/san-sisinnio/"
+        },
+        {
+            "nome": "Beati Guglielmo Arnaud e 10 compagni",
+            "qualifica": "Martiri di Avignonet",
+            "url": "https://www.santodelgiorno.it/beati-guglielmo-arnaud-e-10-compagni/"
+        },
+        {
+            "nome": "Beato Giuseppe Gerard",
+            "qualifica": "Sacerdote, missionario",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-gerard/"
+        },
+        {
+            "nome": "Sant'Essuperanzio di Ravenna",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-essuperanzio-di-ravenna/"
+        },
+        {
+            "nome": "Sant'Alessandro",
+            "qualifica": "Protomartire trentino",
+            "url": null
+        },
+        {
+            "nome": "Santi Conone (Cuono) e Conello",
+            "qualifica": "Martiri ad Iconio",
+            "url": null
+        },
+        {
+            "nome": "Sant'Esichio di Antiochia",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Gerardo di Macon",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beata Gherardesca",
+            "qualifica": "Vedova, monaca camaldolese",
+            "url": null
+        },
+        {
+            "nome": "San Martirio",
+            "qualifica": "Protomartire trentino",
+            "url": null
+        },
+        {
+            "nome": "Beato Riccardo Thirkeld",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Senatore di Milano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eleuterio di Arce",
+            "qualifica": "Pellegrino e confessore",
+            "url": null
+        },
+        {
+            "nome": "Santi Sisinnio, Martirio e Alessandro",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/29/maggio/"
+}

@@ -1,0 +1,93 @@
+{
+    "data": "22-01",
+    "giorno": 22,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "22 gennaio",
+    "principali": [
+        {
+            "nome": "San Vincenzo di Saragozza",
+            "qualifica": "Diacono e martire",
+            "descrizione": "San Vincenzo, illustre martire di Gesù Cristo, nacque a Saragozza in Spagna. Sotto la disciplina di Valerio, vescovo di quella città, fu istruito nelle scienze e nella pietà. In breve...",
+            "url": "https://www.santodelgiorno.it/san-vincenzo-di-saragozza/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Sant'Anastasio (Magundat)",
+            "qualifica": "Martire in Persia",
+            "url": "https://www.santodelgiorno.it/sant-anastasio-il-persiano/"
+        },
+        {
+            "nome": "Beata Laura Vicuna",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-laura-vicuna/"
+        },
+        {
+            "nome": "San Vincenzo Pallotti",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-vincenzo-pallotti/"
+        },
+        {
+            "nome": "San Valerio di Saragozza",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-valerio-di-saragozza/"
+        },
+        {
+            "nome": "San Domenico di Sora",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-domenico-di-sora/"
+        },
+        {
+            "nome": "San Gaudenzio di Novara",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gaudenzio-di-novara/"
+        },
+        {
+            "nome": "Beato Giuseppe Nascimbeni",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-nascimbeni/"
+        },
+        {
+            "nome": "Beato Guglielmo Giuseppe Chaminade",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-guglielmo-giuseppe-chaminade/"
+        },
+        {
+            "nome": "Beato Ladislao Batthyany-Strattmann",
+            "qualifica": "Padre di famiglia",
+            "url": "https://www.santodelgiorno.it/beato-ladislao-batthyany-strattmann/"
+        },
+        {
+            "nome": "Beata Maria Mancini",
+            "qualifica": "Madre e monaca",
+            "url": "https://www.santodelgiorno.it/beata-maria-mancini/"
+        },
+        {
+            "nome": "Beato Antonio Della Chiesa",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-antonio-della-chiesa/"
+        },
+        {
+            "nome": "San Bernardo di Vienne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-bernardo-di-vienne/"
+        },
+        {
+            "nome": "Sant'Anastasio di Asti",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Francesco Gil de Federich e Matteo Alfonso de Leciniana",
+            "qualifica": "Sacerdoti domenicani, martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Guglielmo Patenson",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/22/gennaio/"
+}

@@ -1,0 +1,123 @@
+{
+    "data": "08-08",
+    "giorno": 8,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "8 agosto",
+    "principali": [
+        {
+            "nome": "San Domenico di Guzman",
+            "qualifica": "Sacerdote e fondatore dei Predicatori",
+            "descrizione": "Nato a Calaruega in Spagna nel 1170, da Felice Guzman e Giovanna di Asa, fu subito consacrato al Signore dalla madre sua, la quale aveva già visto in sogno che il figlio era destinato dal Signore...",
+            "url": "https://www.santodelgiorno.it/san-domenico-di-guzman/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Maria Elena MacKillop (Maria della Croce)",
+            "qualifica": "Fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-maria-elena-mackillop/"
+        },
+        {
+            "nome": "San Ciriaco di Roma",
+            "qualifica": "Diacono e martire",
+            "url": "https://www.santodelgiorno.it/san-ciriaco-di-roma/"
+        },
+        {
+            "nome": "Beata Maria Margherita Caiani",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-maria-margherita-caiani/"
+        },
+        {
+            "nome": "Beato Giovanni Felton",
+            "qualifica": "Laico coniugato, martire",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-felton/"
+        },
+        {
+            "nome": "Sant'Altmanno di Passau",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-altmanno-di-passau/"
+        },
+        {
+            "nome": "Beato Antonio Silvestre Moya",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Bonifacia Rodriguez Castro",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "San Crescentino (Crescenziano) di Città di Castello",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Emiliano di Cizico",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eusebio di Milano",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Famiano",
+            "qualifica": "Venerato a Gallese",
+            "url": null
+        },
+        {
+            "nome": "Beato Giovanni Fingley",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beate Maria di Gesù Bambino Badillou y Bullit e 4 compagne",
+            "qualifica": "Martiri Scolopie",
+            "url": null
+        },
+        {
+            "nome": "San Marino di Anazarbo",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Mummolo di Fleury",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "San Paolo Ke Tingzhu",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Severiano",
+            "qualifica": "Martire ad Albano",
+            "url": null
+        },
+        {
+            "nome": "San Severo",
+            "qualifica": "Venerato a Vienne",
+            "url": null
+        },
+        {
+            "nome": "Beato Vladimiro (Wlodzimierz) Laskowski",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Secondo, Carpoforo, Vittorino e Severiano",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Amiano",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/08/agosto/"
+}

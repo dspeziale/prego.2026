@@ -1,0 +1,103 @@
+{
+    "data": "24-09",
+    "giorno": 24,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "24 settembre",
+    "principali": [
+        {
+            "nome": "Beata Vergine Maria della Mercede",
+            "qualifica": "Maria misericordiosa",
+            "descrizione": "Il primo agosto del 1218, festa di San Pietro in Vincoli, il fondatore dei Mercedari Pietro Nolasco ebbe una visione della Santissima Vergine, la quale si fece conoscere come la Mercede ossia Misericordia...",
+            "url": "https://www.santodelgiorno.it/beata-vergine-maria-della-mercede/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Pacifico da San Severino Marche",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-pacifico-da-sanseverino-marche/"
+        },
+        {
+            "nome": "San Gerardo Sagredo",
+            "qualifica": "Apostolo d'Ungheria",
+            "url": "https://www.santodelgiorno.it/san-gerardo-sagredo/"
+        },
+        {
+            "nome": "Sant'Antonio Gonzalez",
+            "qualifica": "Domenicano, martire",
+            "url": "https://www.santodelgiorno.it/sant-antonio-gonzalez/"
+        },
+        {
+            "nome": "Beata Colomba Gabriel",
+            "qualifica": "Religiosa",
+            "url": "https://www.santodelgiorno.it/beata-colomba-gabriel/"
+        },
+        {
+            "nome": "Sant'Anatalo di Milano",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-anatalo-di-milano/"
+        },
+        {
+            "nome": "Beato Anton Martin Slomsek",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/beato-anton-martin-slomsek/"
+        },
+        {
+            "nome": "Beato Dalmazio Moner",
+            "qualifica": "Domenicano",
+            "url": "https://www.santodelgiorno.it/beato-dalmazio-moner/"
+        },
+        {
+            "nome": "Sant'Isarno di Marsiglia",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/sant-isarno-di-marsiglia/"
+        },
+        {
+            "nome": "San Terenzio",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-terenzio-di-pesaro/"
+        },
+        {
+            "nome": "Santi Andochio, Tirso e Felice",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Maria Ferrandiz Hernandez",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Raimondo Ferragud Gibres",
+            "qualifica": "Padre di famiglia, martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Giuseppe Raimondo Pasquale Ferrer Botella",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Guglielmo Spenser e Roberto Hardesty",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beata Incarnazione Gil Valls",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "San Lupo di Lione",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Rustico di Clermont",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/24/settembre/"
+}

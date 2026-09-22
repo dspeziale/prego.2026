@@ -1,0 +1,48 @@
+{
+    "data": "20-12",
+    "giorno": 20,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "20 dicembre",
+    "principali": [
+        {
+            "nome": "San Liberato (Liberale)",
+            "qualifica": "Martire a Roma",
+            "descrizione": "Proveniente da un elenco del Martirologio Geronimiano, il nome di s. Liberato martire, fu inserito, anche qui al 20 dicembre, nel Martirologio Romano composto nel secolo XVI, dal grande storico cardinale...",
+            "url": "https://www.santodelgiorno.it/san-liberato/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Vincenzo Romano",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-vincenzo-romano/"
+        },
+        {
+            "nome": "San Domenico di Silos",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-domenico-di-silos/"
+        },
+        {
+            "nome": "San Zefirino",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/san-zefirino-papa/"
+        },
+        {
+            "nome": "Beato Michele Piaszczynski",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-michele-piaszczynski/"
+        },
+        {
+            "nome": "Sant'Ursicino del Giura",
+            "qualifica": "Eremita e fondatore",
+            "url": "https://www.santodelgiorno.it/sant-ursicino-del-giura/"
+        },
+        {
+            "nome": "San Filogonio di Antiochia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-filogonio-di-antiochia/"
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/20/dicembre/"
+}

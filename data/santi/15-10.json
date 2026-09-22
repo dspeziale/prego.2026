@@ -1,0 +1,58 @@
+{
+    "data": "15-10",
+    "giorno": 15,
+    "mese": "Ottobre",
+    "mese_numero": 10,
+    "data_estesa": "15 ottobre",
+    "principali": [
+        {
+            "nome": "Santa Teresa d'Avila",
+            "qualifica": "Vergine e Dottore della Chiesa",
+            "descrizione": "Nella fastosa cornice del Cinquecento spagnolesco, ecco la grande figura di Santa Teresa d'Avila, riformatrice del Carmelo, fondatrice dell'Ordine dei Carmelitani",
+            "url": "https://www.santodelgiorno.it/santa-teresa-di-gesu/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Tecla di Kitzingen",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-tecla-di-kitzingen/"
+        },
+        {
+            "nome": "San Barses (Barsen) di Edessa",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Beato Gonsalvo da Lagos",
+            "qualifica": "",
+            "url": null
+        },
+        {
+            "nome": "San Leonardo di Vandoeuvre",
+            "qualifica": "Eremita",
+            "url": null
+        },
+        {
+            "nome": "Santa Maddalena da Nagasaki",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Narciso Basté Basté",
+            "qualifica": "Sacerdote gesuita, martire",
+            "url": null
+        },
+        {
+            "nome": "San Severo di Treviri",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Madonna di Casaluce",
+            "qualifica": "Dedicazione",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/15/ottobre/"
+}

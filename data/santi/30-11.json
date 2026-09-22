@@ -1,0 +1,78 @@
+{
+    "data": "30-11",
+    "giorno": 30,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "30 novembre",
+    "principali": [
+        {
+            "nome": "Sant'Andrea",
+            "qualifica": "Apostolo",
+            "descrizione": "Il paganesimo della Roma imperiale, con tutte le seduzioni e lusinghe della sua brutale sensualità, avvolgeva con funeste ed insidiose spire il popolo ebreo, che attendeva con fede incrollabile...",
+            "url": "https://www.santodelgiorno.it/sant-andrea/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Galgano Guidotti",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-galgano-guidotti/"
+        },
+        {
+            "nome": "San Giuseppe Marchand",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-giuseppe-marchand/"
+        },
+        {
+            "nome": "Beato Giovanni Garbella da Vercelli",
+            "qualifica": "Sacerdote domenicano",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-garbella-da-vercelli/"
+        },
+        {
+            "nome": "Beato Federico da Ratisbona",
+            "qualifica": "Confessore",
+            "url": "https://www.santodelgiorno.it/beato-federico-da-ratisbona/"
+        },
+        {
+            "nome": "Beato Giuseppe Otin Aquiluè",
+            "qualifica": "Sacerdote salesiano e martire",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-otin/"
+        },
+        {
+            "nome": "San Mirocleto",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-mirocleto/"
+        },
+        {
+            "nome": "San Cuthberto Mayne",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-cuthberto-mayne/"
+        },
+        {
+            "nome": "San Taddeo Liu Ruiting",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/san-taddeo-liu-ruiting/"
+        },
+        {
+            "nome": "San Tugdual",
+            "qualifica": "Vescovo e abate",
+            "url": "https://www.santodelgiorno.it/san-tugdual/"
+        },
+        {
+            "nome": "Beato Alessandro Crow",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Ludovico Rocco (Ludwik Roch) Gietyngier",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Michele Ruedas Mejias e 6 compagni",
+            "qualifica": "Religioso e martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/30/novembre/"
+}

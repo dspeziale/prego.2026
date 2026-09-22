@@ -1,0 +1,83 @@
+{
+    "data": "08-03",
+    "giorno": 8,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "8 marzo",
+    "principali": [
+        {
+            "nome": "San Giovanni di Dio",
+            "qualifica": "Religioso",
+            "descrizione": "Il Portogallo fu la terra fortunata che diede i natali a questo glorioso campione della carità cristiana. Nato nel 1495 da poveri ma piissimi genitori, trascorse una giovinezza innocente, piena...",
+            "url": "https://www.santodelgiorno.it/san-giovanni-di-dio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Faustino Miguez",
+            "qualifica": "Padre Scolopio",
+            "url": "https://www.santodelgiorno.it/san-faustino-miguez/"
+        },
+        {
+            "nome": "Santo Stefano d'Obazine",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/santo-stefano-d-obazine/"
+        },
+        {
+            "nome": "San Veremondo",
+            "qualifica": "Abate",
+            "url": "https://www.santodelgiorno.it/san-veremondo/"
+        },
+        {
+            "nome": "San Teofilatto di Nicomedia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-teofilatto-di-nicomedia/"
+        },
+        {
+            "nome": "San Felice di Dunwich",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-felice-di-dunwich/"
+        },
+        {
+            "nome": "Sant'Unfrido di Therouanne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-unfrido-di-therouanne/"
+        },
+        {
+            "nome": "Santi Apollonio e Filemone",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Duthac",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Litifredo di Pavia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Ponzio di Cartagine",
+            "qualifica": "Diacono",
+            "url": null
+        },
+        {
+            "nome": "San Probino di Como",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Senano",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Beato Vincenzo Kadlubek",
+            "qualifica": "Vescovo, monaco cistercense",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/08/marzo/"
+}

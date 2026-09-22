@@ -1,0 +1,93 @@
+{
+    "data": "07-03",
+    "giorno": 7,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "7 marzo",
+    "principali": [
+        {
+            "nome": "Sante Perpetua e Felicita",
+            "qualifica": "Martiri",
+            "descrizione": "Questi due nomi ci presentano due gloriose eroine cristiane che per professare la fede, sostennero un prolungato ed atroce martirio. Perpetua nacque in Cartagine da nobile casato sulla fine del secondo...",
+            "url": "https://www.santodelgiorno.it/sante-perpetua-e-felicita/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Teresa Margherita Redi",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-teresa-margherita-redi/"
+        },
+        {
+            "nome": "San Paolo il Semplice",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/san-paolo-il-semplice/"
+        },
+        {
+            "nome": "San Giovanni Battista Nam Chong-sam",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-giovanni-battista-nam-chong-sam/"
+        },
+        {
+            "nome": "Beato Giuseppe Olallo Valdes",
+            "qualifica": "Religioso Fatebenefratelli",
+            "url": "https://www.santodelgiorno.it/beato-giuseppe-olallo-valdes/"
+        },
+        {
+            "nome": "San Gaudioso di Brescia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gaudioso-di-brescia/"
+        },
+        {
+            "nome": "Teresita Castillo",
+            "qualifica": "Fanciulla",
+            "url": "https://www.santodelgiorno.it/teresita-castillo/"
+        },
+        {
+            "nome": "Santa María Antonia de San José",
+            "qualifica": "Vergine e fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-maria-antonia-de-san-jose/"
+        },
+        {
+            "nome": "Sant'Ardone di Aniano",
+            "qualifica": "Sacerdote",
+            "url": null
+        },
+        {
+            "nome": "Santi Basilio, Eugenio, Agatodoro, Elpidio, Etereo, Capitone ed Efrem",
+            "qualifica": "Vescovi e martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eubulio",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beati Giovanni Larke, Giovanni Ireland e Germano Gardiner",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Leonida (Leonid) Fedorov",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Paolo di Plousias",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Saturo, Saturnino, Revocato e Secondino",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Simeone Berneux, Giusto Ranfer de Bretenières, Ludovico Beaulieu e Pietro Enrico Dorie",
+            "qualifica": "Missionari, martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/07/marzo/"
+}

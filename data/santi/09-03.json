@@ -1,0 +1,53 @@
+{
+    "data": "09-03",
+    "giorno": 9,
+    "mese": "Marzo",
+    "mese_numero": 3,
+    "data_estesa": "9 marzo",
+    "principali": [
+        {
+            "nome": "Santa Francesca Romana",
+            "qualifica": "Religiosa",
+            "descrizione": "Nel 1384 nasceva a Roma, da nobile famiglia, Francesca, la santa che seppe nella vita coniugale, prepararsi una corona fulgentissima per il cielo. Ancora tenera fanciullina mostrò grande amore alla virtù...",
+            "url": "https://www.santodelgiorno.it/santa-francesca-romana/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Domenico Savio",
+            "qualifica": "Adolescente",
+            "url": "https://www.santodelgiorno.it/san-domenico-savio/"
+        },
+        {
+            "nome": "Santa Caterina da Bologna",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/santa-caterina-da-bologna/"
+        },
+        {
+            "nome": "Santi Quaranta Martiri di Sebaste",
+            "qualifica": "Cristiani",
+            "url": "https://www.santodelgiorno.it/santi-quaranta-martiri-di-sebaste/"
+        },
+        {
+            "nome": "San Brunone Bonifacio di Querfurt",
+            "qualifica": "Vescovo camaldolese, martire",
+            "url": "https://www.santodelgiorno.it/san-brunone-bonifacio-di-querfurt/"
+        },
+        {
+            "nome": "San Paciano di Barcellona",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-paciano-di-barcellona/"
+        },
+        {
+            "nome": "Santi Pietro Ch'oe Hyong e Giovanni Battista Chon Chang-un",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Vitale di Castronuovo",
+            "qualifica": "Asceta",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/09/marzo/"
+}

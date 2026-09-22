@@ -1,0 +1,93 @@
+{
+    "data": "17-02",
+    "giorno": 17,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "17 febbraio",
+    "principali": [
+        {
+            "nome": "Santi Sette Fondatori dell'Ordine dei Servi di Maria",
+            "qualifica": "Confessori",
+            "descrizione": "Vivevano a Firenze, all'inizio del secolo XIII, sette illustri patrizi che alla nobiltà del sangue, univano una grande virtù; Bonfiglio Monaldi, Bonagiunta Manetti, Manetto dell'Antella, Amadio degli Amedei...",
+            "url": "https://www.santodelgiorno.it/santi-sette-fondatori-dell-ordine-dei-servi-della-beata-vergine-maria/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Volto Santo di Gesù",
+            "qualifica": "Apparizione",
+            "url": "https://www.santodelgiorno.it/volto-santo-di-gesu/"
+        },
+        {
+            "nome": "San Teodoro di Amasea",
+            "qualifica": "Generale e martire",
+            "url": "https://www.santodelgiorno.it/san-teodoro-di-amasea/"
+        },
+        {
+            "nome": "Sant'Alessio Falconieri",
+            "qualifica": "Fondatore dei Servi di Maria",
+            "url": "https://www.santodelgiorno.it/sant-alessio-falconieri/"
+        },
+        {
+            "nome": "San Flaviano",
+            "qualifica": "Patriarca di Costantinopoli",
+            "url": "https://www.santodelgiorno.it/san-flaviano/"
+        },
+        {
+            "nome": "San Costabile",
+            "qualifica": "Quarto Abate di Cava",
+            "url": "https://www.santodelgiorno.it/san-costabile/"
+        },
+        {
+            "nome": "Beato Luca Belludi",
+            "qualifica": "Francescano",
+            "url": "https://www.santodelgiorno.it/beato-luca-belludi/"
+        },
+        {
+            "nome": "San Silvino di Therouanne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-silvino-di-therouanne/"
+        },
+        {
+            "nome": "San Mesrop",
+            "qualifica": "Dottore della Chiesa armena",
+            "url": "https://www.santodelgiorno.it/san-mesrop/"
+        },
+        {
+            "nome": "San Finan di Lindisfarne",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-finan-di-lindisfarne/"
+        },
+        {
+            "nome": "San Fintan",
+            "qualifica": "Abate di Cluain Ednech",
+            "url": "https://www.santodelgiorno.it/san-fintan-di-leinster/"
+        },
+        {
+            "nome": "Beato Antonio Leszczewicz",
+            "qualifica": "Sacerdote e martire",
+            "url": null
+        },
+        {
+            "nome": "San Bonoso di Treviri",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Evermodo di Ratzeburg",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Yu Chong-nyul",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Santi Donato, Secondiano, Romolo e compagni",
+            "qualifica": "Martiri concordiesi",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/17/febbraio/"
+}

@@ -1,0 +1,73 @@
+{
+    "data": "11-12",
+    "giorno": 11,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "11 dicembre",
+    "principali": [
+        {
+            "nome": "San Damaso I",
+            "qualifica": "Papa",
+            "descrizione": "San Damaso nacque nella Spagna; ma la sua educazione la compì in Roma, dove si era recato ancor givanissimo. Per la sua aperta intelligenza e per la sua sentita pietà, gli vennero conferiti molto presto...",
+            "url": "https://www.santodelgiorno.it/san-damaso-primo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Daniele lo Stilita",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/san-daniele-lo-stilita/"
+        },
+        {
+            "nome": "Santa Maria Maravillas de Jesus",
+            "qualifica": "Religiosa, fondatrice",
+            "url": "https://www.santodelgiorno.it/santa-maria-maravillas-de-jesus/"
+        },
+        {
+            "nome": "Beato Franco da Siena",
+            "qualifica": "Eremita carmelitano",
+            "url": "https://www.santodelgiorno.it/beato-franco-da-siena/"
+        },
+        {
+            "nome": "Beato Girolamo da Sant'Angelo in Vado",
+            "qualifica": "Servo di Maria",
+            "url": "https://www.santodelgiorno.it/beato-girolamo-da-sant-angelo-in-vado/"
+        },
+        {
+            "nome": "Beato Ugolino Magalotti da Fiegni",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/beato-ugolino-magalotti-da-fiegni/"
+        },
+        {
+            "nome": "Beati Martino Lumbreras Peralta e Melchiorre Sanchez Perez",
+            "qualifica": "Sacerdoti agostiniani, martiri",
+            "url": "https://www.santodelgiorno.it/beati-martino-lumbreras-peralta-e-melchiorre-sanchez-perez/"
+        },
+        {
+            "nome": "Santi Vittorico e Fusciano",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-vittorico-e-fusciano/"
+        },
+        {
+            "nome": "Beato Arturo Bell",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beato Davide di Himmerod",
+            "qualifica": "Monaco",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria della Colonna (Pilar) Villalonga Villalba",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "San Savino (Sabino) di Piacenza",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/11/dicembre/"
+}

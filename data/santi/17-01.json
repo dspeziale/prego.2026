@@ -1,0 +1,58 @@
+{
+    "data": "17-01",
+    "giorno": 17,
+    "mese": "Gennaio",
+    "mese_numero": 1,
+    "data_estesa": "17 gennaio",
+    "principali": [
+        {
+            "nome": "Sant'Antonio",
+            "qualifica": "Abate",
+            "descrizione": "Antonio nacque presso Eraclea (Egitto Superiore) nel 251 da nobili genitori, ricchi e timorati di Dio, i quali si presero grande cura di educarlo cristianamente. A soli diciotto anni li perdette, rimanendo...",
+            "url": "https://www.santodelgiorno.it/sant-antonio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santa Roselina di Villeneuve",
+            "qualifica": "Vergine e monaca certosina",
+            "url": "https://www.santodelgiorno.it/santa-roselina-di-villeneuve/"
+        },
+        {
+            "nome": "San Giuliano Saba",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/san-giuliano-saba/"
+        },
+        {
+            "nome": "San Gennaro Sanchez Delgadillo",
+            "qualifica": "Martire Messicano",
+            "url": "https://www.santodelgiorno.it/san-gennaro-sanchez-delgadillo/"
+        },
+        {
+            "nome": "San Marcello",
+            "qualifica": "Vescovo di Die",
+            "url": "https://www.santodelgiorno.it/san-marcello-vescovo-di-die/"
+        },
+        {
+            "nome": "San Sulpizio il Pio",
+            "qualifica": "Vescovo di Bourges",
+            "url": "https://www.santodelgiorno.it/san-sulpizio-il-pio/"
+        },
+        {
+            "nome": "Beato Gamelberto",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-gamelberto/"
+        },
+        {
+            "nome": "Santa Neosnadia",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "Santi Speusippo, Elasippo, Melesippo e Leonilla",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/17/gennaio/"
+}

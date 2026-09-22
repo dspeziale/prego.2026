@@ -1,0 +1,83 @@
+{
+    "data": "25-06",
+    "giorno": 25,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "25 giugno",
+    "principali": [
+        {
+            "nome": "San Guglielmo da Vercelli",
+            "qualifica": "Abate",
+            "descrizione": "Nel secolo XI nasceva a Vercelli, da nobili genitori, un fanciullo destinato dal Signore a fondare un numeroso ordine religioso. Al fonte battesimale ricevette il nome di Guglielmo. Ancora fanciullo amava...",
+            "url": "https://www.santodelgiorno.it/san-guglielmo/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Massimo di Torino",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-massimo-di-torino/"
+        },
+        {
+            "nome": "Sant'Eurosia di Jaca",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/sant-eurosia-di-jaca/"
+        },
+        {
+            "nome": "San Prospero di Reggio Emilia",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-prospero-di-reggio-emilia/"
+        },
+        {
+            "nome": "San Prospero d'Aquitania",
+            "qualifica": "Monaco e teologo",
+            "url": "https://www.santodelgiorno.it/san-prospero-d-aquitania/"
+        },
+        {
+            "nome": "San Moloc (o Luano)",
+            "qualifica": "Venerato in Scozia",
+            "url": "https://www.santodelgiorno.it/san-moloc/"
+        },
+        {
+            "nome": "Beato Giovanni di Spagna",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-di-spagna/"
+        },
+        {
+            "nome": "Sant'Adalberto di Egmond",
+            "qualifica": "Diacono ed abate",
+            "url": "https://www.santodelgiorno.it/sant-adalberto-di-egmond/"
+        },
+        {
+            "nome": "Beata Dorotea da Montau",
+            "qualifica": "Vedova",
+            "url": "https://www.santodelgiorno.it/beata-dorotea-da-montau/"
+        },
+        {
+            "nome": "San Salomone",
+            "qualifica": "Re di Bretagna",
+            "url": "https://www.santodelgiorno.it/san-salomone-re-di-bretagna/"
+        },
+        {
+            "nome": "Santi Domenico Henares e Francesco Do Minh Chieu",
+            "qualifica": "Vescovo e laico, martiri",
+            "url": null
+        },
+        {
+            "nome": "Santa Febronia",
+            "qualifica": "Martire in Persia",
+            "url": null
+        },
+        {
+            "nome": "Beata Maria Lhuilier",
+            "qualifica": "Vergine e martire",
+            "url": null
+        },
+        {
+            "nome": "Santa Tigre (Tecla) di Maurienne",
+            "qualifica": "Vergine ed eremita",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/25/giugno/"
+}

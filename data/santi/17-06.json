@@ -1,0 +1,93 @@
+{
+    "data": "17-06",
+    "giorno": 17,
+    "mese": "Giugno",
+    "mese_numero": 6,
+    "data_estesa": "17 giugno",
+    "principali": [
+        {
+            "nome": "San Ranieri di Pisa",
+            "qualifica": "Eremita",
+            "descrizione": "Ricco mercante, in grado di leggere il latino, entrò in relazione con una asceta di Pisa, si convertì e decise di abbandonare la vita mondana. La vita di Ranieri ebbe una profonda trasformazione...",
+            "url": "https://www.santodelgiorno.it/san-ranieri-di-pisa/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Pietro Gambacorta",
+            "qualifica": "Fondatore",
+            "url": "https://www.santodelgiorno.it/beato-pietro-gambacorta/"
+        },
+        {
+            "nome": "Sant'Ipazio",
+            "qualifica": "Egumeno",
+            "url": "https://www.santodelgiorno.it/sant-ipazio/"
+        },
+        {
+            "nome": "Beato Paolo Burali",
+            "qualifica": "Cardinale",
+            "url": "https://www.santodelgiorno.it/beato-paolo-burali/"
+        },
+        {
+            "nome": "Sant'Erveo",
+            "qualifica": "Abate e eremita in Bretagna",
+            "url": "https://www.santodelgiorno.it/sant-erveo/"
+        },
+        {
+            "nome": "Cuore Castissimo di San Giuseppe",
+            "qualifica": "Rifugio di purezza, obbedienza e amore",
+            "url": "https://www.santodelgiorno.it/cuore-castissimo-di-san-giuseppe/"
+        },
+        {
+            "nome": "Sant'Antidio",
+            "qualifica": "Vescovo e martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Avito",
+            "qualifica": "Abate",
+            "url": null
+        },
+        {
+            "nome": "Santi Blasto e Diogene",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Beato Filippo Papon",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Imerio di Amelia",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Isauro, Innocenzo, Felice, Ermia, Pellegrino e Basilio",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Nicandro, Marciano e Daria",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "San Pietro Da",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Beata Teresa del Portogallo",
+            "qualifica": "Regina di Castiglia, cistercense",
+            "url": null
+        },
+        {
+            "nome": "Santi Manuéle, Sabéle ed Ismaéle",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/17/giugno/"
+}

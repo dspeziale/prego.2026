@@ -1,0 +1,53 @@
+{
+    "data": "28-02",
+    "giorno": 28,
+    "mese": "Febbraio",
+    "mese_numero": 2,
+    "data_estesa": "28 febbraio",
+    "principali": [
+        {
+            "nome": "San Romano di Condat",
+            "qualifica": "Abate",
+            "descrizione": "Il monachesimo fu uno dei più larghi e fecondi movimenti religiosi, che producessero effetti di spirituale perfezione e insieme di civile progresso. Per questo la schiera dei Santi monaci è quasi sterminata...",
+            "url": "https://www.santodelgiorno.it/san-romano-di-condat/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Daniele Alessio Brottier",
+            "qualifica": "Sacerdote",
+            "url": "https://www.santodelgiorno.it/beato-daniele-alessio-brottier/"
+        },
+        {
+            "nome": "Sant'Ilario",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/sant-ilario/"
+        },
+        {
+            "nome": "Sant'Osvaldo",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-osvaldo/"
+        },
+        {
+            "nome": "Beata Antonia da Firenze",
+            "qualifica": "Vedova",
+            "url": "https://www.santodelgiorno.it/beata-antonia-da-firenze/"
+        },
+        {
+            "nome": "Santi Martiri di Alessandria",
+            "qualifica": "Sacerdoti",
+            "url": null
+        },
+        {
+            "nome": "Beato Timoteo (Stanislaw Tymoteusz) Trojanowski",
+            "qualifica": "Religioso e martire",
+            "url": null
+        },
+        {
+            "nome": "Sante Marana e Cira",
+            "qualifica": "Vergini ed eremite",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/28/febbraio/"
+}

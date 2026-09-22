@@ -1,0 +1,128 @@
+{
+    "data": "01-09",
+    "giorno": 1,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "1 settembre",
+    "principali": [
+        {
+            "nome": "Sant'Egidio",
+            "qualifica": "Abate",
+            "descrizione": "Nato da nobile famiglia in Atene, questo santo passò i primi anni della sua vita nel paese natio. Di ingegno profondo, colto, amante della pietà, ben presto si cattivò la benemerenza...",
+            "url": "https://www.santodelgiorno.it/sant-egidio/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "San Giosuè",
+            "qualifica": "Patriarca",
+            "url": "https://www.santodelgiorno.it/san-giosue/"
+        },
+        {
+            "nome": "Madonna di Montevergine",
+            "qualifica": "",
+            "url": "https://www.santodelgiorno.it/madonna-di-montevergine/"
+        },
+        {
+            "nome": "Santa Verena di Zurzach",
+            "qualifica": "vergine",
+            "url": "https://www.santodelgiorno.it/santa-verena-di-zurzach/"
+        },
+        {
+            "nome": "Beata Giovanna Soderini da Firenze",
+            "qualifica": "Serva di Maria",
+            "url": "https://www.santodelgiorno.it/beata-giovanna-soderini-da-firenze/"
+        },
+        {
+            "nome": "San Lupo di Sens",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-lupo-di-sens/"
+        },
+        {
+            "nome": "San Regolo",
+            "qualifica": "Vescovo e martire",
+            "url": "https://www.santodelgiorno.it/san-regolo/"
+        },
+        {
+            "nome": "Beato Pietro Rivera Rivera",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-pietro-rivera-rivera/"
+        },
+        {
+            "nome": "Santa Colomba di Pagliara",
+            "qualifica": "Eremita",
+            "url": "https://www.santodelgiorno.it/santa-colomba/"
+        },
+        {
+            "nome": "Beato Alfonso Sebastia Vinals",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-alfonso-sebastia-vinals/"
+        },
+        {
+            "nome": "San Tammaro",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-tammaro/"
+        },
+        {
+            "nome": "Sant'Elpidio di Atella",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/sant-elpidio-di-atella/"
+        },
+        {
+            "nome": "Beata Giuliana di Collalto",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/beata-giuliana-di-collalto/"
+        },
+        {
+            "nome": "San Prisco di Capua",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-prisco-di-capua/"
+        },
+        {
+            "nome": "San Costanzo di Aquino",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-costanzo-di-aquino/"
+        },
+        {
+            "nome": "San Sisto di Reims",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-sisto-di-reims/"
+        },
+        {
+            "nome": "Beati Cristino (Michele) Roca Huguet e undici compagni",
+            "qualifica": "Religiosi e martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Egidio ed Arcano da Sansepolcro",
+            "qualifica": "Pellegrini",
+            "url": null
+        },
+        {
+            "nome": "San Terenziano",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "San Vincenzo",
+            "qualifica": "Vescovo e Martire",
+            "url": null
+        },
+        {
+            "nome": "San Vittore di Le Mans",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Sant'Innocente",
+            "qualifica": "Martire",
+            "url": null
+        },
+        {
+            "nome": "Sant'Eraclio",
+            "qualifica": "Martire",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/01/settembre/"
+}

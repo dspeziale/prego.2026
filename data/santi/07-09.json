@@ -1,0 +1,128 @@
+{
+    "data": "07-09",
+    "giorno": 7,
+    "mese": "Settembre",
+    "mese_numero": 9,
+    "data_estesa": "7 settembre",
+    "principali": [
+        {
+            "nome": "Santa Regina di Alise",
+            "qualifica": "Vergine e martire",
+            "descrizione": "Figlia di un cittadino pagano della Borgogna, la cui moglie morì dando alla luce questo splendido fiore, fu affidata ad una balia cristiana la quale, dopo averla battezzata, fece crescere Regina nella...",
+            "url": "https://www.santodelgiorno.it/santa-regina/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Beato Guido da Arezzo",
+            "qualifica": "Monaco",
+            "url": "https://www.santodelgiorno.it/beato-guido-da-arezzo/"
+        },
+        {
+            "nome": "San Grato di Aosta",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-grato-di-aosta/"
+        },
+        {
+            "nome": "Beata Eugenia Picco",
+            "qualifica": "Vergine",
+            "url": "https://www.santodelgiorno.it/beata-eugenia-picco/"
+        },
+        {
+            "nome": "Beato Giovanni Mazzucconi",
+            "qualifica": "Sacerdote e martire",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-mazzucconi/"
+        },
+        {
+            "nome": "Santi Marco Crisino, Stefano Pongracz e Melchiorre Grodziecki",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-marco-crisino-stefano-pongracz-e-melchiorre-grodziecki/"
+        },
+        {
+            "nome": "Santo Stefano di Chatillon",
+            "qualifica": "Certosino, vescovo",
+            "url": "https://www.santodelgiorno.it/santo-stefano-di-chatillon/"
+        },
+        {
+            "nome": "Beati Rodolfo Corby e Giovanni Duckett",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/beati-rodolfo-corby-e-giovanni-duckett/"
+        },
+        {
+            "nome": "Beati Tommaso Tsuji, Ludovico Maki e Giovanni Maki",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/beati-tommaso-tsuji-ludovico-maki-e-giovanni-maki/"
+        },
+        {
+            "nome": "San Clodoaldo",
+            "qualifica": "Venerato a Parigi",
+            "url": "https://www.santodelgiorno.it/san-clodoaldo/"
+        },
+        {
+            "nome": "San Sozonte di Pompeiopoli",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-sozonte-di-pompeiopoli/"
+        },
+        {
+            "nome": "Beata Ascensione di San Giuseppe Calasanzio",
+            "qualifica": "Vergine e martire",
+            "url": "https://www.santodelgiorno.it/beata-ascensione-di-san-giuseppe-calasanzio/"
+        },
+        {
+            "nome": "San Chiaffredo di Saluzzo",
+            "qualifica": "Martire",
+            "url": "https://www.santodelgiorno.it/san-chiaffredo-di-saluzzo/"
+        },
+        {
+            "nome": "San Giovanni da Lodi",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-giovanni-da-lodi/"
+        },
+        {
+            "nome": "Santa Madelberta",
+            "qualifica": "Badessa",
+            "url": "https://www.santodelgiorno.it/santa-madelberta/"
+        },
+        {
+            "nome": "San Gozzelino di Toul",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-gozzelino-di-toul/"
+        },
+        {
+            "nome": "Sant'Albino (Alpino) di Chalons",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santa Carissima di Albi",
+            "qualifica": "Vergine",
+            "url": null
+        },
+        {
+            "nome": "Beati Claudio Barnaba Laurent de Mascloux e Francesco d'Oudinot de la Boissiere",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Santi Festo e Desiderio",
+            "qualifica": "Martiri a Pozzuoli",
+            "url": null
+        },
+        {
+            "nome": "Sant'Ilduardo",
+            "qualifica": "Vescovo",
+            "url": null
+        },
+        {
+            "nome": "Santi Nemorio (Memorio) e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        },
+        {
+            "nome": "Sant'Evurzio di Orleans",
+            "qualifica": "Vescovo",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/07/settembre/"
+}

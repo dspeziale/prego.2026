@@ -1,0 +1,53 @@
+{
+    "data": "08-11",
+    "giorno": 8,
+    "mese": "Novembre",
+    "mese_numero": 11,
+    "data_estesa": "8 novembre",
+    "principali": [
+        {
+            "nome": "San Goffredo di Amiens",
+            "qualifica": "Vescovo",
+            "descrizione": "San Goffredo, Vescovo di Amiens, fu quasi contemporaneo di Goffredo di Buglione, « Avvocato del Santo Sepolcro ». Al tempo della Crociata era ancora giovinetto. Nato da genitori benestanti...",
+            "url": "https://www.santodelgiorno.it/san-goffredo-di-amiens/"
+        }
+    ],
+    "altri": [
+        {
+            "nome": "Santi Quattro Coronati",
+            "qualifica": "Martiri",
+            "url": "https://www.santodelgiorno.it/santi-quattro-coronati/"
+        },
+        {
+            "nome": "Beato Giovanni Duns Scoto",
+            "qualifica": "Sacerdote francescano",
+            "url": "https://www.santodelgiorno.it/beato-giovanni-duns-scoto/"
+        },
+        {
+            "nome": "Beata Maria Crocifissa Satellico",
+            "qualifica": "Clarissa",
+            "url": "https://www.santodelgiorno.it/beata-maria-crocifissa-satellico/"
+        },
+        {
+            "nome": "Sant'Adeodato I (Deusdedit)",
+            "qualifica": "Papa",
+            "url": "https://www.santodelgiorno.it/sant-adeodato-i/"
+        },
+        {
+            "nome": "San Chiaro di Tours",
+            "qualifica": "Discepolo di San Martino",
+            "url": "https://www.santodelgiorno.it/san-chiaro-di-tours/"
+        },
+        {
+            "nome": "San Villeado di Brema",
+            "qualifica": "Vescovo",
+            "url": "https://www.santodelgiorno.it/san-villeado-di-brema/"
+        },
+        {
+            "nome": "Santi Giuseppe Nguyen Dinh Nghi, Paolo Nguyen Ngan e compagni",
+            "qualifica": "Martiri",
+            "url": null
+        }
+    ],
+    "fonte": "https://www.santodelgiorno.it/08/novembre/"
+}
