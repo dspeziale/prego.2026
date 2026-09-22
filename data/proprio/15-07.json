@@ -1,0 +1,37 @@
+{
+    "data": "15-07",
+    "giorno": 15,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "15 Luglio",
+    "santo": "San Bonaventura, vescovo e dottore della Chiesa",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Prima Lettura (oppure)",
+            "riferimento": "Tt 1,7-11; 2,1-8",
+            "sottotitolo": "Testo non riportato nella fonte (rimando a pagina)",
+            "fonte": "",
+            "testo": "",
+            "responsorio": ""
+        },
+        {
+            "titolo": "Prima Lettura (oppure)",
+            "riferimento": "Sir 39,1c-10",
+            "sottotitolo": "Testo non riportato nella fonte (rimando a pagina)",
+            "fonte": "",
+            "testo": "",
+            "responsorio": ""
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "7,1.2.4.6",
+            "sottotitolo": "La mistica sapienza rivelata mediante lo Spirito Santo",
+            "fonte": "Dall’opuscolo “Itinerario della mente a Dio” di san Bonaventura, vescovo",
+            "testo": "Cristo, è la via e la porta. Cristo è la scala e il veicolo. È il propiziatorio collocato sopra l’arca di Dio (cfr. Ef 3,9). Chi si rivolge a questo propiziatorio con dedizione assoluta, e fissa lo sguardo sul crocifisso Signore mediante la fede, la speranza, la carità, la devozione, l’ammirazione, l’esultanza, la stima, la lode e il giubilo del cuore, fa con lui la Pasqua, cioè il passaggio; attraversa con la verga della croce il Mare Rosso, uscendo dall’Egitto per inoltrarsi nel deserto. Qui gusta la manna nascosta, riposa con Cristo nella tomba come morto esteriormente, ma sente, tuttavia, per quanto lo consenta la condizione dei viatori, ciò che in croce fu detto al buon ladrone, tanto vicino a Cristo con l’amore: «Oggi sarai con me nel paradiso!» (Lc 23,43).\nMa perché questo passaggio sia perfetto, è necessario che, sospesa l’attività intellettuale, ogni affetto del cuore sia integralmente trasformato e trasferito in Dio.\nÈ questo un fatto mistico e straordinario che nessuno conosce se non chi lo riceve. Lo riceve solo chi lo desidera, non lo desidera se non colui che viene infiammato dal fuoco dello Spirito Santo, che Cristo ha portato in terra. Ecco perché l’apostolo afferma che questa mistica sapienza è rivelata dallo Spirito Santo.\nSe poi vuoi sapere come avvenga tutto ciò, interroga la grazia, non la scienza, il desiderio non l’intelletto, il sospiro della preghiera non la brama del leggere, lo sposo non il mastro, Dio non l’uomo, la caligine non la chiarezza, non la luce ma il fuoco che infiamma tutto l’essere e lo inabissa in Dio con la sua soavissima unzione e con gli affetti più ardenti.\nOra questo fuoco è Dio e questa fornace si trova nella santa Gerusalemme; ed è Cristo che li accende col calore della sua ardentissima passione. Lo può percepire solo colui che dice: L’anima mia ha preferito essere sospesa in croce e le mie ossa hanno prescelto la morte! (cfr. Gb 7,15).\nChi ama tale morte, può vedere Dio, perché rimane pur vero che: «Nessun uomo può vedermi e restare vivo» (Es 33,20). Moriamo dunque ed entriamo in questa caligine; facciamo tacere le sollecitudini, le concupiscenze e le fantasie. Passiamo con Cristo crocifisso, «da questo mondo al Padre», perché, dopo averlo visto, possiamo dire con Filippo: «Questo ci basta» (Gv 14,8); ascoltiamo con Paolo: «Ti basta la mia grazia» (2Cor 12,9); rallegriamoci con Davide, dicendo: «Vengono meno la mia carne e il mio cuore; ma la roccia del mio cuore è Dio, è Dio la mia sorte per sempre» (Sal 72,26). «Benedetto il Signore, Dio d’Israele, da sempre, per sempre. Tutto il popolo dica: Amen» (Sal 105,48).",
+            "responsorio": "Responsorio (1Gv 3,24; Sir 1,9.10)\nR. Chi osserva i comandamenti, rimane in Dio, e Dio è in lui. *E questa è la prova: lo Spirito che ci ha dato.\nV. Il Signore ha creato la sapienza, l’ha diffusa su ogni vivente, e la dona a quanti lo amano.\nR. E questa è la prova: lo Spirito che ci ha dato."
+        }
+    ],
+    "orazione": "O Dio onnipotente, guarda a noi tuoi fedeli riuniti nel ricordo della nascita al cielo del vescovo san Bonaventura, e fa’ che siamo illuminati dalla sua sapienza e stimolati dal suo serafico ardore. Per il nostro Signore.",
+    "fonte_raw": "Santi/0715.txt"
+}

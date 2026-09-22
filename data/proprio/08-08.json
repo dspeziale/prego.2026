@@ -1,0 +1,37 @@
+{
+    "data": "08-08",
+    "giorno": 8,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "8 Agosto",
+    "santo": "San Domenico, sacerdote",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Prima Lettura (oppure)",
+            "riferimento": "Fil 3,7–4,1.4-9",
+            "sottotitolo": "Testo non riportato nella fonte (rimando a pagina)",
+            "fonte": "",
+            "testo": "",
+            "responsorio": ""
+        },
+        {
+            "titolo": "Prima Lettura (oppure)",
+            "riferimento": "1Pt 5,1-11",
+            "sottotitolo": "Testo non riportato nella fonte (rimando a pagina)",
+            "fonte": "",
+            "testo": "",
+            "responsorio": ""
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Libellus de Principiis O.P.",
+            "sottotitolo": "O parlava con Dio, o parlava di Dio",
+            "fonte": "Dalla “Storia dell’Ordine dei Predicatori”",
+            "testo": "Domenico era dotato di grande santità ed era sostenuto sempre da un intenso impeto di fervore divino. Bastava vederlo per rendersi conto di essere di fronte a un privilegiato della grazia.\nV’era in lui un’ammirabile inalterabilità di carattere, che si turbava solo per solidarietà col dolore altrui. E poiché il cuore gioioso rende sereno il volto, tradiva la placida compostezza dell’uomo interiore con la bontà esterna e la giovialità dell’aspetto.\nSi dimostrava dappertutto uomo secondo il vangelo, nelle parole e nelle opere. Durante il giorno nessuno era più socievole, nessuno più affabile con i fratelli e con gli altri. Di notte nessuno era più assiduo e più impegnato nel vegliare e pregare.\nEra assai parco di parole e, se apriva la bocca, era o per parlare con Dio nella preghiera o per parlare di Dio. Questa era la norma che seguiva e questa pure raccomandava ai fratelli.\nLa grazia che più insistentemente chiedeva a Dio era quella di una carità ardente, che lo spingesse a operare efficacemente alla salvezza degli uomini. Riteneva infatti di poter arrivare a essere membro perfetto del corpo di Cristo solo qualora si fosse dedicato totalmente e con tutte le forze a conquistare anime. Voleva imitare in ciò il Salvatore, offertosi tutto per la nostra salvezza.\nA questo fine, ispirato da Dio, fondò l’Ordine dei Frati Predicatori, attuando un progetto provvidenziale a lungo accarezzato.\nEsortava spesso i fratelli, a voce e per lettera, a studiare sempre l’Antico e il Nuovo Testamento. Portava continuamente con sé il vangelo di Matteo e le lettere di san Paolo, e meditava così lungamente queste ultime da arrivare a saperle quasi a memoria.\nDue o tre volte fu eletto vescovo; ma egli sempre rifiutò, volendo piuttosto vivere con i suoi fratelli in povertà. Conservò illibato sino alla fine lo splendore della sua verginità. Desiderava di essere flagellato, fatto a pezzi e morire per la fede di Cristo. Gregorio IX ebbe a dire di lui: «Conosco un uomo, che seguì in tutto e per tutto il modo di vivere degli apostoli; non c’è dubbio che egli in cielo sia associato alla loro gloria».",
+            "responsorio": "Responsorio (Cfr. Sir 48,1; Ml 2,6)\nR. Simile al fuoco, sorse un nuovo araldo della salvezza. *La sua parola bruciava come fiaccola.\nV. Un insegnamento fedele era sulla sua bocca, né c’era falsità sulle sue labbra.\nR. La sua parola bruciava come fiaccola."
+        }
+    ],
+    "orazione": "Guida e proteggi, Signore, la tua Chiesa per i meriti e gli insegnamenti di san Domenico: egli che fu insigne predicatore della tua verità, interceda come nostro patrono davanti a te. Per il nostro Signore.",
+    "fonte_raw": "Santi/0808.txt"
+}

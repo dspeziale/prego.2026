@@ -1,0 +1,21 @@
+{
+    "data": "14-12",
+    "giorno": 14,
+    "mese": "Dicembre",
+    "mese_numero": 12,
+    "data_estesa": "14 Dicembre",
+    "santo": "San Giovanni della Croce, sacerdote e dottore della Chiesa",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Strofa 36",
+            "sottotitolo": "La conoscenza del mistero nascosto in Gesù Cristo",
+            "fonte": "Dal “Cantico spirituale” di san Giovanni della Croce, sacerdote",
+            "testo": "Per quanto siano molti i misteri e le meraviglie scoperte dai santi dottori e intese dalla anime sante nel presente stato di vita, tuttavia ne è rimasta da dire e da capire la maggior parte e quindi c’è ancora molto da approfondire in Cristo.\nEgli infatti è come una miniera ricca di immense vene di tesori, dei quali, per quanto si vada a fondo, non si trova la fine; anzi in ciascuna cavità si scoprono nuovi filoni di ricchezze.\nPerciò san Paolo dice di lui: «In Cristo si trovano nascosti tutti i tesori della sapienza e della scienza» (Col 2,3) nei quali l’anima non può penetrare, se prima non passa per le strettezze della sofferenza interna ed esterna. Infatti a quel poco che è possibile sapere in questa vita dei misteri di Cristo, non si può giungere senza aver sofferto molto, aver ricevuto da Dio numerose grazie intellettuali e sensibili e senza aver fatto precedere un lungo esercizio spirituale, poiché tutte queste grazie sono più imperfette della sapienza dei misteri di Cristo, per la quale servono di semplice disposizione.\nOh, se l’anima riuscisse a capire che non può giungere nel folto delle ricchezze e della sapienza di Dio, se non entrando dove più numerose sono le sofferenze di ogni genere, riponendovi la sua consolazione e il suo desiderio!\nCome chi desidera veramente la sapienza divina, in primo luogo brama di entrare veramente nello spessore della croce!\nPer questo san Paolo ammoniva i discepoli di Efeso che non venissero meno nelle tribolazioni, ma stessero forti e radicati e fondati nella carità, e così potessero comprendere con tutti i santi quale sia l’ampiezza, la lunghezza, l’altezza e la profondità e conoscere l’amore di Cristo che sorpassa ogni conoscenza, per essere ricolmi di tutta la pienezza di Dio (cfr. Ef 3,17-19). Per accedere alle ricchezze della sapienza divina la porta è la croce. Si tratta di una porta stretta nella quale pochi desiderano entrare, mentre sono molti coloro che amano i diletti a cui si giunge per suo mezzo.",
+            "responsorio": "Responsorio (Cfr. 1Cor 2,9-10)\nR. Occhio non vide, né orecchio udì, né mai entrò in mente umana,\n*ciò che Dio ha preparato per quelli che lo amano.\nV. A noi fu rivelato, per mezzo del suo Spirito.\nR. ciò che Dio ha preparato per quelli che lo amano."
+        }
+    ],
+    "orazione": "O Dio, che hai guidato san Giovanni della Croce alla santa montagna che è Cristo, attraverso la notte oscura della rinuncia e l’amore ardente della croce, concedi a noi di seguirlo come maestro di vita spirituale, per giungere alla contemplazione della tua gloria. Per il nostro Signore.",
+    "fonte_raw": "Santi/1214.txt"
+}

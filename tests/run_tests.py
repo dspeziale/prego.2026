@@ -223,9 +223,61 @@ def test_biennale_data() -> None:
     shutil.rmtree(cartella, ignore_errors=True)
 
 
+def test_proprio_festa() -> None:
+    """Il Proprio del santo entra nella scheda Giorno solo se celebrato."""
+    print("[proprio nelle feste]")
+    from repository import LiturgiaRepository
+
+    cecilia = {"santo": "Santa Cecilia, vergine e martire", "letture": []}
+    check(LiturgiaRepository.proprio_applies(
+        cecilia, {"grado": "Memoria",
+                  "celebrazione": "SANTA CECILIA, VERGINE E MARTIRE - MEMORIA"}),
+        "memoria del santo -> Proprio in uso")
+    check(not LiturgiaRepository.proprio_applies(
+        cecilia, {"grado": "Solennità",
+                  "celebrazione": "XXXIV DOMENICA - SOLENNITÀ DI NOSTRO SIGNORE GESÙ CRISTO RE",
+                  "santo_del_giorno": "Santa Cecilia, vergine e martire"}),
+        "Cristo Re il 22 novembre -> Proprio di santa Cecilia escluso")
+    check(not LiturgiaRepository.proprio_applies(
+        {"santo": "Santi Gioacchino e Anna", "letture": []},
+        {"grado": "Domenica", "celebrazione": "XVII DOMENICA DEL TEMPO ORDINARIO"}),
+        "domenica -> nessun Proprio")
+    check(LiturgiaRepository.proprio_applies(
+        {"santo": "Santi Cornelio, papa e Cipriano, vescovo, martiri"},
+        {"grado": "Memoria", "celebrazione": "SANTI CORNELIO, PAPA, E CIPRIANO, VESCOVO, MARTIRI"}),
+        "nomi composti riconosciuti")
+    check(LiturgiaRepository.proprio_applies(
+        {"santo": "Maria SS. Madre di Dio"},
+        {"grado": "Solennità", "celebrazione": "MARIA SANTISSIMA MADRE DI DIO – SOLENNITÀ"}),
+        "solennità con nome abbreviato")
+
+    # Festa: solo il Proprio; Memoria: Biennale + Proprio; Feria: solo Biennale
+    repo = LiturgiaRepository(Path("nessuna"), Path("nessuna"))
+    letture = [{"titolo": "Seconda Lettura", "riferimento": "1", "fonte": "Dai «Discorsi»",
+                "testo": "Testo del santo", "responsorio": ""}]
+    proprio = {"santo": "Sant'Andrea, apostolo", "letture": letture}
+    repo._find_biennale = lambda metadata: {  # noqa: E731 - stub del Biennale
+        "tempo_liturgico": "Avvento", "settimana_del_tempo": "I",
+        "giorno_settimana": "Lunedì", "letture": [
+            {"titolo": "Prima Lettura", "riferimento": "1", "fonte": "Dal libro",
+             "testo": "Testo feriale", "responsorio": ""}]}
+    def labels(metadata, entry):
+        return [s.label for s in repo._giorno_sections([], entry, metadata)]
+    festa = labels({"grado": "Festa", "celebrazione": "SANT'ANDREA APOSTOLO - FESTA"}, proprio)
+    check("Dal Proprio" in festa and "Dal Biennale" not in festa,
+          "festa -> solo il Proprio, niente Biennale")
+    memoria = labels({"grado": "Memoria", "celebrazione": "SANT'ANDREA APOSTOLO - MEMORIA"}, proprio)
+    check("Dal Biennale" in memoria and "Dal Proprio" in memoria
+          and memoria.index("Dal Biennale") < memoria.index("Dal Proprio"),
+          "memoria -> Biennale poi Proprio")
+    feria = labels({"grado": "Feria", "celebrazione": "LUNEDÌ DELLA I SETTIMANA DI AVVENTO"}, proprio)
+    check("Dal Biennale" in feria and "Dal Proprio" not in feria,
+          "feria -> solo il Biennale")
+
+
 def main() -> int:
     for test in (test_calendario, test_cleaner, test_webapp, test_omelia,
-                 test_amministrazione, test_biennale_data):
+                 test_amministrazione, test_biennale_data, test_proprio_festa):
         test()
     print(f"\nTutti i test superati ({PASSED} controlli).")
     return 0

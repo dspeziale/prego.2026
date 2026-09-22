@@ -107,6 +107,39 @@ SECTION_LABELS: Dict[str, str] = {
     "antifona_alla_beata_vergine": "Antifona alla Beata Vergine",
 }
 
+# Gradi con cui il Proprio del santo entra nella scheda Giorno. Nei
+# primi due sostituisce le letture feriali del Biennale; nelle memorie
+# le affianca.
+PROPRIO_REPLACES_BIENNALE = ("Solennità", "Festa", "Commemorazione")
+PROPRIO_GRADES = PROPRIO_REPLACES_BIENNALE + ("Memoria", "Memoria facoltativa")
+
+# Parole che non identificano un santo nel confronto fra il nome del
+# Proprio e la celebrazione del giorno.
+_NAME_STOPWORDS = frozenset({
+    "san", "santa", "santi", "sante", "sant", "santo", "santissima",
+    "santissimo", "ss", "beata", "beato", "beati", "vergine", "vergini",
+    "martire", "martiri", "vescovo", "vescovi", "papa", "sacerdote",
+    "sacerdoti", "dottore", "della", "delle", "del", "dei", "degli", "di",
+    "e", "ed", "il", "la", "lo", "le", "gli", "chiesa", "apostolo",
+    "apostoli", "evangelista", "religiosa", "religioso", "abate",
+    "diacono", "compagni", "memoria", "facoltativa", "festa", "solennita",
+    "commemorazione", "messa", "giorno", "vespertina", "vigilia", "anno",
+    "nella", "nel", "primo", "protomartire", "patrono", "patrona",
+    "italia", "europa", "d", "de",
+})
+
+_ACCENTS_TRANSLATION = str.maketrans("àáâèéêìíîòóôùúû", "aaaeeeiiiooouuu")
+
+
+def _name_tokens(text: str) -> set:
+    """Parole significative di un nome, minuscole e senza accenti."""
+    text = (text or "").lower().translate(_ACCENTS_TRANSLATION)
+    return {
+        tok for tok in re.findall(r"[a-z]+", text)
+        if tok not in _NAME_STOPWORDS and len(tok) > 1
+    }
+
+
 ORA_MEDIA_LABELS: Dict[str, str] = {
     "terza": "Terza",
     "sesta": "Sesta",
@@ -374,11 +407,17 @@ class LiturgiaRepository:
         )
         sections = list(lodi.sections) if lodi else []
         extra: List[HourSection] = []
-        # Ordine degli inserti: Biennale, Proprio, Vangelo della Messa.
-        biennale = self._find_biennale(metadata)
-        if biennale:
-            extra.extend(self._biennale_sections(biennale))
-        if proprio:
+        # Il Proprio del santo entra solo se quel santo è davvero celebrato
+        # (grado e nome nella celebrazione del giorno). Nelle solennità e
+        # nelle feste sostituisce le letture feriali del Biennale; nelle
+        # memorie le affianca (prima lettura feriale, seconda del santo).
+        proprio_in_uso = bool(proprio) and self.proprio_applies(proprio, metadata)
+        grado = (metadata.get("grado") or "").strip()
+        if not (proprio_in_uso and grado in PROPRIO_REPLACES_BIENNALE):
+            biennale = self._find_biennale(metadata)
+            if biennale:
+                extra.extend(self._biennale_sections(biennale))
+        if proprio_in_uso:
             extra.extend(self._proprio_sections(proprio))
         if not extra:
             # Senza Biennale né Proprio: le letture dell'Ufficio.
@@ -406,8 +445,15 @@ class LiturgiaRepository:
         """Letture (riferimento, fonte, sottotitolo, testo, responsorio)."""
         sections = []
         for reading in readings:
-            lines = [reading.get(key) for key in
-                     ("riferimento", "fonte", "sottotitolo") if reading.get(key)]
+            fonte = (reading.get("fonte") or "").strip()
+            riferimento = (reading.get("riferimento") or "").strip()
+            if fonte and riferimento and "(" not in riferimento:
+                # «Dalla lettera agli Efesini di san Paolo, apostolo (4,1-16)»
+                lines = [f"{fonte} ({riferimento})"]
+            else:
+                lines = [value for value in (riferimento, fonte) if value]
+            if reading.get("sottotitolo"):
+                lines.append(reading["sottotitolo"])
             if reading.get("testo"):
                 lines.append("")
                 lines.append(reading["testo"])
@@ -421,6 +467,29 @@ class LiturgiaRepository:
                     label="Responsorio",
                 ))
         return sections
+
+    @staticmethod
+    def proprio_applies(entry: Dict[str, Any], metadata: Dict[str, Any]) -> bool:
+        """True se il santo del Proprio è celebrato in quella giornata.
+
+        Il file del Proprio esiste per la data (es. 22-11, santa Cecilia)
+        anche quando la giornata è occupata da una celebrazione superiore
+        (Cristo Re): si controlla che il grado sia di festa e che il nome
+        del santo compaia nella celebrazione del giorno. Senza
+        celebrazione nei metadati si ripiega sul santo del giorno.
+        """
+        grado = (metadata.get("grado") or "").strip()
+        if grado not in PROPRIO_GRADES:
+            return False
+        wanted = _name_tokens(entry.get("santo") or "")
+        if not wanted:
+            return False
+        celebration = metadata.get("celebrazione") or metadata.get("santo_del_giorno") or ""
+        found = _name_tokens(celebration)
+        common = wanted & found
+        # basta la metà delle parole significative (almeno una): copre
+        # «Santi Cornelio e Cipriano» vs «SANTI CORNELIO, PAPA, E CIPRIANO»
+        return len(common) * 2 >= len(wanted)
 
     def _proprio_sections(self, entry: Dict[str, Any]) -> List[HourSection]:
         """Sezioni del Proprio nel layout delle ore."""

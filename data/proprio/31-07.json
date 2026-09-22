@@ -1,0 +1,45 @@
+{
+    "data": "31-07",
+    "giorno": 31,
+    "mese": "Luglio",
+    "mese_numero": 7,
+    "data_estesa": "31 Luglio",
+    "santo": "Sant’Ignazio di Loyola, sacerdote",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Prima Lettura (oppure)",
+            "riferimento": "1Pt 5,1-11",
+            "sottotitolo": "Testo non riportato nella fonte (rimando a pagina)",
+            "fonte": "",
+            "testo": "",
+            "responsorio": ""
+        },
+        {
+            "titolo": "Prima Lettura (oppure)",
+            "riferimento": "Col 3,1-17",
+            "sottotitolo": "Testo non riportato nella fonte (rimando a pagina)",
+            "fonte": "",
+            "testo": "",
+            "responsorio": ""
+        },
+        {
+            "titolo": "Prima Lettura (oppure)",
+            "riferimento": "Rm 12,1-21",
+            "sottotitolo": "Testo non riportato nella fonte (rimando a pagina)",
+            "fonte": "",
+            "testo": "",
+            "responsorio": ""
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "1,5-9",
+            "sottotitolo": "Provate gli spiriti se sono da Dio",
+            "fonte": "Dagli “Atti” raccolti da Ludovico Consalvo dalla bocca di Sant’Ignazio",
+            "testo": "Essendo stato appassionato divoratore di romanzi e d’altri libri fantasiosi sulle imprese mirabolanti di celebri personaggi, quando cominciò a sentirsi in via di guarigione, Ignazio domandò che gliene fossero dati alcuni tanto per ingannare il tempo. Ma nella casa, dove era ricoverato, non si trovò alcun libro di quel genere, per cui gliene furono dati due intitolati “Vita di Cristo” e “Florilegio dei santi”, ambedue nella lingua materna.\nSi mise a leggerli e rileggerli, e man mano che assimilava il loro contenuto, sentiva nascere in sé un certo interesse ai temi ivi trattati. Ma spesso la sua mente ritornava a tutto quel mondo immaginoso descritto dalle letture precedenti. In questo complesso gioco di sollecitazioni si inserì l’azione di Dio misericordioso.\nInfatti mentre leggeva la vita di Cristo nostro Signore e dei santi, pensava dentro di sé e così si interrogava: «E se facessi anch’io quello che ha fatto san Francesco; e se imitassi l’esempio di san Domenico?». Queste considerazioni duravano anche abbastanza a lungo avvicendandosi con quelle di carattere mondano. Un tale susseguirsi di stati d’animo lo occupò per molto tempo. Ma tra le prime e le seconde vi era una differenza. Quando pensava alle cose del mondo era preso da grande piacere; poi subito dopo quando, stanco, le abbandonava, si ritrovava triste e inaridito. Invece quando immaginava di dover condividere le austerità che aveva visto mettere in pratica dai santi, allora non solo provava piacere mentre vi pensava, ma la gioia continuava anche dopo.\nTuttavia egli non avvertiva né dava peso a questa differenza fino a che, aperti un giorno gli occhi della mente, incominciò a riflettere attentamente sulle esperienze interiori che gli causavano tristezza e sulle altre che gli portavano gioia.\nFu la prima meditazione intorno alle cose spirituali. In seguito, addentrandosi ormai negli esercizi spirituali, constatò che proprio da qui aveva cominciato a comprendere quello che insegnò ai suoi sulla diversità degli spiriti.",
+            "responsorio": "Responsorio (1Pt 4,11.8)\nR. Chi parla, lo faccia con parole di Dio; chi esercita un ministero lo compia con l’energia di Dio, *tutto per la gloria di Dio, per mezzo di Gesù Cristo.\nV. Soprattutto conservate tra voi una grande carità;\nR. tutto per la gloria di Dio, per mezzo di Gesù Cristo."
+        }
+    ],
+    "orazione": "",
+    "fonte_raw": "Santi/0731.txt"
+}

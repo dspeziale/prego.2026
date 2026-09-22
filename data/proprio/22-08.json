@@ -1,0 +1,29 @@
+{
+    "data": "22-08",
+    "giorno": 22,
+    "mese": "Agosto",
+    "mese_numero": 8,
+    "data_estesa": "22 Agosto",
+    "santo": "Beata Vergine Maria Regina",
+    "tipo": "Memoria",
+    "letture": [
+        {
+            "titolo": "Prima Lettura",
+            "riferimento": "7,10-14; 8,10; 11,1-9",
+            "sottotitolo": "L’Emmanuele, re di pace",
+            "fonte": "Dal libro del profeta Isaia",
+            "testo": "In quei giorni il Signore parlò ad Acaz dicendo: «Chiedi un segno dal Signore tuo Dio, dal profondo degli inferi oppure lassù in alto». Ma Acaz rispose: «Non lo chiederò, non voglio tentare il Signore».\nAllora Isaia disse: «Ascoltate, casa di Davide! Non vi basta di stancare la pazienza degli uomini, perché ora vogliate stancare anche quella del mio Dio? Pertanto il Signore stesso vi darà un segno. Ecco: la vergine concepirà e partorirà un figlio che chiamerà Emmanuele.\nPreparate un piano, sarà senza effetti;\nfate un proclama, non si realizzerà,\nperché Dio è con noi».\nUn germoglio spunterà dal tronco di Iesse,\nun virgulto germoglierà dalle sue radici.\nSu di lui si poserà lo spirito del Signore,\nspirito di sapienza e di intelligenza,\nspirito di consiglio e di fortezza,\nspirito di conoscenza e di timore del Signore.\nSi compiacerà del timore del Signore.\nNon giudicherà secondo le apparenze\ne non prenderà decisioni per sentito dire;\nma giudicherà con giustizia i poveri\ne prenderà decisioni eque per gli oppressi del paese.\nLa sua parola sarà una verga che percuoterà il violento;\ncon il soffio delle sue labbra ucciderà l’empio.\nFascia dei suoi lombi sarà la giustizia,\ncintura dei suoi fianchi la fedeltà.\nIl lupo dimorerà insieme con l’agnello,\nla pantera si sdraierà accanto al capretto;\nil vitello e il leoncello pascoleranno insieme\ne un fanciullo li guiderà.\nLa mucca e l’orsa pascoleranno insieme;\nsi sdraieranno insieme i loro piccoli.\nIl leone si ciberà di paglia, come il bue.\nIl lattante si trastullerà sulla buca dell’aspide;\nil bambino metterà la mano\nnel covo dei serpenti velenosi.\nNon agiranno più iniquamente né saccheggeranno\nin tutto il mio santo monte,\nperché la saggezza del Signore\nriempirà il paese\ncome le acque ricoprono il mare.",
+            "responsorio": "Responsorio (Is 7,14; 9,6-7)\nR. Ecco, la vergine concepirà e partorirà un figlio: *sarà chiamato consigliere ammirabile, Dio potente.\nV. Sul trono di Davide regnerà per sempre:\nR. sarà chiamato consigliere ammirabile, Dio potente."
+        },
+        {
+            "titolo": "Seconda Lettura",
+            "riferimento": "Om. 7",
+            "sottotitolo": "Regina del mondo e della pace",
+            "fonte": "Dalle “Omelie” di sant’Amedeo di Losanna, vesc",
+            "testo": "La santa Vergine Maria fu assunta in cielo. Ma il suo nome ammirabile rifulse su tutta la terra anche indipendentemente da questo singolare evento, e la sua gloria immortale si irradiò in ogni luogo prima ancora che fosse esaltata sopra i cieli. Era conveniente, infatti, anche per l’onore del suo Figlio, che la Vergine Madre regnasse dapprima in terra e così alla fine ricevesse la gloria nei cieli. Era giusto che la sua santità e la sua grandezza andassero crescendo quaggiù, passando di virtù in virtù e di splendore in splendore per opera dello Spirito Santo, fino a raggiungere il termine massimo al momento della sua entrata nella dimora superna.\nPerciò quando era qui con il corpo, pregustava le primizie del regno futuro, ora innalzandosi fino a Dio, ora scendendo verso i fratelli mediante l’amore. Fu onorata dagli angeli e venerata dagli uomini. Le stava accanto Gabriele con gli angeli e le rendeva servizio, con gli apostoli, Giovanni, ben felice che a lui, vergine, fosse stata affidata presso la croce la Vergine Madre. Quelli erano lieti di vedere in lei la Regina, questi la Signora, e sia gli uni che gli altri la circondavano di pio e devoto affetto.\nAbitava nel sublime palazzo della santità, godeva della massima abbondanza dei favori divini, e sul popolo credente e assetato faceva scendere la pioggia delle grazie, lei che nella ricchezza della grazia aveva superato tutte le creature.\nConferiva la salute fisica e la medicina spirituale, aveva il potere di risuscitare dalla morte i corpi e le anime. Chi mai si partì da lei o malato, o triste, o digiuno di misteri celesti? Chi non ritornò a casa sua lieto e contento dopo aver ottenuto dalla Madre del Signore, Maria, quello che voleva?\nMaria era la sposa ricca di gioielli spirituali, la madre dell’unico Sposo, la fonte di ogni dolcezza, la delizia dei giardini spirituali e la sorgente delle acque vive e vivificanti che discendono dal Libano divino, dal monte Sion fino ai popoli stranieri sparsi qua e là. Ella faceva scendere fiumi di pace e grazia. Perciò mentre era Vergine delle vergini veniva assunta in cielo da Dio e dal Figlio suo, re dei re, tra l’esultanza degli angeli, il giubilo degli arcangeli e le acclamazioni festose del cielo, si compì la profezia del salmista che dice al Signore: «Sta la regina alla tua destra in veste tessuta d’oro, in abiti trapunti e ricamati» (Sal 44,10 Volg.)",
+            "responsorio": "Responsorio (Ap 12,1; cfr. Sal 44,10.14)\nR. Nel cielo apparve un segno grandioso: una donna vestita di sole, con la luna sotto i suoi piedi, *e sul suo capo una corona di dodici stelle.\nV. Sta alla tua destra la regina, vestita di tessuto d’oro,\nR. e sul suo capo una corona di dodici stelle."
+        }
+    ],
+    "orazione": "",
+    "fonte_raw": "Santi/0822.txt"
+}
