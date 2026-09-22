@@ -15,6 +15,10 @@
                     La liturgia del giorno, ogni giorno, in un unico posto.
                 </p>
                 <span class="badge badge-secondary">Versione {{ app_version }}</span>
+                {% if in_app and app_installed %}
+                <span class="badge badge-{{ 'warning' if update_available else 'secondary' }}"
+                      title="Versione dell'APK installato sul telefono">App installata {{ app_installed }}</span>
+                {% endif %}
             </div>
         </div>
 

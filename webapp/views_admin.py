@@ -7,7 +7,7 @@ utenti abilitati.
 
 from datetime import date
 
-from flask import abort, render_template, request, send_file
+from flask import abort, render_template, request, send_file, url_for
 
 from downloads import DownloadStore
 
@@ -28,7 +28,8 @@ def client_ip(req) -> str:
 
 
 def register(app, download_store, apk_paths, repository, proprio_store,
-             biennale_store, user_store, login_required, version) -> None:
+             biennale_store, user_store, login_required, version,
+             version_code: int = 0, apk_fallback_url: str = "") -> None:
     """Registra le route sull'app."""
 
     def apk_file():
@@ -66,10 +67,24 @@ def register(app, download_store, apk_paths, repository, proprio_store,
             request.headers.get("User-Agent", ""),
             path.name,
         )
-        return send_file(
+        # nome con la versione (Prego-2.11.apk): due download successivi
+        # non si confondono nella cartella del telefono, e niente cache
+        response = send_file(
             path, as_attachment=True,
-            download_name=DOWNLOAD_NAME, mimetype=APK_MIME,
+            download_name=f"Prego-{version}.apk", mimetype=APK_MIME,
         )
+        response.headers["Cache-Control"] = "no-store"
+        return response
+
+    @app.route("/api/version")
+    def api_version():
+        """Versione dell'app pubblicata (per il controllo aggiornamenti)."""
+        return {
+            "versione": version,
+            "versionCode": version_code,
+            "url": url_for("app_download", _external=True),
+            "url_alternativo": apk_fallback_url,
+        }
 
     @app.route("/admin")
     @login_required

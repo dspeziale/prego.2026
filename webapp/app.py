@@ -10,6 +10,7 @@ sono nei moduli views_*.py (core, auth, proprio, biennale, raccolta).
 import json
 import logging
 import os
+import re
 from datetime import date
 from functools import wraps
 from pathlib import Path
@@ -135,6 +136,32 @@ def create_app(output_dir: Optional[Path] = None,
             "in_app": request.user_agent.string.startswith("PregoAndroid"),
             "current_user": session.get("user"),
             "app_version": values.get("version", "1.0"),
+            **app_update_context(request.user_agent.string),
+        }
+
+    def app_update_context(user_agent: str) -> dict:
+        """Versione dell'APK installato e, se è vecchio, dove scaricare.
+
+        Le pagine che l'app sincronizza arrivano con User-Agent
+        PregoAndroid/<versione>: se è inferiore a quella pubblicata il
+        template mostra l'avviso di aggiornamento. Fino alla 2.10 l'app
+        riportava i link a prego.vercel.app sulle pagine locali, quindi
+        per quelle versioni il download passa da un host diverso
+        (apk_fallback_url, di norma il file su GitHub), che l'app apre
+        nel browser del telefono.
+        """
+        installed = installed_app_version(user_agent)
+        published = values.get("version", "1.0")
+        update = bool(installed) and parse_version(installed) < parse_version(published)
+        opens_site_links = parse_version(installed) >= (2, 11)
+        fallback = values.get("apk_fallback_url", "")
+        return {
+            "app_installed": installed,
+            "update_available": update,
+            "apk_url_for_app": (
+                url_for("app_download", _external=True)
+                if opens_site_links or not fallback else fallback
+            ) if update else "",
         }
 
     santi_store = SantiStore(PROJECT_ROOT / values.get("santi_output", "data/santi"))
@@ -148,8 +175,22 @@ def create_app(output_dir: Optional[Path] = None,
                             reject_if_read_only)
     views_admin.register(app, download_store, apk_paths, repository,
                          proprio_store, biennale_store, user_store,
-                         login_required, values.get("version", "1.0"))
+                         login_required, values.get("version", "1.0"),
+                         int(values.get("version_code", 0) or 0),
+                         values.get("apk_fallback_url", ""))
     return app
+
+
+def parse_version(text: str) -> Tuple[int, ...]:
+    """'2.10' -> (2, 10); vuoto o non numerico -> ()."""
+    parts = re.findall(r"\d+", text or "")
+    return tuple(int(p) for p in parts)
+
+
+def installed_app_version(user_agent: str) -> str:
+    """Versione dell'app Android dal suo User-Agent ('PregoAndroid/2.09')."""
+    match = re.match(r"PregoAndroid/([\d.]+)", user_agent or "")
+    return match.group(1) if match else ""
 
 
 if __name__ == "__main__":

@@ -80,6 +80,18 @@ class MainActivity : AppCompatActivity() {
             ): Boolean {
                 val url = request.url
                 val path = url.path ?: "/"
+                // download dell'APK (aggiornamento dell'app): sempre nel
+                // browser del telefono, che scarica e avvia l'installazione
+                if (path.startsWith("/app/") &&
+                    (url.host == LocalRouter.LOCAL_HOST || url.host == SyncManager.REMOTE_HOST)
+                ) {
+                    runCatching {
+                        startActivity(
+                            Intent(Intent.ACTION_VIEW, android.net.Uri.parse(SyncManager.REMOTE + path))
+                        )
+                    }
+                    return true
+                }
                 return when (url.host) {
                     LocalRouter.LOCAL_HOST -> when {
                         // l'omelia (ricerca YouTube) esiste solo online

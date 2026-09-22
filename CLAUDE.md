@@ -135,4 +135,4 @@ mese è: Raccolta → deploy → apri l'app → ⟳.
 - La pagina Omelia richiede `YOUTUBE_API_KEY` (env) o `youtube_api_key`
   in `config.json`; senza chiave mostra un avviso e il resto funziona.
 - `config.json` `version`, `versionName` in `android/app/build.gradle.kts`
-  e il footer della webapp vanno tenuti allineati (oggi 2.10).
+  e il footer della webapp vanno tenuti allineati (oggi 2.11).

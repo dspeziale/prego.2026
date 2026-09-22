@@ -189,6 +189,22 @@
         </script>
 
         <div class="content-wrapper">
+            {% if in_app and update_available %}
+            {# visto solo dentro l'app Android, quando l'APK installato è più vecchio di quello pubblicato #}
+            <div class="alert alert-warning mb-0 rounded-0 app-update-banner">
+                <i class="fas fa-mobile-screen"></i>
+                Sul telefono c'è la versione <strong>{{ app_installed }}</strong> dell'app,
+                è disponibile la <strong>{{ app_version }}</strong>.
+                <a class="btn btn-sm btn-warning ml-2" href="{{ apk_url_for_app }}">
+                    <i class="fas fa-download"></i> Scarica l'aggiornamento
+                </a>
+                {% if app_installed.startswith("2.06") or app_installed < "2.07" %}
+                <div class="small mt-1">Dalla 2.06 serve prima disinstallare l'app: la firma è cambiata.</div>
+                {% else %}
+                <div class="small mt-1">Apri il file scaricato e conferma: si installa sopra, i dati restano.</div>
+                {% endif %}
+            </div>
+            {% endif %}
             <section class="content-header {% block header_class %}{% endblock %}">
                 <div class="container-fluid">
                     <div class="row mb-2">

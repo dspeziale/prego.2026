@@ -102,6 +102,27 @@ def test_webapp() -> None:
     check(client.get("/santi/1999-01-01").status_code == 404,
           "santi di un giorno non raccolto -> 404")
     check('href="/santi/2026-07-08"' in page, "pulsante Santi nella pagina del giorno")
+    # controllo aggiornamenti dell'app: /api/version e banner in-app
+    versione = client.get("/api/version").get_json()
+    check(versione and versione["versione"] and versione["versionCode"] > 0
+          and versione["url"].endswith("/app/scarica"), "API /api/version")
+    vecchia = client.get("/about", headers={"User-Agent": "PregoAndroid/2.09"}
+                         ).data.decode("utf-8")
+    check("Scarica l'aggiornamento" in vecchia and "App installata 2.09" in vecchia
+          and "github.com" in vecchia,
+          "app 2.09 -> banner di aggiornamento con download da host esterno")
+    attuale = client.get("/about", headers={"User-Agent": f"PregoAndroid/{versione['versione']}"}
+                         ).data.decode("utf-8")
+    check("Scarica l'aggiornamento" not in attuale
+          and f"App installata {versione['versione']}" in attuale,
+          "app aggiornata -> nessun banner")
+    check("Scarica l'aggiornamento" not in page, "dal sito nessun banner")
+    scarica = client.get("/app/scarica")
+    check(scarica.status_code == 200
+          and f"Prego-{versione['versione']}.apk" in scarica.headers.get("Content-Disposition", "")
+          and scarica.headers.get("Cache-Control") == "no-store",
+          "download APK con nome versionato e senza cache")
+    scarica.close()
     # dal sito il menu ha Scarica l'app e Accedi; dall'app Android no
     check("Scarica l'app" in page and "Accedi" in page,
           "menu del sito con Scarica l'app e Accedi")
