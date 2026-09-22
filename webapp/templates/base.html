@@ -138,6 +138,13 @@
                                 <p>Amministrazione</p>
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a href="{{ url_for('admin_utenti') }}"
+                                class="nav-link {% if request.endpoint == 'admin_utenti' %}active{% endif %}">
+                                <i class="nav-icon fas fa-users"></i>
+                                <p>Utenti dell'app</p>
+                            </a>
+                        </li>
                         {% endif %}
                         {% if not in_app %}
                         <li class="nav-item">

@@ -3,6 +3,9 @@
 {% block page_title %}Amministrazione{% endblock %}
 
 {% block header_actions %}
+<a class="btn btn-outline-primary" href="{{ url_for('admin_utenti') }}">
+    <i class="fas fa-users"></i> Utenti dell'app
+</a>
 <a class="btn btn-outline-primary" href="{{ url_for('app_page') }}">
     <i class="fas fa-mobile-screen"></i> Pagina di download
 </a>

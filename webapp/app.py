@@ -26,6 +26,7 @@ import views_proprio
 import views_raccolta
 from biennale import BiennaleStore
 from downloads import DownloadStore
+from pings import PingStore
 from proprio import ProprioStore
 from repository import MONTHS_IT, WEEKDAYS_SHORT_IT, LiturgiaRepository
 from runner import CollectorRunner
@@ -173,12 +174,30 @@ def create_app(output_dir: Optional[Path] = None,
                             reject_if_read_only)
     views_raccolta.register(app, collector_runner, login_required,
                             reject_if_read_only)
+    # Ping di avvio dell'app: su Vercel Blob (privato). Il token arriva
+    # dall'ambiente; in locale lo si prende da .env.local (vercel env pull).
+    ping_store = PingStore(
+        os.environ.get("BLOB_READ_WRITE_TOKEN")
+        or _dotenv_value(PROJECT_ROOT / ".env.local", "BLOB_READ_WRITE_TOKEN")
+    )
     views_admin.register(app, download_store, apk_paths, repository,
                          proprio_store, biennale_store, user_store,
                          login_required, values.get("version", "1.0"),
                          int(values.get("version_code", 0) or 0),
-                         values.get("apk_fallback_url", ""))
+                         values.get("apk_fallback_url", ""),
+                         ping_store)
     return app
+
+
+def _dotenv_value(path: Path, key: str) -> str:
+    """Valore di una variabile in un file .env (vuoto se assente)."""
+    if not path.is_file():
+        return ""
+    for line in path.read_text(encoding="utf-8", errors="replace").splitlines():
+        match = re.match(rf'\s*{re.escape(key)}\s*=\s*"?([^"\n]*)"?\s*$', line)
+        if match:
+            return match.group(1).strip()
+    return ""
 
 
 def parse_version(text: str) -> Tuple[int, ...]:

@@ -1,0 +1,188 @@
+{% extends "base.html" %}
+{% block title %}Utenti dell'app — Prego{% endblock %}
+{% block page_title %}Utenti dell'app{% endblock %}
+
+{% block header_actions %}
+<a class="btn btn-outline-primary" href="{{ url_for('admin') }}">
+    <i class="fas fa-gauge-high"></i> Amministrazione
+</a>
+{% endblock %}
+
+{% block content %}
+
+{% if errore %}
+<div class="alert alert-danger">
+    <h5><i class="fas fa-triangle-exclamation"></i> Archivio dei ping non raggiungibile</h5>
+    {{ errore }}
+</div>
+{% elif not attivo %}
+<div class="alert alert-warning">
+    <h5><i class="fas fa-triangle-exclamation"></i> Archivio non configurato</h5>
+    Manca la variabile d'ambiente <code>BLOB_READ_WRITE_TOKEN</code>: i ping
+    degli avvii finiscono solo nel log del server e qui non c'è nulla da
+    contare. Su Vercel il token è collegato automaticamente allo store
+    <em>prego-pings</em>; in locale si ottiene con <code>vercel env pull</code>.
+</div>
+{% else %}
+
+<p class="text-muted">
+    Ogni apertura dell'app Android manda un ping anonimo (identificativo
+    casuale dell'installazione, versione, Android, modello, lingua).
+    Un <strong>utente</strong> è un'installazione distinta.
+</p>
+
+<div class="row">
+    <div class="col-6 col-lg-3">
+        <div class="small-box bg-primary">
+            <div class="inner">
+                <h3>{{ stats.installazioni }}</h3>
+                <p>Installazioni viste</p>
+            </div>
+            <div class="icon"><i class="fas fa-mobile-screen"></i></div>
+        </div>
+    </div>
+    <div class="col-6 col-lg-3">
+        <div class="small-box bg-success">
+            <div class="inner">
+                <h3>{{ stats.attivi_oggi }}</h3>
+                <p>Utenti oggi</p>
+            </div>
+            <div class="icon"><i class="fas fa-user-check"></i></div>
+        </div>
+    </div>
+    <div class="col-6 col-lg-3">
+        <div class="small-box bg-info">
+            <div class="inner">
+                <h3>{{ stats.attivi_7 }} <small>/ {{ stats.attivi_30 }}</small></h3>
+                <p>Utenti 7 / 30 giorni</p>
+            </div>
+            <div class="icon"><i class="fas fa-user-group"></i></div>
+        </div>
+    </div>
+    <div class="col-6 col-lg-3">
+        <div class="small-box bg-secondary">
+            <div class="inner">
+                <h3>{{ stats.avvii_oggi }}</h3>
+                <p>Avvii oggi</p>
+            </div>
+            <div class="icon"><i class="fas fa-power-off"></i></div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-8">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Ultimi {{ stats.per_giorno | length }} giorni: avvii e utenti</h3>
+            </div>
+            <div class="card-body">
+                {% for giorno in stats.per_giorno %}
+                <div class="d-flex align-items-center mb-1">
+                    <span class="text-muted text-nowrap mr-2"
+                          style="width:5.5rem">{{ giorno.giorno[8:10] }}/{{ giorno.giorno[5:7] }}</span>
+                    <div class="progress flex-grow-1" style="height:1rem">
+                        <div class="progress-bar bg-primary"
+                             style="width: {{ (100 * giorno.avvii / stats.massimo_giornaliero) | round if stats.massimo_giornaliero else 0 }}%"></div>
+                    </div>
+                    <span class="ml-2 text-nowrap" style="width:7rem">
+                        {{ giorno.avvii }} <span class="text-muted small">avvii · {{ giorno.utenti }} utenti</span>
+                    </span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Ultimi avvii</h3>
+            </div>
+            <div class="card-body table-responsive p-0" style="max-height:520px">
+                <table class="table table-hover table-sm">
+                    <thead>
+                        <tr>
+                            <th>Quando (UTC)</th>
+                            <th>App</th>
+                            <th class="d-none d-md-table-cell">Android</th>
+                            <th class="d-none d-md-table-cell">Dispositivo</th>
+                            <th class="d-none d-lg-table-cell">Lingua</th>
+                            <th class="d-none d-lg-table-cell text-right">Avvii</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    {% for ping in stats.recenti %}
+                        <tr title="Installazione {{ ping.id }}">
+                            <td class="text-nowrap">
+                                {{ ping.quando[8:10] }}/{{ ping.quando[5:7] }}
+                                <span class="text-muted">{{ ping.quando[11:16] }}</span>
+                            </td>
+                            <td>{{ ping.versione }}</td>
+                            <td class="d-none d-md-table-cell">{{ ping.android or "—" }}</td>
+                            <td class="d-none d-md-table-cell">{{ ping.modello or "—" }}</td>
+                            <td class="d-none d-lg-table-cell">{{ ping.lingua or "—" }}</td>
+                            <td class="d-none d-lg-table-cell text-right">{{ ping.avvii }}</td>
+                        </tr>
+                    {% else %}
+                        <tr><td colspan="6" class="text-center text-muted p-4">
+                            Nessun avvio registrato nelle ultime 48 ore.
+                        </td></tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-4">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Versioni installate</h3>
+            </div>
+            <div class="card-body p-0">
+                <ul class="list-group list-group-flush">
+                {% for versione, quanti in stats.versioni %}
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>{{ versione }}{% if versione == app_version %} <span class="text-muted small">(attuale)</span>{% endif %}</span>
+                        <span class="badge badge-primary">{{ quanti }}</span>
+                    </li>
+                {% else %}
+                    <li class="list-group-item text-muted">Nessuna installazione ancora.</li>
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+        {% if stats.android %}
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Android (ultimi avvii)</h3>
+            </div>
+            <div class="card-body p-0">
+                <ul class="list-group list-group-flush">
+                {% for versione, quanti in stats.android %}
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>Android {{ versione }}</span>
+                        <span class="badge badge-primary">{{ quanti }}</span>
+                    </li>
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+        {% endif %}
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Ultimo utilizzo</h3>
+            </div>
+            <div class="card-body">
+                {% if stats.ultimo %}
+                {{ stats.ultimo.strftime("%d/%m/%Y %H:%M") }} UTC
+                {% else %}
+                <span class="text-muted">Nessun ping ancora ricevuto.</span>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
+{% endblock %}

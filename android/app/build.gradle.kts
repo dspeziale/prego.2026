@@ -11,8 +11,8 @@ android {
         applicationId = "it.dsconsulting.prego"
         minSdk = 26
         targetSdk = 34
-        versionCode = 7
-        versionName = "2.11"
+        versionCode = 8
+        versionName = "2.12"
     }
 
     buildTypes {

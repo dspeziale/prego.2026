@@ -193,9 +193,29 @@ def test_amministrazione() -> None:
     client = create_app().test_client()
     check(client.get("/app").status_code == 200, "GET /app pubblica")
     check(client.get("/admin").status_code == 302, "/admin protetta da login")
+    check(client.get("/admin/utenti").status_code == 302,
+          "/admin/utenti protetta da login")
     with client.session_transaction() as session:
         session["user"] = "prova"
     check(client.get("/admin").status_code == 200, "/admin con sessione")
+    check(client.get("/admin/utenti").status_code == 200,
+          "/admin/utenti con sessione")
+
+    # ping di avvio dell'app: validazione del corpo (senza scrivere nello store)
+    from pings import clean_ping
+    valido = clean_ping({"id": "0B6C4B1E-9D0D-4F1E-8A2B-0123456789AB", "versione": "2.12",
+                         "versionCode": 8, "android": "14", "sdk": 34,
+                         "modello": "Pixel 8", "lingua": "it-IT", "avvii": 3})
+    check(valido is not None and valido["id"].islower() and valido["avvii"] == 3,
+          "ping valido normalizzato")
+    check(clean_ping({"id": "non-un-uuid", "versione": "2.12"}) is None,
+          "ping con id non valido rifiutato")
+    check(clean_ping({"id": valido["id"], "versione": "abc"}) is None,
+          "ping con versione non valida rifiutato")
+    check(clean_ping("stringa") is None, "ping non JSON rifiutato")
+    check(client.post("/api/ping", json={"id": "x"}).status_code == 400,
+          "POST /api/ping non valido -> 400")
+    check(client.get("/api/ping").status_code == 405, "GET /api/ping -> 405")
 
 
 def test_biennale_data() -> None:

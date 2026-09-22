@@ -32,9 +32,11 @@ import androidx.appcompat.app.AppCompatActivity
  *
  * Nulla viene scaricato di propria iniziativa: la sincronizzazione parte
  * solo quando la chiede l'utente (pulsante di sincronizzazione o
- * pulsante delle pagine start/manca). Le uniche altre uscite in rete
- * sono la pagina Omelia (ricerca YouTube) e i link esterni, entrambe
- * conseguenza di un tocco dell'utente.
+ * pulsante delle pagine start/manca). Le altre uscite in rete sono la
+ * pagina Omelia (ricerca YouTube) e i link esterni, conseguenza di un
+ * tocco dell'utente, e il ping anonimo di avvio ([LaunchPing]: poche
+ * decine di byte, serve a contare le installazioni e a sapere se c'è
+ * una versione nuova).
  */
 class MainActivity : AppCompatActivity() {
 
@@ -53,6 +55,14 @@ class MainActivity : AppCompatActivity() {
         router = LocalRouter(this)
         syncManager = SyncManager(this)
         webView = findViewById(R.id.webView)
+
+        // ping anonimo di avvio (statistiche d'uso) e, se il sito ha una
+        // versione più nuova, proposta di aggiornamento
+        if (savedInstanceState == null && isOnline()) {
+            LaunchPing.send(this) { versione, url ->
+                runOnUiThread { offerUpdate(versione, url) }
+            }
+        }
         syncBar = findViewById(R.id.syncBar)
         syncProgress = findViewById(R.id.syncProgress)
         syncLabel = findViewById(R.id.syncLabel)
@@ -204,6 +214,25 @@ class MainActivity : AppCompatActivity() {
 
     private fun toast(message: String) {
         Toast.makeText(this, message, Toast.LENGTH_LONG).show()
+    }
+
+    /** Il sito pubblica una versione più nuova: si propone il download. */
+    private fun offerUpdate(versione: String, url: String) {
+        if (isFinishing || url.isBlank()) return
+        AlertDialog.Builder(this)
+            .setTitle("Aggiornamento disponibile")
+            .setMessage(
+                "È uscita la versione $versione di Prego " +
+                    "(installata: ${BuildConfig.VERSION_NAME}). " +
+                    "Scaricarla ora? Si installa sopra, i dati restano."
+            )
+            .setPositiveButton("Scarica") { _, _ ->
+                runCatching {
+                    startActivity(Intent(Intent.ACTION_VIEW, android.net.Uri.parse(url)))
+                }
+            }
+            .setNegativeButton("Più tardi", null)
+            .show()
     }
 
     /**

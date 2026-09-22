@@ -5,11 +5,15 @@ proprio (che viene annotato nel registro) e il cruscotto riservato agli
 utenti abilitati.
 """
 
+import logging
 from datetime import date
 
 from flask import abort, render_template, request, send_file, url_for
 
 from downloads import DownloadStore
+from pings import PingError, clean_ping
+
+logger = logging.getLogger(__name__)
 
 APK_MIME = "application/vnd.android.package-archive"
 DOWNLOAD_NAME = "Prego.apk"
@@ -29,8 +33,42 @@ def client_ip(req) -> str:
 
 def register(app, download_store, apk_paths, repository, proprio_store,
              biennale_store, user_store, login_required, version,
-             version_code: int = 0, apk_fallback_url: str = "") -> None:
+             version_code: int = 0, apk_fallback_url: str = "",
+             ping_store=None) -> None:
     """Registra le route sull'app."""
+
+    @app.route("/api/ping", methods=["POST"])
+    def api_ping():
+        """Avvio dell'app Android: registra il ping e risponde con la
+        versione pubblicata, così l'app può proporre l'aggiornamento."""
+        ping = clean_ping(request.get_json(silent=True))
+        if ping is None:
+            abort(400)
+        if ping_store is not None:
+            try:
+                ping_store.record(ping)
+            except PingError as exc:
+                # il ping non deve mai fallire per l'app: si annota e basta
+                logger.warning("Ping non registrato: %s", exc)
+        return {
+            "versione": version,
+            "versionCode": version_code,
+            "url": url_for("app_download", _external=True),
+        }
+
+    @app.route("/admin/utenti")
+    @login_required
+    def admin_utenti():
+        """Quante installazioni usano l'app, dai ping di avvio."""
+        attivo = ping_store is not None and ping_store.enabled
+        stats, errore = None, None
+        if attivo:
+            try:
+                stats = ping_store.stats()
+            except PingError as exc:
+                errore = str(exc)
+        return render_template("admin_utenti.html", attivo=attivo,
+                               stats=stats, errore=errore)
 
     def apk_file():
         """Primo APK disponibile tra i percorsi noti, o None."""

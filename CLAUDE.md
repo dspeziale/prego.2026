@@ -117,6 +117,18 @@ di Proprio/Biennale sono bloccati con avviso, e il registro dei download
 non si scrive ma finisce nel log della funzione col prefisso `DOWNLOAD`.
 Ogni nuova operazione che scrive su disco deve rispettare `READ_ONLY`.
 
+### Ping di avvio dell'app e statistiche d'uso
+
+A ogni apertura l'app Android manda `POST /api/ping` (`LaunchPing.kt`):
+id casuale dell'installazione, versione, Android, modello, lingua. Il
+server (`webapp/pings.py`) li scrive in un **Vercel Blob privato**
+(store `prego-pings`, token `BLOB_READ_WRITE_TOKEN` collegato al progetto;
+in locale `vercel env pull .env.local`) e risponde con la versione
+pubblicata, così l'app propone l'aggiornamento. La pagina `/admin/utenti`
+conta installazioni e utenti attivi dai soli elenchi dei file
+(`installazioni/<id>/<versione>.json`, `avvii/<giorno>/…`). Senza token lo
+store è disattivato e i ping vanno nel log.
+
 ### Flusso di aggiornamento in produzione
 
 I dati si raccolgono **solo in locale** (Vercel è read-only), poi si
@@ -135,4 +147,4 @@ mese è: Raccolta → deploy → apri l'app → ⟳.
 - La pagina Omelia richiede `YOUTUBE_API_KEY` (env) o `youtube_api_key`
   in `config.json`; senza chiave mostra un avviso e il resto funziona.
 - `config.json` `version`, `versionName` in `android/app/build.gradle.kts`
-  e il footer della webapp vanno tenuti allineati (oggi 2.11).
+  e il footer della webapp vanno tenuti allineati (oggi 2.12).
