@@ -37,11 +37,14 @@
             <div class="card-body">
                 <a class="btn btn-primary btn-lg"
                    href="{{ url_for('app_download') }}">
-                    <i class="fas fa-download"></i> Scarica {{ apk.nome }}
+                    <i class="fas fa-download"></i> Scarica Prego-{{ app_version }}.apk
                 </a>
                 <p class="text-muted mt-3 mb-0">
-                    {{ apk.mb }} MB — aggiornato il
-                    {{ apk.aggiornato.strftime("%d/%m/%Y") }}
+                    {# la versione viene dalla configurazione pubblicata insieme
+                       all'APK: la data del file su Vercel non è affidabile #}
+                    Versione <strong>{{ app_version }}</strong>
+                    {% if version_code %}(build {{ version_code }}){% endif %}
+                    — {{ apk.mb }} MB
                 </p>
             </div>
         </div>

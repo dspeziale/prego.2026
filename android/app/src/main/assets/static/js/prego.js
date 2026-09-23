@@ -156,7 +156,9 @@
 document.addEventListener("DOMContentLoaded", function () {
     var TARGETS = {
         salmi: ["antifone_e_salmi"],
-        letture: ["biennale", "proprio", "lettura_breve"],
+        letture: ["biennale", "proprio", "ufficio_letture", "lettura_breve"],
+        biennale: ["biennale"],
+        proprio: ["proprio"],
         vangelo: ["vangelo_messa"]
     };
     function stickyOffset() {

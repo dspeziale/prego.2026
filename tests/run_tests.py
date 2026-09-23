@@ -102,6 +102,14 @@ def test_webapp() -> None:
     check(client.get("/santi/1999-01-01").status_code == 404,
           "santi di un giorno non raccolto -> 404")
     check('href="/santi/2026-07-08"' in page, "pulsante Santi nella pagina del giorno")
+    # pulsanti flottanti: Biennale e Proprio distinti quando ci sono entrambi
+    memoria = client.get("/giorno/2026-09-23").data.decode("utf-8")  # S. Pio, memoria
+    check('data-jump="biennale"' in memoria and 'data-jump="proprio"' in memoria
+          and 'data-jump="letture"' not in memoria,
+          "memoria con Biennale e Proprio -> due pulsanti distinti")
+    feria = client.get("/giorno/2026-09-22").data.decode("utf-8")
+    check('data-jump="letture"' in feria and 'data-jump="proprio"' not in feria,
+          "feria -> solo il pulsante Letture")
     # controllo aggiornamenti dell'app: /api/version e banner in-app
     versione = client.get("/api/version").get_json()
     check(versione and versione["versione"] and versione["versionCode"] > 0
@@ -117,6 +125,10 @@ def test_webapp() -> None:
           and f"App installata {versione['versione']}" in attuale,
           "app aggiornata -> nessun banner")
     check("Scarica l'aggiornamento" not in page, "dal sito nessun banner")
+    pagina_app = client.get("/app").data.decode("utf-8")
+    check(f"Prego-{versione['versione']}.apk" in pagina_app
+          and f"Versione <strong>{versione['versione']}</strong>" in pagina_app,
+          "pagina Scarica l'app con la versione pubblicata")
     scarica = client.get("/app/scarica")
     check(scarica.status_code == 200
           and f"Prego-{versione['versione']}.apk" in scarica.headers.get("Content-Disposition", "")

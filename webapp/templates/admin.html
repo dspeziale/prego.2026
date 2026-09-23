@@ -136,10 +136,9 @@
             <div class="card-body">
                 {% if apk %}
                 <dl class="mb-0">
-                    <dt>File</dt><dd>{{ apk.nome }}</dd>
+                    <dt>Versione</dt><dd>{{ versione }}</dd>
+                    <dt>File scaricato</dt><dd>Prego-{{ versione }}.apk</dd>
                     <dt>Dimensione</dt><dd>{{ apk.mb }} MB</dd>
-                    <dt>Aggiornato</dt>
-                    <dd>{{ apk.aggiornato.strftime("%d/%m/%Y") }}</dd>
                 </dl>
                 {% else %}
                 <p class="text-muted mb-0">

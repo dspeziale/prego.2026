@@ -92,7 +92,7 @@ def register(app, download_store, apk_paths, repository, proprio_store,
     @app.route("/app")
     def app_page():
         """Pagina pubblica di presentazione e download dell'app."""
-        return render_template("app.html", apk=apk_info())
+        return render_template("app.html", apk=apk_info(), version_code=version_code)
 
     @app.route("/app/scarica")
     def app_download():

@@ -568,6 +568,15 @@
             background: #00695c;
         }
 
+        /* memorie dei santi: Biennale e Proprio hanno ciascuno il proprio salto */
+        .jump-biennale {
+            background: #00695c;
+        }
+
+        .jump-proprio {
+            background: #6a1b9a;
+        }
+
         .jump-vangelo {
             background: var(--lit-red);
         }
