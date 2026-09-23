@@ -84,6 +84,7 @@ class SyncManager(private val context: Context) {
         page("/static/js/prego.js", File(staticDir, "js/prego.js"))
         page("/static/icon-192.png", File(staticDir, "icon-192.png"))
         page("/about", File(pagesDir, "about.html"))
+        page("/impostazioni", File(pagesDir, "impostazioni.html"))
         giorni.map { it.substring(0, 7) }.distinct().forEach { yearMonth ->
             val (year, month) = yearMonth.split("-")
             page(

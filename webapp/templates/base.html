@@ -33,6 +33,10 @@
         if (localStorage.getItem("lc-theme") === "dark") {
             document.body.classList.add("dark-mode");
         }
+        /* Impostazioni > letture della scheda Giorno: biennale (default) o ufficio */
+        document.documentElement.setAttribute(
+            "data-letture", localStorage.getItem("lc-letture") === "ufficio" ? "ufficio" : "biennale"
+        );
         (function () {
             var px = parseInt(localStorage.getItem("lc-font-size"), 10);
             if (px) {
@@ -94,6 +98,13 @@
                             <a href="{{ url_for('current_month') }}" class="nav-link">
                                 <i class="nav-icon fas fa-calendar-day"></i>
                                 <p>Mese corrente</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="{{ url_for('impostazioni') }}"
+                                class="nav-link {% if request.endpoint == 'impostazioni' %}active{% endif %}">
+                                <i class="nav-icon fas fa-sliders"></i>
+                                <p>Impostazioni</p>
                             </a>
                         </li>
                         {% if not in_app %}

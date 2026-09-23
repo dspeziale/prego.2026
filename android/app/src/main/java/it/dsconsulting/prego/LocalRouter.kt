@@ -106,6 +106,7 @@ class LocalRouter(private val context: Context) {
                 page("santi/${path.removePrefix("/santi/")}.html")
             path == "/mese/corrente" -> currentMonth()
             path == "/about" -> page("about.html")
+            path == "/impostazioni" -> page("impostazioni.html")
             path.startsWith("/static/") -> static(path.removePrefix("/static/"))
             path.startsWith("/app/") ->
                 asset("www/${path.removePrefix("/app/")}") ?: notFound()

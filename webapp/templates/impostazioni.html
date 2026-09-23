@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+{% block title %}Impostazioni — Prego{% endblock %}
+{% block page_title %}Impostazioni{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+
+        <p class="text-muted">
+            Le impostazioni sono salvate su questo dispositivo e valgono da
+            subito, anche nelle pagine già scaricate.
+        </p>
+
+        <div class="card card-outline card-primary">
+            <div class="card-header">
+                <h3 class="card-title section-title text-primary">
+                    Letture nella scheda Giorno
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    La scheda <em>Giorno</em> propone le Lodi con, prima del
+                    Benedictus, le letture del giorno. Scegli da quale fonte
+                    prenderle:
+                </p>
+                <div class="custom-control custom-radio mb-3">
+                    <input type="radio" id="lettureBiennale" name="letture"
+                           value="biennale" class="custom-control-input">
+                    <label class="custom-control-label" for="lettureBiennale">
+                        <strong>Biennale e Proprio dei santi</strong>
+                        <div class="text-muted small">
+                            Le letture patristiche del ciclo biennale (anni pari e
+                            impari) e, nelle memorie e feste, quelle proprie del
+                            santo. È l'impostazione predefinita.
+                        </div>
+                    </label>
+                </div>
+                <div class="custom-control custom-radio mb-2">
+                    <input type="radio" id="lettureUfficio" name="letture"
+                           value="ufficio" class="custom-control-input">
+                    <label class="custom-control-label" for="lettureUfficio">
+                        <strong>Ufficio delle Letture</strong>
+                        <div class="text-muted small">
+                            Le due letture con i responsori dell'Ufficio delle
+                            Letture pubblicato dalla CEI per la giornata.
+                        </div>
+                    </label>
+                </div>
+                <p class="text-muted small mb-0 mt-3">
+                    Quando la fonte scelta manca per una giornata, la scheda
+                    mostra l'altra. I pulsanti flottanti seguono la scelta:
+                    <em>Biennale</em> e <em>Proprio</em> oppure <em>Letture</em>.
+                </p>
+            </div>
+        </div>
+
+        <div class="card card-outline card-primary">
+            <div class="card-header">
+                <h3 class="card-title section-title text-primary">Aspetto</h3>
+            </div>
+            <div class="card-body">
+                <p class="mb-1">
+                    <i class="fas fa-moon text-muted"></i>
+                    Il <strong>tema scuro</strong> si attiva con la luna in alto a destra.
+                </p>
+                <p class="mb-0">
+                    <i class="fas fa-text-height text-muted"></i>
+                    La <strong>dimensione del testo</strong> si regola con i
+                    pulsanti A+ e A− in basso a destra.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

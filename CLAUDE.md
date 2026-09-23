@@ -117,6 +117,18 @@ di Proprio/Biennale sono bloccati con avviso, e il registro dei download
 non si scrive ma finisce nel log della funzione col prefisso `DOWNLOAD`.
 Ogni nuova operazione che scrive su disco deve rispettare `READ_ONLY`.
 
+### Impostazioni del lettore (lato dispositivo)
+
+Le preferenze (tema, carattere, fonte delle letture nella scheda Giorno)
+stanno in `localStorage`, non sul server: l'app sincronizza pagine già
+composte, quindi il server rende **entrambe** le varianti e la pagina
+mostra quella scelta. Le sezioni e i pulsanti flottanti portano
+`data-fonte="biennale|ufficio"`; uno script in testa a `base.html` imposta
+`<html data-letture>` da `lc-letture` prima del rendering e il CSS nasconde
+l'altra fonte; `prego.js` ripiega sull'altra quando quella scelta manca.
+Una nuova impostazione segue lo stesso schema: pagina `/impostazioni`,
+chiave `lc-*`, attributo su `<html>`, regole CSS.
+
 ### Ping di avvio dell'app e statistiche d'uso
 
 A ogni apertura l'app Android manda `POST /api/ping` (`LaunchPing.kt`):
@@ -147,4 +159,4 @@ mese è: Raccolta → deploy → apri l'app → ⟳.
 - La pagina Omelia richiede `YOUTUBE_API_KEY` (env) o `youtube_api_key`
   in `config.json`; senza chiave mostra un avviso e il resto funziona.
 - `config.json` `version`, `versionName` in `android/app/build.gradle.kts`
-  e il footer della webapp vanno tenuti allineati (oggi 2.12).
+  e il footer della webapp vanno tenuti allineati (oggi 2.13).

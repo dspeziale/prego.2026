@@ -152,6 +152,39 @@
         });
 })();
 
+/* Impostazioni: fonte delle letture nella scheda Giorno.
+   La preferenza (lc-letture = "biennale" | "ufficio") è già applicata
+   su <html data-letture> prima del rendering; qui il ripiego quando la
+   fonte scelta manca in questa giornata, e il salvataggio dalla pagina
+   Impostazioni. */
+document.addEventListener("DOMContentLoaded", function () {
+    var LETTURE_KEY = "lc-letture";
+    var html = document.documentElement;
+    var pane = document.getElementById("doc-giorno");
+    if (pane) {
+        var wanted = html.getAttribute("data-letture") || "biennale";
+        var has = function (fonte) {
+            return !!pane.querySelector('[data-fonte="' + fonte + '"]');
+        };
+        if (!has(wanted)) {
+            var other = wanted === "ufficio" ? "biennale" : "ufficio";
+            if (has(other)) { html.setAttribute("data-letture", other); }
+        }
+    }
+    document.querySelectorAll('input[name="letture"]').forEach(function (radio) {
+        radio.checked = radio.value === (localStorage.getItem(LETTURE_KEY) || "biennale");
+        radio.addEventListener("change", function () {
+            localStorage.setItem(LETTURE_KEY, radio.value);
+            html.setAttribute("data-letture", radio.value);
+            if (window.notifier) {
+                notifier.success(radio.value === "ufficio"
+                    ? "Nella scheda Giorno vedrai l'Ufficio delle Letture."
+                    : "Nella scheda Giorno vedrai Biennale e Proprio.");
+            }
+        });
+    });
+});
+
 /* salti alle sezioni della scheda Giorno (pagina giorno) */
 document.addEventListener("DOMContentLoaded", function () {
     var TARGETS = {

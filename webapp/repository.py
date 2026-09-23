@@ -179,6 +179,10 @@ class HourSection:
         self.label = label or SECTION_LABELS.get(
             key, key.replace("_", " ").title()
         )
+        # 'biennale' (Biennale e Proprio) o 'ufficio' (Ufficio delle letture
+        # CEI): la scheda Giorno rende entrambe le fonti e la pagina mostra
+        # quella scelta nelle Impostazioni (preferenza sul dispositivo).
+        self.fonte: Optional[str] = None
         self.groups: Optional[List[str]] = value if isinstance(value, list) else None
         self.text: Optional[str] = value if isinstance(value, str) else None
 
@@ -413,15 +417,24 @@ class LiturgiaRepository:
         # memorie le affianca (prima lettura feriale, seconda del santo).
         proprio_in_uso = bool(proprio) and self.proprio_applies(proprio, metadata)
         grado = (metadata.get("grado") or "").strip()
+        # fonte «biennale»: Biennale e Proprio del santo
+        biennale_group: List[HourSection] = []
         if not (proprio_in_uso and grado in PROPRIO_REPLACES_BIENNALE):
             biennale = self._find_biennale(metadata)
             if biennale:
-                extra.extend(self._biennale_sections(biennale))
+                biennale_group.extend(self._biennale_sections(biennale))
         if proprio_in_uso:
-            extra.extend(self._proprio_sections(proprio))
-        if not extra:
-            # Senza Biennale né Proprio: le letture dell'Ufficio.
-            extra.extend(self._office_reading_sections(metadata))
+            biennale_group.extend(self._proprio_sections(proprio))
+        # fonte «ufficio»: le letture dell'Ufficio delle letture della CEI.
+        # Entrambe le fonti vanno nella pagina: la scelta è del lettore
+        # (Impostazioni), con il Biennale come predefinito quando c'è.
+        office_group = self._office_reading_sections(metadata)
+        for section in biennale_group:
+            section.fonte = "biennale"
+        for section in office_group:
+            section.fonte = "ufficio"
+        extra.extend(biennale_group)
+        extra.extend(office_group)
         # Il Vangelo della Messa è sempre l'ultimo inserto prima
         # dell'Antifona al Benedictus.
         mass = metadata.get("liturgia_del_giorno") or {}

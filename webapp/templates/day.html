@@ -2,7 +2,7 @@
 
 {% macro render_sections(sections, prefix) %}
     {% for section in sections %}
-    <div class="mb-4" data-key="{{ section.key }}">
+    <div class="mb-4" data-key="{{ section.key }}"{% if section.fonte %} data-fonte="{{ section.fonte }}"{% endif %}>
         <h5 class="section-title text-primary border-bottom pb-1">{{ section.label }}</h5>
         {% if section.groups is not none %}
             {% for group in section.groups %}
@@ -64,20 +64,25 @@
    esserci entrambi, nelle memorie), «Letture» quando si ricade
    sull'Ufficio delle letture della CEI. #}
 {% set chiavi_giorno = record.giorno_sections | map(attribute="key") | list %}
+{# I pulsanti portano data-fonte come le sezioni: la pagina mostra solo quelli
+   della fonte scelta nelle Impostazioni (CSS su html[data-letture]). #}
 <div class="jump-fabs">
     <button type="button" class="jump-badge jump-salmi" data-jump="salmi"
             title="Vai ai Salmi">Salmi</button>
     {% if "biennale" in chiavi_giorno %}
     <button type="button" class="jump-badge jump-biennale" data-jump="biennale"
-            title="Vai alle letture del Biennale">Biennale</button>
+            data-fonte="biennale" title="Vai alle letture del Biennale">Biennale</button>
     {% endif %}
     {% if "proprio" in chiavi_giorno %}
     <button type="button" class="jump-badge jump-proprio" data-jump="proprio"
-            title="Vai alle letture del Proprio del santo">Proprio</button>
+            data-fonte="biennale" title="Vai alle letture del Proprio del santo">Proprio</button>
     {% endif %}
-    {% if "biennale" not in chiavi_giorno and "proprio" not in chiavi_giorno %}
+    {% if "ufficio_letture" in chiavi_giorno %}
     <button type="button" class="jump-badge jump-letture" data-jump="letture"
-            title="Vai alle letture dell'Ufficio">Letture</button>
+            data-fonte="ufficio" title="Vai alle letture dell'Ufficio">Letture</button>
+    {% elif "biennale" not in chiavi_giorno and "proprio" not in chiavi_giorno %}
+    <button type="button" class="jump-badge jump-letture" data-jump="letture"
+            title="Vai alla lettura breve">Letture</button>
     {% endif %}
     <button type="button" class="jump-badge jump-vangelo" data-jump="vangelo"
             title="Vai al Vangelo">Vangelo</button>

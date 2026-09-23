@@ -568,6 +568,15 @@
             background: #00695c;
         }
 
+        /* Impostazioni > Letture della scheda Giorno: la pagina contiene sia
+           il Biennale/Proprio sia l'Ufficio delle letture; html[data-letture]
+           (impostato prima del rendering da localStorage) decide quale
+           fonte resta visibile, sezioni e pulsanti flottanti insieme */
+        html[data-letture="ufficio"] [data-fonte="biennale"],
+        html:not([data-letture="ufficio"]) [data-fonte="ufficio"] {
+            display: none;
+        }
+
         /* memorie dei santi: Biennale e Proprio hanno ciascuno il proprio salto */
         .jump-biennale {
             background: #00695c;

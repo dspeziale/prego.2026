@@ -102,16 +102,28 @@ def test_webapp() -> None:
     check(client.get("/santi/1999-01-01").status_code == 404,
           "santi di un giorno non raccolto -> 404")
     check('href="/santi/2026-07-08"' in page, "pulsante Santi nella pagina del giorno")
-    # pulsanti flottanti: il nome dice la fonte delle letture
-    def salti(iso):
+    # scheda Giorno: entrambe le fonti nella pagina (data-fonte), la
+    # preferenza del dispositivo (Impostazioni) decide quale si vede;
+    # i pulsanti flottanti portano la stessa etichetta della fonte
+    import re as _re
+    def fonti(iso):
         html = client.get(f"/giorno/{iso}").data.decode("utf-8")
-        return {k for k in ("biennale", "proprio", "letture") if f'data-jump="{k}"' in html}
-    check(salti("2026-09-23") == {"biennale", "proprio"},
-          "memoria (S. Pio): pulsanti Biennale e Proprio")
-    check(salti("2026-09-22") == {"biennale"}, "feria con Biennale: solo Biennale")
-    check(salti("2026-08-15") == {"proprio"}, "solennità (Assunzione): solo Proprio")
-    check(salti("2026-04-27") == {"letture"},
-          "feria senza Biennale (Ufficio delle letture): solo Letture")
+        salti = {m.group(1) for m in _re.finditer(r'data-jump="(biennale|proprio|letture)"', html)}
+        sezioni = set(_re.findall(r'data-key="[^"]+" data-fonte="(biennale|ufficio)"', html))
+        return salti, sezioni
+    salti, sezioni = fonti("2026-09-23")   # S. Pio, memoria: Biennale + Proprio, più l'Ufficio
+    check(salti == {"biennale", "proprio", "letture"} and sezioni == {"biennale", "ufficio"},
+          "memoria: sezioni e pulsanti di entrambe le fonti")
+    salti, sezioni = fonti("2026-08-15")   # Assunzione: solo Proprio (+ Ufficio)
+    check("proprio" in salti and "biennale" not in salti and sezioni == {"biennale", "ufficio"},
+          "solennità: Proprio senza Biennale, Ufficio come alternativa")
+    salti, sezioni = fonti("2026-04-27")   # nessuna voce del Biennale
+    check(salti == {"letture"} and sezioni == {"ufficio"},
+          "senza Biennale: solo l'Ufficio delle letture")
+    check(client.get("/impostazioni").status_code == 200, "GET /impostazioni")
+    check('name="letture"' in client.get("/impostazioni").data.decode("utf-8"),
+          "Impostazioni con la scelta della fonte delle letture")
+    check('data-letture' in page, "preferenza letture applicata prima del rendering")
     # controllo aggiornamenti dell'app: /api/version e banner in-app
     versione = client.get("/api/version").get_json()
     check(versione and versione["versione"] and versione["versionCode"] > 0

@@ -65,6 +65,12 @@ def register(app, repository, youtube, santi_store=None) -> None:
     def about():
         return render_template("about.html")
 
+    @app.route("/impostazioni")
+    def impostazioni():
+        """Preferenze del lettore: vivono in localStorage del dispositivo,
+        così valgono anche nelle pagine sincronizzate dall'app."""
+        return render_template("impostazioni.html")
+
     @app.route("/api/giorni")
     def api_giorni():
         """Elenco delle giornate disponibili (per l'app Android)."""
