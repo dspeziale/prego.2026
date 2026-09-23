@@ -9,3 +9,4 @@ venv/
 
 # registro dei download: stato di runtime, non codice
 data/downloads.jsonl
+.env*
