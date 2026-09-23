@@ -59,20 +59,25 @@
 
 {% block content %}
 {# Mini-FAB: salta a salmi / letture / vangelo nella scheda Giorno.
-   Quando la scheda ha sia il Biennale sia il Proprio (memorie dei santi),
-   al posto di «Letture» compaiono due pulsanti distinti. #}
+   Il pulsante delle letture prende il nome della fonte: «Biennale» per le
+   letture del ciclo biennale, «Proprio» per quelle del santo (possono
+   esserci entrambi, nelle memorie), «Letture» quando si ricade
+   sull'Ufficio delle letture della CEI. #}
 {% set chiavi_giorno = record.giorno_sections | map(attribute="key") | list %}
 <div class="jump-fabs">
     <button type="button" class="jump-badge jump-salmi" data-jump="salmi"
             title="Vai ai Salmi">Salmi</button>
-    {% if "biennale" in chiavi_giorno and "proprio" in chiavi_giorno %}
+    {% if "biennale" in chiavi_giorno %}
     <button type="button" class="jump-badge jump-biennale" data-jump="biennale"
             title="Vai alle letture del Biennale">Biennale</button>
+    {% endif %}
+    {% if "proprio" in chiavi_giorno %}
     <button type="button" class="jump-badge jump-proprio" data-jump="proprio"
             title="Vai alle letture del Proprio del santo">Proprio</button>
-    {% else %}
+    {% endif %}
+    {% if "biennale" not in chiavi_giorno and "proprio" not in chiavi_giorno %}
     <button type="button" class="jump-badge jump-letture" data-jump="letture"
-            title="Vai alle Letture">Letture</button>
+            title="Vai alle letture dell'Ufficio">Letture</button>
     {% endif %}
     <button type="button" class="jump-badge jump-vangelo" data-jump="vangelo"
             title="Vai al Vangelo">Vangelo</button>

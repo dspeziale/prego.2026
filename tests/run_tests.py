@@ -102,14 +102,16 @@ def test_webapp() -> None:
     check(client.get("/santi/1999-01-01").status_code == 404,
           "santi di un giorno non raccolto -> 404")
     check('href="/santi/2026-07-08"' in page, "pulsante Santi nella pagina del giorno")
-    # pulsanti flottanti: Biennale e Proprio distinti quando ci sono entrambi
-    memoria = client.get("/giorno/2026-09-23").data.decode("utf-8")  # S. Pio, memoria
-    check('data-jump="biennale"' in memoria and 'data-jump="proprio"' in memoria
-          and 'data-jump="letture"' not in memoria,
-          "memoria con Biennale e Proprio -> due pulsanti distinti")
-    feria = client.get("/giorno/2026-09-22").data.decode("utf-8")
-    check('data-jump="letture"' in feria and 'data-jump="proprio"' not in feria,
-          "feria -> solo il pulsante Letture")
+    # pulsanti flottanti: il nome dice la fonte delle letture
+    def salti(iso):
+        html = client.get(f"/giorno/{iso}").data.decode("utf-8")
+        return {k for k in ("biennale", "proprio", "letture") if f'data-jump="{k}"' in html}
+    check(salti("2026-09-23") == {"biennale", "proprio"},
+          "memoria (S. Pio): pulsanti Biennale e Proprio")
+    check(salti("2026-09-22") == {"biennale"}, "feria con Biennale: solo Biennale")
+    check(salti("2026-08-15") == {"proprio"}, "solennità (Assunzione): solo Proprio")
+    check(salti("2026-04-27") == {"letture"},
+          "feria senza Biennale (Ufficio delle letture): solo Letture")
     # controllo aggiornamenti dell'app: /api/version e banner in-app
     versione = client.get("/api/version").get_json()
     check(versione and versione["versione"] and versione["versionCode"] > 0
