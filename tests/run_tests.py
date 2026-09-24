@@ -139,6 +139,12 @@ def test_webapp() -> None:
     versione = client.get("/api/version").get_json()
     check(versione and versione["versione"] and versione["versionCode"] > 0
           and versione["url"].endswith("/app/scarica"), "API /api/version")
+    # dietro un proxy (Coolify/Traefik) schema e host vengono dalle X-Forwarded-*
+    dietro_proxy = client.get("/api/version", headers={
+        "X-Forwarded-Proto": "https", "X-Forwarded-Host": "prego.dsc-italy.app",
+    }).get_json()
+    check(dietro_proxy["url"] == "https://prego.dsc-italy.app/app/scarica",
+          "URL esterni in https con l'host del proxy")
     vecchia = client.get("/about", headers={"User-Agent": "PregoAndroid/2.09"}
                          ).data.decode("utf-8")
     check("Scarica l'aggiornamento" in vecchia and "App installata 2.09" in vecchia

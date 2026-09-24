@@ -17,6 +17,7 @@ from pathlib import Path
 from typing import Optional, Tuple
 
 from flask import Flask, flash, redirect, request, session, url_for
+from werkzeug.middleware.proxy_fix import ProxyFix
 
 import views_admin
 import views_auth
@@ -67,6 +68,10 @@ def create_app(output_dir: Optional[Path] = None,
                json_dir: Optional[Path] = None) -> Flask:
     """Application factory."""
     app = Flask(__name__, static_folder=str(PROJECT_ROOT / "static"))
+    # Dietro il proxy (Traefik su Coolify, l'edge di Vercel) schema, host e
+    # indirizzo del client arrivano nelle intestazioni X-Forwarded-*: senza
+    # questo url_for(_external=True) produrrebbe URL http.
+    app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1)
     # Firma dei cookie di sessione: in produzione va impostata SECRET_KEY
     # (Coolify/Vercel); il valore fisso resta solo per lo sviluppo locale.
     app.secret_key = os.environ.get("SECRET_KEY") or "liturgia-collector"
