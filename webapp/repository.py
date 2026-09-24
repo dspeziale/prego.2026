@@ -442,6 +442,9 @@ class LiturgiaRepository:
             extra.append(HourSection(
                 "vangelo_messa", mass["vangelo"], label="Vangelo della Messa",
             ))
+        # Dopo le letture, prima dell'Antifona al Benedictus: il pannello
+        # del silenzio per la preghiera (5/10/15 minuti, reso dal template).
+        extra.append(HourSection("silenzio", "", label="Silenzio per la preghiera"))
         if not extra:
             return sections
         insert_at = next(

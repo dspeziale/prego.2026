@@ -185,6 +185,98 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
+/* Silenzio per la preghiera (scheda Giorno): 5/10/15 minuti di conto
+   alla rovescia; al termine un sibilo generato con Web Audio (nessun
+   file audio: funziona anche offline nell'app) e, se possibile, una
+   vibrazione. Il contesto audio viene creato al tocco del pulsante,
+   come richiedono i browser, e riusato alla fine. Se il browser lo
+   permette, lo schermo resta acceso per la durata (Wake Lock). */
+document.addEventListener("DOMContentLoaded", function () {
+    var panel = document.getElementById("silenzioPanel");
+    if (!panel) { return; }
+    var scelta = panel.querySelector(".silenzio-scelta");
+    var corso = panel.querySelector(".silenzio-corso");
+    var tempo = panel.querySelector(".silenzio-tempo");
+    var barra = panel.querySelector(".silenzio-progress .progress-bar");
+    var stop = panel.querySelector(".silenzio-stop");
+    var audio = null, timer = null, fine = 0, durata = 0, wakeLock = null;
+
+    function due(n) { return (n < 10 ? "0" : "") + n; }
+
+    function sibilo() {
+        if (!audio) { return; }
+        var ora = audio.currentTime;
+        /* due fischi ascendenti, come un richiamo sommesso */
+        [0, 1.4].forEach(function (ritardo) {
+            var osc = audio.createOscillator();
+            var gain = audio.createGain();
+            osc.type = "sine";
+            osc.frequency.setValueAtTime(880, ora + ritardo);
+            osc.frequency.exponentialRampToValueAtTime(1760, ora + ritardo + 1.0);
+            gain.gain.setValueAtTime(0.0001, ora + ritardo);
+            gain.gain.exponentialRampToValueAtTime(0.35, ora + ritardo + 0.15);
+            gain.gain.exponentialRampToValueAtTime(0.0001, ora + ritardo + 1.2);
+            osc.connect(gain).connect(audio.destination);
+            osc.start(ora + ritardo);
+            osc.stop(ora + ritardo + 1.25);
+        });
+        if (navigator.vibrate) { navigator.vibrate([400, 200, 400]); }
+    }
+
+    function aggiorna() {
+        var resto = Math.max(0, Math.round((fine - Date.now()) / 1000));
+        tempo.textContent = due(Math.floor(resto / 60)) + ":" + due(resto % 60);
+        if (barra) { barra.style.width = (100 * (1 - resto / durata)) + "%"; }
+        if (resto <= 0) { termina(true); }
+    }
+
+    function rilasciaSchermo() {
+        if (wakeLock) { wakeLock.release().catch(function () {}); wakeLock = null; }
+    }
+
+    function termina(suona) {
+        clearInterval(timer); timer = null;
+        rilasciaSchermo();
+        if (suona) {
+            sibilo();
+            if (window.notifier) { notifier.info("Il tempo di silenzio è terminato."); }
+        }
+        corso.hidden = true;
+        scelta.hidden = false;
+    }
+
+    function avvia(minuti) {
+        try {
+            var Ctx = window.AudioContext || window.webkitAudioContext;
+            if (Ctx) {
+                audio = audio || new Ctx();
+                if (audio.state === "suspended") { audio.resume(); }
+            }
+        } catch (e) { audio = null; }
+        if (navigator.wakeLock && navigator.wakeLock.request) {
+            navigator.wakeLock.request("screen")
+                .then(function (lock) { wakeLock = lock; })
+                .catch(function () {});
+        }
+        durata = minuti * 60;
+        fine = Date.now() + durata * 1000;
+        scelta.hidden = true;
+        corso.hidden = false;
+        aggiorna();
+        timer = setInterval(aggiorna, 500);
+    }
+
+    panel.querySelectorAll(".silenzio-btn").forEach(function (btn) {
+        btn.addEventListener("click", function () {
+            avvia(parseInt(btn.dataset.minuti, 10) || 5);
+        });
+    });
+    stop.addEventListener("click", function () { termina(false); });
+    document.addEventListener("visibilitychange", function () {
+        if (timer && !document.hidden) { aggiorna(); }
+    });
+});
+
 /* salti alle sezioni della scheda Giorno (pagina giorno) */
 document.addEventListener("DOMContentLoaded", function () {
     var TARGETS = {

@@ -120,6 +120,14 @@ def test_webapp() -> None:
     salti, sezioni = fonti("2026-04-27")   # nessuna voce del Biennale
     check(salti == {"letture"} and sezioni == {"ufficio"},
           "senza Biennale: solo l'Ufficio delle letture")
+    # pannello del silenzio: prima dell'Antifona al Benedictus, tre durate
+    pos_silenzio = page.find('data-key="silenzio"')
+    pos_benedictus = page.find('data-key="antifona_al_benedictus"')
+    check(0 < pos_silenzio < pos_benedictus,
+          "pannello Silenzio prima dell'Antifona al Benedictus")
+    check(all(f'data-minuti="{m}"' in page for m in (5, 10, 15))
+          and 'id="silenzioPanel"' in page,
+          "pannello Silenzio con 5/10/15 minuti")
     check(client.get("/impostazioni").status_code == 200, "GET /impostazioni")
     check('name="letture"' in client.get("/impostazioni").data.decode("utf-8"),
           "Impostazioni con la scelta della fonte delle letture")

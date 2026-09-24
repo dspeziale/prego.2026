@@ -4,7 +4,25 @@
     {% for section in sections %}
     <div class="mb-4" data-key="{{ section.key }}"{% if section.fonte %} data-fonte="{{ section.fonte }}"{% endif %}>
         <h5 class="section-title text-primary border-bottom pb-1">{{ section.label }}</h5>
-        {% if section.groups is not none %}
+        {% if section.key == "silenzio" %}
+        {# tempo di silenzio: conto alla rovescia e sibilo finale (prego.js) #}
+        <div class="silenzio-panel" id="silenzioPanel">
+            <p class="text-muted mb-2 silenzio-intro">
+                Scegli quanti minuti di silenzio dedicare alla preghiera:
+                al termine un sibilo ti richiama.
+            </p>
+            <div class="silenzio-scelta">
+                <button type="button" class="btn silenzio-btn" data-minuti="5">5 min</button>
+                <button type="button" class="btn silenzio-btn" data-minuti="10">10 min</button>
+                <button type="button" class="btn silenzio-btn" data-minuti="15">15 min</button>
+            </div>
+            <div class="silenzio-corso" hidden>
+                <div class="silenzio-tempo" aria-live="polite">00:00</div>
+                <div class="progress silenzio-progress"><div class="progress-bar"></div></div>
+                <button type="button" class="btn btn-sm btn-outline-secondary silenzio-stop">Interrompi</button>
+            </div>
+        </div>
+        {% elif section.groups is not none %}
             {% for group in section.groups %}
             <div class="callout callout-info py-2 mb-2">
                 <small class="text-muted">Salmodia — {{ loop.index }}</small>

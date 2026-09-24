@@ -577,6 +577,63 @@
             display: none;
         }
 
+        /* Silenzio per la preghiera (scheda Giorno) */
+        .silenzio-panel {
+            border: 1px solid rgba(142, 22, 0, .25);
+            border-radius: .5rem;
+            padding: .9rem 1rem;
+            background: rgba(142, 22, 0, .04);
+        }
+
+        .silenzio-scelta {
+            display: flex;
+            gap: .6rem;
+            flex-wrap: wrap;
+        }
+
+        .silenzio-btn {
+            flex: 1 1 5rem;
+            border: 2px solid var(--lit-red);
+            color: var(--lit-red);
+            font-weight: 700;
+            border-radius: 10rem;
+            background: transparent;
+        }
+
+        .silenzio-btn:hover,
+        .silenzio-btn:focus {
+            background: var(--lit-red);
+            color: #fff;
+        }
+
+        .silenzio-corso {
+            text-align: center;
+        }
+
+        .silenzio-tempo {
+            font-size: 3rem;
+            font-weight: 700;
+            font-variant-numeric: tabular-nums;
+            color: var(--lit-red);
+            line-height: 1.1;
+        }
+
+        .silenzio-progress {
+            height: .4rem;
+            margin: .6rem auto .8rem;
+            max-width: 22rem;
+        }
+
+        .silenzio-progress .progress-bar {
+            background: var(--lit-red);
+            transition: width .5s linear;
+        }
+
+        body.dark-mode .silenzio-panel {
+            background: rgba(255, 255, 255, .04);
+            border-color: rgba(255, 255, 255, .15);
+        }
+
         /* memorie dei santi: Biennale e Proprio hanno ciascuno il proprio salto */
         .jump-biennale {
             background: #00695c;

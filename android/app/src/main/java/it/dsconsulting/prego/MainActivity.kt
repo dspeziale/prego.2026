@@ -70,6 +70,9 @@ class MainActivity : AppCompatActivity() {
         with(webView.settings) {
             javaScriptEnabled = true
             domStorageEnabled = true // localStorage: tema scuro e carattere
+            // il sibilo di fine silenzio (Web Audio) parte a timer, non a
+            // un tocco: senza questo la WebView lo bloccherebbe
+            mediaPlaybackRequiresUserGesture = false
             allowFileAccess = false
             allowContentAccess = false
         }
