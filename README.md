@@ -348,6 +348,33 @@ modalità si attiva da sola con la variabile d'ambiente `VERCEL`; in
 locale si può simulare con `LC_READ_ONLY=1`). Per aggiornare i dati
 pubblicati: raccogliere in locale e rifare il deploy.
 
+## Deploy su Coolify (o Docker)
+
+Il repository contiene `Dockerfile`, `docker-compose.yml` e `wsgi.py`:
+l'app gira con gunicorn sulla porta 8000, con i dati nell'immagine
+esattamente come su Vercel (sola lettura: la raccolta si fa in locale,
+poi push e redeploy).
+
+In Coolify: **New Resource → Git repository** (github.com/dspeziale/prego.2026,
+branch `main`), build pack **Dockerfile** oppure **Docker Compose**
+(porta con sé volume e health check), porta esposta **8000**, health
+check `GET /healthz`. Variabili d'ambiente:
+
+| Variabile | Obbligatoria | Uso |
+|---|---|---|
+| `SECRET_KEY` | sì | firma dei cookie di sessione (login) |
+| `BLOB_READ_WRITE_TOKEN` | no | ping dell'app Android su Vercel Blob (`/admin/utenti`) |
+| `YOUTUBE_API_KEY` | no | pagina Omelia |
+| `PREGO_DOWNLOADS_LOG` | no | es. `/app/var/downloads.jsonl` con storage persistente su `/app/var` |
+
+Con il webhook di Coolify ogni push su `main` rifà l'immagine e la mette
+in linea. In locale: `docker compose up --build` → http://localhost:8000.
+
+> L'app Android sincronizza da `prego.vercel.app`
+> (`android/.../SyncManager.kt`, `REMOTE_HOST`): se la produzione si
+> sposta su un altro dominio, va aggiornato lì e in `apk_fallback_url`
+> di `config.json`, poi ricompilato l'APK.
+
 ## Robustezza
 
 * Retry automatico con backoff progressivo (`retry`,

@@ -1,0 +1,39 @@
+# Prego su Coolify (build pack "Docker Compose") o in locale:
+#
+#   docker compose up --build
+#
+# Su Coolify le variabili segnate "${...}" si impostano nella sezione
+# Environment Variables della risorsa; il volume prego-var conserva il
+# registro dei download tra un deploy e l'altro.
+
+services:
+  prego:
+    build: .
+    image: prego
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      PORT: "8000"
+      WEB_CONCURRENCY: "2"
+      # dati in sola lettura (come su Vercel): la raccolta si fa in locale
+      LC_READ_ONLY: "1"
+      # firma dei cookie di sessione: obbligatoria in produzione
+      SECRET_KEY: "${SECRET_KEY:?imposta SECRET_KEY}"
+      # ping dell'app Android su Vercel Blob (facoltativo)
+      BLOB_READ_WRITE_TOKEN: "${BLOB_READ_WRITE_TOKEN:-}"
+      # pagina Omelia (facoltativo)
+      YOUTUBE_API_KEY: "${YOUTUBE_API_KEY:-}"
+      # registro dei download dell'APK su volume persistente
+      PREGO_DOWNLOADS_LOG: "/app/var/downloads.jsonl"
+    volumes:
+      - prego-var:/app/var
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/healthz', timeout=4)"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+
+volumes:
+  prego-var:

@@ -67,7 +67,11 @@ def create_app(output_dir: Optional[Path] = None,
                json_dir: Optional[Path] = None) -> Flask:
     """Application factory."""
     app = Flask(__name__, static_folder=str(PROJECT_ROOT / "static"))
-    app.secret_key = "liturgia-collector"  # solo per sessione e flash
+    # Firma dei cookie di sessione: in produzione va impostata SECRET_KEY
+    # (Coolify/Vercel); il valore fisso resta solo per lo sviluppo locale.
+    app.secret_key = os.environ.get("SECRET_KEY") or "liturgia-collector"
+    if not os.environ.get("SECRET_KEY") and (READ_ONLY or os.environ.get("PORT")):
+        logger.warning("SECRET_KEY non impostata: sessioni firmate con la chiave di sviluppo")
 
     values = _config_values()
     default_output, default_json = _data_dirs()
@@ -83,9 +87,13 @@ def create_app(output_dir: Optional[Path] = None,
         os.environ.get("YOUTUBE_API_KEY")
         or values.get("youtube_api_key", "")
     )
+    # Registro dei download: con PREGO_DOWNLOADS_LOG (es. un volume su
+    # Coolify) si scrive anche quando i dati sono in sola lettura.
+    downloads_log = os.environ.get("PREGO_DOWNLOADS_LOG")
     download_store = DownloadStore(
-        PROJECT_ROOT / values.get("downloads_log", "data/downloads.jsonl"),
-        read_only=READ_ONLY,
+        Path(downloads_log) if downloads_log
+        else PROJECT_ROOT / values.get("downloads_log", "data/downloads.jsonl"),
+        read_only=READ_ONLY and not downloads_log,
     )
     # La cartella android/ è esclusa dal deploy, quindi l'APK pubblicato
     # è quello in data/app/; il secondo percorso vale in locale, dove si
@@ -118,6 +126,14 @@ def create_app(output_dir: Optional[Path] = None,
                   "danger")
             return True
         return False
+
+    @app.route("/healthz")
+    def healthz():
+        """Health check per Coolify/Docker: l'app risponde e vede i dati."""
+        giorni = len(repository.available_days())
+        status = 200 if giorni else 503
+        return {"ok": giorni > 0, "giornate": giorni,
+                "versione": values.get("version", "1.0")}, status
 
     @app.context_processor
     def inject_globals():

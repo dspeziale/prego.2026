@@ -82,6 +82,9 @@ def test_webapp() -> None:
     for url in routes_ok:
         check(client.get(url).status_code == 200, f"GET {url}")
     check(client.get("/").status_code == 302, "GET / redirect")
+    salute = client.get("/healthz")
+    check(salute.status_code == 200 and salute.get_json()["ok"]
+          and salute.get_json()["giornate"] > 0, "GET /healthz (Coolify/Docker)")
     check(client.get("/giorno/1999-01-01").status_code == 404,
           "giorno inesistente -> 404")
     check(client.get("/proprio/nuovo").status_code == 302,

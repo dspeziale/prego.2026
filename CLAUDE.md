@@ -52,9 +52,26 @@ python scripts/collect_santi.py --solo-mancanti
 # Build APK Android (serve JDK 17)
 cd android && ./gradlew assembleDebug   # gradlew.bat su Windows
 
-# Deploy in produzione (dalla radice del progetto)
+# Deploy in produzione su Vercel (dalla radice del progetto)
 vercel deploy --prod --yes --scope danieles-projects-f241dba0
+
+# Container (Coolify o Docker): stessa immagine, gunicorn su :8000
+docker compose up --build            # http://localhost:8000
 ```
+
+### Deploy su Coolify
+
+`Dockerfile` + `docker-compose.yml` + `wsgi.py`; entry point gunicorn
+`wsgi:app`. In Coolify: nuova risorsa dal repository GitHub, build pack
+**Dockerfile** (o Docker Compose per avere già volume e health check),
+porta **8000**, health check `GET /healthz` (503 finché non vede giornate).
+Variabili d'ambiente: `SECRET_KEY` (obbligatoria), `BLOB_READ_WRITE_TOKEN`
+(ping dell'app), `YOUTUBE_API_KEY` (facoltativa), `PREGO_DOWNLOADS_LOG=/app/var/downloads.jsonl`
+con storage persistente su `/app/var`. `LC_READ_ONLY=1` è già nell'immagine:
+i dati viaggiano nell'immagine e si aggiornano con raccolta locale → push →
+redeploy (webhook di Coolify), come su Vercel. L'app Android punta a
+`prego.vercel.app` (`SyncManager.REMOTE_HOST`): se il dominio di
+produzione cambia, va aggiornato lì e in `apk_fallback_url`.
 
 `tests/run_tests.py` è un unico script: non usa pytest e non accetta il
 nome di un singolo test da riga di comando. Per isolarne uno, chiama la
@@ -151,9 +168,10 @@ mese è: Raccolta → deploy → apri l'app → ⟳.
 
 ## Note per l'esercizio
 
-- `webapp/app.py` usa una **secret key fissa nel codice** e il repository
-  GitHub è pubblico: chi legge il repo può forgiare una sessione admin.
-  Va spostata su variabile d'ambiente (`SECRET_KEY`) prima dell'esercizio.
+- La chiave di sessione viene da `SECRET_KEY`; senza variabile resta la
+  chiave fissa di sviluppo, nota perché il repository è pubblico: in
+  produzione (Vercel e Coolify) `SECRET_KEY` va impostata, altrimenti
+  chiunque può forgiare una sessione admin.
 - Le form POST non hanno protezione CSRF.
 - `data/downloads.jsonl` è stato di runtime, non versionato (`.gitignore`).
 - La pagina Omelia richiede `YOUTUBE_API_KEY` (env) o `youtube_api_key`
