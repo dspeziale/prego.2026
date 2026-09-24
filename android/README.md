@@ -1,6 +1,6 @@
 # Prego — app Android
 
-Il sito **Prego** ([prego.vercel.app](https://prego.vercel.app)) come
+Il sito **Prego** ([prego.dsc-italy.app](https://prego.dsc-italy.app)) come
 applicazione Android nativa, con tutti i dati scaricati localmente sullo
 smartphone: una volta sincronizzata, **funziona completamente senza rete**.
 
@@ -9,7 +9,7 @@ smartphone: una volta sincronizzata, **funziona completamente senza rete**.
 - L'app è una WebView Kotlin che naviga sull'host locale fittizio
   `prego.local`: ogni richiesta viene intercettata e servita dalla
   memoria del telefono, mai dalla rete.
-- La **sincronizzazione** (`SyncManager`) scarica da `prego.vercel.app`:
+- La **sincronizzazione** (`SyncManager`) scarica da `prego.dsc-italy.app`:
   - l'elenco delle giornate disponibili (`/api/giorni`);
   - la pagina completa di ogni giornata (`/giorno/<data>`), con dentro
     Messa, Ufficio, Lodi, Ora media, Vespri, Compieta, scheda Giorno,

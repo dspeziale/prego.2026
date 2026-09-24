@@ -27,7 +27,7 @@ import androidx.appcompat.app.AppCompatActivity
  * Prego per Android: il sito, reso disponibile offline.
  *
  * La WebView naviga sull'host locale [LocalRouter.LOCAL_HOST]; le pagine
- * arrivano dalla memoria dell'app (sincronizzate da prego.vercel.app) e
+ * arrivano dalla memoria dell'app (sincronizzate da prego.dsc-italy.app) e
  * le librerie CSS/JS dagli asset dell'APK.
  *
  * Nulla viene scaricato di propria iniziativa: la sincronizzazione parte

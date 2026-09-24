@@ -32,7 +32,7 @@ class SyncManager(private val context: Context) {
     }
 
     companion object {
-        const val REMOTE_HOST = "prego.vercel.app"
+        const val REMOTE_HOST = "prego.dsc-italy.app"
         const val REMOTE = "https://$REMOTE_HOST"
         private const val THREADS = 4
         private const val RECENT_DAYS = 7L

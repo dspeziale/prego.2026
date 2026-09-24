@@ -14,7 +14,7 @@ di dati in mezzo, non un'unica applicazione:
 2. **Webapp** (`webapp/`) — interfaccia Flask che legge `data/` in sola
    lettura. Nessun database: la sorgente di verità sono i file JSON/TXT.
 3. **App Android** (`android/`) — WebView Kotlin che sincronizza le pagine
-   già composte dalla webapp su `prego.vercel.app` e le serve offline.
+   già composte dalla webapp su `prego.dsc-italy.app` (Coolify) e le serve offline.
 
 ## Comandi
 
@@ -70,7 +70,7 @@ Variabili d'ambiente: `SECRET_KEY` (obbligatoria), `BLOB_READ_WRITE_TOKEN`
 con storage persistente su `/app/var`. `LC_READ_ONLY=1` è già nell'immagine:
 i dati viaggiano nell'immagine e si aggiornano con raccolta locale → push →
 redeploy (webhook di Coolify), come su Vercel. L'app Android punta a
-`prego.vercel.app` (`SyncManager.REMOTE_HOST`): se il dominio di
+`prego.dsc-italy.app` (`SyncManager.REMOTE_HOST`): se il dominio di
 produzione cambia, va aggiornato lì e in `apk_fallback_url`.
 
 `tests/run_tests.py` è un unico script: non usa pytest e non accetta il
@@ -177,4 +177,4 @@ mese è: Raccolta → deploy → apri l'app → ⟳.
 - La pagina Omelia richiede `YOUTUBE_API_KEY` (env) o `youtube_api_key`
   in `config.json`; senza chiave mostra un avviso e il resto funziona.
 - `config.json` `version`, `versionName` in `android/app/build.gradle.kts`
-  e il footer della webapp vanno tenuti allineati (oggi 2.14).
+  e il footer della webapp vanno tenuti allineati (oggi 2.15).

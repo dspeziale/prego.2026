@@ -370,7 +370,7 @@ check `GET /healthz`. Variabili d'ambiente:
 Con il webhook di Coolify ogni push su `main` rifà l'immagine e la mette
 in linea. In locale: `docker compose up --build` → http://localhost:8000.
 
-> L'app Android sincronizza da `prego.vercel.app`
+> L'app Android sincronizza da `prego.dsc-italy.app`
 > (`android/.../SyncManager.kt`, `REMOTE_HOST`): se la produzione si
 > sposta su un altro dominio, va aggiornato lì e in `apk_fallback_url`
 > di `config.json`, poi ricompilato l'APK.

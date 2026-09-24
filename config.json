@@ -8,7 +8,7 @@
     "proprio_output": "data/proprio",
     "biennale_output": "data/biennale",
     "santi_output": "data/santi",
-    "version": "2.14",
-    "version_code": 10,
+    "version": "2.15",
+    "version_code": 11,
     "apk_fallback_url": "https://github.com/dspeziale/prego.2026/raw/main/data/app/Prego.apk"
 }

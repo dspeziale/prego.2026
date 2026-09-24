@@ -1,5 +1,5 @@
 
-1. Prima i dati nuovi devono arrivare sul sito (l'app si sincronizza da prego.vercel.app):
+1. Prima i dati nuovi devono arrivare sul sito (l'app si sincronizza da prego.dsc-italy.app):
 
 raccogli le giornate nuove in locale: menu Raccolta della webapp oppure python main.py 2026-12-01..2026-12-31 (Vercel è in sola lettura, la raccolta si fa solo in locale);
 pubblica: vercel deploy --prod --yes --scope danieles-projects-f241dba0 dalla cartella del progetto. I nuovi JSON in data/json partono col deploy e il sito li mostra subito.

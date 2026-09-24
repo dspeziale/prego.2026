@@ -162,7 +162,7 @@ def create_app(output_dir: Optional[Path] = None,
         Le pagine che l'app sincronizza arrivano con User-Agent
         PregoAndroid/<versione>: se è inferiore a quella pubblicata il
         template mostra l'avviso di aggiornamento. Fino alla 2.10 l'app
-        riportava i link a prego.vercel.app sulle pagine locali, quindi
+        riportava i link al sito (prego.vercel.app, oggi prego.dsc-italy.app) sulle pagine locali, quindi
         per quelle versioni il download passa da un host diverso
         (apk_fallback_url, di norma il file su GitHub), che l'app apre
         nel browser del telefono.
