@@ -16,7 +16,9 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
     PIP_NO_CACHE_DIR=1 \
     PORT=8000 \
     LC_READ_ONLY=1 \
-    WEB_CONCURRENCY=2
+    WEB_CONCURRENCY=2 \
+    PREGO_PINGS_DIR=/app/var/pings \
+    PREGO_DOWNLOADS_LOG=/app/var/downloads.jsonl
 
 WORKDIR /app
 
