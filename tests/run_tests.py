@@ -85,6 +85,8 @@ def test_webapp() -> None:
     salute = client.get("/healthz")
     check(salute.status_code == 200 and salute.get_json()["ok"]
           and salute.get_json()["giornate"] > 0, "GET /healthz (Coolify/Docker)")
+    check("archivio" in salute.get_json().get("ping", {}),
+          "/healthz riporta lo stato dell'archivio dei ping")
     check(client.get("/giorno/1999-01-01").status_code == 404,
           "giorno inesistente -> 404")
     check(client.get("/proprio/nuovo").status_code == 302,

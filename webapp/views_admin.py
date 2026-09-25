@@ -44,17 +44,23 @@ def register(app, download_store, apk_paths, repository, proprio_store,
         ping = clean_ping(request.get_json(silent=True))
         if ping is None:
             abort(400)
+        registrato, errore = False, None
         if ping_store is not None:
             try:
-                ping_store.record(ping)
+                registrato = ping_store.record(ping)
             except PingError as exc:
                 # il ping non deve mai fallire per l'app: si annota e basta
                 logger.warning("Ping non registrato: %s", exc)
-        return {
+                errore = str(exc)
+        risposta = {
             "versione": version,
             "versionCode": version_code,
             "url": url_for("app_download", _external=True),
+            "registrato": registrato,
         }
+        if errore:
+            risposta["errore"] = errore
+        return risposta
 
     @app.route("/admin/utenti")
     @login_required

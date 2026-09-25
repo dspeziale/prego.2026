@@ -138,7 +138,8 @@ def create_app(output_dir: Optional[Path] = None,
         giorni = len(repository.available_days())
         status = 200 if giorni else 503
         return {"ok": giorni > 0, "giornate": giorni,
-                "versione": values.get("version", "1.0")}, status
+                "versione": values.get("version", "1.0"),
+                "ping": ping_store.diagnostica()}, status
 
     @app.context_processor
     def inject_globals():

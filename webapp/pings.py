@@ -213,6 +213,29 @@ class PingStore:
     def descrizione(self) -> str:
         return self._backend.describe() if self._backend else "nessun archivio"
 
+    def diagnostica(self) -> Dict[str, Any]:
+        """Stato dell'archivio per /healthz: configurato? scrivibile?"""
+        info: Dict[str, Any] = {"archivio": self.descrizione, "attivo": self.enabled}
+        if isinstance(self._backend, FileBackend):
+            root = self._backend._root
+            info["cartella"] = str(root)
+            try:
+                root.mkdir(parents=True, exist_ok=True)
+                probe = root / ".scrivibile"
+                probe.write_text("ok", encoding="utf-8")
+                probe.unlink()
+                info["scrivibile"] = True
+            except OSError as exc:
+                info["scrivibile"] = False
+                info["errore"] = str(exc)
+            try:
+                info["installazioni"] = sum(
+                    1 for p in (root / "installazioni").iterdir() if p.is_dir()
+                ) if (root / "installazioni").is_dir() else 0
+            except OSError:
+                pass
+        return info
+
     def record(self, ping: Dict[str, Any], now: Optional[datetime] = None) -> bool:
         """Registra un avvio; False se non c'è archivio (solo log)."""
         now = now or datetime.now(timezone.utc)
