@@ -234,6 +234,9 @@ class PingStore:
                 ) if (root / "installazioni").is_dir() else 0
             except OSError:
                 pass
+            # la cartella (o un suo antenato) è un volume montato? Altrimenti
+            # l'archivio sparisce a ogni ricostruzione del container
+            info["persistente"] = _is_mounted(root)
         return info
 
     def record(self, ping: Dict[str, Any], now: Optional[datetime] = None) -> bool:
@@ -307,6 +310,25 @@ class PingStore:
             "recenti": recent,
             "ultimo": max((item["ultimo"] for item in latest.values() if item["ultimo"]), default=None),
         }
+
+
+def _is_mounted(path: Path) -> Optional[bool]:
+    """True se path o un suo antenato è un punto di mount (Linux, /proc/mounts).
+
+    None dove /proc/mounts non esiste (Windows, macOS): non si sa.
+    """
+    try:
+        mounts = Path("/proc/mounts").read_text(encoding="utf-8", errors="replace")
+    except OSError:
+        return None
+    mounted = {line.split()[1] for line in mounts.splitlines() if len(line.split()) > 1}
+    candidate = Path(str(path)).resolve()
+    while True:
+        if str(candidate) in mounted and str(candidate) != "/":
+            return True
+        if candidate.parent == candidate:
+            return False
+        candidate = candidate.parent
 
 
 def _parse_time(value: Optional[str]) -> Optional[datetime]:
