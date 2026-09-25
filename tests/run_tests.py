@@ -260,6 +260,30 @@ def test_amministrazione() -> None:
           "POST /api/ping non valido -> 400")
     check(client.get("/api/ping").status_code == 405, "GET /api/ping -> 405")
 
+    # archivio dei ping su cartella (PREGO_PINGS_DIR, il volume su Coolify)
+    import shutil
+    from pings import FileBackend, PingStore
+    cartella = Path(__file__).resolve().parent / "_pings_di_prova"
+    shutil.rmtree(cartella, ignore_errors=True)
+    archivio = PingStore(FileBackend(cartella))
+    check(archivio.enabled and "cartella" in archivio.descrizione, "archivio su cartella attivo")
+    check(archivio.record(valido), "ping registrato su cartella")
+    secondo = clean_ping({**valido, "id": "0b6c4b1e-9d0d-4f1e-8a2b-0123456789ac", "versione": "2.11"})
+    archivio.record(secondo)
+    archivio.record(valido)  # secondo avvio della stessa installazione
+    stats = archivio.stats()
+    check(stats["installazioni"] == 2 and stats["attivi_oggi"] == 2
+          and stats["avvii_oggi"] == 3 and stats["per_giorno"][0]["utenti"] == 2,
+          "statistiche: 2 installazioni, 3 avvii oggi")
+    check(dict(stats["versioni"]) == {"2.12": 1, "2.11": 1}
+          and len(stats["recenti"]) == 3 and stats["recenti"][0]["modello"] == "Pixel 8",
+          "versioni installate e ultimi avvii")
+    check(sorted(p.name for p in (cartella / "installazioni").iterdir()) == sorted([valido["id"], secondo["id"]]),
+          "un file per installazione")
+    shutil.rmtree(cartella, ignore_errors=True)
+    check(PingStore().enabled is False and PingStore().record(valido) is False,
+          "senza archivio: ping solo nel log")
+
 
 def test_biennale_data() -> None:
     """Ferie a data fissa: il Biennale si trova per giorno del mese."""

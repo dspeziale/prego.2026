@@ -27,7 +27,7 @@ import views_proprio
 import views_raccolta
 from biennale import BiennaleStore
 from downloads import DownloadStore
-from pings import PingStore
+from pings import BlobBackend, FileBackend, PingStore
 from proprio import ProprioStore
 from repository import MONTHS_IT, WEEKDAYS_SHORT_IT, LiturgiaRepository
 from runner import CollectorRunner
@@ -195,12 +195,18 @@ def create_app(output_dir: Optional[Path] = None,
                             reject_if_read_only)
     views_raccolta.register(app, collector_runner, login_required,
                             reject_if_read_only)
-    # Ping di avvio dell'app: su Vercel Blob (privato). Il token arriva
-    # dall'ambiente; in locale lo si prende da .env.local (vercel env pull).
-    ping_store = PingStore(
-        os.environ.get("BLOB_READ_WRITE_TOKEN")
-        or _dotenv_value(PROJECT_ROOT / ".env.local", "BLOB_READ_WRITE_TOKEN")
-    )
+    # Ping di avvio dell'app: su una cartella persistente (PREGO_PINGS_DIR,
+    # es. il volume /app/var/pings su Coolify) oppure su Vercel Blob
+    # (BLOB_READ_WRITE_TOKEN); senza nulla i ping vanno solo nel log.
+    pings_dir = os.environ.get("PREGO_PINGS_DIR")
+    blob_token = (os.environ.get("BLOB_READ_WRITE_TOKEN")
+                  or _dotenv_value(PROJECT_ROOT / ".env.local", "BLOB_READ_WRITE_TOKEN"))
+    if pings_dir:
+        ping_store = PingStore(FileBackend(Path(pings_dir)))
+    elif blob_token:
+        ping_store = PingStore(BlobBackend(blob_token))
+    else:
+        ping_store = PingStore()
     views_admin.register(app, download_store, apk_paths, repository,
                          proprio_store, biennale_store, user_store,
                          login_required, values.get("version", "1.0"),

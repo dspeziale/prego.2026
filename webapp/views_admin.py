@@ -68,7 +68,8 @@ def register(app, download_store, apk_paths, repository, proprio_store,
             except PingError as exc:
                 errore = str(exc)
         return render_template("admin_utenti.html", attivo=attivo,
-                               stats=stats, errore=errore)
+                               stats=stats, errore=errore,
+                               archivio=ping_store.descrizione if ping_store else "")
 
     def apk_file():
         """Primo APK disponibile tra i percorsi noti, o None."""

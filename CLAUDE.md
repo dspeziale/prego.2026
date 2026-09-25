@@ -150,13 +150,14 @@ chiave `lc-*`, attributo su `<html>`, regole CSS.
 
 A ogni apertura l'app Android manda `POST /api/ping` (`LaunchPing.kt`):
 id casuale dell'installazione, versione, Android, modello, lingua. Il
-server (`webapp/pings.py`) li scrive in un **Vercel Blob privato**
-(store `prego-pings`, token `BLOB_READ_WRITE_TOKEN` collegato al progetto;
-in locale `vercel env pull .env.local`) e risponde con la versione
+server (`webapp/pings.py`) li archivia con lo schema
+`installazioni/<id>/<versione>.json` + `avvii/<giorno>/<id>-<ora>.json`
+su uno di due archivi intercambiabili: **cartella persistente**
+(`PREGO_PINGS_DIR`, su Coolify il volume `/app/var/pings`, quello in uso)
+oppure **Vercel Blob** (`BLOB_READ_WRITE_TOKEN`). Risponde con la versione
 pubblicata, così l'app propone l'aggiornamento. La pagina `/admin/utenti`
-conta installazioni e utenti attivi dai soli elenchi dei file
-(`installazioni/<id>/<versione>.json`, `avvii/<giorno>/…`). Senza token lo
-store è disattivato e i ping vanno nel log.
+conta installazioni e utenti attivi dai soli elenchi dei file. Senza
+archivio i ping vanno nel log.
 
 ### Flusso di aggiornamento in produzione
 

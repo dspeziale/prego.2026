@@ -363,7 +363,8 @@ check `GET /healthz`. Variabili d'ambiente:
 | Variabile | Obbligatoria | Uso |
 |---|---|---|
 | `SECRET_KEY` | sì | firma dei cookie di sessione (login) |
-| `BLOB_READ_WRITE_TOKEN` | no | ping dell'app Android su Vercel Blob (`/admin/utenti`) |
+| `PREGO_PINGS_DIR` | no | es. `/app/var/pings`: archivio dei ping dell'app Android (`/admin/utenti`) sul volume persistente |
+| `BLOB_READ_WRITE_TOKEN` | no | alternativa a `PREGO_PINGS_DIR`: ping su un Vercel Blob |
 | `YOUTUBE_API_KEY` | no | pagina Omelia |
 | `PREGO_DOWNLOADS_LOG` | no | es. `/app/var/downloads.jsonl` con storage persistente su `/app/var` |
 

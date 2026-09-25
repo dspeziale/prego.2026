@@ -18,10 +18,11 @@
 {% elif not attivo %}
 <div class="alert alert-warning">
     <h5><i class="fas fa-triangle-exclamation"></i> Archivio non configurato</h5>
-    Manca la variabile d'ambiente <code>BLOB_READ_WRITE_TOKEN</code>: i ping
-    degli avvii finiscono solo nel log del server e qui non c'è nulla da
-    contare. Su Vercel il token è collegato automaticamente allo store
-    <em>prego-pings</em>; in locale si ottiene con <code>vercel env pull</code>.
+    I ping degli avvii finiscono solo nel log del server e qui non c'è nulla
+    da contare. Serve una delle due variabili d'ambiente:
+    <code>PREGO_PINGS_DIR</code> (una cartella persistente, su Coolify il
+    volume <code>/app/var/pings</code>) oppure <code>BLOB_READ_WRITE_TOKEN</code>
+    (un Vercel Blob).
 </div>
 {% else %}
 
@@ -29,6 +30,7 @@
     Ogni apertura dell'app Android manda un ping anonimo (identificativo
     casuale dell'installazione, versione, Android, modello, lingua).
     Un <strong>utente</strong> è un'installazione distinta.
+    <span class="d-block small">Archivio: {{ archivio }}</span>
 </p>
 
 <div class="row">
