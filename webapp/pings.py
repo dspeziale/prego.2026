@@ -223,8 +223,10 @@ class PingStore:
         body = json.dumps(entry, ensure_ascii=False).encode("utf-8")
         version_slug = ping["versione"].replace(".", "_")
         self._backend.put(f"installazioni/{ping['id']}/{version_slug}.json", body)
+        # ora con i microsecondi: due avvii nello stesso secondo non si
+        # sovrascrivono
         self._backend.put(
-            f"avvii/{now.strftime('%Y-%m-%d')}/{ping['id']}-{now.strftime('%H%M%S')}.json", body
+            f"avvii/{now.strftime('%Y-%m-%d')}/{ping['id']}-{now.strftime('%H%M%S%f')}.json", body
         )
         return True
 
