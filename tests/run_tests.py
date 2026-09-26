@@ -282,6 +282,20 @@ def test_amministrazione() -> None:
           "versioni installate e ultimi avvii")
     check(sorted(p.name for p in (cartella / "installazioni").iterdir()) == sorted([valido["id"], secondo["id"]]),
           "un file per installazione")
+    # nome ed email: inseriti dall'utente, o il nome del telefono
+    con_nome = clean_ping({**valido, "nome": "Mario Rossi", "nome_fonte": "utente",
+                           "email": "mario.rossi@example.it"})
+    check(con_nome["nome"] == "Mario Rossi" and con_nome["email"] == "mario.rossi@example.it"
+          and con_nome["nome_fonte"] == "utente", "ping con nome ed email")
+    check(clean_ping({**valido, "email": "non-una-mail"})["email"] == ""
+          and clean_ping({**valido, "nome_fonte": "boh"})["nome_fonte"] == "",
+          "email non valida e origine sconosciuta scartate")
+    archivio.record(con_nome)
+    utenti = {u["id"]: u for u in archivio.stats()["utenti"]}
+    check(utenti[valido["id"]]["nome"] == "Mario Rossi"
+          and utenti[valido["id"]]["email"] == "mario.rossi@example.it"
+          and utenti[secondo["id"]]["nome"] == "" and len(utenti) == 2,
+          "elenco utenti con l'ultimo nome ed email di ogni installazione")
     shutil.rmtree(cartella, ignore_errors=True)
     check(PingStore().enabled is False and PingStore().record(valido) is False,
           "senza archivio: ping solo nel log")

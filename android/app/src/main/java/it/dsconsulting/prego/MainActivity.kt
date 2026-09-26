@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
         // ping anonimo di avvio (statistiche d'uso) e, se il sito ha una
         // versione più nuova, proposta di aggiornamento
         if (savedInstanceState == null && isOnline()) {
-            LaunchPing.send(this) { versione, url ->
+            LaunchPing.send(this, deviceUserNameWithSource()) { versione, url ->
                 runOnUiThread { offerUpdate(versione, url) }
             }
         }
@@ -243,28 +243,33 @@ class MainActivity : AppCompatActivity() {
      * il nome del dispositivo impostato dall'utente, altrimenti il
      * modello del telefono.
      */
-    private fun deviceUserName(): String {
+    private fun deviceUserName(): String = deviceUserNameWithSource().first
+
+    /** Nome del telefono e da dove viene: "profilo" (utente Android) o "dispositivo". */
+    private fun deviceUserNameWithSource(): Pair<String, String> {
         if (Build.VERSION.SDK_INT >= 34) {
             runCatching {
                 val manager =
                     getSystemService(Context.USER_SERVICE) as UserManager
                 val name = manager.userName?.trim().orEmpty()
-                if (name.isNotEmpty()) return name
+                if (name.isNotEmpty()) return name to "profilo"
             }
         }
         runCatching {
             val device = Settings.Global.getString(
                 contentResolver, Settings.Global.DEVICE_NAME
             )?.trim().orEmpty()
-            if (device.isNotEmpty()) return device
+            if (device.isNotEmpty()) return device to "dispositivo"
         }
-        return Build.MODEL
+        return Build.MODEL to "dispositivo"
     }
 
     /** Mostra il nome dell'utente in cima al menu laterale. */
     private fun injectUserName(view: WebView, url: String) {
         if (android.net.Uri.parse(url).host != LocalRouter.LOCAL_HOST) return
-        val name = org.json.JSONObject.quote(deviceUserName())
+        val saved = getSharedPreferences("prego", MODE_PRIVATE)
+            .getString(LaunchPing.KEY_NOME, "")?.trim().orEmpty()
+        val name = org.json.JSONObject.quote(saved.ifEmpty { deviceUserName() })
         view.evaluateJavascript(
             """
             (function () {
@@ -294,6 +299,29 @@ class MainActivity : AppCompatActivity() {
         @JavascriptInterface
         fun syncTutto() {
             runOnUiThread { startSync(force = true) }
+        }
+
+        /** Nome ed email salvati, per precompilare Impostazioni (JSON). */
+        @JavascriptInterface
+        fun getUtente(): String {
+            val prefs = getSharedPreferences("prego", MODE_PRIVATE)
+            return org.json.JSONObject()
+                .put("nome", prefs.getString(LaunchPing.KEY_NOME, ""))
+                .put("email", prefs.getString(LaunchPing.KEY_EMAIL, ""))
+                .put("nome_telefono", deviceUserName())
+                .toString()
+        }
+
+        /** Salva nome ed email da Impostazioni e li invia subito al sito. */
+        @JavascriptInterface
+        fun setUtente(nome: String?, email: String?) {
+            getSharedPreferences("prego", MODE_PRIVATE).edit()
+                .putString(LaunchPing.KEY_NOME, nome?.trim().orEmpty().take(64))
+                .putString(LaunchPing.KEY_EMAIL, email?.trim().orEmpty().take(120))
+                .apply()
+            if (isOnline()) {
+                LaunchPing.send(this@MainActivity, deviceUserNameWithSource(), countLaunch = false)
+            }
         }
     }
 }

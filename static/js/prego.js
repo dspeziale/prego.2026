@@ -277,6 +277,34 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
+/* Impostazioni > Chi sei: nome ed email dell'utente, salvati nell'app
+   Android (ponte window.PregoApp) e inviati con il ping di avvio. Fuori
+   dall'app (browser) la sezione resta nascosta. */
+document.addEventListener("DOMContentLoaded", function () {
+    var card = document.getElementById("utenteCard");
+    var app = window.PregoApp;
+    if (!card || !app || !app.getUtente || !app.setUtente) { return; }
+    var nome = document.getElementById("utenteNome");
+    var email = document.getElementById("utenteEmail");
+    try {
+        var dati = JSON.parse(app.getUtente());
+        nome.value = dati.nome || "";
+        email.value = dati.email || "";
+        document.getElementById("utenteTelefono").textContent = dati.nome_telefono || "—";
+    } catch (e) { /* app vecchia o dati illeggibili */ }
+    card.hidden = false;
+    document.getElementById("utenteSalva").addEventListener("click", function () {
+        var mail = email.value.trim();
+        if (mail && !/^[^@\s]+@[^@\s]+\.[^@\s]{2,}$/.test(mail)) {
+            if (window.notifier) { notifier.alert("L'indirizzo email non sembra valido."); }
+            email.focus();
+            return;
+        }
+        app.setUtente(nome.value.trim(), mail);
+        if (window.notifier) { notifier.success("Salvato."); }
+    });
+});
+
 /* salti alle sezioni della scheda Giorno (pagina giorno) */
 document.addEventListener("DOMContentLoaded", function () {
     var TARGETS = {

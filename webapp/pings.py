@@ -39,7 +39,9 @@ TIMEOUT = 8
 
 _RE_ID = re.compile(r"^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$")
 _RE_VERSION = re.compile(r"^\d{1,3}(\.\d{1,3}){0,3}$")
+_RE_EMAIL = re.compile(r"^[^@\s]{1,64}@[^@\s]+\.[^@\s]{2,}$")
 MAX_FIELD = 64
+MAX_UTENTI = 300
 RECENT_DAYS = 14
 RECENT_PINGS = 20
 
@@ -67,6 +69,10 @@ def clean_ping(payload: Any) -> Optional[Dict[str, Any]]:
         except (TypeError, ValueError):
             return 0
 
+    email = str(payload.get("email") or "").strip()[:120]
+    if not _RE_EMAIL.match(email):
+        email = ""
+    nome_fonte = text("nome_fonte")
     return {
         "id": install_id,
         "versione": version,
@@ -76,6 +82,11 @@ def clean_ping(payload: Any) -> Optional[Dict[str, Any]]:
         "modello": text("modello"),
         "lingua": text("lingua")[:16],
         "avvii": number("avvii"),
+        # nome: inserito dall'utente in Impostazioni oppure quello del
+        # profilo/telefono; email solo se inserita dall'utente
+        "nome": text("nome"),
+        "nome_fonte": nome_fonte if nome_fonte in ("utente", "profilo", "dispositivo") else "",
+        "email": email,
     }
 
 
@@ -271,7 +282,30 @@ class PingStore:
             seen = _parse_time(entry.get("uploadedAt"))
             current = latest.get(install_id)
             if current is None or (seen and (current["ultimo"] is None or seen > current["ultimo"])):
-                latest[install_id] = {"ultimo": seen, "versione": version}
+                latest[install_id] = {"ultimo": seen, "versione": version, "url": entry["url"]}
+
+        # elenco degli utenti: ultimo stato di ogni installazione (nome,
+        # email, dispositivo), dal più recente
+        utenti: List[Dict[str, Any]] = []
+        ordered = sorted(latest.items(), key=lambda kv: kv[1]["ultimo"] or datetime.min.replace(tzinfo=timezone.utc),
+                         reverse=True)[:MAX_UTENTI]
+        for install_id, item in ordered:
+            try:
+                data = self._backend.get_json(item["url"])
+            except PingError as exc:
+                logger.warning("Installazione non leggibile %s: %s", install_id, exc)
+                data = {}
+            utenti.append({
+                "id": install_id,
+                "nome": data.get("nome") or "",
+                "nome_fonte": data.get("nome_fonte") or "",
+                "email": data.get("email") or "",
+                "modello": data.get("modello") or "",
+                "android": data.get("android") or "",
+                "versione": item["versione"],
+                "avvii": data.get("avvii") or 0,
+                "ultimo": item["ultimo"],
+            })
 
         def active_since(days: int) -> int:
             limit = datetime.combine(today - timedelta(days=days - 1), datetime.min.time(), timezone.utc)
@@ -308,6 +342,7 @@ class PingStore:
             "versioni": Counter(item["versione"] for item in latest.values()).most_common(),
             "android": Counter(p.get("android") or "?" for p in recent).most_common(),
             "recenti": recent,
+            "utenti": utenti,
             "ultimo": max((item["ultimo"] for item in latest.values() if item["ultimo"]), default=None),
         }
 

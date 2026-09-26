@@ -54,6 +54,34 @@
             </div>
         </div>
 
+        {# solo nell'app Android: nome ed email inviati con il ping di avvio #}
+        <div class="card card-outline card-primary" id="utenteCard" hidden>
+            <div class="card-header">
+                <h3 class="card-title section-title text-primary">Chi sei (facoltativo)</h3>
+            </div>
+            <div class="card-body">
+                <p class="text-muted small">
+                    A ogni apertura l'app comunica al sito, per contare chi la
+                    usa, il nome qui sotto (se vuoto, quello del telefono:
+                    <strong id="utenteTelefono"></strong>) e, se la inserisci,
+                    la tua email. Non vengono usati per altro.
+                </p>
+                <div class="form-group">
+                    <label for="utenteNome">Nome</label>
+                    <input type="text" id="utenteNome" class="form-control" maxlength="64"
+                           autocomplete="name" placeholder="Nome e cognome">
+                </div>
+                <div class="form-group">
+                    <label for="utenteEmail">Email</label>
+                    <input type="email" id="utenteEmail" class="form-control" maxlength="120"
+                           autocomplete="email" placeholder="nome@esempio.it">
+                </div>
+                <button type="button" class="btn btn-primary" id="utenteSalva">
+                    <i class="fas fa-check"></i> Salva
+                </button>
+            </div>
+        </div>
+
         <div class="card card-outline card-primary">
             <div class="card-header">
                 <h3 class="card-title section-title text-primary">Aspetto</h3>

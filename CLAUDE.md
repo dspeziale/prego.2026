@@ -149,7 +149,8 @@ chiave `lc-*`, attributo su `<html>`, regole CSS.
 ### Ping di avvio dell'app e statistiche d'uso
 
 A ogni apertura l'app Android manda `POST /api/ping` (`LaunchPing.kt`):
-id casuale dell'installazione, versione, Android, modello, lingua. Il
+id casuale dell'installazione, versione, Android, modello, lingua, nome
+(inserito in Impostazioni o quello del telefono) ed email se inserita. Il
 server (`webapp/pings.py`) li archivia con lo schema
 `installazioni/<id>/<versione>.json` + `avvii/<giorno>/<id>-<ora>.json`
 su uno di due archivi intercambiabili: **cartella persistente**
@@ -178,4 +179,4 @@ mese è: Raccolta → deploy → apri l'app → ⟳.
 - La pagina Omelia richiede `YOUTUBE_API_KEY` (env) o `youtube_api_key`
   in `config.json`; senza chiave mostra un avviso e il resto funziona.
 - `config.json` `version`, `versionName` in `android/app/build.gradle.kts`
-  e il footer della webapp vanno tenuti allineati (oggi 2.15).
+  e il footer della webapp vanno tenuti allineati (oggi 2.16).
